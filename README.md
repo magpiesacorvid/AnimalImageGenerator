@@ -5,11 +5,11 @@ I can't figure out the buttons, so now a new animal generates every 10 minutes..
 <!-- START_ANIMAL -->
 
 ## 🐾 Random Animal
-### Aardvark (Orycteropus afer)
-![Aardvark (Orycteropus afer)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Orycteropus_afer_175359469.jpg/1280px-Orycteropus_afer_175359469.jpg)
+### Aardwolf (Proteles cristata septentrionalis)
+![Aardwolf (Proteles cristata septentrionalis)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Aardwolf%2C_Buffalo_Springs_National_Park%2C_Kenya_1_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 ---
 <!-- START_TIMER -->
-**Last updated:** 2026-07-03 19:05:18 UTC
-**Next update:** ~2026-07-03 19:15:18 UTC (every 10 min, best-effort)
+**Last updated:** 2026-07-03 19:05:56 UTC
+**Next update:** ~2026-07-03 19:15:56 UTC (every 10 min, best-effort)
 <!-- END_TIMER -->
