@@ -1,11 +1,11 @@
 name: Random Animal
 
 on:
-  push:
-    paths:
-      - animals.json
+  schedule:
+    - cron: "*/5 * * * *"   # every 5 minutes (fastest allowed reliably)
 
-  workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -13,6 +13,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -21,7 +23,7 @@ jobs:
       - name: Generate animal
         run: python generate_animal.py
 
-      - name: Inject into README
+      - name: Update README
         run: |
           awk '/<!-- START_ANIMAL -->/{print;system("cat ANIMAL.md");skip=1;next}/<!-- END_ANIMAL -->/{skip=0} !skip' README.md > tmp.md
           mv tmp.md README.md
