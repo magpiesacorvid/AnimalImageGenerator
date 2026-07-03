@@ -1,20 +1,5 @@
 name: Random Animal
 
-oon:
-  push:
-    paths:
-      - animals.json
-
-  schedule:
-    - cron: "0 */6 * * *"
-
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-name: Random Animal
-
 on:
   push:
     paths:
@@ -28,6 +13,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -40,10 +26,10 @@ jobs:
           awk '/<!-- START_ANIMAL -->/{print;system("cat ANIMAL.md");skip=1;next}/<!-- END_ANIMAL -->/{skip=0} !skip' README.md > tmp.md
           mv tmp.md README.md
 
-      - name: Commit & push
+      - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add README.md
-          git commit -m "random animal update" || exit 0
+          git commit -m "update animal" || exit 0
           git push
