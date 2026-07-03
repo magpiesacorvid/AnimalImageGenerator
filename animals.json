@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Snow Leopard",
+    "url": "https://example.com/snowleopard.jpg"
+  },
+  {
+    "name": "Red Fox",
+    "url": "https://example.com/redfox.jpg"
+  },
+  {
+    "name": "Axolotl",
+    "url": "https://example.com/axolotl.jpg"
+  },
+  {
+    "name": "Panda",
+    "url": "https://example.com/panda.jpg"
+  }
+]
