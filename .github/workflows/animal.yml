@@ -1,21 +1,21 @@
 name: Random Animal
-
 on:
   workflow_dispatch:
   schedule:
     - cron: "*/10 * * * *"
-
 permissions:
   contents: write
-
+concurrency:
+  group: random-animal
+  cancel-in-progress: false
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
 
       - uses: actions/setup-python@v5
         with:
@@ -24,19 +24,49 @@ jobs:
       - name: Generate animal
         run: python generate_animal.py
 
-      # 🧩 STAGE 4 — inject generated animal into README
-      #  STAGE 4 — inject generated animal into README
-      - name: Inject into README
+      - name: Verify README markers exist
         run: |
-          awk '/<!-- START_ANIMAL -->/{print;system("cat ANIMAL.md");skip=1;next}/<!-- END_ANIMAL -->/{skip=0} !skip' README.md > tmp.md
-          mv tmp.md README.md
+          grep -q "<!-- START_ANIMAL -->" README.md
+          grep -q "<!-- END_ANIMAL -->" README.md
+          grep -q "<!-- START_TIMER -->" README.md
+          grep -q "<!-- END_TIMER -->" README.md
 
-      - name: Commit changes
+      - name: Inject animal + timer into README
+        run: |
+          NOW=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          NEXT=$(date -u -d "+10 minutes" +"%Y-%m-%d %H:%M:%S UTC")
+          {
+            echo "**Last updated:** ${NOW}"
+            echo "**Next update:** ~${NEXT} (every 10 min, best-effort)"
+          } > TIMER.md
+
+          awk '
+            /<!-- START_ANIMAL -->/{print;system("cat ANIMAL.md");skip=1;next}
+            /<!-- END_ANIMAL -->/{skip=0}
+            !skip
+          ' README.md > tmp1.md
+
+          awk '
+            /<!-- START_TIMER -->/{print;system("cat TIMER.md");skip=1;next}
+            /<!-- END_TIMER -->/{skip=0}
+            !skip
+          ' tmp1.md > tmp2.md
+
+          mv tmp2.md README.md
+          rm -f tmp1.md TIMER.md
+
+      - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add README.md
-          git commit -m "update animal" || exit 0
-
-      - name: Push changes
-        run: git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "update animal"
+          for i in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push && break
+            echo "Push failed, retrying ($i)..."
+            sleep 5
+          done
