@@ -10,7 +10,7 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 
 <!-- START_ANIMAL -->
 
-## 🐾 Random Animal
+## here is yuor random animal... be nice to them...
 ### Acrobatic Cavy (Kerodon Acrobata)
 ![Acrobatic Cavy (Kerodon Acrobata)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kerodon-acrobata-asportella.JPG/1280px-Kerodon-acrobata-asportella.JPG)
 <!-- END_ANIMAL -->
