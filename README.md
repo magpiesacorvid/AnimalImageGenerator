@@ -1,6 +1,6 @@
 # AnimalImageGenerator
 It randomly selects a random animal for you to enjoy, yay!!!
 
-## 🐾 Random Animal
+## Random Animal Generator YAY!!!!
 
-[🎲 Generate New Animal](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/animal.yml)
+[Generate a New Animal...](https://github.com/magpiesacorvid/animalimagegenerator/actions/workflows/animal.yml)
