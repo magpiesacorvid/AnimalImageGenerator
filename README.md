@@ -11,7 +11,7 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 
 <!-- START_ANIMAL -->
 
-## 🐾 Random Animal
+## here is your random animal... please be nice to them..!
 ### African pygmy mouse (Mus minutoides)
 ![African pygmy mouse (Mus minutoides)](https://upload.wikimedia.org/wikipedia/commons/6/66/Mus_minutoides00.jpg)
 <!-- END_ANIMAL -->
