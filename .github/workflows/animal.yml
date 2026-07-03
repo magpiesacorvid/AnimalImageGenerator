@@ -24,7 +24,7 @@ jobs:
       - name: Generate animal
         run: python generate_animal.py
 
-      # 🧩 STAGE 4 — inject generated animal into README
+      #  STAGE 4 — inject generated animal into README
       - name: Inject into README
         run: |
           awk '/<!-- START_ANIMAL -->/{print;system("cat ANIMAL.md");skip=1;next}/<!-- END_ANIMAL -->/{skip=0} !skip' README.md > tmp.md
