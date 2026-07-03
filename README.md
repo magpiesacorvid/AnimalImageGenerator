@@ -15,9 +15,9 @@ STEPS!
 
 ## 🐾 Random Animal
 
-### Addax (Addax nasomaculatus)
+### Aardwolf (Proteles cristata septentrionalis)
 
-![Addax (Addax nasomaculatus)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg/1280px-A_big_male_Addax_showing_as_the_power_of_his_horns.jpg)
+![Aardwolf (Proteles cristata septentrionalis)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Aardwolf%2C_Buffalo_Springs_National_Park%2C_Kenya_1_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 ---
