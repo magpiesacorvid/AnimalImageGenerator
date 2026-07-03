@@ -2,6 +2,13 @@
 
 It randomly selects a random animal for you to enjoy, yay!!!
 
+STEPS!
+
+1. You need to be LOGGED IN TO GITHUB!
+2. Click "Pick Random Animal"
+3. Run the workflow
+4. Come back here, and enjoy your new animal!
+
 ---
 
 <!-- START_ANIMAL -->
@@ -15,4 +22,4 @@ It randomly selects a random animal for you to enjoy, yay!!!
 
 ---
 
-[🎲 Pick Random Animal](https://github.com/magpiesacorvid/AnimalImageGenerator/actions/workflows/animal.yml)
+[Pick Random Animal](https://github.com/magpiesacorvid/AnimalImageGenerator/actions/workflows/animal.yml)
