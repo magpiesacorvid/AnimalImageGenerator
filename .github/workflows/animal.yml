@@ -1,13 +1,18 @@
 name: Random Animal
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types: [trigger-animal]
   schedule:
     - cron: "*/10 * * * *"
+
 permissions:
   contents: write
+
 concurrency:
   group: random-animal
   cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,10 +31,10 @@ jobs:
 
       - name: Verify README markers exist
         run: |
-          grep -q "<!-- START_ANIMAL -->" README.md
-          grep -q "<!-- END_ANIMAL -->" README.md
-          grep -q "<!-- START_TIMER -->" README.md
-          grep -q "<!-- END_TIMER -->" README.md
+          grep -q "" README.md
+          grep -q "" README.md
+          grep -q "" README.md
+          grep -q "" README.md
 
       - name: Inject, commit, and push (conflict-proof retry)
         run: |
@@ -49,14 +54,14 @@ jobs:
             } > TIMER.md
 
             awk '
-              /<!-- START_ANIMAL -->/{print;system("cat ANIMAL.md");skip=1;next}
-              /<!-- END_ANIMAL -->/{skip=0}
+              //{print;system("cat ANIMAL.md");skip=1;next}
+              //{skip=0}
               !skip
             ' README.md > tmp1.md
 
             awk '
-              /<!-- START_TIMER -->/{print;system("cat TIMER.md");skip=1;next}
-              /<!-- END_TIMER -->/{skip=0}
+              //{print;system("cat TIMER.md");skip=1;next}
+              //{skip=0}
               !skip
             ' tmp1.md > tmp2.md
 
