@@ -5,6 +5,8 @@ It randomly selects a random animal for you to enjoy, yay!!!
 I can't figure out the buttons, so now a new animal generates every 5 minutes... oooh goodness the suspense is KILLING ME!!!!!!!
 
 ---
+<!-- START_TIMER -->
+<!-- END_TIMER -->
 
 <!-- START_ANIMAL -->
 
