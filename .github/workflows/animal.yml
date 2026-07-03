@@ -1,10 +1,10 @@
 name: Random Animal
 
 on:
-  workflow_dispatch:   # 👈 this is what makes button work
+  workflow_dispatch:
   schedule:
     - cron: "*/5 * * * *"
-    
+
 permissions:
   contents: write
 
@@ -24,7 +24,8 @@ jobs:
       - name: Generate animal
         run: python generate_animal.py
 
-      - name: Update README
+      # 🧩 STAGE 4 — inject generated animal into README
+      - name: Inject into README
         run: |
           awk '/<!-- START_ANIMAL -->/{print;system("cat ANIMAL.md");skip=1;next}/<!-- END_ANIMAL -->/{skip=0} !skip' README.md > tmp.md
           mv tmp.md README.md
@@ -35,4 +36,6 @@ jobs:
           git config user.email "github-actions@github.com"
           git add README.md
           git commit -m "update animal" || exit 0
-          git push
+
+      - name: Push changes
+        run: git push
