@@ -3,12 +3,10 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 <!-- START_TIMER -->
 
 **Last updated:** 2026-07-03 20:04:18 UTC
-**Next update:** ~2026-07-03 20:14:18 UTC (every 10 min, precise)
+**Next update:** ~2026-07-03 20:14:18 UTC (HOPEFULLY...)
 <!-- END_TIMER -->
 
 ---
-
-## 🐾 Random Animal
 
 <!-- START_ANIMAL -->
 
