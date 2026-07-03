@@ -31,42 +31,55 @@ jobs:
           grep -q "<!-- START_TIMER -->" README.md
           grep -q "<!-- END_TIMER -->" README.md
 
-      - name: Inject animal + timer into README
-        run: |
-          NOW=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
-          NEXT=$(date -u -d "+10 minutes" +"%Y-%m-%d %H:%M:%S UTC")
-          {
-            echo "**Last updated:** ${NOW}"
-            echo "**Next update:** ~${NEXT} (every 10 min, best-effort)"
-          } > TIMER.md
-
-          awk '
-            /<!-- START_ANIMAL -->/{print;system("cat ANIMAL.md");skip=1;next}
-            /<!-- END_ANIMAL -->/{skip=0}
-            !skip
-          ' README.md > tmp1.md
-
-          awk '
-            /<!-- START_TIMER -->/{print;system("cat TIMER.md");skip=1;next}
-            /<!-- END_TIMER -->/{skip=0}
-            !skip
-          ' tmp1.md > tmp2.md
-
-          mv tmp2.md README.md
-          rm -f tmp1.md TIMER.md
-
-      - name: Commit and push
+      - name: Inject, commit, and push (conflict-proof retry)
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add README.md
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-          git commit -m "update animal"
-          for i in 1 2 3; do
-            git pull --rebase origin "${GITHUB_REF_NAME}" && git push && break
-            echo "Push failed, retrying ($i)..."
-            sleep 5
+
+          for i in 1 2 3 4 5; do
+            echo "Attempt $i: syncing to latest origin/main..."
+            git fetch origin main
+            git reset --hard origin/main
+
+            NOW=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+            NEXT=$(date -u -d "+10 minutes" +"%Y-%m-%d %H:%M:%S UTC")
+            {
+              echo "**Last updated:** ${NOW}"
+              echo "**Next update:** ~${NEXT} (every 10 min, best-effort)"
+            } > TIMER.md
+
+            awk '
+              /<!-- START_ANIMAL -->/{print;system("cat ANIMAL.md");skip=1;next}
+              /<!-- END_ANIMAL -->/{skip=0}
+              !skip
+            ' README.md > tmp1.md
+
+            awk '
+              /<!-- START_TIMER -->/{print;system("cat TIMER.md");skip=1;next}
+              /<!-- END_TIMER -->/{skip=0}
+              !skip
+            ' tmp1.md > tmp2.md
+
+            mv tmp2.md README.md
+            rm -f tmp1.md TIMER.md
+
+            git add README.md
+
+            if git diff --cached --quiet; then
+              echo "No changes to commit"
+              exit 0
+            fi
+
+            git commit -m "update animal"
+
+            if git push origin main; then
+              echo "Push succeeded on attempt $i"
+              exit 0
+            fi
+
+            echo "Push failed (likely a race with another run), retrying..."
+            sleep $((RANDOM % 10 + 5))
           done
+
+          echo "Failed to push after 5 attempts"
+          exit 1
