@@ -3,8 +3,6 @@ on:
   workflow_dispatch:
   repository_dispatch:
     types: [trigger-animal]
-  schedule:
-    - cron: "*/10 * * * *"
 
 permissions:
   contents: write
@@ -31,10 +29,10 @@ jobs:
 
       - name: Verify README markers exist
         run: |
-          grep -q "" README.md
-          grep -q "" README.md
-          grep -q "" README.md
-          grep -q "" README.md
+          grep -q "<!-- START_ANIMAL -->" README.md
+          grep -q "<!-- END_ANIMAL -->" README.md
+          grep -q "<!-- START_TIMER -->" README.md
+          grep -q "<!-- END_TIMER -->" README.md
 
       - name: Inject, commit, and push (conflict-proof retry)
         run: |
@@ -50,18 +48,18 @@ jobs:
             NEXT=$(date -u -d "+10 minutes" +"%Y-%m-%d %H:%M:%S UTC")
             {
               echo "**Last updated:** ${NOW}"
-              echo "**Next update:** ~${NEXT} (every 10 min, best-effort)"
+              echo "**Next update:** ~${NEXT} (every 10 min, precise)"
             } > TIMER.md
 
             awk '
-              //{print;system("cat ANIMAL.md");skip=1;next}
-              //{skip=0}
+              /<!-- START_ANIMAL -->/{print;system("cat ANIMAL.md");skip=1;next}
+              /<!-- END_ANIMAL -->/{skip=0}
               !skip
             ' README.md > tmp1.md
 
             awk '
-              //{print;system("cat TIMER.md");skip=1;next}
-              //{skip=0}
+              /<!-- START_TIMER -->/{print;system("cat TIMER.md");skip=1;next}
+              /<!-- END_TIMER -->/{skip=0}
               !skip
             ' tmp1.md > tmp2.md
 
