@@ -15,9 +15,9 @@ STEPS!
 
 ## 🐾 Random Animal
 
-### Aardwolf (Proteles cristata septentrionalis)
+### Acrobatic Cavy (Kerodon Acrobata)
 
-![Aardwolf (Proteles cristata septentrionalis)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Aardwolf%2C_Buffalo_Springs_National_Park%2C_Kenya_1_%28cropped%29.jpg)
+![Acrobatic Cavy (Kerodon Acrobata)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kerodon-acrobata-asportella.JPG/1280px-Kerodon-acrobata-asportella.JPG)
 <!-- END_ANIMAL -->
 
 ---
