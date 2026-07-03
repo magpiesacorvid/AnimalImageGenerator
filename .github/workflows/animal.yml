@@ -1,11 +1,13 @@
 name: Random Animal
 
-on:
+oon:
   push:
     paths:
       - animals.json
+
   schedule:
-    - cron: "0 */6 * * *"  # every 6 hours
+    - cron: "0 */6 * * *"
+
   workflow_dispatch:
 
 permissions:
