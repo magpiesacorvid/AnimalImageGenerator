@@ -6,14 +6,14 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-03 20:20:32 UTC
-**Next update:** ~2026-07-03 20:22:32 UTC (every 2 min, precise)
+**Last updated:** 2026-07-03 20:22:18 UTC
+**Next update:** ~2026-07-03 20:24:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Afghan Pika (Ochotona rufescens)
-![Afghan Pika (Ochotona rufescens)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ochotona_rufescens_213736083.jpg/1280px-Ochotona_rufescens_213736083.jpg)
+### African palm civet (Nandinia binotata)
+![African palm civet (Nandinia binotata)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nandinia_binotata%2C_crop.jpg/960px-Nandinia_binotata%2C_crop.jpg)
 <!-- END_ANIMAL -->
