@@ -17,3 +17,9 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ### African brush-tailed porcupine (Atherurus africanus)
 ![African brush-tailed porcupine (Atherurus africanus)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Atherurus_africanus_Zoo_Berlin_01.jpg/1920px-Atherurus_africanus_Zoo_Berlin_01.jpg)
 <!-- END_ANIMAL -->
+
+
+---
+
+# ANIMAL UPDATES!!!!
+03/07/26 - added quite a few mammals starting with "a"... thats enough for tonight..
