@@ -2,18 +2,13 @@
 
 It randomly selects a random animal for you to enjoy, yay!!!
 
-STEPS!
-
-1. You need to be LOGGED IN TO GITHUB!
-2. Click "Pick Random Animal"
-3. Run the workflow
-4. Come back here, and enjoy your new animal!
+I can't figure out the buttons, so now a new animal generates every 5 minutes... oooh goodness the suspense is KILLING ME!!!!!!!
 
 ---
 
 <!-- START_ANIMAL -->
 
-## 🐾 Random Animal
+## Your Random Animal Is...
 
 ### Aardvark (Orycteropus afer)
 
@@ -21,6 +16,3 @@ STEPS!
 <!-- END_ANIMAL -->
 
 ---
-
-[🎲 Pick Random Animal](https://github.com/magpiesacorvid/AnimalImageGenerator/actions/workflows/animal.yml)
-[Pick Random Animal](https://github.com/magpiesacorvid/AnimalImageGenerator/actions/workflows/animal.yml)
