@@ -4,11 +4,9 @@ It randomly selects a random animal for you to enjoy, yay!!!
 
 ---
 
-## 🐾 Here's your Random Animal
-
 <!-- START_ANIMAL -->
 
-## 🐾 Random Animal
+## 🐾 Here's your Random Animal
 
 ### Acrobatic Cavy (Kerodon Acrobata)
 
