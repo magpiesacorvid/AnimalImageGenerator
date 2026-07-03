@@ -8,7 +8,7 @@ chosen = random.choice(animals)
 print(f"Chosen animal: {chosen['name']}")
 
 output = f"""
-## 🐾 Random Animal
+## here is your random animal, please be kind to them..! im sure they're lovely!!
 ### {chosen["name"]}
 ![{chosen["name"]}]({chosen["url"]})
 """
