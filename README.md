@@ -15,9 +15,9 @@ STEPS!
 
 ## 🐾 Random Animal
 
-### Aardwolf (Proteles cristata septentrionalis)
+### Aardvark (Orycteropus afer)
 
-![Aardwolf (Proteles cristata septentrionalis)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Aardwolf%2C_Buffalo_Springs_National_Park%2C_Kenya_1_%28cropped%29.jpg)
+![Aardvark (Orycteropus afer)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Orycteropus_afer_175359469.jpg/1280px-Orycteropus_afer_175359469.jpg)
 <!-- END_ANIMAL -->
 
 ---
