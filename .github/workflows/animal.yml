@@ -45,10 +45,10 @@ jobs:
             git reset --hard origin/main
 
             NOW=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
-            NEXT=$(date -u -d "+10 minutes" +"%Y-%m-%d %H:%M:%S UTC")
+            NEXT=$(date -u -d "+2 minutes" +"%Y-%m-%d %H:%M:%S UTC")
             {
               echo "**Last updated:** ${NOW}"
-              echo "**Next update:** ~${NEXT} (every 10 min, precise)"
+              echo "**Next update:** ~${NEXT} (every 2 min, precise)"
             } > TIMER.md
 
             awk '
