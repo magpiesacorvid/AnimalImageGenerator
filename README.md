@@ -6,10 +6,11 @@ It randomly selects a random animal for you to enjoy, yay!!!
 
 <!-- START_ANIMAL -->
 
-## 🐾 Here's your Random Animal
-### Acrobatic Cavy (Kerodon Acrobata)
+## 🐾 Random Animal
 
-![Acrobatic Cavy (Kerodon Acrobata)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kerodon-acrobata-asportella.JPG/1280px-Kerodon-acrobata-asportella.JPG)
+### Aardwolf (Proteles cristata septentrionalis)
+
+![Aardwolf (Proteles cristata septentrionalis)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Aardwolf%2C_Buffalo_Springs_National_Park%2C_Kenya_1_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 ---
