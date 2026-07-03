@@ -4,40 +4,18 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "*/5 * * * *"
-  # This allows ANYONE to trigger it by commenting on an issue
-  issue_comment:
-    types: [created]
 
 permissions:
   contents: write
-  issues: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    # ONLY run if it's a manual click, a schedule, OR someone typed "!spin" in a comment
-    if: |
-      github.event_name == 'workflow_dispatch' ||
-      github.event_name == 'schedule' ||
-      (github.event_name == 'issue_comment' && github.event.comment.body == '!spin')
 
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
-      # Adds a 🎉 reaction to their comment so they know it worked
-      - name: React to Comment
-        if: github.event_name == 'issue_comment'
-        uses: actions/github-script@v7
-        with:
-          script: |
-            github.rest.reactions.createForIssueComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              comment_id: context.payload.comment.id,
-              content: 'hooray'
-            })
 
       - uses: actions/setup-python@v5
         with:
@@ -46,10 +24,11 @@ jobs:
       - name: Generate animal
         run: python generate_animal.py
 
-      # STAGE 4 — inject generated animal into README
+      # 🧩 STAGE 4 — inject generated animal into README
+      #  STAGE 4 — inject generated animal into README
       - name: Inject into README
         run: |
-          awk '//{print;system("cat ANIMAL.md");skip=1;next}//{skip=0} !skip' README.md > tmp.md
+          awk '/<!-- START_ANIMAL -->/{print;system("cat ANIMAL.md");skip=1;next}/<!-- END_ANIMAL -->/{skip=0} !skip' README.md > tmp.md
           mv tmp.md README.md
 
       - name: Commit changes
@@ -57,7 +36,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add README.md
-          git commit -m "update animal (triggered by ${{ github.actor }})" || exit 0
+          git commit -m "update animal" || exit 0
 
       - name: Push changes
         run: git push
