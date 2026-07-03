@@ -1,9 +1,10 @@
 name: Random Animal
 
 on:
+  workflow_dispatch:   # 👈 this is what makes button work
   schedule:
-    - cron: "*/5 * * * *"   # every 5 minutes (fastest allowed reliably)
-
+    - cron: "*/5 * * * *"
+    
 permissions:
   contents: write
 
