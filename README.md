@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-04 08:28:18 UTC
-**Next update:** ~2026-07-04 08:30:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-04 08:30:44 UTC
+**Next update:** ~2026-07-04 08:32:44 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan talapoin (Miopithecus talapoin)
-![Angolan talapoin (Miopithecus talapoin)](https://upload.wikimedia.org/wikipedia/commons/7/78/Talapoin_II_-_Bioparc_Valencia_%282787418966%29.jpg)
+### American marten (Martes americana)
+![American marten (Martes americana)](https://upload.wikimedia.org/wikipedia/commons/8/8e/Newfoundland_Pine_Marten.jpg)
 <!-- END_ANIMAL -->
 
 
