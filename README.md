@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-04 19:56:16 UTC
-**Next update:** ~2026-07-04 19:58:16 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-04 19:58:19 UTC
+**Next update:** ~2026-07-04 20:00:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African buffalo (Syncerus caffer caffer)
-![African buffalo (Syncerus caffer caffer)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/African_buffalo_%28Syncerus_caffer_caffer%29_male_with_cattle_egret.jpg/1280px-African_buffalo_%28Syncerus_caffer_caffer%29_male_with_cattle_egret.jpg)
+### Amami rabbit (Pentalagus furnessi)
+![Amami rabbit (Pentalagus furnessi)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pentalagus_furnessi_387708672.jpg/1280px-Pentalagus_furnessi_387708672.jpg)
 <!-- END_ANIMAL -->
 
 
