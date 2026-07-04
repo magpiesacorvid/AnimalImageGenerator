@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-04 21:24:17 UTC
-**Next update:** ~2026-07-04 21:26:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-04 21:26:16 UTC
+**Next update:** ~2026-07-04 21:28:16 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Argali (Ovis ammon)
-![Argali (Ovis ammon)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ovis_ammon_%28cropped%29.jpg/960px-Ovis_ammon_%28cropped%29.jpg)
+### African palm civet (Nandinia binotata)
+![African palm civet (Nandinia binotata)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nandinia_binotata%2C_crop.jpg/960px-Nandinia_binotata%2C_crop.jpg)
 <!-- END_ANIMAL -->
 
 
