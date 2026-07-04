@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-04 05:52:16 UTC
-**Next update:** ~2026-07-04 05:54:16 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-04 05:54:18 UTC
+**Next update:** ~2026-07-04 05:56:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan talapoin (Miopithecus talapoin)
-![Angolan talapoin (Miopithecus talapoin)](https://upload.wikimedia.org/wikipedia/commons/7/78/Talapoin_II_-_Bioparc_Valencia_%282787418966%29.jpg)
+### African pygmy mouse (Mus minutoides)
+![African pygmy mouse (Mus minutoides)](https://upload.wikimedia.org/wikipedia/commons/6/66/Mus_minutoides00.jpg)
 <!-- END_ANIMAL -->
 
 
