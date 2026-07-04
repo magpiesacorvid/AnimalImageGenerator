@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-04 12:48:16 UTC
-**Next update:** ~2026-07-04 12:50:16 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-04 12:50:33 UTC
+**Next update:** ~2026-07-04 12:52:33 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Alpine ibex (Capra ibex)
-![Alpine ibex (Capra ibex)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg/960px-003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg)
+### Annamite striped rabbit (Nesolagus timminsi)
+![Annamite striped rabbit (Nesolagus timminsi)](https://upload.wikimedia.org/wikipedia/commons/9/98/Annamite_striped_rabbit_%28Nesolagus_timminsi%29.jpg)
 <!-- END_ANIMAL -->
 
 
