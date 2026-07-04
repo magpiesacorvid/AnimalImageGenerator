@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-04 03:50:35 UTC
-**Next update:** ~2026-07-04 03:52:35 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-04 03:52:18 UTC
+**Next update:** ~2026-07-04 03:54:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asiatic linsang (Prionodon)
-![Asiatic linsang (Prionodon)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Prionodon_linsang.jpg/1280px-Prionodon_linsang.jpg)
+### Antelope jackrabbit (Lepus alleni)
+![Antelope jackrabbit (Lepus alleni)](https://upload.wikimedia.org/wikipedia/commons/e/ea/Lepus_alleni_83745875_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
