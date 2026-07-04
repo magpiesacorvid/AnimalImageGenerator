@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-04 10:40:35 UTC
-**Next update:** ~2026-07-04 10:42:35 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-04 10:42:18 UTC
+**Next update:** ~2026-07-04 10:44:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Antilopine kangaroo (Osphranter antilopinus)
-![Antilopine kangaroo (Osphranter antilopinus)](https://upload.wikimedia.org/wikipedia/commons/c/cb/AntilopineWallerooLargeMale.jpg)
+### Atlantic white-sided dolphin (Lagenorhynchus acutus)
+![Atlantic white-sided dolphin (Lagenorhynchus acutus)](https://upload.wikimedia.org/wikipedia/commons/9/9a/Atlantic_white-sided_dolphin.jpg)
 <!-- END_ANIMAL -->
 
 
