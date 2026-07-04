@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-04 16:50:38 UTC
-**Next update:** ~2026-07-04 16:52:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-04 16:52:19 UTC
+**Next update:** ~2026-07-04 16:54:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Agile wallaby (Notamacropus agilis)
-![Agile wallaby (Notamacropus agilis)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Agile_Wallaby_pair_-_East_Point_Reserve.jpg/1280px-Agile_Wallaby_pair_-_East_Point_Reserve.jpg)
+### African bush elephant (Loxodonta africana)
+![African bush elephant (Loxodonta africana)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
