@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-05 03:52:17 UTC
-**Next update:** ~2026-07-05 03:54:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-05 03:54:16 UTC
+**Next update:** ~2026-07-05 03:56:16 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Afghan Pika (Ochotona rufescens)
-![Afghan Pika (Ochotona rufescens)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ochotona_rufescens_213736083.jpg/1280px-Ochotona_rufescens_213736083.jpg)
+### Amazon weasel (Neogale africana)
+![Amazon weasel (Neogale africana)](https://upload.wikimedia.org/wikipedia/commons/0/07/Neogale_africana.jpg)
 <!-- END_ANIMAL -->
 
 
