@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-05 17:32:18 UTC
-**Next update:** ~2026-07-05 17:34:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-05 17:34:18 UTC
+**Next update:** ~2026-07-05 17:36:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Amazonian manatee (Trichechus inunguis)
-![Amazonian manatee (Trichechus inunguis)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Manati_amazonico_en_Iquitos.jpg/1280px-Manati_amazonico_en_Iquitos.jpg)
+### Anderson's four-eyed opossum (Philander andersoni)
+![Anderson's four-eyed opossum (Philander andersoni)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Philander_andersoni_115107840.jpg/1280px-Philander_andersoni_115107840.jpg)
 <!-- END_ANIMAL -->
 
 
