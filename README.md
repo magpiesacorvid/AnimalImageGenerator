@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-05 20:22:17 UTC
-**Next update:** ~2026-07-05 20:24:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-05 20:24:16 UTC
+**Next update:** ~2026-07-05 20:26:16 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African clawless otter (Aonyx capensis)
-![African clawless otter (Aonyx capensis)](https://upload.wikimedia.org/wikipedia/commons/6/69/Aonyx_capensis%2C_male%2C_Shamvura.jpg)
+### Antarctic minke whale (Balaenoptera bonaerensis)
+![Antarctic minke whale (Balaenoptera bonaerensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Minke_whale_in_ross_sea.jpg/960px-Minke_whale_in_ross_sea.jpg)
 <!-- END_ANIMAL -->
 
 
