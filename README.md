@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-05 02:42:16 UTC
-**Next update:** ~2026-07-05 02:44:16 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-05 02:44:17 UTC
+**Next update:** ~2026-07-05 02:46:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Australian sea lion (Neophoca cinerea)
-![Australian sea lion (Neophoca cinerea)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Australian_sea_lion_02.JPG/1280px-Australian_sea_lion_02.JPG)
+### Angolan talapoin (Miopithecus talapoin)
+![Angolan talapoin (Miopithecus talapoin)](https://upload.wikimedia.org/wikipedia/commons/7/78/Talapoin_II_-_Bioparc_Valencia_%282787418966%29.jpg)
 <!-- END_ANIMAL -->
 
 
