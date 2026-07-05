@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-05 18:28:18 UTC
-**Next update:** ~2026-07-05 18:30:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-05 18:30:45 UTC
+**Next update:** ~2026-07-05 18:32:45 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Aldabra flying fox (Pteropus aldabrensis)
-![Aldabra flying fox (Pteropus aldabrensis)](https://upload.wikimedia.org/wikipedia/commons/7/74/Aldabra_flying_fox_318252.jpg)
+### African civet (Civettictis civetta)
+![African civet (Civettictis civetta)](https://upload.wikimedia.org/wikipedia/commons/a/a2/Civettictis_civetta_11.jpg)
 <!-- END_ANIMAL -->
 
 
