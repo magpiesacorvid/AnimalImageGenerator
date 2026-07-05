@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-05 14:50:38 UTC
-**Next update:** ~2026-07-05 14:52:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-05 14:52:16 UTC
+**Next update:** ~2026-07-05 14:54:16 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Annamite striped rabbit (Nesolagus timminsi)
-![Annamite striped rabbit (Nesolagus timminsi)](https://upload.wikimedia.org/wikipedia/commons/9/98/Annamite_striped_rabbit_%28Nesolagus_timminsi%29.jpg)
+### Amur hedgehog (Erinaceus amurensis)
+![Amur hedgehog (Erinaceus amurensis)](https://upload.wikimedia.org/wikipedia/commons/d/d1/Erinaceus_amurensis.jpg)
 <!-- END_ANIMAL -->
 
 
