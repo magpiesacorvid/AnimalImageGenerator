@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-06 14:50:47 UTC
-**Next update:** ~2026-07-06 14:52:47 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-06 14:52:19 UTC
+**Next update:** ~2026-07-06 14:54:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Aardvark (Orycteropus afer)
-![Aardvark (Orycteropus afer)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Orycteropus_afer_175359469.jpg/1280px-Orycteropus_afer_175359469.jpg)
+### Angolan giraffe (Giraffa giraffa angolensis)
+![Angolan giraffe (Giraffa giraffa angolensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg/1280px-106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
