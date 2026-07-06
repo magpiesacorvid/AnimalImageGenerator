@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-06 05:28:20 UTC
-**Next update:** ~2026-07-06 05:30:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-06 05:30:46 UTC
+**Next update:** ~2026-07-06 05:32:46 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Antarctic fur seal (Arctocephalus gazella) 
-![Antarctic fur seal (Arctocephalus gazella) ](https://upload.wikimedia.org/wikipedia/commons/a/ab/Seeb%C3%A4r_%28Arctocephalus%29_01.jpg)
+### Asian black bear (Ursus thibetanus)
+![Asian black bear (Ursus thibetanus)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/960px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG)
 <!-- END_ANIMAL -->
 
 
