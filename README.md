@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-06 23:04:20 UTC
-**Next update:** ~2026-07-06 23:06:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-06 23:06:21 UTC
+**Next update:** ~2026-07-06 23:08:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African palm civet (Nandinia binotata)
-![African palm civet (Nandinia binotata)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nandinia_binotata%2C_crop.jpg/960px-Nandinia_binotata%2C_crop.jpg)
+### African clawless otter (Aonyx capensis)
+![African clawless otter (Aonyx capensis)](https://upload.wikimedia.org/wikipedia/commons/6/69/Aonyx_capensis%2C_male%2C_Shamvura.jpg)
 <!-- END_ANIMAL -->
 
 
