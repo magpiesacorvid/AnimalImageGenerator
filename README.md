@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-06 03:50:37 UTC
-**Next update:** ~2026-07-06 03:52:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-06 03:52:18 UTC
+**Next update:** ~2026-07-06 03:54:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African civet (Civettictis civetta)
-![African civet (Civettictis civetta)](https://upload.wikimedia.org/wikipedia/commons/a/a2/Civettictis_civetta_11.jpg)
+### Andean mountain cat (Leopardus jacobita)
+![Andean mountain cat (Leopardus jacobita)](https://upload.wikimedia.org/wikipedia/commons/e/e0/Andean_cat_1_Jim_Sanderson.jpg)
 <!-- END_ANIMAL -->
 
 
