@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-06 05:44:19 UTC
-**Next update:** ~2026-07-06 05:46:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-06 05:46:17 UTC
+**Next update:** ~2026-07-06 05:48:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asian elephant (Elephas maximus)
-![Asian elephant (Elephas maximus)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/1280px-Elephas_maximus_%28Bandipur%29.jpg)
+### Amazonian manatee (Trichechus inunguis)
+![Amazonian manatee (Trichechus inunguis)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Manati_amazonico_en_Iquitos.jpg/1280px-Manati_amazonico_en_Iquitos.jpg)
 <!-- END_ANIMAL -->
 
 
