@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-06 14:17:10 UTC
-**Next update:** ~2026-07-06 14:19:10 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-06 14:18:20 UTC
+**Next update:** ~2026-07-06 14:20:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Agile wallaby (Notamacropus agilis)
-![Agile wallaby (Notamacropus agilis)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Agile_Wallaby_pair_-_East_Point_Reserve.jpg/1280px-Agile_Wallaby_pair_-_East_Point_Reserve.jpg)
+### Alpine ibex (Capra ibex)
+![Alpine ibex (Capra ibex)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg/960px-003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
