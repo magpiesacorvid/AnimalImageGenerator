@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-06 18:01:00 UTC
-**Next update:** ~2026-07-06 18:03:00 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-06 18:02:18 UTC
+**Next update:** ~2026-07-06 18:04:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Amazonian long-tailed porcupine (Coendou longicaudatus)
-![Amazonian long-tailed porcupine (Coendou longicaudatus)](https://upload.wikimedia.org/wikipedia/commons/c/c3/Coendou_prehensilis_JJK%271.jpg)
+### Aardvark (Orycteropus afer)
+![Aardvark (Orycteropus afer)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Orycteropus_afer_175359469.jpg/1280px-Orycteropus_afer_175359469.jpg)
 <!-- END_ANIMAL -->
 
 
