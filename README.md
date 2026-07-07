@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-07 02:44:18 UTC
-**Next update:** ~2026-07-07 02:46:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-07 02:46:16 UTC
+**Next update:** ~2026-07-07 02:48:16 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Anderson's four-eyed opossum (Philander andersoni)
-![Anderson's four-eyed opossum (Philander andersoni)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Philander_andersoni_115107840.jpg/1280px-Philander_andersoni_115107840.jpg)
+### Alpine ibex (Capra ibex)
+![Alpine ibex (Capra ibex)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg/960px-003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
