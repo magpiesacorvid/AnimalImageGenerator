@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-07 15:46:22 UTC
-**Next update:** ~2026-07-07 15:48:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-07 15:48:21 UTC
+**Next update:** ~2026-07-07 15:50:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Amazonian long-tailed porcupine (Coendou longicaudatus)
-![Amazonian long-tailed porcupine (Coendou longicaudatus)](https://upload.wikimedia.org/wikipedia/commons/c/c3/Coendou_prehensilis_JJK%271.jpg)
+### Amami rabbit (Pentalagus furnessi)
+![Amami rabbit (Pentalagus furnessi)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pentalagus_furnessi_387708672.jpg/1280px-Pentalagus_furnessi_387708672.jpg)
 <!-- END_ANIMAL -->
 
 
