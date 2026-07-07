@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-07 01:00:58 UTC
-**Next update:** ~2026-07-07 01:02:58 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-07 01:02:17 UTC
+**Next update:** ~2026-07-07 01:04:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arabian tahr (Arabitragus jayakari)
-![Arabian tahr (Arabitragus jayakari)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg/1280px-Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg)
+### American stoat (Mustela richardsonii)
+![American stoat (Mustela richardsonii)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ermine-_Bacon_Fiend_%2814083889879%29.jpg/960px-Ermine-_Bacon_Fiend_%2814083889879%29.jpg)
 <!-- END_ANIMAL -->
 
 
