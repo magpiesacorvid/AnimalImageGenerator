@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-07 07:01:03 UTC
-**Next update:** ~2026-07-07 07:03:03 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-07 07:02:17 UTC
+**Next update:** ~2026-07-07 07:04:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American pika (Ochotona princeps)
-![American pika (Ochotona princeps)](https://upload.wikimedia.org/wikipedia/commons/8/8f/American_pika_Banff_National_Park.jpg)
+### Arctic fox (Vulpes lagopus)
+![Arctic fox (Vulpes lagopus)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg/960px-Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg)
 <!-- END_ANIMAL -->
 
 
