@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-07 21:24:20 UTC
-**Next update:** ~2026-07-07 21:26:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-07 21:26:17 UTC
+**Next update:** ~2026-07-07 21:28:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American hog-nosed skunk (Conepatus leuconotus)
-![American hog-nosed skunk (Conepatus leuconotus)](https://upload.wikimedia.org/wikipedia/commons/5/5f/Hognosed_skunk.jpg)
+### Acrobatic Cavy (Kerodon Acrobata)
+![Acrobatic Cavy (Kerodon Acrobata)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kerodon-acrobata-asportella.JPG/1280px-Kerodon-acrobata-asportella.JPG)
 <!-- END_ANIMAL -->
 
 
