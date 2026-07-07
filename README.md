@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-07 04:26:20 UTC
-**Next update:** ~2026-07-07 04:28:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-07 04:28:19 UTC
+**Next update:** ~2026-07-07 04:30:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Aye-aye (Daubentonia madagascariensis)
-![Aye-aye (Daubentonia madagascariensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_aye_aye.jpg/1280px-Wild_aye_aye.jpg)
+### Anderson's four-eyed opossum (Philander andersoni)
+![Anderson's four-eyed opossum (Philander andersoni)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Philander_andersoni_115107840.jpg/1280px-Philander_andersoni_115107840.jpg)
 <!-- END_ANIMAL -->
 
 
