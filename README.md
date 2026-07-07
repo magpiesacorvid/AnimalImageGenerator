@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-07 22:40:53 UTC
-**Next update:** ~2026-07-07 22:42:53 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-07 22:42:17 UTC
+**Next update:** ~2026-07-07 22:44:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Andean white-eared opossum (Didelphis pernigra)
-![Andean white-eared opossum (Didelphis pernigra)](https://upload.wikimedia.org/wikipedia/commons/d/d0/Didelphis_pernigra_29825860_1.jpg)
+### Aye-aye (Daubentonia madagascariensis)
+![Aye-aye (Daubentonia madagascariensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_aye_aye.jpg/1280px-Wild_aye_aye.jpg)
 <!-- END_ANIMAL -->
 
 
