@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-07 02:52:17 UTC
-**Next update:** ~2026-07-07 02:54:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-07 02:54:18 UTC
+**Next update:** ~2026-07-07 02:56:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arabian Oryx (Oryx leucoryx)
-![Arabian Oryx (Oryx leucoryx)](https://upload.wikimedia.org/wikipedia/commons/4/43/Arabian_oryx_%28oryx_leucoryx%29.jpg)
+### Angolan giraffe (Giraffa giraffa angolensis)
+![Angolan giraffe (Giraffa giraffa angolensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg/1280px-106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
