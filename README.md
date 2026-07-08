@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-08 19:28:18 UTC
-**Next update:** ~2026-07-08 19:30:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-08 19:31:04 UTC
+**Next update:** ~2026-07-08 19:33:04 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Agouta (Solenodon paradoxus)
-![Agouta (Solenodon paradoxus)](https://upload.wikimedia.org/wikipedia/commons/0/09/Hispaniolan_Solenodon_crop.jpg)
+### Annamite striped rabbit (Nesolagus timminsi)
+![Annamite striped rabbit (Nesolagus timminsi)](https://upload.wikimedia.org/wikipedia/commons/9/98/Annamite_striped_rabbit_%28Nesolagus_timminsi%29.jpg)
 <!-- END_ANIMAL -->
 
 
