@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-08 10:08:18 UTC
-**Next update:** ~2026-07-08 10:10:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-08 10:10:52 UTC
+**Next update:** ~2026-07-08 10:12:52 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Afghan Pika (Ochotona rufescens)
-![Afghan Pika (Ochotona rufescens)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ochotona_rufescens_213736083.jpg/1280px-Ochotona_rufescens_213736083.jpg)
+### Aardwolf (Proteles cristata septentrionalis)
+![Aardwolf (Proteles cristata septentrionalis)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Aardwolf%2C_Buffalo_Springs_National_Park%2C_Kenya_1_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
