@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-08 20:44:17 UTC
-**Next update:** ~2026-07-08 20:46:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-08 20:46:20 UTC
+**Next update:** ~2026-07-08 20:48:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African civet (Civettictis civetta)
-![African civet (Civettictis civetta)](https://upload.wikimedia.org/wikipedia/commons/a/a2/Civettictis_civetta_11.jpg)
+### African wild ass (Equus africanus)
+![African wild ass (Equus africanus)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg/1280px-Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg)
 <!-- END_ANIMAL -->
 
 
