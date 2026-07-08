@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-08 17:28:20 UTC
-**Next update:** ~2026-07-08 17:30:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-08 17:31:10 UTC
+**Next update:** ~2026-07-08 17:33:10 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan talapoin (Miopithecus talapoin)
-![Angolan talapoin (Miopithecus talapoin)](https://upload.wikimedia.org/wikipedia/commons/7/78/Talapoin_II_-_Bioparc_Valencia_%282787418966%29.jpg)
+### Agile wallaby (Notamacropus agilis)
+![Agile wallaby (Notamacropus agilis)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Agile_Wallaby_pair_-_East_Point_Reserve.jpg/1280px-Agile_Wallaby_pair_-_East_Point_Reserve.jpg)
 <!-- END_ANIMAL -->
 
 
