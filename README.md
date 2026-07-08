@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-08 20:02:21 UTC
-**Next update:** ~2026-07-08 20:04:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-08 20:04:18 UTC
+**Next update:** ~2026-07-08 20:06:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arctic fox (Vulpes lagopus)
-![Arctic fox (Vulpes lagopus)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg/960px-Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg)
+### Andean hairy armadillo (Chaetophractus nationi)
+![Andean hairy armadillo (Chaetophractus nationi)](https://upload.wikimedia.org/wikipedia/commons/8/80/Chaetophractus_nationi%2C_Oruro%2C_Bolivia_-_20090824.jpg)
 <!-- END_ANIMAL -->
 
 
