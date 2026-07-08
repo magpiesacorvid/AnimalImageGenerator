@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-08 15:38:18 UTC
-**Next update:** ~2026-07-08 15:40:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-08 15:40:52 UTC
+**Next update:** ~2026-07-08 15:42:52 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African wild ass (Equus africanus)
-![African wild ass (Equus africanus)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg/1280px-Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg)
+### Arctic fox (Vulpes lagopus) (Summer Coat (LAWD HE BALD AS HELL))
+![Arctic fox (Vulpes lagopus) (Summer Coat (LAWD HE BALD AS HELL))](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%D0%A1%D0%B0%D0%BC%D0%BA%D0%B0_%D0%BF%D0%B5%D1%81%D1%86%D0%B0_%D1%81%D0%BE_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%BC_%D0%BF%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%BC_%28cropped%29.jpg/960px-%D0%A1%D0%B0%D0%BC%D0%BA%D0%B0_%D0%BF%D0%B5%D1%81%D1%86%D0%B0_%D1%81%D0%BE_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%BC_%D0%BF%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%BC_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
