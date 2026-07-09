@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-09 14:04:19 UTC
-**Next update:** ~2026-07-09 14:06:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-09 14:06:20 UTC
+**Next update:** ~2026-07-09 14:08:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Aardwolf (Proteles cristata septentrionalis)
-![Aardwolf (Proteles cristata septentrionalis)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Aardwolf%2C_Buffalo_Springs_National_Park%2C_Kenya_1_%28cropped%29.jpg)
+### Asian elephant (Elephas maximus)
+![Asian elephant (Elephas maximus)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/1280px-Elephas_maximus_%28Bandipur%29.jpg)
 <!-- END_ANIMAL -->
 
 
