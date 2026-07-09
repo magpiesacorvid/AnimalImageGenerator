@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-09 05:16:36 UTC
-**Next update:** ~2026-07-09 05:18:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-09 05:28:21 UTC
+**Next update:** ~2026-07-09 05:30:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asian black bear (Ursus thibetanus)
-![Asian black bear (Ursus thibetanus)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/960px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG)
+### African forest elephant (Loxodonta cyclotis)
+![African forest elephant (Loxodonta cyclotis)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Loxodontacyclotis.jpg/1280px-Loxodontacyclotis.jpg)
 <!-- END_ANIMAL -->
 
 
