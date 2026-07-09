@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-09 20:58:21 UTC
-**Next update:** ~2026-07-09 21:00:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-09 21:01:07 UTC
+**Next update:** ~2026-07-09 21:03:07 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African wild ass (Equus africanus)
-![African wild ass (Equus africanus)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg/1280px-Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg)
+### Amazonian long-tailed porcupine (Coendou longicaudatus)
+![Amazonian long-tailed porcupine (Coendou longicaudatus)](https://upload.wikimedia.org/wikipedia/commons/c/c3/Coendou_prehensilis_JJK%271.jpg)
 <!-- END_ANIMAL -->
 
 
