@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-09 03:49:29 UTC
-**Next update:** ~2026-07-09 03:51:29 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-09 03:50:48 UTC
+**Next update:** ~2026-07-09 03:52:48 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African wildcat (Felis lybica)
-![African wildcat (Felis lybica)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Southern_African_Wildcat_%28Felis_sylvestris_cafra%29_female_..._%28captive_specimen%29_%2839789072173%29.jpg/1280px-Southern_African_Wildcat_%28Felis_sylvestris_cafra%29_female_..._%28captive_specimen%29_%2839789072173%29.jpg)
+### Afghan Pika (Ochotona rufescens)
+![Afghan Pika (Ochotona rufescens)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ochotona_rufescens_213736083.jpg/1280px-Ochotona_rufescens_213736083.jpg)
 <!-- END_ANIMAL -->
 
 
