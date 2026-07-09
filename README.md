@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-09 00:48:20 UTC
-**Next update:** ~2026-07-09 00:50:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-09 00:50:51 UTC
+**Next update:** ~2026-07-09 00:52:51 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Andean porcupine (Coendou quichua)
-![Andean porcupine (Coendou quichua)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Porcupine_6.jpg/1280px-Porcupine_6.jpg)
+### American black bear (Ursus americanus)
+![American black bear (Ursus americanus)](https://upload.wikimedia.org/wikipedia/commons/0/08/01_Schwarzb%C3%A4r.jpg)
 <!-- END_ANIMAL -->
 
 
