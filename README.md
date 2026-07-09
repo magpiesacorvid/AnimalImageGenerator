@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-09 03:02:18 UTC
-**Next update:** ~2026-07-09 03:04:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-09 03:04:16 UTC
+**Next update:** ~2026-07-09 03:06:16 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Alpaca (Lama pacos)
-![Alpaca (Lama pacos)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Alpaca_in_Higashiyama_Zoo_-_1.jpg/1280px-Alpaca_in_Higashiyama_Zoo_-_1.jpg)
+### Aardvark (Orycteropus afer)
+![Aardvark (Orycteropus afer)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Orycteropus_afer_175359469.jpg/1280px-Orycteropus_afer_175359469.jpg)
 <!-- END_ANIMAL -->
 
 
