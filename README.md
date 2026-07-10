@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-10 18:52:19 UTC
-**Next update:** ~2026-07-10 18:54:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-10 18:54:17 UTC
+**Next update:** ~2026-07-10 18:56:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Antilopine kangaroo (Osphranter antilopinus)
-![Antilopine kangaroo (Osphranter antilopinus)](https://upload.wikimedia.org/wikipedia/commons/c/cb/AntilopineWallerooLargeMale.jpg)
+### African forest buffalo (Syncerus caffer nanus)
+![African forest buffalo (Syncerus caffer nanus)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/African_Forest_Buffalo.jpg/960px-African_Forest_Buffalo.jpg)
 <!-- END_ANIMAL -->
 
 
