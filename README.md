@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-10 00:26:19 UTC
-**Next update:** ~2026-07-10 00:28:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-10 00:28:18 UTC
+**Next update:** ~2026-07-10 00:30:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African striped weasel (Poecilogale albinucha)
-![African striped weasel (Poecilogale albinucha)](https://upload.wikimedia.org/wikipedia/commons/d/d5/Whitenapedweasellg2.jpg)
+### Angolan slender mongoose (Herpestes flavescens) 
+![Angolan slender mongoose (Herpestes flavescens) ](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Galerella_flavescens.jpg/960px-Galerella_flavescens.jpg)
 <!-- END_ANIMAL -->
 
 
