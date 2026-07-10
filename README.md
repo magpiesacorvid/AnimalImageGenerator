@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-10 01:02:18 UTC
-**Next update:** ~2026-07-10 01:04:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-10 01:04:17 UTC
+**Next update:** ~2026-07-10 01:06:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Amur hedgehog (Erinaceus amurensis)
-![Amur hedgehog (Erinaceus amurensis)](https://upload.wikimedia.org/wikipedia/commons/d/d1/Erinaceus_amurensis.jpg)
+### Arabian Oryx (Oryx leucoryx)
+![Arabian Oryx (Oryx leucoryx)](https://upload.wikimedia.org/wikipedia/commons/4/43/Arabian_oryx_%28oryx_leucoryx%29.jpg)
 <!-- END_ANIMAL -->
 
 
