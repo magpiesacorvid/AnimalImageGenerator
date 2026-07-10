@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-10 02:02:18 UTC
-**Next update:** ~2026-07-10 02:04:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-10 02:04:17 UTC
+**Next update:** ~2026-07-10 02:06:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Antarctic minke whale (Balaenoptera bonaerensis)
-![Antarctic minke whale (Balaenoptera bonaerensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Minke_whale_in_ross_sea.jpg/960px-Minke_whale_in_ross_sea.jpg)
+### Asiatic linsang (Prionodon)
+![Asiatic linsang (Prionodon)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Prionodon_linsang.jpg/1280px-Prionodon_linsang.jpg)
 <!-- END_ANIMAL -->
 
 
