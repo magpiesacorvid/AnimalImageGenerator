@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-10 07:20:48 UTC
-**Next update:** ~2026-07-10 07:22:48 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-10 07:22:19 UTC
+**Next update:** ~2026-07-10 07:24:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asian small-clawed otter (Aonyx cinereus)
-![Asian small-clawed otter (Aonyx cinereus)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Otter_-_melbourne_zoo.jpg/1280px-Otter_-_melbourne_zoo.jpg)
+### African striped weasel (Poecilogale albinucha)
+![African striped weasel (Poecilogale albinucha)](https://upload.wikimedia.org/wikipedia/commons/d/d5/Whitenapedweasellg2.jpg)
 <!-- END_ANIMAL -->
 
 
