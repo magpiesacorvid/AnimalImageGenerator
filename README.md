@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-10 01:48:19 UTC
-**Next update:** ~2026-07-10 01:50:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-10 01:50:50 UTC
+**Next update:** ~2026-07-10 01:52:50 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asiatic brush-tailed porcupine (Atherurus macrourus)
-![Asiatic brush-tailed porcupine (Atherurus macrourus)](https://upload.wikimedia.org/wikipedia/commons/7/76/Brush-tailed_Porcupine%2C_Atherurus_macrourus_in_Kaeng_Krachan_national_park_%2815925250476%29.jpg)
+### Andean hairy armadillo (Chaetophractus nationi)
+![Andean hairy armadillo (Chaetophractus nationi)](https://upload.wikimedia.org/wikipedia/commons/8/80/Chaetophractus_nationi%2C_Oruro%2C_Bolivia_-_20090824.jpg)
 <!-- END_ANIMAL -->
 
 
