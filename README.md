@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-10 02:28:18 UTC
-**Next update:** ~2026-07-10 02:30:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-10 02:30:54 UTC
+**Next update:** ~2026-07-10 02:32:54 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Antarctic minke whale (Balaenoptera bonaerensis)
-![Antarctic minke whale (Balaenoptera bonaerensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Minke_whale_in_ross_sea.jpg/960px-Minke_whale_in_ross_sea.jpg)
+### Anderson's four-eyed opossum (Philander andersoni)
+![Anderson's four-eyed opossum (Philander andersoni)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Philander_andersoni_115107840.jpg/1280px-Philander_andersoni_115107840.jpg)
 <!-- END_ANIMAL -->
 
 
