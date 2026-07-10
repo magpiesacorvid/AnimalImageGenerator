@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-10 11:58:17 UTC
-**Next update:** ~2026-07-10 12:00:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-10 12:01:10 UTC
+**Next update:** ~2026-07-10 12:03:10 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African brush-tailed porcupine (Atherurus africanus)
-![African brush-tailed porcupine (Atherurus africanus)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Atherurus_africanus_Zoo_Berlin_01.jpg/1920px-Atherurus_africanus_Zoo_Berlin_01.jpg)
+### Angolan Genet
+![Angolan Genet](https://upload.wikimedia.org/wikipedia/commons/9/95/Genetta_angolensis.jpg)
 <!-- END_ANIMAL -->
 
 
