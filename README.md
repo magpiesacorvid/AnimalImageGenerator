@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-10 13:22:19 UTC
-**Next update:** ~2026-07-10 13:24:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-10 13:24:18 UTC
+**Next update:** ~2026-07-10 13:26:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African leopard (Panthera pardus pardus)
-![African leopard (Panthera pardus pardus)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Leopard_%28Panthera_pardus_pardus%29_Kruger.jpg/1280px-Leopard_%28Panthera_pardus_pardus%29_Kruger.jpg)
+### African forest buffalo (Syncerus caffer nanus)
+![African forest buffalo (Syncerus caffer nanus)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/African_Forest_Buffalo.jpg/960px-African_Forest_Buffalo.jpg)
 <!-- END_ANIMAL -->
 
 
