@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-11 02:48:17 UTC
-**Next update:** ~2026-07-11 02:50:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-11 02:50:45 UTC
+**Next update:** ~2026-07-11 02:52:45 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African manatee (Trichechus senegalensis)
-![African manatee (Trichechus senegalensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg/960px-African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg)
+### Andean white-eared opossum (Didelphis pernigra)
+![Andean white-eared opossum (Didelphis pernigra)](https://upload.wikimedia.org/wikipedia/commons/d/d0/Didelphis_pernigra_29825860_1.jpg)
 <!-- END_ANIMAL -->
 
 
