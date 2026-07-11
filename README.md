@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-11 11:32:17 UTC
-**Next update:** ~2026-07-11 11:34:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-11 11:34:18 UTC
+**Next update:** ~2026-07-11 11:36:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arabian tahr (Arabitragus jayakari)
-![Arabian tahr (Arabitragus jayakari)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg/1280px-Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg)
+### African clawless otter (Aonyx capensis)
+![African clawless otter (Aonyx capensis)](https://upload.wikimedia.org/wikipedia/commons/6/69/Aonyx_capensis%2C_male%2C_Shamvura.jpg)
 <!-- END_ANIMAL -->
 
 
