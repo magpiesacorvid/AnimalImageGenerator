@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-12 00:22:19 UTC
-**Next update:** ~2026-07-12 00:24:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-12 00:24:18 UTC
+**Next update:** ~2026-07-12 00:26:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Agile gracile opossum (Gracilinanus agilis)
-![Agile gracile opossum (Gracilinanus agilis)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Gracilinanus_agilis_04.jpg/960px-Gracilinanus_agilis_04.jpg)
+### Acrobatic Cavy (Kerodon Acrobata)
+![Acrobatic Cavy (Kerodon Acrobata)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kerodon-acrobata-asportella.JPG/1280px-Kerodon-acrobata-asportella.JPG)
 <!-- END_ANIMAL -->
 
 
