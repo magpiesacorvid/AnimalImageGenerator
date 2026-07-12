@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-12 08:08:19 UTC
-**Next update:** ~2026-07-12 08:10:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-12 08:10:51 UTC
+**Next update:** ~2026-07-12 08:12:51 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arfak triok (Dactylonax kambuayai)
-![Arfak triok (Dactylonax kambuayai)](https://upload.wikimedia.org/wikipedia/commons/9/90/Arfak_Striped_Possum_%28Dactylopsila_kambuayai%29_Female.png)
+### Amur hedgehog (Erinaceus amurensis)
+![Amur hedgehog (Erinaceus amurensis)](https://upload.wikimedia.org/wikipedia/commons/d/d1/Erinaceus_amurensis.jpg)
 <!-- END_ANIMAL -->
 
 
