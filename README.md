@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-12 04:28:36 UTC
-**Next update:** ~2026-07-12 04:30:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-12 04:31:24 UTC
+**Next update:** ~2026-07-12 04:33:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan talapoin (Miopithecus talapoin)
-![Angolan talapoin (Miopithecus talapoin)](https://upload.wikimedia.org/wikipedia/commons/7/78/Talapoin_II_-_Bioparc_Valencia_%282787418966%29.jpg)
+### Asiatic brush-tailed porcupine (Atherurus macrourus)
+![Asiatic brush-tailed porcupine (Atherurus macrourus)](https://upload.wikimedia.org/wikipedia/commons/7/76/Brush-tailed_Porcupine%2C_Atherurus_macrourus_in_Kaeng_Krachan_national_park_%2815925250476%29.jpg)
 <!-- END_ANIMAL -->
 
 
