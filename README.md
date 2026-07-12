@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-12 14:03:45 UTC
-**Next update:** ~2026-07-12 14:05:45 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-12 14:04:34 UTC
+**Next update:** ~2026-07-12 14:06:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arfak triok (Dactylonax kambuayai)
-![Arfak triok (Dactylonax kambuayai)](https://upload.wikimedia.org/wikipedia/commons/9/90/Arfak_Striped_Possum_%28Dactylopsila_kambuayai%29_Female.png)
+### African leopard (Panthera pardus pardus)
+![African leopard (Panthera pardus pardus)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Leopard_%28Panthera_pardus_pardus%29_Kruger.jpg/1280px-Leopard_%28Panthera_pardus_pardus%29_Kruger.jpg)
 <!-- END_ANIMAL -->
 
 
