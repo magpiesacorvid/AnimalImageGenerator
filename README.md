@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-14 16:34:21 UTC
-**Next update:** ~2026-07-14 16:36:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-14 16:36:19 UTC
+**Next update:** ~2026-07-14 16:38:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Amazonian long-tailed porcupine (Coendou longicaudatus)
-![Amazonian long-tailed porcupine (Coendou longicaudatus)](https://upload.wikimedia.org/wikipedia/commons/c/c3/Coendou_prehensilis_JJK%271.jpg)
+### African striped weasel (Poecilogale albinucha)
+![African striped weasel (Poecilogale albinucha)](https://upload.wikimedia.org/wikipedia/commons/d/d5/Whitenapedweasellg2.jpg)
 <!-- END_ANIMAL -->
 
 
