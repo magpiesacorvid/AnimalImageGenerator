@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-14 13:54:18 UTC
-**Next update:** ~2026-07-14 13:56:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-14 13:56:21 UTC
+**Next update:** ~2026-07-14 13:58:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Aardwolf (Proteles cristata septentrionalis)
-![Aardwolf (Proteles cristata septentrionalis)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Aardwolf%2C_Buffalo_Springs_National_Park%2C_Kenya_1_%28cropped%29.jpg)
+### African wildcat (Felis lybica)
+![African wildcat (Felis lybica)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Southern_African_Wildcat_%28Felis_sylvestris_cafra%29_female_..._%28captive_specimen%29_%2839789072173%29.jpg/1280px-Southern_African_Wildcat_%28Felis_sylvestris_cafra%29_female_..._%28captive_specimen%29_%2839789072173%29.jpg)
 <!-- END_ANIMAL -->
 
 
