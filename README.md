@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-14 12:56:19 UTC
-**Next update:** ~2026-07-14 12:58:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-14 12:58:17 UTC
+**Next update:** ~2026-07-14 13:00:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Alaskan hare (Lepus othus)
-![Alaskan hare (Lepus othus)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Arctic_Hare.jpg/1280px-Arctic_Hare.jpg)
+### Asian palm civet (Paradoxurus hermaphroditus)
+![Asian palm civet (Paradoxurus hermaphroditus)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg/1280px-Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg)
 <!-- END_ANIMAL -->
 
 
