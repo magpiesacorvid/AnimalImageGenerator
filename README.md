@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-14 05:26:20 UTC
-**Next update:** ~2026-07-14 05:28:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-14 05:28:17 UTC
+**Next update:** ~2026-07-14 05:30:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Alpine ibex (Capra ibex)
-![Alpine ibex (Capra ibex)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg/960px-003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg)
+### Addax (Addax nasomaculatus)
+![Addax (Addax nasomaculatus)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg/1280px-A_big_male_Addax_showing_as_the_power_of_his_horns.jpg)
 <!-- END_ANIMAL -->
 
 
