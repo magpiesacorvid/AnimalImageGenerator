@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-15 11:14:21 UTC
-**Next update:** ~2026-07-15 11:16:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-15 11:16:23 UTC
+**Next update:** ~2026-07-15 11:18:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arabian tahr (Arabitragus jayakari)
-![Arabian tahr (Arabitragus jayakari)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg/1280px-Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg)
+### Asiatic brush-tailed porcupine (Atherurus macrourus)
+![Asiatic brush-tailed porcupine (Atherurus macrourus)](https://upload.wikimedia.org/wikipedia/commons/7/76/Brush-tailed_Porcupine%2C_Atherurus_macrourus_in_Kaeng_Krachan_national_park_%2815925250476%29.jpg)
 <!-- END_ANIMAL -->
 
 
