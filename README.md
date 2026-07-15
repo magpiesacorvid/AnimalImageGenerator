@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-15 10:12:19 UTC
-**Next update:** ~2026-07-15 10:14:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-15 10:14:18 UTC
+**Next update:** ~2026-07-15 10:16:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arabian Oryx (Oryx leucoryx)
-![Arabian Oryx (Oryx leucoryx)](https://upload.wikimedia.org/wikipedia/commons/4/43/Arabian_oryx_%28oryx_leucoryx%29.jpg)
+### African striped weasel (Poecilogale albinucha)
+![African striped weasel (Poecilogale albinucha)](https://upload.wikimedia.org/wikipedia/commons/d/d5/Whitenapedweasellg2.jpg)
 <!-- END_ANIMAL -->
 
 
