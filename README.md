@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-16 11:46:20 UTC
-**Next update:** ~2026-07-16 11:48:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-16 11:48:21 UTC
+**Next update:** ~2026-07-16 11:50:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American bison (Bison bison)
-![American bison (Bison bison)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/American_bison_k5680-1.jpg/1280px-American_bison_k5680-1.jpg)
+### African wild ass (Equus africanus)
+![African wild ass (Equus africanus)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg/1280px-Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg)
 <!-- END_ANIMAL -->
 
 
