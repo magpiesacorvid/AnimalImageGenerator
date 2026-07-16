@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-16 20:38:20 UTC
-**Next update:** ~2026-07-16 20:40:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-16 20:40:41 UTC
+**Next update:** ~2026-07-16 20:42:41 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African manatee (Trichechus senegalensis)
-![African manatee (Trichechus senegalensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg/960px-African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg)
+### Arabian tahr (Arabitragus jayakari)
+![Arabian tahr (Arabitragus jayakari)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg/1280px-Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg)
 <!-- END_ANIMAL -->
 
 
