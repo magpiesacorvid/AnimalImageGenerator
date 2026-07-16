@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-16 00:44:18 UTC
-**Next update:** ~2026-07-16 00:46:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-16 00:46:19 UTC
+**Next update:** ~2026-07-16 00:48:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American badger (Taxidea taxus)
-![American badger (Taxidea taxus)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Taxidea_taxus_%28Point_Reyes%2C_2007%29.jpg/1280px-Taxidea_taxus_%28Point_Reyes%2C_2007%29.jpg)
+### African wildcat (Felis lybica)
+![African wildcat (Felis lybica)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Southern_African_Wildcat_%28Felis_sylvestris_cafra%29_female_..._%28captive_specimen%29_%2839789072173%29.jpg/1280px-Southern_African_Wildcat_%28Felis_sylvestris_cafra%29_female_..._%28captive_specimen%29_%2839789072173%29.jpg)
 <!-- END_ANIMAL -->
 
 
