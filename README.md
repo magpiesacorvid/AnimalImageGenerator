@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-17 08:42:20 UTC
-**Next update:** ~2026-07-17 08:44:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-17 08:44:20 UTC
+**Next update:** ~2026-07-17 08:46:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan slender mongoose (Herpestes flavescens) 
-![Angolan slender mongoose (Herpestes flavescens) ](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Galerella_flavescens.jpg/960px-Galerella_flavescens.jpg)
+### Antarctic minke whale (Balaenoptera bonaerensis)
+![Antarctic minke whale (Balaenoptera bonaerensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Minke_whale_in_ross_sea.jpg/960px-Minke_whale_in_ross_sea.jpg)
 <!-- END_ANIMAL -->
 
 
