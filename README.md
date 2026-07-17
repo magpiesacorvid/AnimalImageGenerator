@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-17 04:08:18 UTC
-**Next update:** ~2026-07-17 04:10:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-17 04:10:35 UTC
+**Next update:** ~2026-07-17 04:12:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Argali (Ovis ammon)
-![Argali (Ovis ammon)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ovis_ammon_%28cropped%29.jpg/960px-Ovis_ammon_%28cropped%29.jpg)
+### Agricola's gracile opossum (Cryptonanus agricolai)
+![Agricola's gracile opossum (Cryptonanus agricolai)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Cryptonanus_agricolai_478752226.jpg/1280px-Cryptonanus_agricolai_478752226.jpg)
 <!-- END_ANIMAL -->
 
 
