@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-17 21:04:20 UTC
-**Next update:** ~2026-07-17 21:06:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-17 21:06:18 UTC
+**Next update:** ~2026-07-17 21:08:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Agile gibbon (Hylobates agilis)
-![Agile gibbon (Hylobates agilis)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Agilegibbon.jpg/1280px-Agilegibbon.jpg)
+### Antelope jackrabbit (Lepus alleni)
+![Antelope jackrabbit (Lepus alleni)](https://upload.wikimedia.org/wikipedia/commons/e/ea/Lepus_alleni_83745875_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
