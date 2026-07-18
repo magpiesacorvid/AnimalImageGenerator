@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-18 14:58:18 UTC
-**Next update:** ~2026-07-18 15:00:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-18 15:02:06 UTC
+**Next update:** ~2026-07-18 15:04:06 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American stoat (Mustela richardsonii)
-![American stoat (Mustela richardsonii)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ermine-_Bacon_Fiend_%2814083889879%29.jpg/960px-Ermine-_Bacon_Fiend_%2814083889879%29.jpg)
+### African leopard (Panthera pardus pardus)
+![African leopard (Panthera pardus pardus)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Leopard_%28Panthera_pardus_pardus%29_Kruger.jpg/1280px-Leopard_%28Panthera_pardus_pardus%29_Kruger.jpg)
 <!-- END_ANIMAL -->
 
 
