@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-18 01:28:20 UTC
-**Next update:** ~2026-07-18 01:30:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-18 01:30:43 UTC
+**Next update:** ~2026-07-18 01:32:43 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan Genet
-![Angolan Genet](https://upload.wikimedia.org/wikipedia/commons/9/95/Genetta_angolensis.jpg)
+### American marten (Martes americana)
+![American marten (Martes americana)](https://upload.wikimedia.org/wikipedia/commons/8/8e/Newfoundland_Pine_Marten.jpg)
 <!-- END_ANIMAL -->
 
 
