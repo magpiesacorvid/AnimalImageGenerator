@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-18 02:16:23 UTC
-**Next update:** ~2026-07-18 02:18:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-18 02:18:19 UTC
+**Next update:** ~2026-07-18 02:20:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Agile wallaby (Notamacropus agilis)
-![Agile wallaby (Notamacropus agilis)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Agile_Wallaby_pair_-_East_Point_Reserve.jpg/1280px-Agile_Wallaby_pair_-_East_Point_Reserve.jpg)
+### Asian black bear (Ursus thibetanus)
+![Asian black bear (Ursus thibetanus)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/960px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG)
 <!-- END_ANIMAL -->
 
 
