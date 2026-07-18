@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-18 05:44:19 UTC
-**Next update:** ~2026-07-18 05:46:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-18 05:46:20 UTC
+**Next update:** ~2026-07-18 05:48:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African clawless otter (Aonyx capensis)
-![African clawless otter (Aonyx capensis)](https://upload.wikimedia.org/wikipedia/commons/6/69/Aonyx_capensis%2C_male%2C_Shamvura.jpg)
+### Antarctic fur seal (Arctocephalus gazella) 
+![Antarctic fur seal (Arctocephalus gazella) ](https://upload.wikimedia.org/wikipedia/commons/a/ab/Seeb%C3%A4r_%28Arctocephalus%29_01.jpg)
 <!-- END_ANIMAL -->
 
 
