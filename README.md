@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-18 04:40:31 UTC
-**Next update:** ~2026-07-18 04:42:31 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-18 04:42:20 UTC
+**Next update:** ~2026-07-18 04:44:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Anderson's four-eyed opossum (Philander andersoni)
-![Anderson's four-eyed opossum (Philander andersoni)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Philander_andersoni_115107840.jpg/1280px-Philander_andersoni_115107840.jpg)
+### Aldabra flying fox (Pteropus aldabrensis)
+![Aldabra flying fox (Pteropus aldabrensis)](https://upload.wikimedia.org/wikipedia/commons/7/74/Aldabra_flying_fox_318252.jpg)
 <!-- END_ANIMAL -->
 
 
