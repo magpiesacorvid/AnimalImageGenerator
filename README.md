@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-18 20:44:18 UTC
-**Next update:** ~2026-07-18 20:46:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-18 20:46:19 UTC
+**Next update:** ~2026-07-18 20:48:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African clawless otter (Aonyx capensis)
-![African clawless otter (Aonyx capensis)](https://upload.wikimedia.org/wikipedia/commons/6/69/Aonyx_capensis%2C_male%2C_Shamvura.jpg)
+### Asian golden cat (Catopuma temminckii)
+![Asian golden cat (Catopuma temminckii)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Asian_Golden_cat.jpg/960px-Asian_Golden_cat.jpg)
 <!-- END_ANIMAL -->
 
 
