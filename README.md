@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-19 22:44:18 UTC
-**Next update:** ~2026-07-19 22:46:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-19 22:46:20 UTC
+**Next update:** ~2026-07-19 22:48:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Aardwolf (Proteles cristata septentrionalis)
-![Aardwolf (Proteles cristata septentrionalis)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Aardwolf%2C_Buffalo_Springs_National_Park%2C_Kenya_1_%28cropped%29.jpg)
+### Arabian tahr (Arabitragus jayakari)
+![Arabian tahr (Arabitragus jayakari)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg/1280px-Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg)
 <!-- END_ANIMAL -->
 
 
