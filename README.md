@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-19 00:08:19 UTC
-**Next update:** ~2026-07-19 00:10:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-19 00:10:34 UTC
+**Next update:** ~2026-07-19 00:12:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asian palm civet (Paradoxurus hermaphroditus)
-![Asian palm civet (Paradoxurus hermaphroditus)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg/1280px-Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg)
+### Amazonian manatee (Trichechus inunguis)
+![Amazonian manatee (Trichechus inunguis)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Manati_amazonico_en_Iquitos.jpg/1280px-Manati_amazonico_en_Iquitos.jpg)
 <!-- END_ANIMAL -->
 
 
