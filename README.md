@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-19 01:02:07 UTC
-**Next update:** ~2026-07-19 01:04:07 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-19 01:02:26 UTC
+**Next update:** ~2026-07-19 01:04:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African wild dog (Lycaon pictus)
-![African wild dog (Lycaon pictus)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/African_Wild_Dog_at_Working_with_Wildlife.jpg/1920px-African_Wild_Dog_at_Working_with_Wildlife.jpg)
+### American pika (Ochotona princeps)
+![American pika (Ochotona princeps)](https://upload.wikimedia.org/wikipedia/commons/8/8f/American_pika_Banff_National_Park.jpg)
 <!-- END_ANIMAL -->
 
 
