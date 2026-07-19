@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-19 13:57:01 UTC
-**Next update:** ~2026-07-19 13:59:01 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-19 13:59:02 UTC
+**Next update:** ~2026-07-19 14:01:02 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American mink (Neogale vison)
-![American mink (Neogale vison)](https://upload.wikimedia.org/wikipedia/commons/0/04/MinkforWiki.jpg)
+### Antarctic minke whale (Balaenoptera bonaerensis)
+![Antarctic minke whale (Balaenoptera bonaerensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Minke_whale_in_ross_sea.jpg/960px-Minke_whale_in_ross_sea.jpg)
 <!-- END_ANIMAL -->
 
 
