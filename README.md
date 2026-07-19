@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-19 20:38:43 UTC
-**Next update:** ~2026-07-19 20:40:43 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-19 20:41:54 UTC
+**Next update:** ~2026-07-19 20:43:54 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American mink (Neogale vison)
-![American mink (Neogale vison)](https://upload.wikimedia.org/wikipedia/commons/0/04/MinkforWiki.jpg)
+### Atlantic white-sided dolphin (Lagenorhynchus acutus)
+![Atlantic white-sided dolphin (Lagenorhynchus acutus)](https://upload.wikimedia.org/wikipedia/commons/9/9a/Atlantic_white-sided_dolphin.jpg)
 <!-- END_ANIMAL -->
 
 
