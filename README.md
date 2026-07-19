@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-19 13:30:44 UTC
-**Next update:** ~2026-07-19 13:32:44 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-19 13:32:22 UTC
+**Next update:** ~2026-07-19 13:34:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Agouta (Solenodon paradoxus)
-![Agouta (Solenodon paradoxus)](https://upload.wikimedia.org/wikipedia/commons/0/09/Hispaniolan_Solenodon_crop.jpg)
+### Aye-aye (Daubentonia madagascariensis)
+![Aye-aye (Daubentonia madagascariensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_aye_aye.jpg/1280px-Wild_aye_aye.jpg)
 <!-- END_ANIMAL -->
 
 
