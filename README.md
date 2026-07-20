@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-20 18:34:21 UTC
-**Next update:** ~2026-07-20 18:36:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-20 18:36:19 UTC
+**Next update:** ~2026-07-20 18:38:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Afghan Pika (Ochotona rufescens)
-![Afghan Pika (Ochotona rufescens)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ochotona_rufescens_213736083.jpg/1280px-Ochotona_rufescens_213736083.jpg)
+### African manatee (Trichechus senegalensis)
+![African manatee (Trichechus senegalensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg/960px-African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg)
 <!-- END_ANIMAL -->
 
 
