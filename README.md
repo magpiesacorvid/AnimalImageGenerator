@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-20 01:42:22 UTC
-**Next update:** ~2026-07-20 01:44:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-20 01:44:19 UTC
+**Next update:** ~2026-07-20 01:46:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan slender mongoose (Herpestes flavescens) 
-![Angolan slender mongoose (Herpestes flavescens) ](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Galerella_flavescens.jpg/960px-Galerella_flavescens.jpg)
+### Asiatic brush-tailed porcupine (Atherurus macrourus)
+![Asiatic brush-tailed porcupine (Atherurus macrourus)](https://upload.wikimedia.org/wikipedia/commons/7/76/Brush-tailed_Porcupine%2C_Atherurus_macrourus_in_Kaeng_Krachan_national_park_%2815925250476%29.jpg)
 <!-- END_ANIMAL -->
 
 
