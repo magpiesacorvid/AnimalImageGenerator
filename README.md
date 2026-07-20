@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-20 20:34:21 UTC
-**Next update:** ~2026-07-20 20:36:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-20 20:36:20 UTC
+**Next update:** ~2026-07-20 20:38:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African buffalo (Syncerus caffer caffer)
-![African buffalo (Syncerus caffer caffer)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/African_buffalo_%28Syncerus_caffer_caffer%29_male_with_cattle_egret.jpg/1280px-African_buffalo_%28Syncerus_caffer_caffer%29_male_with_cattle_egret.jpg)
+### Addax (Addax nasomaculatus)
+![Addax (Addax nasomaculatus)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg/1280px-A_big_male_Addax_showing_as_the_power_of_his_horns.jpg)
 <!-- END_ANIMAL -->
 
 
