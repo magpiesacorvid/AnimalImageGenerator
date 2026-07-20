@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-20 23:28:21 UTC
-**Next update:** ~2026-07-20 23:30:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-20 23:30:48 UTC
+**Next update:** ~2026-07-20 23:32:48 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American badger (Taxidea taxus)
-![American badger (Taxidea taxus)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Taxidea_taxus_%28Point_Reyes%2C_2007%29.jpg/1280px-Taxidea_taxus_%28Point_Reyes%2C_2007%29.jpg)
+### Acrobatic Cavy (Kerodon Acrobata)
+![Acrobatic Cavy (Kerodon Acrobata)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kerodon-acrobata-asportella.JPG/1280px-Kerodon-acrobata-asportella.JPG)
 <!-- END_ANIMAL -->
 
 
