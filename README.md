@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-20 02:50:30 UTC
-**Next update:** ~2026-07-20 02:52:30 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-20 02:52:21 UTC
+**Next update:** ~2026-07-20 02:54:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Argali (Ovis ammon)
-![Argali (Ovis ammon)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ovis_ammon_%28cropped%29.jpg/960px-Ovis_ammon_%28cropped%29.jpg)
+### African brush-tailed porcupine (Atherurus africanus)
+![African brush-tailed porcupine (Atherurus africanus)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Atherurus_africanus_Zoo_Berlin_01.jpg/1920px-Atherurus_africanus_Zoo_Berlin_01.jpg)
 <!-- END_ANIMAL -->
 
 
