@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-20 21:52:21 UTC
-**Next update:** ~2026-07-20 21:54:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-20 21:54:18 UTC
+**Next update:** ~2026-07-20 21:56:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arabian Oryx (Oryx leucoryx)
-![Arabian Oryx (Oryx leucoryx)](https://upload.wikimedia.org/wikipedia/commons/4/43/Arabian_oryx_%28oryx_leucoryx%29.jpg)
+### Asian palm civet (Paradoxurus hermaphroditus)
+![Asian palm civet (Paradoxurus hermaphroditus)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg/1280px-Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg)
 <!-- END_ANIMAL -->
 
 
