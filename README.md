@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-20 21:50:32 UTC
-**Next update:** ~2026-07-20 21:52:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-20 21:52:21 UTC
+**Next update:** ~2026-07-20 21:54:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African forest elephant (Loxodonta cyclotis)
-![African forest elephant (Loxodonta cyclotis)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Loxodontacyclotis.jpg/1280px-Loxodontacyclotis.jpg)
+### Arabian Oryx (Oryx leucoryx)
+![Arabian Oryx (Oryx leucoryx)](https://upload.wikimedia.org/wikipedia/commons/4/43/Arabian_oryx_%28oryx_leucoryx%29.jpg)
 <!-- END_ANIMAL -->
 
 
