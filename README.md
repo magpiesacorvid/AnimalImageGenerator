@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-21 05:08:20 UTC
-**Next update:** ~2026-07-21 05:10:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-21 05:10:31 UTC
+**Next update:** ~2026-07-21 05:12:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Andean white-eared opossum (Didelphis pernigra)
-![Andean white-eared opossum (Didelphis pernigra)](https://upload.wikimedia.org/wikipedia/commons/d/d0/Didelphis_pernigra_29825860_1.jpg)
+### African clawless otter (Aonyx capensis)
+![African clawless otter (Aonyx capensis)](https://upload.wikimedia.org/wikipedia/commons/6/69/Aonyx_capensis%2C_male%2C_Shamvura.jpg)
 <!-- END_ANIMAL -->
 
 
