@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-21 22:18:20 UTC
-**Next update:** ~2026-07-21 22:20:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-21 22:20:33 UTC
+**Next update:** ~2026-07-21 22:22:33 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Australian sea lion (Neophoca cinerea)
-![Australian sea lion (Neophoca cinerea)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Australian_sea_lion_02.JPG/1280px-Australian_sea_lion_02.JPG)
+### Asian palm civet (Paradoxurus hermaphroditus)
+![Asian palm civet (Paradoxurus hermaphroditus)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg/1280px-Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg)
 <!-- END_ANIMAL -->
 
 
