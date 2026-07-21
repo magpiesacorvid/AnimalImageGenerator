@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-21 10:18:21 UTC
-**Next update:** ~2026-07-21 10:20:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-21 10:20:31 UTC
+**Next update:** ~2026-07-21 10:22:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African clawless otter (Aonyx capensis)
-![African clawless otter (Aonyx capensis)](https://upload.wikimedia.org/wikipedia/commons/6/69/Aonyx_capensis%2C_male%2C_Shamvura.jpg)
+### African brush-tailed porcupine (Atherurus africanus)
+![African brush-tailed porcupine (Atherurus africanus)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Atherurus_africanus_Zoo_Berlin_01.jpg/1920px-Atherurus_africanus_Zoo_Berlin_01.jpg)
 <!-- END_ANIMAL -->
 
 
