@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-22 19:32:24 UTC
-**Next update:** ~2026-07-22 19:34:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-22 19:34:21 UTC
+**Next update:** ~2026-07-22 19:36:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan talapoin (Miopithecus talapoin)
-![Angolan talapoin (Miopithecus talapoin)](https://upload.wikimedia.org/wikipedia/commons/7/78/Talapoin_II_-_Bioparc_Valencia_%282787418966%29.jpg)
+### Atlantic white-sided dolphin (Lagenorhynchus acutus)
+![Atlantic white-sided dolphin (Lagenorhynchus acutus)](https://upload.wikimedia.org/wikipedia/commons/9/9a/Atlantic_white-sided_dolphin.jpg)
 <!-- END_ANIMAL -->
 
 
