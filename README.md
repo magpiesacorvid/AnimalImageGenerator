@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-22 23:30:48 UTC
-**Next update:** ~2026-07-22 23:32:48 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-22 23:32:21 UTC
+**Next update:** ~2026-07-22 23:34:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arabian Oryx (Oryx leucoryx)
-![Arabian Oryx (Oryx leucoryx)](https://upload.wikimedia.org/wikipedia/commons/4/43/Arabian_oryx_%28oryx_leucoryx%29.jpg)
+### Asian small-clawed otter (Aonyx cinereus)
+![Asian small-clawed otter (Aonyx cinereus)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Otter_-_melbourne_zoo.jpg/1280px-Otter_-_melbourne_zoo.jpg)
 <!-- END_ANIMAL -->
 
 
