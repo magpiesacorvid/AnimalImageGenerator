@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-22 15:36:27 UTC
-**Next update:** ~2026-07-22 15:38:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-22 15:38:19 UTC
+**Next update:** ~2026-07-22 15:40:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Andean porcupine (Coendou quichua)
-![Andean porcupine (Coendou quichua)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Porcupine_6.jpg/1280px-Porcupine_6.jpg)
+### Alaskan hare (Lepus othus)
+![Alaskan hare (Lepus othus)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Arctic_Hare.jpg/1280px-Arctic_Hare.jpg)
 <!-- END_ANIMAL -->
 
 
