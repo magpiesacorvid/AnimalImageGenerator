@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-23 15:30:55 UTC
-**Next update:** ~2026-07-23 15:32:55 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-23 15:32:26 UTC
+**Next update:** ~2026-07-23 15:34:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American black bear (Ursus americanus)
-![American black bear (Ursus americanus)](https://upload.wikimedia.org/wikipedia/commons/0/08/01_Schwarzb%C3%A4r.jpg)
+### Afghan Pika (Ochotona rufescens)
+![Afghan Pika (Ochotona rufescens)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ochotona_rufescens_213736083.jpg/1280px-Ochotona_rufescens_213736083.jpg)
 <!-- END_ANIMAL -->
 
 
