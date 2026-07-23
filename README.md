@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-23 21:58:19 UTC
-**Next update:** ~2026-07-23 22:00:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-23 22:00:55 UTC
+**Next update:** ~2026-07-23 22:02:55 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Aye-aye (Daubentonia madagascariensis)
-![Aye-aye (Daubentonia madagascariensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_aye_aye.jpg/1280px-Wild_aye_aye.jpg)
+### American hog-nosed skunk (Conepatus leuconotus)
+![American hog-nosed skunk (Conepatus leuconotus)](https://upload.wikimedia.org/wikipedia/commons/5/5f/Hognosed_skunk.jpg)
 <!-- END_ANIMAL -->
 
 
