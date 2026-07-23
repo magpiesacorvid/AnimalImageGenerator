@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-23 03:02:21 UTC
-**Next update:** ~2026-07-23 03:04:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-23 03:04:22 UTC
+**Next update:** ~2026-07-23 03:06:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Aye-aye (Daubentonia madagascariensis)
-![Aye-aye (Daubentonia madagascariensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_aye_aye.jpg/1280px-Wild_aye_aye.jpg)
+### African civet (Civettictis civetta)
+![African civet (Civettictis civetta)](https://upload.wikimedia.org/wikipedia/commons/a/a2/Civettictis_civetta_11.jpg)
 <!-- END_ANIMAL -->
 
 
