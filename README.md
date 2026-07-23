@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-23 00:46:18 UTC
-**Next update:** ~2026-07-23 00:48:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-23 00:48:21 UTC
+**Next update:** ~2026-07-23 00:50:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African forest buffalo (Syncerus caffer nanus)
-![African forest buffalo (Syncerus caffer nanus)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/African_Forest_Buffalo.jpg/960px-African_Forest_Buffalo.jpg)
+### Antelope jackrabbit (Lepus alleni)
+![Antelope jackrabbit (Lepus alleni)](https://upload.wikimedia.org/wikipedia/commons/e/ea/Lepus_alleni_83745875_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
