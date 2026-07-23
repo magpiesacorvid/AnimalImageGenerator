@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-23 00:40:36 UTC
-**Next update:** ~2026-07-23 00:42:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-23 00:42:21 UTC
+**Next update:** ~2026-07-23 00:44:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Aardvark (Orycteropus afer)
-![Aardvark (Orycteropus afer)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Orycteropus_afer_175359469.jpg/1280px-Orycteropus_afer_175359469.jpg)
+### African civet (Civettictis civetta)
+![African civet (Civettictis civetta)](https://upload.wikimedia.org/wikipedia/commons/a/a2/Civettictis_civetta_11.jpg)
 <!-- END_ANIMAL -->
 
 
