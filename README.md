@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-23 06:56:22 UTC
-**Next update:** ~2026-07-23 06:58:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-23 06:58:18 UTC
+**Next update:** ~2026-07-23 07:00:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Amami rabbit (Pentalagus furnessi)
-![Amami rabbit (Pentalagus furnessi)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pentalagus_furnessi_387708672.jpg/1280px-Pentalagus_furnessi_387708672.jpg)
+### African forest elephant (Loxodonta cyclotis)
+![African forest elephant (Loxodonta cyclotis)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Loxodontacyclotis.jpg/1280px-Loxodontacyclotis.jpg)
 <!-- END_ANIMAL -->
 
 
