@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-24 00:44:21 UTC
-**Next update:** ~2026-07-24 00:46:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-24 00:46:19 UTC
+**Next update:** ~2026-07-24 00:48:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African pygmy mouse (Mus minutoides)
-![African pygmy mouse (Mus minutoides)](https://upload.wikimedia.org/wikipedia/commons/6/66/Mus_minutoides00.jpg)
+### Aye-aye (Daubentonia madagascariensis)
+![Aye-aye (Daubentonia madagascariensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_aye_aye.jpg/1280px-Wild_aye_aye.jpg)
 <!-- END_ANIMAL -->
 
 
