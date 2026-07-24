@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-24 01:06:22 UTC
-**Next update:** ~2026-07-24 01:08:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-24 01:08:18 UTC
+**Next update:** ~2026-07-24 01:10:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arfak triok (Dactylonax kambuayai)
-![Arfak triok (Dactylonax kambuayai)](https://upload.wikimedia.org/wikipedia/commons/9/90/Arfak_Striped_Possum_%28Dactylopsila_kambuayai%29_Female.png)
+### Asian palm civet (Paradoxurus hermaphroditus)
+![Asian palm civet (Paradoxurus hermaphroditus)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg/1280px-Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg)
 <!-- END_ANIMAL -->
 
 
