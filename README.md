@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-25 08:36:22 UTC
-**Next update:** ~2026-07-25 08:38:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-25 08:38:20 UTC
+**Next update:** ~2026-07-25 08:40:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asiatic linsang (Prionodon)
-![Asiatic linsang (Prionodon)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Prionodon_linsang.jpg/1280px-Prionodon_linsang.jpg)
+### Agile gracile opossum (Gracilinanus agilis)
+![Agile gracile opossum (Gracilinanus agilis)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Gracilinanus_agilis_04.jpg/960px-Gracilinanus_agilis_04.jpg)
 <!-- END_ANIMAL -->
 
 
