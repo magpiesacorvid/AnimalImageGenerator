@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-25 07:58:19 UTC
-**Next update:** ~2026-07-25 08:00:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-25 08:01:49 UTC
+**Next update:** ~2026-07-25 08:03:49 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asian elephant (Elephas maximus)
-![Asian elephant (Elephas maximus)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/1280px-Elephas_maximus_%28Bandipur%29.jpg)
+### Alpaca (Lama pacos)
+![Alpaca (Lama pacos)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Alpaca_in_Higashiyama_Zoo_-_1.jpg/1280px-Alpaca_in_Higashiyama_Zoo_-_1.jpg)
 <!-- END_ANIMAL -->
 
 
