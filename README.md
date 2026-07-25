@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-25 13:36:23 UTC
-**Next update:** ~2026-07-25 13:38:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-25 13:38:19 UTC
+**Next update:** ~2026-07-25 13:40:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Acrobatic Cavy (Kerodon Acrobata)
-![Acrobatic Cavy (Kerodon Acrobata)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kerodon-acrobata-asportella.JPG/1280px-Kerodon-acrobata-asportella.JPG)
+### Atlantic white-sided dolphin (Lagenorhynchus acutus)
+![Atlantic white-sided dolphin (Lagenorhynchus acutus)](https://upload.wikimedia.org/wikipedia/commons/9/9a/Atlantic_white-sided_dolphin.jpg)
 <!-- END_ANIMAL -->
 
 
