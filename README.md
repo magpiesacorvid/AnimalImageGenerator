@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-26 05:58:18 UTC
-**Next update:** ~2026-07-26 06:00:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-26 06:01:43 UTC
+**Next update:** ~2026-07-26 06:03:43 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Addax (Addax nasomaculatus)
-![Addax (Addax nasomaculatus)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg/1280px-A_big_male_Addax_showing_as_the_power_of_his_horns.jpg)
+### Andean hairy armadillo (Chaetophractus nationi)
+![Andean hairy armadillo (Chaetophractus nationi)](https://upload.wikimedia.org/wikipedia/commons/8/80/Chaetophractus_nationi%2C_Oruro%2C_Bolivia_-_20090824.jpg)
 <!-- END_ANIMAL -->
 
 
