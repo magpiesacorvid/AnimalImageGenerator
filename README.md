@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-26 03:08:21 UTC
-**Next update:** ~2026-07-26 03:10:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-26 03:11:32 UTC
+**Next update:** ~2026-07-26 03:13:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asiatic linsang (Prionodon)
-![Asiatic linsang (Prionodon)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Prionodon_linsang.jpg/1280px-Prionodon_linsang.jpg)
+### American hog-nosed skunk (Conepatus leuconotus)
+![American hog-nosed skunk (Conepatus leuconotus)](https://upload.wikimedia.org/wikipedia/commons/5/5f/Hognosed_skunk.jpg)
 <!-- END_ANIMAL -->
 
 
