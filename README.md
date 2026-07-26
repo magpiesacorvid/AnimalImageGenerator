@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-26 00:10:30 UTC
-**Next update:** ~2026-07-26 00:12:30 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-26 00:12:20 UTC
+**Next update:** ~2026-07-26 00:14:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American mink (Neogale vison)
-![American mink (Neogale vison)](https://upload.wikimedia.org/wikipedia/commons/0/04/MinkforWiki.jpg)
+### Arfak triok (Dactylonax kambuayai)
+![Arfak triok (Dactylonax kambuayai)](https://upload.wikimedia.org/wikipedia/commons/9/90/Arfak_Striped_Possum_%28Dactylopsila_kambuayai%29_Female.png)
 <!-- END_ANIMAL -->
 
 
