@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-26 21:30:42 UTC
-**Next update:** ~2026-07-26 21:32:42 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-26 21:32:23 UTC
+**Next update:** ~2026-07-26 21:34:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Amami rabbit (Pentalagus furnessi)
-![Amami rabbit (Pentalagus furnessi)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pentalagus_furnessi_387708672.jpg/1280px-Pentalagus_furnessi_387708672.jpg)
+### African wolf (Canis lupaster)
+![African wolf (Canis lupaster)](https://upload.wikimedia.org/wikipedia/commons/4/42/African_wolf%2C_Dagana%2C_Senegal.jpg)
 <!-- END_ANIMAL -->
 
 
