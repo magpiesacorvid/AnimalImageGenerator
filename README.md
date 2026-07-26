@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-26 06:54:22 UTC
-**Next update:** ~2026-07-26 06:56:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-26 06:56:37 UTC
+**Next update:** ~2026-07-26 06:58:37 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asiatic linsang (Prionodon)
-![Asiatic linsang (Prionodon)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Prionodon_linsang.jpg/1280px-Prionodon_linsang.jpg)
+### Arctic fox (Vulpes lagopus)
+![Arctic fox (Vulpes lagopus)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg/960px-Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg)
 <!-- END_ANIMAL -->
 
 
