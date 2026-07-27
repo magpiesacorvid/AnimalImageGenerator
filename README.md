@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-27 03:26:18 UTC
-**Next update:** ~2026-07-27 03:28:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-27 03:28:19 UTC
+**Next update:** ~2026-07-27 03:30:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Anderson's four-eyed opossum (Philander andersoni)
-![Anderson's four-eyed opossum (Philander andersoni)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Philander_andersoni_115107840.jpg/1280px-Philander_andersoni_115107840.jpg)
+### Andean mountain cat (Leopardus jacobita)
+![Andean mountain cat (Leopardus jacobita)](https://upload.wikimedia.org/wikipedia/commons/e/e0/Andean_cat_1_Jim_Sanderson.jpg)
 <!-- END_ANIMAL -->
 
 
