@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-27 06:58:19 UTC
-**Next update:** ~2026-07-27 07:00:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-27 07:00:52 UTC
+**Next update:** ~2026-07-27 07:02:52 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asian golden cat (Catopuma temminckii)
-![Asian golden cat (Catopuma temminckii)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Asian_Golden_cat.jpg/960px-Asian_Golden_cat.jpg)
+### African pygmy mouse (Mus minutoides)
+![African pygmy mouse (Mus minutoides)](https://upload.wikimedia.org/wikipedia/commons/6/66/Mus_minutoides00.jpg)
 <!-- END_ANIMAL -->
 
 
