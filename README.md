@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-27 00:36:28 UTC
-**Next update:** ~2026-07-27 00:38:28 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-27 00:38:18 UTC
+**Next update:** ~2026-07-27 00:40:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan talapoin (Miopithecus talapoin)
-![Angolan talapoin (Miopithecus talapoin)](https://upload.wikimedia.org/wikipedia/commons/7/78/Talapoin_II_-_Bioparc_Valencia_%282787418966%29.jpg)
+### African wildcat (Felis lybica)
+![African wildcat (Felis lybica)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Southern_African_Wildcat_%28Felis_sylvestris_cafra%29_female_..._%28captive_specimen%29_%2839789072173%29.jpg/1280px-Southern_African_Wildcat_%28Felis_sylvestris_cafra%29_female_..._%28captive_specimen%29_%2839789072173%29.jpg)
 <!-- END_ANIMAL -->
 
 
