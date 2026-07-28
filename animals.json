@@ -1,298 +1,102 @@
 [
-  {
-    "name": "Aardvark (Orycteropus afer)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Orycteropus_afer_175359469.jpg/1280px-Orycteropus_afer_175359469.jpg"
-  },
-  {
-    "name": "Aardwolf (Proteles cristata septentrionalis)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Aardwolf%2C_Buffalo_Springs_National_Park%2C_Kenya_1_%28cropped%29.jpg"
-  },
-  {
-    "name": "Acrobatic Cavy (Kerodon Acrobata)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kerodon-acrobata-asportella.JPG/1280px-Kerodon-acrobata-asportella.JPG"
-  },
-  {
-    "name": "Addax (Addax nasomaculatus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg/1280px-A_big_male_Addax_showing_as_the_power_of_his_horns.jpg"
-  },
-  {
-    "name": "Afghan Pika (Ochotona rufescens)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ochotona_rufescens_213736083.jpg/1280px-Ochotona_rufescens_213736083.jpg"
-  },
-   {
-    "name": "African brush-tailed porcupine (Atherurus africanus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Atherurus_africanus_Zoo_Berlin_01.jpg/1920px-Atherurus_africanus_Zoo_Berlin_01.jpg"
-  },
-   {
-    "name": "African buffalo (Syncerus caffer caffer)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/African_buffalo_%28Syncerus_caffer_caffer%29_male_with_cattle_egret.jpg/1280px-African_buffalo_%28Syncerus_caffer_caffer%29_male_with_cattle_egret.jpg"
-  },
-   {
-    "name": "African bush elephant (Loxodonta africana)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg"
-  },
-   {
-    "name": "African civet (Civettictis civetta)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Civettictis_civetta_11.jpg"
-  },
-   {
-    "name": "African clawless otter (Aonyx capensis)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Aonyx_capensis%2C_male%2C_Shamvura.jpg"
-  },
-   {
-    "name": "African forest buffalo (Syncerus caffer nanus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/African_Forest_Buffalo.jpg/960px-African_Forest_Buffalo.jpg"
-  },
-   {
-    "name": "African forest elephant (Loxodonta cyclotis)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Loxodontacyclotis.jpg/1280px-Loxodontacyclotis.jpg"
-  },
-   {
-    "name": "African leopard (Panthera pardus pardus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Leopard_%28Panthera_pardus_pardus%29_Kruger.jpg/1280px-Leopard_%28Panthera_pardus_pardus%29_Kruger.jpg"
-  },
-   {
-    "name": "African manatee (Trichechus senegalensis)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg/960px-African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg"
-  },
-   {
-    "name": "African palm civet (Nandinia binotata)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nandinia_binotata%2C_crop.jpg/960px-Nandinia_binotata%2C_crop.jpg"
-  },
-   {
-    "name": "African pygmy mouse (Mus minutoides)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Mus_minutoides00.jpg"
-  },
-   {
-    "name": "African striped weasel (Poecilogale albinucha)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Whitenapedweasellg2.jpg"
-  },
-   {
-    "name": "African wild ass (Equus africanus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg/1280px-Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg"
-  },
-   {
-    "name": "African wildcat (Felis lybica)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Southern_African_Wildcat_%28Felis_sylvestris_cafra%29_female_..._%28captive_specimen%29_%2839789072173%29.jpg/1280px-Southern_African_Wildcat_%28Felis_sylvestris_cafra%29_female_..._%28captive_specimen%29_%2839789072173%29.jpg"
-  },
-   {
-    "name": "African wild dog (Lycaon pictus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/African_Wild_Dog_at_Working_with_Wildlife.jpg/1920px-African_Wild_Dog_at_Working_with_Wildlife.jpg"
-  },
-   {
-    "name": "African wolf (Canis lupaster)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/African_wolf%2C_Dagana%2C_Senegal.jpg"
-  },
-   {
-    "name": "Agile gibbon (Hylobates agilis)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Agilegibbon.jpg/1280px-Agilegibbon.jpg"
-  },
-   {
-    "name": "Agile gracile opossum (Gracilinanus agilis)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Gracilinanus_agilis_04.jpg/960px-Gracilinanus_agilis_04.jpg"
-  },
-   {
-    "name": "Agile wallaby (Notamacropus agilis)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Agile_Wallaby_pair_-_East_Point_Reserve.jpg/1280px-Agile_Wallaby_pair_-_East_Point_Reserve.jpg"
-  },
-   {
-    "name": "Agouta (Solenodon paradoxus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Hispaniolan_Solenodon_crop.jpg"
-  },
-   {
-    "name": "Agricola's gracile opossum (Cryptonanus agricolai)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Cryptonanus_agricolai_478752226.jpg/1280px-Cryptonanus_agricolai_478752226.jpg"
-  },
-   {
-    "name": "Alaskan hare (Lepus othus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Arctic_Hare.jpg/1280px-Arctic_Hare.jpg"
-  },
-   {
-    "name": "Aldabra flying fox (Pteropus aldabrensis)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Aldabra_flying_fox_318252.jpg"
-  },
-   {
-    "name": "Alpaca (Lama pacos)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Alpaca_in_Higashiyama_Zoo_-_1.jpg/1280px-Alpaca_in_Higashiyama_Zoo_-_1.jpg"
-  },
-  {
-    "name": "Alpine ibex (Capra ibex)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg/960px-003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg"
-  },
-  {
-    "name": "Amami rabbit (Pentalagus furnessi)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pentalagus_furnessi_387708672.jpg/1280px-Pentalagus_furnessi_387708672.jpg"
-  },
-  {
-    "name": "Amazon weasel (Neogale africana)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Neogale_africana.jpg"
-  },
-  {
-    "name": "Amazonian long-tailed porcupine (Coendou longicaudatus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Coendou_prehensilis_JJK%271.jpg"
-  },
-  {
-    "name": "Amazonian manatee (Trichechus inunguis)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Manati_amazonico_en_Iquitos.jpg/1280px-Manati_amazonico_en_Iquitos.jpg"
-  },
-  {
-    "name": "American badger (Taxidea taxus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Taxidea_taxus_%28Point_Reyes%2C_2007%29.jpg/1280px-Taxidea_taxus_%28Point_Reyes%2C_2007%29.jpg"
-  },
-  {
-    "name": "American bison (Bison bison)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/American_bison_k5680-1.jpg/1280px-American_bison_k5680-1.jpg"
-  },
-  {
-    "name": "American black bear (Ursus americanus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/01_Schwarzb%C3%A4r.jpg"
-  },
-  {
-    "name": "American stoat (Mustela richardsonii)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ermine-_Bacon_Fiend_%2814083889879%29.jpg/960px-Ermine-_Bacon_Fiend_%2814083889879%29.jpg"
-  },
-  {
-    "name": "American hog-nosed skunk (Conepatus leuconotus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hognosed_skunk.jpg"
-  },
-  {
-    "name": "American marten (Martes americana)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Newfoundland_Pine_Marten.jpg"
-  },
-  {
-    "name": "American mink (Neogale vison)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/MinkforWiki.jpg"
-  },
-  {
-    "name": "American pika (Ochotona princeps)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/American_pika_Banff_National_Park.jpg"
-  },
-  {
-    "name": "Amur hedgehog (Erinaceus amurensis)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Erinaceus_amurensis.jpg"
-  },
-  {
-    "name": "Andean hairy armadillo (Chaetophractus nationi)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Chaetophractus_nationi%2C_Oruro%2C_Bolivia_-_20090824.jpg"
-  },
-  {
-    "name": "Andean mountain cat (Leopardus jacobita)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Andean_cat_1_Jim_Sanderson.jpg"
-  },
-  {
-    "name": "Andean porcupine (Coendou quichua)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Porcupine_6.jpg/1280px-Porcupine_6.jpg"
-  },
-  {
-    "name": "Andean white-eared opossum (Didelphis pernigra)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Didelphis_pernigra_29825860_1.jpg"
-  },
-  {
-    "name": "Anderson's four-eyed opossum (Philander andersoni)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Philander_andersoni_115107840.jpg/1280px-Philander_andersoni_115107840.jpg"
-  },
-  {
-    "name": "Angolan Genet",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Genetta_angolensis.jpg"
-  },
-  {
-    "name": "Angolan giraffe (Giraffa giraffa angolensis)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg/1280px-106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg"
-  },
-  {
-    "name": "Angolan slender mongoose (Herpestes flavescens) ",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Galerella_flavescens.jpg/960px-Galerella_flavescens.jpg"
-  },
-  {
-    "name": "Angolan talapoin (Miopithecus talapoin)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Talapoin_II_-_Bioparc_Valencia_%282787418966%29.jpg"
-  },
-  {
-    "name": "Annamite striped rabbit (Nesolagus timminsi)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Annamite_striped_rabbit_%28Nesolagus_timminsi%29.jpg"
-  },
-  {
-    "name": "Antarctic fur seal (Arctocephalus gazella) ",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Seeb%C3%A4r_%28Arctocephalus%29_01.jpg"
-  },
-  {
-    "name": "Antarctic minke whale (Balaenoptera bonaerensis)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Minke_whale_in_ross_sea.jpg/960px-Minke_whale_in_ross_sea.jpg"
-  },
-  {
-    "name": "Antelope jackrabbit (Lepus alleni)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Lepus_alleni_83745875_%28cropped%29.jpg"
-  },
-  {
-    "name": "Antilopine kangaroo (Osphranter antilopinus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/AntilopineWallerooLargeMale.jpg"
-  },
-  {
-    "name": "Arabian Oryx (Oryx leucoryx)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Arabian_oryx_%28oryx_leucoryx%29.jpg"
-  },
-  {
-    "name": "Arabian tahr (Arabitragus jayakari)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg/1280px-Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg"
-  },
-  {
-    "name": "Arctic fox (Vulpes lagopus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg/960px-Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg"
-  },
-  {
-    "name": "Arctic fox (Vulpes lagopus) (Summer Coat (LAWD HE BALD AS HELL))",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%D0%A1%D0%B0%D0%BC%D0%BA%D0%B0_%D0%BF%D0%B5%D1%81%D1%86%D0%B0_%D1%81%D0%BE_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%BC_%D0%BF%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%BC_%28cropped%29.jpg/960px-%D0%A1%D0%B0%D0%BC%D0%BA%D0%B0_%D0%BF%D0%B5%D1%81%D1%86%D0%B0_%D1%81%D0%BE_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%BC_%D0%BF%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%BC_%28cropped%29.jpg"
-  },
-  {
-    "name": "Arctic hare (Lepus arcticus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Arctic_Hare_1.jpg"
-  },
-  {
-    "name": "Arfak triok (Dactylonax kambuayai)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Arfak_Striped_Possum_%28Dactylopsila_kambuayai%29_Female.png"
-  },
-  {
-    "name": "Argali (Ovis ammon)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ovis_ammon_%28cropped%29.jpg/960px-Ovis_ammon_%28cropped%29.jpg"
-  },
-  {
-    "name": "Asian black bear (Ursus thibetanus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/960px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG"
-  },
-  {
-    "name": "Asian elephant (Elephas maximus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/1280px-Elephas_maximus_%28Bandipur%29.jpg"
-  },
-  {
-    "name": "Asian golden cat (Catopuma temminckii)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Asian_Golden_cat.jpg/960px-Asian_Golden_cat.jpg"
-  },
-  {
-    "name": "Asian palm civet (Paradoxurus hermaphroditus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg/1280px-Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg"
-  },
-  {
-    "name": "Asian small-clawed otter (Aonyx cinereus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Otter_-_melbourne_zoo.jpg/1280px-Otter_-_melbourne_zoo.jpg"
-  },
-  {
-    "name": "Asiatic brush-tailed porcupine (Atherurus macrourus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Brush-tailed_Porcupine%2C_Atherurus_macrourus_in_Kaeng_Krachan_national_park_%2815925250476%29.jpg"
-  },
-  {
-    "name": "Asiatic linsang (Prionodon)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Prionodon_linsang.jpg/1280px-Prionodon_linsang.jpg"
-  },
-  {
-    "name": "Atlantic white-sided dolphin (Lagenorhynchus acutus)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Atlantic_white-sided_dolphin.jpg"
-  },
-  {
-    "name": "Australian sea lion (Neophoca cinerea)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Australian_sea_lion_02.JPG/1280px-Australian_sea_lion_02.JPG"
-  },
-  {
-    "name": "Aye-aye (Daubentonia madagascariensis)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_aye_aye.jpg/1280px-Wild_aye_aye.jpg"
-  }
+  {"name": "Aardvark", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Orycteropus_afer_175359469.jpg/1280px-Orycteropus_afer_175359469.jpg"},
+  {"name": "Aardwolf", "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Aardwolf%2C_Buffalo_Springs_National_Park%2C_Kenya_1_%28cropped%29.jpg"},
+  {"name": "Abyssinian cat", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fawn_Abyssinian_cat.jpg"},
+  {"name": "Acrobatic cavy", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kerodon-acrobata-asportella.JPG/1280px-Kerodon-acrobata-asportella.JPG"},
+  {"name": "Addax", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg/1280px-A_big_male_Addax_showing_as_the_power_of_his_horns.jpg"},
+  {"name": "Aegean cat", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aegean_Island_Cat.jpg"},
+  {"name": "Afghan pika", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ochotona_rufescens_213736083.jpg/1280px-Ochotona_rufescens_213736083.jpg"},
+  {"name": "African brush-tailed porcupine", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Atherurus_africanus_Zoo_Berlin_01.jpg/1920px-Atherurus_africanus_Zoo_Berlin_01.jpg"},
+  {"name": "African buffalo", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/African_buffalo_%28Syncerus_caffer_caffer%29_male_with_cattle_egret.jpg/1280px-African_buffalo_%28Syncerus_caffer_caffer%29_male_with_cattle_egret.jpg"},
+  {"name": "African bush elephant", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg"},
+  {"name": "African civet", "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Civettictis_civetta_11.jpg"},
+  {"name": "African clawless otter", "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Aonyx_capensis%2C_male%2C_Shamvura.jpg"},
+  {"name": "African forest buffalo", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/African_Forest_Buffalo.jpg/960px-African_Forest_Buffalo.jpg"},
+  {"name": "African forest elephant", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Loxodontacyclotis.jpg/1280px-Loxodontacyclotis.jpg"},
+  {"name": "African Leopard", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Leopard_%28Panthera_pardus_pardus%29_Kruger.jpg/1280px-Leopard_%28Panthera_pardus_pardus%29_Kruger.jpg"},
+  {"name": "African manatee", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg/960px-African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg"},
+  {"name": "African Palm Civet", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nandinia_binotata%2C_crop.jpg/960px-Nandinia_binotata%2C_crop.jpg"},
+  {"name": "African pygmy mouse", "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Mus_minutoides00.jpg"},
+  {"name": "African striped weasel", "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Whitenapedweasellg2.jpg"},
+  {"name": "African wild ass", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg/1280px-Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg"},
+  {"name": "African Wild Cat", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Southern_African_Wildcat_%28Felis_sylvestris_cafra%29_female_..._%28captive_specimen%29_%2839789072173%29.jpg/1280px-Southern_African_Wildcat_%28Felis_sylvestris_cafra%29_female_..._%28captive_specimen%29_%2839789072173%29.jpg"},
+  {"name": "African Wild Dog", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/African_Wild_Dog_at_Working_with_Wildlife.jpg/1920px-African_Wild_Dog_at_Working_with_Wildlife.jpg"},
+  {"name": "African Wolf", "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/African_wolf%2C_Dagana%2C_Senegal.jpg"},
+  {"name": "Agile gibbon", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Agilegibbon.jpg/1280px-Agilegibbon.jpg"},
+  {"name": "Agile gracile opossum", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Gracilinanus_agilis_04.jpg/960px-Gracilinanus_agilis_04.jpg"}
+  {"name": "Agile wallaby", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Agile_Wallaby_pair_-_East_Point_Reserve.jpg/1280px-Agile_Wallaby_pair_-_East_Point_Reserve.jpg"},
+  {"name": "Agouta", "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Hispaniolan_Solenodon_crop.jpg"},
+  {"name": "Agricola's gracile opossum", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Cryptonanus_agricolai_478752226.jpg/1280px-Cryptonanus_agricolai_478752226.jpg"},
+  {"name": "Alaskan hare", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Arctic_Hare.jpg/1280px-Arctic_Hare.jpg"},
+  {"name": "Aldabra flying fox", "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Aldabra_flying_fox_318252.jpg"},
+  {"name": "Alpaca", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Alpaca_in_Higashiyama_Zoo_-_1.jpg/1280px-Alpaca_in_Higashiyama_Zoo_-_1.jpg"},
+  {"name": "Alpine ibex", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg/960px-003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg"},
+  {"name": "Amami rabbit", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pentalagus_furnessi_387708672.jpg/1280px-Pentalagus_furnessi_387708672.jpg"},
+  {"name": "Amazon weasel", "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Neogale_africana.jpg"},
+  {"name": "Amazonian long-tailed porcupine", "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Coendou_prehensilis_JJK%271.jpg"},
+  {"name": "Amazonian manatee", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Manati_amazonico_en_Iquitos.jpg/1280px-Manati_amazonico_en_Iquitos.jpg"},
+  {"name": "American badger", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Taxidea_taxus_%28Point_Reyes%2C_2007%29.jpg/1280px-Taxidea_taxus_%28Point_Reyes%2C_2007%29.jpg"},
+  {"name": "American bison", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/American_bison_k5680-1.jpg/1280px-American_bison_k5680-1.jpg"},
+  {"name": "American Black Bear", "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/01_Schwarzb%C3%A4r.jpg"},
+  {"name": "Asian mole shrew", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Anourosorex_squamips_yamashinai_%28adult%29_PShaner_2011-5-4.png/1920px-Anourosorex_squamips_yamashinai_%28adult%29_PShaner_2011-5-4.png"},
+  {"name": "American Bobtail", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/American_bobtail_2.jpg"},
+  {"name": "American Curl", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/American_curl_2.jpg"},
+  {"name": "American ermine", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ermine-_Bacon_Fiend_%2814083889879%29.jpg/960px-Ermine-_Bacon_Fiend_%2814083889879%29.jpg"},
+  {"name": "American hog-nosed skunk", "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hognosed_skunk.jpg"},
+  {"name": "American marten", "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Newfoundland_Pine_Marten.jpg"},
+  {"name": "American Mink", "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/MinkforWiki.jpg"},
+  {"name": "American pika", "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/American_pika_Banff_National_Park.jpg"},
+  {"name": "American Shorthair", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jewelkatz_Romeo_Of_Stalker-Bars.jpg"},
+  {"name": "American Wirehair", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/American_Wirehair.jpg"},
+  {"name": "Amur hedgehog", "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Erinaceus_amurensis.jpg"}
+  {"name": "Andean hairy armadillo", "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Chaetophractus_nationi%2C_Oruro%2C_Bolivia_-_20090824.jpg"},
+  {"name": "Andean Mountain Cat", "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Andean_cat_1_Jim_Sanderson.jpg"},
+  {"name": "Andean porcupine", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Porcupine_6.jpg/1280px-Porcupine_6.jpg"},
+  {"name": "Andean White-eared Opossum", "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Didelphis_pernigra_29825860_1.jpg"},
+  {"name": "Anderson's four-eyed opossum", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Philander_andersoni_115107840.jpg/1280px-Philander_andersoni_115107840.jpg"},
+  {"name": "Angolan genet", "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Genetta_angolensis.jpg"},
+  {"name": "Angolan giraffe", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg/1280px-106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg"},
+  {"name": "Angolan Slender Mongoose", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Galerella_flavescens.jpg/960px-Galerella_flavescens.jpg"},
+  {"name": "Angolan talapoin", "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Talapoin_II_-_Bioparc_Valencia_%282787418966%29.jpg"},
+  {"name": "Annamite striped rabbit", "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Annamite_striped_rabbit_%28Nesolagus_timminsi%29.jpg"},
+  {"name": "Antarctic Fur Seal", "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Seeb%C3%A4r_%28Arctocephalus%29_01.jpg"},
+  {"name": "Antarctic minke whale", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Minke_whale_in_ross_sea.jpg/960px-Minke_whale_in_ross_sea.jpg"},
+  {"name": "Antelope jackrabbit", "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Lepus_alleni_83745875_%28cropped%29.jpg"},
+  {"name": "Antilopine kangaroo", "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/AntilopineWallerooLargeMale.jpg"},
+  {"name": "Arabian Mau", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bex_Arabian_Mau.jpg"},
+  {"name": "Arabian oryx", "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Arabian_oryx_%28oryx_leucoryx%29.jpg"},
+  {"name": "Arabian tahr", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg/1280px-Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg"},
+  {"name": "Asian palm civet", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg/1280px-Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg"},
+  {"name": "Asian small-clawed otter", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Otter_-_melbourne_zoo.jpg/1280px-Otter_-_melbourne_zoo.jpg"},
+  {"name": "Asiatic brush-tailed porcupine", "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Brush-tailed_Porcupine%2C_Atherurus_macrourus_in_Kaeng_Krachan_national_park_%2815925250476%29.jpg"},
+  {"name": "Asiatic linsang", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Prionodon_linsang.jpg/1280px-Prionodon_linsang.jpg"},
+  {"name": "Asiatic water shrew", "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Kawanezumi.jpg"},
+  {"name": "Atlantic white-sided dolphin", "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Atlantic_white-sided_dolphin.jpg"},
+  {"name": "Australian big-eared bat", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lesser_Long-eared_Bat_%28Nyctophilus_geoffroyi%29_%288656888933%29.jpg/1920px-Lesser_Long-eared_Bat_%28Nyctophilus_geoffroyi%29_%288656888933%29.jpg"},
+  {"name": "Australian Mist Cat", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Australian_Mist.jpg"}
+  {"name": "Australian sea lion", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Australian_sea_lion_02.JPG/1280px-Australian_sea_lion_02.JPG"},
+  {"name": "Aye-aye", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_aye_aye.jpg/1280px-Wild_aye_aye.jpg"},
+  {"name": "Bactrian camel", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Camelus_bactrianus_%2855026866188%29.jpg/1920px-Camelus_bactrianus_%2855026866188%29.jpg"},
+  {"name": "Bengal Tiger", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg"},
+  {"name": "Benin tree hyrax", "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Dendrohyrax_interfluvialis.jpg"},
+  {"name": "Bennett's tree-kangaroo", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bennett's_Tree-kangaroo.jpg"},
+  {"name": "Bettongs", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Burrowing_bettong.jpg"},
+  {"name": "Bharal", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bharal,_Himalayan_blue_sheep.jpg"},
+  {"name": "Big hairy armadillo", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chaetophractus_villosus_(Wroclaw_zoo).JPG"},
+  {"name": "Big lutrine opossum", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lutreolina_crassicaudata_216572398.jpg/1920px-Lutreolina_crassicaudata_216572398.jpg"},
+  {"name": "Big-eared opossum", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Didelphis_aurita_photo-Christian_Roger_Dockhorn.JPG/1920px-Didelphis_aurita_photo-Christian_Roger_Dockhorn.JPG"},
+  {"name": "Big-eared woodrat", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Neotoma_macrotis.jpg/1920px-Neotoma_macrotis.jpg"},
+  {"name": "Bighorn sheep", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Big_Horn_Sheep.jpg"},
+  {"name": "Binturong", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Binturong001.JPG"},
+  {"name": "Birman Cat", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Minerva-25.jpg"},
+  {"name": "Bishop's slender opossum", "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Marmosops_bishopi.jpg"},
+  {"name": "Black Backed Jackal", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Black-backed_jackal_(Canis_mesomelas_mesomelas).jpg"},
+  {"name": "Baikal seal", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baikal-seal_4747-pho.jpg"},
+  {"name": "Baird's tapir", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baird's_tapir_mother_with_baby_(92151).jpg"},
+  {"name": "Baker's small-toothed harvest mouse", "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Reithrodontomys_bakeri.jpeg"},
+  {"name": "Black duiker", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_Duiker.jpg"},
+  {"name": "Bald uakari", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Male_uakari.jpg"},
+  {"name": "Bali cattle", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bali_Cattle.jpg"},
+  {"name": "Balinese cat", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ghislaine_6028.jpg"},
+  {"name": "Banded Mongoose", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Banded_mongoose_(Mungos_mungo).jpg"}
 ]
