@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-28 15:58:21 UTC
-**Next update:** ~2026-07-28 16:00:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-28 16:00:57 UTC
+**Next update:** ~2026-07-28 16:02:57 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African pygmy mouse
-![African pygmy mouse](https://upload.wikimedia.org/wikipedia/commons/6/66/Mus_minutoides00.jpg)
+### Bighorn sheep
+![Bighorn sheep](https://commons.wikimedia.org/wiki/Special:FilePath/Big_Horn_Sheep.jpg)
 <!-- END_ANIMAL -->
 
 
