@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-28 17:58:25 UTC
-**Next update:** ~2026-07-28 18:00:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-28 18:00:59 UTC
+**Next update:** ~2026-07-28 18:02:59 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bighorn sheep
-![Bighorn sheep](https://commons.wikimedia.org/wiki/Special:FilePath/Big_Horn_Sheep.jpg)
+### African brush-tailed porcupine
+![African brush-tailed porcupine](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Atherurus_africanus_Zoo_Berlin_01.jpg/1920px-Atherurus_africanus_Zoo_Berlin_01.jpg)
 <!-- END_ANIMAL -->
 
 
