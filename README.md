@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-28 11:10:34 UTC
-**Next update:** ~2026-07-28 11:12:34 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-28 11:12:27 UTC
+**Next update:** ~2026-07-28 11:14:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American marten (Martes americana)
-![American marten (Martes americana)](https://upload.wikimedia.org/wikipedia/commons/8/8e/Newfoundland_Pine_Marten.jpg)
+### Asian small-clawed otter (Aonyx cinereus)
+![Asian small-clawed otter (Aonyx cinereus)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Otter_-_melbourne_zoo.jpg/1280px-Otter_-_melbourne_zoo.jpg)
 <!-- END_ANIMAL -->
 
 
