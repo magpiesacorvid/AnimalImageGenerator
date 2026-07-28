@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-28 16:22:21 UTC
-**Next update:** ~2026-07-28 16:24:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-28 16:24:27 UTC
+**Next update:** ~2026-07-28 16:26:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American bison
-![American bison](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/American_bison_k5680-1.jpg/1280px-American_bison_k5680-1.jpg)
+### Asian mole shrew
+![Asian mole shrew](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Anourosorex_squamips_yamashinai_%28adult%29_PShaner_2011-5-4.png/1920px-Anourosorex_squamips_yamashinai_%28adult%29_PShaner_2011-5-4.png)
 <!-- END_ANIMAL -->
 
 
