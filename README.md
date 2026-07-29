@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-29 21:16:29 UTC
-**Next update:** ~2026-07-29 21:18:29 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-29 21:18:20 UTC
+**Next update:** ~2026-07-29 21:20:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Binturong
-![Binturong](https://commons.wikimedia.org/wiki/Special:FilePath/Binturong001.JPG)
+### African pygmy mouse
+![African pygmy mouse](https://upload.wikimedia.org/wikipedia/commons/6/66/Mus_minutoides00.jpg)
 <!-- END_ANIMAL -->
 
 
