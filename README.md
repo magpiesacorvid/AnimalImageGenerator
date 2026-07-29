@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-29 12:54:22 UTC
-**Next update:** ~2026-07-29 12:56:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-29 12:56:25 UTC
+**Next update:** ~2026-07-29 12:58:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Atlantic white-sided dolphin
-![Atlantic white-sided dolphin](https://upload.wikimedia.org/wikipedia/commons/9/9a/Atlantic_white-sided_dolphin.jpg)
+### Asiatic brush-tailed porcupine
+![Asiatic brush-tailed porcupine](https://upload.wikimedia.org/wikipedia/commons/7/76/Brush-tailed_Porcupine%2C_Atherurus_macrourus_in_Kaeng_Krachan_national_park_%2815925250476%29.jpg)
 <!-- END_ANIMAL -->
 
 
