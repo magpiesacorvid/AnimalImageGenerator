@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-29 20:26:24 UTC
-**Next update:** ~2026-07-29 20:28:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-29 20:28:19 UTC
+**Next update:** ~2026-07-29 20:30:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bald uakari
-![Bald uakari](https://commons.wikimedia.org/wiki/Special:FilePath/Male_uakari.jpg)
+### American Wirehair
+![American Wirehair](https://commons.wikimedia.org/wiki/Special:FilePath/American_Wirehair.jpg)
 <!-- END_ANIMAL -->
 
 
