@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-29 06:10:32 UTC
-**Next update:** ~2026-07-29 06:12:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-29 06:12:25 UTC
+**Next update:** ~2026-07-29 06:14:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Annamite striped rabbit
-![Annamite striped rabbit](https://upload.wikimedia.org/wikipedia/commons/9/98/Annamite_striped_rabbit_%28Nesolagus_timminsi%29.jpg)
+### Amazonian manatee
+![Amazonian manatee](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Manati_amazonico_en_Iquitos.jpg/1280px-Manati_amazonico_en_Iquitos.jpg)
 <!-- END_ANIMAL -->
 
 
