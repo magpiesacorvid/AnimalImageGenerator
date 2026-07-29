@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-29 12:30:54 UTC
-**Next update:** ~2026-07-29 12:32:54 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-29 12:32:23 UTC
+**Next update:** ~2026-07-29 12:34:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Benin tree hyrax
-![Benin tree hyrax](https://upload.wikimedia.org/wikipedia/commons/2/2c/Dendrohyrax_interfluvialis.jpg)
+### Annamite striped rabbit
+![Annamite striped rabbit](https://upload.wikimedia.org/wikipedia/commons/9/98/Annamite_striped_rabbit_%28Nesolagus_timminsi%29.jpg)
 <!-- END_ANIMAL -->
 
 
