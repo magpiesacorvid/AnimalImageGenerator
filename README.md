@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-29 15:22:28 UTC
-**Next update:** ~2026-07-29 15:24:28 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-29 15:24:26 UTC
+**Next update:** ~2026-07-29 15:26:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Blackbuck
-![Blackbuck](https://upload.wikimedia.org/wikipedia/commons/5/5e/Blackbuck_male_female.jpg)
+### Baturite porcupine
+![Baturite porcupine](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Coendou_baturitensis_Mulungu-CE.JPG/1920px-Coendou_baturitensis_Mulungu-CE.JPG)
 <!-- END_ANIMAL -->
 
 
