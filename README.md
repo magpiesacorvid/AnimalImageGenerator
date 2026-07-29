@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-29 13:08:31 UTC
-**Next update:** ~2026-07-29 13:10:31 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-29 13:10:45 UTC
+**Next update:** ~2026-07-29 13:12:45 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African civet
-![African civet](https://upload.wikimedia.org/wikipedia/commons/a/a2/Civettictis_civetta_11.jpg)
+### Agricola's gracile opossum
+![Agricola's gracile opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Cryptonanus_agricolai_478752226.jpg/1280px-Cryptonanus_agricolai_478752226.jpg)
 <!-- END_ANIMAL -->
 
 
