@@ -23,4 +23,7 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 
 # ANIMAL UPDATES!!!!
 03/07/26 - added quite a few mammals starting with "a"... thats enough for tonight..
+
 28/07/26 - more mammals with a!!!! i only have 2 minutes to type this ougghhmm.. STARTING ON B NOW
+
+29/07/26 - about 75 new animals added, some bats, monkeys, wildebeest...
