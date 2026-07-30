@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-30 13:34:21 UTC
-**Next update:** ~2026-07-30 13:36:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-30 13:36:32 UTC
+**Next update:** ~2026-07-30 13:38:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chinese pangolin
-![Chinese pangolin](https://upload.wikimedia.org/wikipedia/commons/9/94/Manis_pentadactyla_%2829054818144%29.jpg)
+### Baikal seal
+![Baikal seal](https://commons.wikimedia.org/wiki/Special:FilePath/Baikal-seal_4747-pho.jpg)
 <!-- END_ANIMAL -->
 
 
