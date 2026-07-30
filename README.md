@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-30 06:01:02 UTC
-**Next update:** ~2026-07-30 06:03:02 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-30 06:02:26 UTC
+**Next update:** ~2026-07-30 06:04:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Goldman's woodrat
-![Goldman's woodrat](https://upload.wikimedia.org/wikipedia/commons/1/15/Neotoma_goldmani_377907_%28cropped%29.jpg)
+### Camas pocket gopher
+![Camas pocket gopher](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Camas_pocket_gopher_%283%29.JPG/1920px-Camas_pocket_gopher_%283%29.JPG)
 <!-- END_ANIMAL -->
 
 
