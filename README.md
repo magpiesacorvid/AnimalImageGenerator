@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-30 05:36:20 UTC
-**Next update:** ~2026-07-30 05:38:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-30 05:38:27 UTC
+**Next update:** ~2026-07-30 05:40:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Broad-striped Malagasy mongoose
-![Broad-striped Malagasy mongoose](https://upload.wikimedia.org/wikipedia/commons/1/1a/Galidictis_fasciata_Striped_Vontsira%2C_Atsimo-Andrefana%2C_MG-TL%2C_MG_iNaturalist.jpg)
+### Cacomistle
+![Cacomistle](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bassariscus_sumichrasti.jpg/1920px-Bassariscus_sumichrasti.jpg)
 <!-- END_ANIMAL -->
 
 
