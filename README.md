@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-30 05:46:20 UTC
-**Next update:** ~2026-07-30 05:48:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-30 05:48:19 UTC
+**Next update:** ~2026-07-30 05:50:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eurasian Lynx
-![Eurasian Lynx](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lynx_Nationalpark_Bayerischer_Wald_01.jpg/1920px-Lynx_Nationalpark_Bayerischer_Wald_01.jpg)
+### Bay Cat
+![Bay Cat](https://upload.wikimedia.org/wikipedia/commons/b/ba/Bay_cat_1_Jim_Sanderson-cropped.jpg)
 <!-- END_ANIMAL -->
 
 
