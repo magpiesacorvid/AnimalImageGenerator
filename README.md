@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-30 16:26:27 UTC
-**Next update:** ~2026-07-30 16:28:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-30 16:28:26 UTC
+**Next update:** ~2026-07-30 16:30:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Giant eland
-![Giant eland](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Giant_eland_%28Taurotragus_derbianus_derbianus%29_male.jpg/1920px-Giant_eland_%28Taurotragus_derbianus_derbianus%29_male.jpg)
+### Grizzled tree-kangaroo
+![Grizzled tree-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kangguru_pohon.jpg/1920px-Kangguru_pohon.jpg)
 <!-- END_ANIMAL -->
 
 
