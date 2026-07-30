@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-30 11:34:27 UTC
-**Next update:** ~2026-07-30 11:36:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-30 11:36:31 UTC
+**Next update:** ~2026-07-30 11:38:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chinese ferret-badger
-![Chinese ferret-badger](https://upload.wikimedia.org/wikipedia/commons/b/b0/Melogale_moschata_%28male%29_Praha_zoo_02.2011_02.jpg)
+### Hairy-fronted muntjac
+![Hairy-fronted muntjac](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2011_Muntjak-4.jpg/1920px-2011_Muntjak-4.jpg)
 <!-- END_ANIMAL -->
 
 
