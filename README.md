@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-30 17:14:27 UTC
-**Next update:** ~2026-07-30 17:16:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-30 17:16:20 UTC
+**Next update:** ~2026-07-30 17:18:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Domestic sheep
-![Domestic sheep](https://upload.wikimedia.org/wikipedia/commons/2/2c/Flock_of_sheep.jpg)
+### Broom hare
+![Broom hare](https://upload.wikimedia.org/wikipedia/commons/5/50/Lepus_castroviejoi_392447261_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
