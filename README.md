@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-30 17:04:23 UTC
-**Next update:** ~2026-07-30 17:06:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-30 17:06:24 UTC
+**Next update:** ~2026-07-30 17:08:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Commerson's leaf-nosed bat
-![Commerson's leaf-nosed bat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Commerson%27s_leaf-nosed_bat_%28Hipposideros_commersoni%29.jpg/1920px-Commerson%27s_leaf-nosed_bat_%28Hipposideros_commersoni%29.jpg)
+### Feathertail glider
+![Feathertail glider](https://upload.wikimedia.org/wikipedia/commons/6/6d/Acrobates_neuneu.jpg)
 <!-- END_ANIMAL -->
 
 
