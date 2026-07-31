@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-31 02:22:28 UTC
-**Next update:** ~2026-07-31 02:24:28 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-31 02:24:25 UTC
+**Next update:** ~2026-07-31 02:26:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown-throated sloth
-![Brown-throated sloth](https://commons.wikimedia.org/wiki/Special:FilePath/Brown-throated_sloth_on_tree.jpg)
+### Eastern lowland olingo
+![Eastern lowland olingo](https://upload.wikimedia.org/wikipedia/commons/f/f0/Bassaricyon_alleni.jpg)
 <!-- END_ANIMAL -->
 
 
