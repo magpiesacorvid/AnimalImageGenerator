@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-31 13:14:20 UTC
-**Next update:** ~2026-07-31 13:16:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-31 13:16:28 UTC
+**Next update:** ~2026-07-31 13:18:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hamadryas baboon
-![Hamadryas baboon](https://upload.wikimedia.org/wikipedia/commons/9/9c/Papio_hamadryas_eating_an_apple.JPG)
+### Angolan giraffe
+![Angolan giraffe](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg/1280px-106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
