@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-31 18:08:20 UTC
-**Next update:** ~2026-07-31 18:10:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-31 18:10:41 UTC
+**Next update:** ~2026-07-31 18:12:41 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Capuchin monkey
-![Capuchin monkey](https://upload.wikimedia.org/wikipedia/commons/4/40/Capuchin_Costa_Rica.jpg)
+### Brazilian Shorthair
+![Brazilian Shorthair](https://upload.wikimedia.org/wikipedia/commons/8/87/Gato_pelo_curto_brasileiro.JPG)
 <!-- END_ANIMAL -->
 
 
