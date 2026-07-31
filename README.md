@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-31 21:12:20 UTC
-**Next update:** ~2026-07-31 21:14:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-31 21:14:20 UTC
+**Next update:** ~2026-07-31 21:16:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan giraffe
-![Angolan giraffe](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg/1280px-106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg)
+### Fat-tailed dunnart
+![Fat-tailed dunnart](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fat-tailed_Dunnart_imported_from_iNaturalist_photo_108307960_on_20_October_2024.jpg/1920px-Fat-tailed_Dunnart_imported_from_iNaturalist_photo_108307960_on_20_October_2024.jpg)
 <!-- END_ANIMAL -->
 
 
