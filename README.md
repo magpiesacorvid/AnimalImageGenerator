@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-31 07:00:59 UTC
-**Next update:** ~2026-07-31 07:02:59 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-31 07:02:20 UTC
+**Next update:** ~2026-07-31 07:04:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Argali Mountain Sheep
-![Argali Mountain Sheep](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ovis_ammon_%28cropped%29.jpg/960px-Ovis_ammon_%28cropped%29.jpg)
+### Agile wallaby
+![Agile wallaby](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Agile_Wallaby_pair_-_East_Point_Reserve.jpg/1280px-Agile_Wallaby_pair_-_East_Point_Reserve.jpg)
 <!-- END_ANIMAL -->
 
 
