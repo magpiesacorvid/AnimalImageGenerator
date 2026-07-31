@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-31 05:38:27 UTC
-**Next update:** ~2026-07-31 05:40:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-31 05:40:31 UTC
+**Next update:** ~2026-07-31 05:42:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Colorpoint Shorthair
-![Colorpoint Shorthair](https://upload.wikimedia.org/wikipedia/commons/1/11/Chocolate_Tortie_Pt_11636-140.jpg)
+### Common eland
+![Common eland](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Taurotragus_oryx_-_young_bull_-_Etosha_2015.jpg/1920px-Taurotragus_oryx_-_young_bull_-_Etosha_2015.jpg)
 <!-- END_ANIMAL -->
 
 
