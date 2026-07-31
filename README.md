@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-31 20:18:45 UTC
-**Next update:** ~2026-07-31 20:20:45 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-31 20:20:42 UTC
+**Next update:** ~2026-07-31 20:22:42 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Felou gundi
-![Felou gundi](https://upload.wikimedia.org/wikipedia/commons/c/cc/Felovia_vae.jpg)
+### Cape bushbuck
+![Cape bushbuck](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cape_bushbuck_%28Tragelaphus_sylvaticus%29_female.jpg/1920px-Cape_bushbuck_%28Tragelaphus_sylvaticus%29_female.jpg)
 <!-- END_ANIMAL -->
 
 
