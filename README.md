@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-31 07:46:20 UTC
-**Next update:** ~2026-07-31 07:48:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-31 07:48:24 UTC
+**Next update:** ~2026-07-31 07:50:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Banded palm civet
-![Banded palm civet](https://commons.wikimedia.org/wiki/Special:FilePath/Banded_Palm_Civet-2.jpg)
+### Bowhead whale
+![Bowhead whale](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bowhead_Whale_NOAA.jpg/1920px-Bowhead_Whale_NOAA.jpg)
 <!-- END_ANIMAL -->
 
 
