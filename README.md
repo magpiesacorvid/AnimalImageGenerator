@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-31 17:58:28 UTC
-**Next update:** ~2026-07-31 18:00:28 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-31 18:01:02 UTC
+**Next update:** ~2026-07-31 18:03:02 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Antilopine kangaroo
-![Antilopine kangaroo](https://upload.wikimedia.org/wikipedia/commons/c/cb/AntilopineWallerooLargeMale.jpg)
+### Gemsbok
+![Gemsbok](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gemsbok_%28Oryx_gazella%29_male.jpg/1920px-Gemsbok_%28Oryx_gazella%29_male.jpg)
 <!-- END_ANIMAL -->
 
 
