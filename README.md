@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-31 19:16:31 UTC
-**Next update:** ~2026-07-31 19:18:31 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-31 19:18:29 UTC
+**Next update:** ~2026-07-31 19:20:29 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Grey-cheeked mangabey
-![Grey-cheeked mangabey](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Grey-cheeked_Mangabey.JPG/1920px-Grey-cheeked_Mangabey.JPG)
+### East Caucasian tur
+![East Caucasian tur](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Daghestanischer_Tur_Ostkaukasischer_Steinbock_Capra_cylindricornis_Zoo_Augsburg-10_%28cropped%29.jpg/1920px-Daghestanischer_Tur_Ostkaukasischer_Steinbock_Capra_cylindricornis_Zoo_Augsburg-10_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
