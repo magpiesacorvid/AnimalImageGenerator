@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-07-31 16:58:29 UTC
-**Next update:** ~2026-07-31 17:00:29 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-07-31 17:02:02 UTC
+**Next update:** ~2026-07-31 17:04:02 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Fennec fox
-![Fennec fox](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fennec_Fox_Vulpes_zerda.jpg/1920px-Fennec_Fox_Vulpes_zerda.jpg)
+### Antelope jackrabbit
+![Antelope jackrabbit](https://upload.wikimedia.org/wikipedia/commons/e/ea/Lepus_alleni_83745875_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
