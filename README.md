@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-01 06:02:32 UTC
-**Next update:** ~2026-08-01 06:04:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-01 06:06:34 UTC
+**Next update:** ~2026-08-01 06:08:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Douc
-![Douc](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Red-shanked_Douc_%28Pygathrix_nemaeus%29_-Philadelphia_Zoo.jpg/1920px-Red-shanked_Douc_%28Pygathrix_nemaeus%29_-Philadelphia_Zoo.jpg)
+### Desert hare
+![Desert hare](https://upload.wikimedia.org/wikipedia/commons/5/5f/Lepus_tibetanus_418805770_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
