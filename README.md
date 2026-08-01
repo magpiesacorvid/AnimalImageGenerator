@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-01 10:48:28 UTC
-**Next update:** ~2026-08-01 10:50:28 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-01 10:50:34 UTC
+**Next update:** ~2026-08-01 10:52:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Elephant Shrew
-![Elephant Shrew](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rhynchocyon_petersi_from_side.jpg/1920px-Rhynchocyon_petersi_from_side.jpg)
+### Big-eared woodrat
+![Big-eared woodrat](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Neotoma_macrotis.jpg/1920px-Neotoma_macrotis.jpg)
 <!-- END_ANIMAL -->
 
 
