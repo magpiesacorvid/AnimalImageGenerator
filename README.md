@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-01 21:08:19 UTC
-**Next update:** ~2026-08-01 21:10:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-01 21:11:15 UTC
+**Next update:** ~2026-08-01 21:13:15 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Domestic guinea pig
-![Domestic guinea pig](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/George_the_amazing_guinea_pig.jpg/1920px-George_the_amazing_guinea_pig.jpg)
+### Big lutrine opossum
+![Big lutrine opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lutreolina_crassicaudata_216572398.jpg/1920px-Lutreolina_crassicaudata_216572398.jpg)
 <!-- END_ANIMAL -->
 
 
