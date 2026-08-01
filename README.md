@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-01 11:39:36 UTC
-**Next update:** ~2026-08-01 11:41:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-01 11:40:40 UTC
+**Next update:** ~2026-08-01 11:42:40 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cape genet
-![Cape genet](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Large-spotted_Genet_%28Genetta_tigrina%29_%2817356502041%29_%28crop%29.jpg/1920px-Large-spotted_Genet_%28Genetta_tigrina%29_%2817356502041%29_%28crop%29.jpg)
+### Arctic fox (Summer Coat)
+![Arctic fox (Summer Coat)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%D0%A1%D0%B0%D0%BC%D0%BA%D0%B0_%D0%BF%D0%B5%D1%81%D1%86%D0%B0_%D1%81%D0%BE_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%BC_%D0%BF%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%BC_%28cropped%29.jpg/960px-%D0%A1%D0%B0%D0%BC%D0%BA%D0%B0_%D0%BF%D0%B5%D1%81%D1%86%D0%B0_%D1%81%D0%BE_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%BC_%D0%BF%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%BC_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
