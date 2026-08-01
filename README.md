@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-01 04:38:25 UTC
-**Next update:** ~2026-08-01 04:40:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-01 04:40:31 UTC
+**Next update:** ~2026-08-01 04:42:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Golden-mantled ground squirrel
-![Golden-mantled ground squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Goldmantelziesel.jpg/1920px-Goldmantelziesel.jpg)
+### Chacoan mara
+![Chacoan mara](https://upload.wikimedia.org/wikipedia/commons/7/79/%D0%A7%D0%B0%D0%BA%D0%BE%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C_%D0%B8%D0%BB%D0%B8_%D1%87%D0%B0%D0%BA%D1%81%D0%BA%D0%B0%D1%8F%2C_%D0%B8%D0%BB%D0%B8_%D0%BC%D0%B0%D0%BB%D0%B0%D1%8F_%D0%BC%D0%B0%D1%80%D0%B0_%28Dolichotis_salinicola%29%2C_Chacoan_mara%2C_Kleiner_Mara%2C_Tierpark_Berlin_Friedrichsfelde%2C_10.2012.jpg)
 <!-- END_ANIMAL -->
 
 
