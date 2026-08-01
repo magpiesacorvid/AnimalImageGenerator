@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-01 14:38:42 UTC
-**Next update:** ~2026-08-01 14:40:42 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-01 14:40:31 UTC
+**Next update:** ~2026-08-01 14:42:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brazilian gracile opossum
-![Brazilian gracile opossum](https://upload.wikimedia.org/wikipedia/commons/c/cf/Catita_%28Gracilinanus_microtarsus%29_-_Leonardo_Mer%C3%A7on.jpg)
+### Alpaca
+![Alpaca](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Alpaca_in_Higashiyama_Zoo_-_1.jpg/1280px-Alpaca_in_Higashiyama_Zoo_-_1.jpg)
 <!-- END_ANIMAL -->
 
 
