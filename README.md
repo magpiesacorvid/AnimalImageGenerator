@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-01 22:29:23 UTC
-**Next update:** ~2026-08-01 22:31:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-01 22:33:14 UTC
+**Next update:** ~2026-08-01 22:35:14 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cowan's shrew tenrec
-![Cowan's shrew tenrec](https://upload.wikimedia.org/wikipedia/commons/6/61/Microgale_cowani.jpg)
+### Crawford's gray shrew
+![Crawford's gray shrew](https://upload.wikimedia.org/wikipedia/commons/d/d1/Crawford%27s_gray_shrew.jpg)
 <!-- END_ANIMAL -->
 
 
