@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-01 01:18:39 UTC
-**Next update:** ~2026-08-01 01:20:39 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-01 01:26:13 UTC
+**Next update:** ~2026-08-01 01:28:13 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American Shorthair
-![American Shorthair](https://commons.wikimedia.org/wiki/Special:FilePath/Jewelkatz_Romeo_Of_Stalker-Bars.jpg)
+### Common Slender Mongoose
+![Common Slender Mongoose](https://upload.wikimedia.org/wikipedia/commons/a/a1/2009-slender-mongoose.jpg)
 <!-- END_ANIMAL -->
 
 
