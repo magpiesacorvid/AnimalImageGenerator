@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-01 18:38:19 UTC
-**Next update:** ~2026-08-01 18:40:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-01 18:40:40 UTC
+**Next update:** ~2026-08-01 18:42:40 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common Tailless tenrec
-![Common Tailless tenrec](https://upload.wikimedia.org/wikipedia/commons/b/bc/Tanrek.jpg)
+### Galápagos fur seal
+![Galápagos fur seal](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Galapagos_Fur_Seal%2C_Santiago_Island.jpg/1920px-Galapagos_Fur_Seal%2C_Santiago_Island.jpg)
 <!-- END_ANIMAL -->
 
 
