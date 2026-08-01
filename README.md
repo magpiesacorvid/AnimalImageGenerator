@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-01 07:22:21 UTC
-**Next update:** ~2026-08-01 07:24:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-01 07:24:30 UTC
+**Next update:** ~2026-08-01 07:26:30 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Desert hedgehog
-![Desert hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Desert_Hedgehog.png/1920px-Desert_Hedgehog.png)
+### Black-and-white ruffed lemur
+![Black-and-white ruffed lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/1_black_and_white_ruffed_lemur.jpg/1920px-1_black_and_white_ruffed_lemur.jpg)
 <!-- END_ANIMAL -->
 
 
