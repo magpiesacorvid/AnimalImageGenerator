@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-01 09:20:33 UTC
-**Next update:** ~2026-08-01 09:22:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-01 09:22:20 UTC
+**Next update:** ~2026-08-01 09:24:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dama gazelle
-![Dama gazelle](https://upload.wikimedia.org/wikipedia/commons/a/a5/Gazella_dama_ruficollis_3zz.jpg)
+### Bobcat
+![Bobcat](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bobcat_at_Columbus_Zoo_Boo.jpg/1920px-Bobcat_at_Columbus_Zoo_Boo.jpg)
 <!-- END_ANIMAL -->
 
 
