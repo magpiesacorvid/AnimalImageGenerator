@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-01 13:08:21 UTC
-**Next update:** ~2026-08-01 13:10:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-01 13:10:44 UTC
+**Next update:** ~2026-08-01 13:12:44 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Giant forest hog
-![Giant forest hog](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hylochoerus_meinertzhageni2.jpg/1920px-Hylochoerus_meinertzhageni2.jpg)
+### Black-eared flying fox
+![Black-eared flying fox](https://upload.wikimedia.org/wikipedia/commons/e/e9/Pteropus_melanotus_natalis_-_the_Christmas_Island_flying-fox.jpg)
 <!-- END_ANIMAL -->
 
 
