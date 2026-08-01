@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-01 13:50:38 UTC
-**Next update:** ~2026-08-01 13:52:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-01 13:52:22 UTC
+**Next update:** ~2026-08-01 13:54:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gunnison's prairie dog
-![Gunnison's prairie dog](https://upload.wikimedia.org/wikipedia/commons/7/7b/Gunnison%27s_prairie_dog%2C_sitting_up.jpg)
+### Amazonian long-tailed porcupine
+![Amazonian long-tailed porcupine](https://upload.wikimedia.org/wikipedia/commons/c/c3/Coendou_prehensilis_JJK%271.jpg)
 <!-- END_ANIMAL -->
 
 
