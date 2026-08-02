@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-02 08:12:26 UTC
-**Next update:** ~2026-08-02 08:14:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-02 08:14:23 UTC
+**Next update:** ~2026-08-02 08:16:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Canadian Lynx
-![Canadian Lynx](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canada_lynx_by_Michael_Zahra_%28cropped%29.jpg/1920px-Canada_lynx_by_Michael_Zahra_%28cropped%29.jpg)
+### Black Panther-Leopard
+![Black Panther-Leopard](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Black_Panther_-_India.jpg/1920px-Black_Panther_-_India.jpg)
 <!-- END_ANIMAL -->
 
 
