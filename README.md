@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-02 12:26:23 UTC
-**Next update:** ~2026-08-02 12:28:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-02 12:28:22 UTC
+**Next update:** ~2026-08-02 12:30:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Golden Jackal
-![Golden Jackal](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/500px-033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg)
+### Foldex Cat
+![Foldex Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cachorro_de_Gato_FoldEx_%28%22Belisario_del_Laberinto%22%29.JPG/1920px-Cachorro_de_Gato_FoldEx_%28%22Belisario_del_Laberinto%22%29.JPG)
 <!-- END_ANIMAL -->
 
 
