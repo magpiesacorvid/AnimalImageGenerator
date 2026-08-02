@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-02 02:26:35 UTC
-**Next update:** ~2026-08-02 02:28:35 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-02 02:28:20 UTC
+**Next update:** ~2026-08-02 02:30:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Harp seal
-![Harp seal](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Harp_Seal_%28Pagophilus_groenlandicus%29%2C_Greenland_Sea_IMG_5075.jpg/1920px-Harp_Seal_%28Pagophilus_groenlandicus%29%2C_Greenland_Sea_IMG_5075.jpg)
+### Gemsbok
+![Gemsbok](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gemsbok_%28Oryx_gazella%29_male.jpg/1920px-Gemsbok_%28Oryx_gazella%29_male.jpg)
 <!-- END_ANIMAL -->
 
 
