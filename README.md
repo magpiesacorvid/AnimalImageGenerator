@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-02 06:34:43 UTC
-**Next update:** ~2026-08-02 06:36:43 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-02 06:36:43 UTC
+**Next update:** ~2026-08-02 06:38:43 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Anderson's four-eyed opossum
-![Anderson's four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Philander_andersoni_115107840.jpg/1280px-Philander_andersoni_115107840.jpg)
+### Ghost-faced bat
+![Ghost-faced bat](https://upload.wikimedia.org/wikipedia/commons/2/21/Mormoops_megalophylla.JPG)
 <!-- END_ANIMAL -->
 
 
