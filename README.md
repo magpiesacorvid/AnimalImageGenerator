@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-02 17:18:21 UTC
-**Next update:** ~2026-08-02 17:20:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-02 17:20:33 UTC
+**Next update:** ~2026-08-02 17:22:33 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Duck-billed platypus
-![Duck-billed platypus](https://commons.wikimedia.org/wiki/Special:FilePath/Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg)
+### American Bobtail
+![American Bobtail](https://commons.wikimedia.org/wiki/Special:FilePath/American_bobtail_2.jpg)
 <!-- END_ANIMAL -->
 
 
