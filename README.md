@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-02 04:17:57 UTC
-**Next update:** ~2026-08-02 04:19:57 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-02 04:22:49 UTC
+**Next update:** ~2026-08-02 04:24:49 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cornish Rex
-![Cornish Rex](https://upload.wikimedia.org/wikipedia/commons/5/5c/Rex_staredown.jpg)
+### Dhole
+![Dhole](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dhole_%28Asiatic_wild_dog%29_cropped.jpg/1920px-Dhole_%28Asiatic_wild_dog%29_cropped.jpg)
 <!-- END_ANIMAL -->
 
 
