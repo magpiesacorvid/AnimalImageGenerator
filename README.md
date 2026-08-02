@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-02 18:58:18 UTC
-**Next update:** ~2026-08-02 19:00:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-02 19:00:54 UTC
+**Next update:** ~2026-08-02 19:02:54 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bengal slow loris
-![Bengal slow loris](https://upload.wikimedia.org/wikipedia/commons/3/3d/Captive_N._bengalensis_from_Laos_with_6-week_baby.JPG)
+### Grey-headed flying fox
+![Grey-headed flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Grey_headed_flying_fox_-_Mating_behaviour_-_AndrewMercer_-_DSC11277_-_crop.jpg/1920px-Grey_headed_flying_fox_-_Mating_behaviour_-_AndrewMercer_-_DSC11277_-_crop.jpg)
 <!-- END_ANIMAL -->
 
 
