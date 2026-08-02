@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-02 07:16:29 UTC
-**Next update:** ~2026-08-02 07:18:29 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-02 07:18:25 UTC
+**Next update:** ~2026-08-02 07:20:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### European pine marten
-![European pine marten](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pine_Marten_%2848173751702%29.jpg/1920px-Pine_Marten_%2848173751702%29.jpg)
+### Anderson's four-eyed opossum
+![Anderson's four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Philander_andersoni_115107840.jpg/1280px-Philander_andersoni_115107840.jpg)
 <!-- END_ANIMAL -->
 
 
