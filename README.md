@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-03 19:38:20 UTC
-**Next update:** ~2026-08-03 19:40:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-03 19:40:36 UTC
+**Next update:** ~2026-08-03 19:42:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common dolphin
-![Common dolphin](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Common_dolphin_noaa.jpg/1920px-Common_dolphin_noaa.jpg)
+### Argali Mountain Sheep
+![Argali Mountain Sheep](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ovis_ammon_%28cropped%29.jpg/960px-Ovis_ammon_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
