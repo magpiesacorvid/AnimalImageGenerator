@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-03 22:30:45 UTC
-**Next update:** ~2026-08-03 22:32:45 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-03 22:32:24 UTC
+**Next update:** ~2026-08-03 22:34:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Madras treeshrew
-![Madras treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Madras_treeshrew_%28Anathana_ellioti%29_by_Davidraju_img7.jpg/1920px-The_Madras_treeshrew_%28Anathana_ellioti%29_by_Davidraju_img7.jpg)
+### Four-horned antelope
+![Four-horned antelope](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tetracerus_quadricornis_I.jpg/1920px-Tetracerus_quadricornis_I.jpg)
 <!-- END_ANIMAL -->
 
 
