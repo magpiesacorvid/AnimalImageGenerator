@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-03 08:25:23 UTC
-**Next update:** ~2026-08-03 08:27:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-03 08:27:28 UTC
+**Next update:** ~2026-08-03 08:29:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern Mindanao gymnure
-![Eastern Mindanao gymnure](https://upload.wikimedia.org/wikipedia/commons/b/b4/Podogymnura_intermedia.jpg)
+### Boselaphus
+![Boselaphus](https://upload.wikimedia.org/wikipedia/commons/0/09/Nilgai_at_Ranthambore.jpg)
 <!-- END_ANIMAL -->
 
 
