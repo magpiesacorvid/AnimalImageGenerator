@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-03 12:58:26 UTC
-**Next update:** ~2026-08-03 13:00:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-03 13:00:55 UTC
+**Next update:** ~2026-08-03 13:02:55 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Evening Bat
-![Evening Bat](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Nycticeius_humeralis_Evening_bat.JPG/1920px-Nycticeius_humeralis_Evening_bat.JPG)
+### Bongo
+![Bongo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Eastern_Bongo_at_Jacksonville_Zoo.jpg/1920px-Eastern_Bongo_at_Jacksonville_Zoo.jpg)
 <!-- END_ANIMAL -->
 
 
