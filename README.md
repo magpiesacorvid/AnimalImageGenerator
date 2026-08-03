@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-03 18:14:29 UTC
-**Next update:** ~2026-08-03 18:16:29 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-03 18:16:31 UTC
+**Next update:** ~2026-08-03 18:18:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Caracal
-![Caracal](https://upload.wikimedia.org/wikipedia/commons/7/75/Caracal_on_the_road%2C_early_morning_in_Kgalagadi_%2836173878220%29_%28cropped%29.jpg)
+### African forest elephant
+![African forest elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Loxodontacyclotis.jpg/1280px-Loxodontacyclotis.jpg)
 <!-- END_ANIMAL -->
 
 
