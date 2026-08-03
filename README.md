@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-03 03:30:46 UTC
-**Next update:** ~2026-08-03 03:32:46 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-03 03:32:26 UTC
+**Next update:** ~2026-08-03 03:34:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arabian tahr
-![Arabian tahr](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg/1280px-Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg)
+### Bonnet Macaque
+![Bonnet Macaque](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rhesus_Macaque_in_Andhra_Pradesh%2C_India.jpeg/1920px-Rhesus_Macaque_in_Andhra_Pradesh%2C_India.jpeg)
 <!-- END_ANIMAL -->
 
 
