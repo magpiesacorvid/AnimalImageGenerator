@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-03 11:54:21 UTC
-**Next update:** ~2026-08-03 11:56:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-03 11:56:26 UTC
+**Next update:** ~2026-08-03 11:58:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common dolphin
-![Common dolphin](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Common_dolphin_noaa.jpg/1920px-Common_dolphin_noaa.jpg)
+### Chacoan naked-tailed armadillo
+![Chacoan naked-tailed armadillo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Cabassous_chacoensis_eating.jpg)
 <!-- END_ANIMAL -->
 
 
