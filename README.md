@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-03 05:24:19 UTC
-**Next update:** ~2026-08-03 05:26:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-03 05:26:20 UTC
+**Next update:** ~2026-08-03 05:28:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common Tailless tenrec
-![Common Tailless tenrec](https://upload.wikimedia.org/wikipedia/commons/b/bc/Tanrek.jpg)
+### Feathertail glider
+![Feathertail glider](https://upload.wikimedia.org/wikipedia/commons/6/6d/Acrobates_neuneu.jpg)
 <!-- END_ANIMAL -->
 
 
