@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-04 03:10:31 UTC
-**Next update:** ~2026-08-04 03:12:31 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-04 03:12:26 UTC
+**Next update:** ~2026-08-04 03:14:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chital
-![Chital](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/066_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg/1920px-066_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg)
+### European water vole
+![European water vole](https://upload.wikimedia.org/wikipedia/commons/5/5c/Water_Vole_on_Boot_Hill_%285592665124%29.jpg)
 <!-- END_ANIMAL -->
 
 
