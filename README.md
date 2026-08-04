@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-04 23:26:17 UTC
-**Next update:** ~2026-08-04 23:28:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-04 23:28:28 UTC
+**Next update:** ~2026-08-04 23:30:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gaur
-![Gaur](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Indian_Gaur_from_anaimalai_hills_JEG5290.jpg/1920px-Indian_Gaur_from_anaimalai_hills_JEG5290.jpg)
+### Buffy-headed marmoset
+![Buffy-headed marmoset](https://upload.wikimedia.org/wikipedia/commons/8/8c/Callithrix_flaviceps_2.jpg)
 <!-- END_ANIMAL -->
 
 
