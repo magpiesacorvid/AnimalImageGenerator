@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-04 13:40:36 UTC
-**Next update:** ~2026-08-04 13:42:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-04 13:42:30 UTC
+**Next update:** ~2026-08-04 13:44:30 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bornean yellow muntjac
-![Bornean yellow muntjac](https://upload.wikimedia.org/wikipedia/commons/8/87/Bornean_Yellow_Muntjac%2C_Kutai_Timur%2C_ID-KI%2C_ID_imported_from_iNaturalist_photo_351183693_%28cropped%29.jpg)
+### Irrawaddy dolphin
+![Irrawaddy dolphin](https://upload.wikimedia.org/wikipedia/commons/a/ae/Irrawaddy_dolphin-Orcaella_brevirostris_by_2eight.jpg)
 <!-- END_ANIMAL -->
 
 
