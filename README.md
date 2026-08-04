@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-04 07:38:23 UTC
-**Next update:** ~2026-08-04 07:40:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-04 07:40:48 UTC
+**Next update:** ~2026-08-04 07:42:48 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### European pine marten
-![European pine marten](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pine_Marten_%2848173751702%29.jpg/1920px-Pine_Marten_%2848173751702%29.jpg)
+### Camas pocket gopher
+![Camas pocket gopher](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Camas_pocket_gopher_%283%29.JPG/1920px-Camas_pocket_gopher_%283%29.JPG)
 <!-- END_ANIMAL -->
 
 
