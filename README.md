@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-04 18:42:27 UTC
-**Next update:** ~2026-08-04 18:44:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-04 18:44:25 UTC
+**Next update:** ~2026-08-04 18:46:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Domestic Cattle
-![Domestic Cattle](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/1920px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg)
+### Broad-striped Malagasy mongoose
+![Broad-striped Malagasy mongoose](https://upload.wikimedia.org/wikipedia/commons/1/1a/Galidictis_fasciata_Striped_Vontsira%2C_Atsimo-Andrefana%2C_MG-TL%2C_MG_iNaturalist.jpg)
 <!-- END_ANIMAL -->
 
 
