@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-04 18:18:22 UTC
-**Next update:** ~2026-08-04 18:20:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-04 18:20:37 UTC
+**Next update:** ~2026-08-04 18:22:37 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Grey Wolf
-![Grey Wolf](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eurasian_wolf_2.jpg/1920px-Eurasian_wolf_2.jpg)
+### Long-nosed short-tailed opossum
+![Long-nosed short-tailed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Mododelphis_scalops2.png/250px-Mododelphis_scalops2.png)
 <!-- END_ANIMAL -->
 
 
