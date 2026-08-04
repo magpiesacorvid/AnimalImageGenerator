@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-04 15:01:07 UTC
-**Next update:** ~2026-08-04 15:03:07 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-04 15:02:35 UTC
+**Next update:** ~2026-08-04 15:04:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain cottontail
-![Mountain cottontail](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nuttall%27s_Cottontail_%28Sylvilagus_nuttallii%29.jpg/1280px-Nuttall%27s_Cottontail_%28Sylvilagus_nuttallii%29.jpg)
+### Dusky dolphin
+![Dusky dolphin](https://upload.wikimedia.org/wikipedia/commons/1/13/DuskyDolphin.jpg)
 <!-- END_ANIMAL -->
 
 
