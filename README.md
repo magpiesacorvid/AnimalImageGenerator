@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-04 18:38:33 UTC
-**Next update:** ~2026-08-04 18:40:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-04 18:40:34 UTC
+**Next update:** ~2026-08-04 18:42:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Manx
-![Manx](https://upload.wikimedia.org/wikipedia/commons/9/9b/Manx_cat_by_Karen_Weaver.jpg)
+### Cuban solenodon
+![Cuban solenodon](https://upload.wikimedia.org/wikipedia/commons/7/7e/Solenodon_cubanus.jpg)
 <!-- END_ANIMAL -->
 
 
