@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-04 14:36:27 UTC
-**Next update:** ~2026-08-04 14:38:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-04 14:38:31 UTC
+**Next update:** ~2026-08-04 14:40:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mandrill
-![Mandrill](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg/960px-Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg)
+### Himalayan Cat
+![Himalayan Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sonny_Bunny.jpg/960px-Sonny_Bunny.jpg)
 <!-- END_ANIMAL -->
 
 
