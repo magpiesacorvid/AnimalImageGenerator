@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-04 20:54:33 UTC
-**Next update:** ~2026-08-04 20:56:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-04 20:56:23 UTC
+**Next update:** ~2026-08-04 20:58:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Anderson's four-eyed opossum
-![Anderson's four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Philander_andersoni_115107840.jpg/1280px-Philander_andersoni_115107840.jpg)
+### Javan warty pig
+![Javan warty pig](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sus_verrucosus_in_PCBA.jpg/960px-Sus_verrucosus_in_PCBA.jpg)
 <!-- END_ANIMAL -->
 
 
