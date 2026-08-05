@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-05 02:56:20 UTC
-**Next update:** ~2026-08-05 02:58:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-05 02:58:26 UTC
+**Next update:** ~2026-08-05 03:00:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Jameson's red rock hare
-![Jameson's red rock hare](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pronolagus_randensis_Rudloff_%28cropped%29.jpg/1280px-Pronolagus_randensis_Rudloff_%28cropped%29.jpg)
+### Borneo fruit bat
+![Borneo fruit bat](https://upload.wikimedia.org/wikipedia/commons/4/4d/Aethalops_aequalis.jpg)
 <!-- END_ANIMAL -->
 
 
