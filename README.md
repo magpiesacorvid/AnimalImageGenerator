@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-05 10:24:21 UTC
-**Next update:** ~2026-08-05 10:26:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-05 10:26:33 UTC
+**Next update:** ~2026-08-05 10:28:33 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain cottontail
-![Mountain cottontail](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nuttall%27s_Cottontail_%28Sylvilagus_nuttallii%29.jpg/1280px-Nuttall%27s_Cottontail_%28Sylvilagus_nuttallii%29.jpg)
+### Lowland streaked tenrec
+![Lowland streaked tenrec](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lowland_Streaked_Tenrec%2C_Mantadia%2C_Madagascar.jpg/1280px-Lowland_Streaked_Tenrec%2C_Mantadia%2C_Madagascar.jpg)
 <!-- END_ANIMAL -->
 
 
