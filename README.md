@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-05 12:26:20 UTC
-**Next update:** ~2026-08-05 12:28:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-05 12:28:26 UTC
+**Next update:** ~2026-08-05 12:30:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Little long-tailed dunnart
-![Little long-tailed dunnart](https://upload.wikimedia.org/wikipedia/commons/5/55/Little_long-tailed_dunnart_2022_AMNP.jpg)
+### Agricola's gracile opossum
+![Agricola's gracile opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Cryptonanus_agricolai_478752226.jpg/1280px-Cryptonanus_agricolai_478752226.jpg)
 <!-- END_ANIMAL -->
 
 
