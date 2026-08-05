@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-05 16:28:20 UTC
-**Next update:** ~2026-08-05 16:30:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-05 16:30:55 UTC
+**Next update:** ~2026-08-05 16:32:55 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dusky pademelon
-![Dusky pademelon](https://upload.wikimedia.org/wikipedia/commons/4/4d/TamanSafariIndonesia184_%28cropped%29.jpg)
+### Hottentot Golden Mole
+![Hottentot Golden Mole](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Amblysomus_hottentotus_%28Palmiet_Nature_Reserve%2C_South_Africa_East_Coast%29_2.jpg/1280px-Amblysomus_hottentotus_%28Palmiet_Nature_Reserve%2C_South_Africa_East_Coast%29_2.jpg)
 <!-- END_ANIMAL -->
 
 
