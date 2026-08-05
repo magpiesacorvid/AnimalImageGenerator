@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-05 18:08:21 UTC
-**Next update:** ~2026-08-05 18:10:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-05 18:10:45 UTC
+**Next update:** ~2026-08-05 18:12:45 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### De Winton's golden mole
-![De Winton's golden mole](https://upload.wikimedia.org/wikipedia/commons/6/6a/De_Winton%27s_golden_mole_%28Cryptochloris_wintoni%29.jpg)
+### New Zealand Fur Seal
+![New Zealand Fur Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/New_Zealand_fur_seal_%28Arctocephalus_forsteri%29_male_Kangaroo_Island.jpg/960px-New_Zealand_fur_seal_%28Arctocephalus_forsteri%29_male_Kangaroo_Island.jpg)
 <!-- END_ANIMAL -->
 
 
