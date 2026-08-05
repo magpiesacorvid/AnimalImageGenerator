@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-05 12:04:23 UTC
-**Next update:** ~2026-08-05 12:06:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-05 12:06:27 UTC
+**Next update:** ~2026-08-05 12:08:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Emperor tamarin
-![Emperor tamarin](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tamarin_portrait.JPG/1920px-Tamarin_portrait.JPG)
+### Brandt's hedgehog
+![Brandt's hedgehog](https://upload.wikimedia.org/wikipedia/commons/7/77/Brandt%27s_Hedgehog.jpg)
 <!-- END_ANIMAL -->
 
 
