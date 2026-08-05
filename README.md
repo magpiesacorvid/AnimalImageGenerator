@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-05 21:00:52 UTC
-**Next update:** ~2026-08-05 21:02:52 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-05 21:02:25 UTC
+**Next update:** ~2026-08-05 21:04:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### European water vole
-![European water vole](https://upload.wikimedia.org/wikipedia/commons/5/5c/Water_Vole_on_Boot_Hill_%285592665124%29.jpg)
+### Argali Mountain Sheep
+![Argali Mountain Sheep](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ovis_ammon_%28cropped%29.jpg/960px-Ovis_ammon_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
