@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-05 05:38:19 UTC
-**Next update:** ~2026-08-05 05:40:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-05 05:40:33 UTC
+**Next update:** ~2026-08-05 05:42:33 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lesser kudu
-![Lesser kudu](https://upload.wikimedia.org/wikipedia/commons/b/b8/Lesser_Kudu_Male_%28Tragelaphus_imberbis%29.jpg)
+### Bennett's tree-kangaroo
+![Bennett's tree-kangaroo](https://commons.wikimedia.org/wiki/Special:FilePath/Bennett's_Tree-kangaroo.jpg)
 <!-- END_ANIMAL -->
 
 
