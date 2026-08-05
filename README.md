@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-05 16:18:33 UTC
-**Next update:** ~2026-08-05 16:20:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-05 16:20:34 UTC
+**Next update:** ~2026-08-05 16:22:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Long-tailed goral
-![Long-tailed goral](https://upload.wikimedia.org/wikipedia/commons/4/4c/Nemorhaedus_caudatus.jpg)
+### American Shorthair
+![American Shorthair](https://commons.wikimedia.org/wiki/Special:FilePath/Jewelkatz_Romeo_Of_Stalker-Bars.jpg)
 <!-- END_ANIMAL -->
 
 
