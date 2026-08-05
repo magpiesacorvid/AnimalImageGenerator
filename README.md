@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-05 09:06:25 UTC
-**Next update:** ~2026-08-05 09:08:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-05 09:08:33 UTC
+**Next update:** ~2026-08-05 09:10:33 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dall's porpoise
-![Dall's porpoise](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Phocoenoides_dalli_%28Dall%27s_porpoise%29.jpg/1920px-Phocoenoides_dalli_%28Dall%27s_porpoise%29.jpg)
+### Muenster yellow-toothed cavy
+![Muenster yellow-toothed cavy](https://upload.wikimedia.org/wikipedia/commons/4/45/Galea_monasteriensis.JPG)
 <!-- END_ANIMAL -->
 
 
