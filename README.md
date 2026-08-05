@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-05 05:48:21 UTC
-**Next update:** ~2026-08-05 05:50:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-05 05:50:36 UTC
+**Next update:** ~2026-08-05 05:52:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Geoffroy's cat
-![Geoffroy's cat](https://upload.wikimedia.org/wikipedia/commons/d/d9/Salzkatze.jpg)
+### Grey Wolf
+![Grey Wolf](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eurasian_wolf_2.jpg/1920px-Eurasian_wolf_2.jpg)
 <!-- END_ANIMAL -->
 
 
