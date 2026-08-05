@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-05 03:50:33 UTC
-**Next update:** ~2026-08-05 03:52:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-05 03:52:27 UTC
+**Next update:** ~2026-08-05 03:54:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Capuchin monkey
-![Capuchin monkey](https://upload.wikimedia.org/wikipedia/commons/4/40/Capuchin_Costa_Rica.jpg)
+### Colorpoint Shorthair
+![Colorpoint Shorthair](https://upload.wikimedia.org/wikipedia/commons/1/11/Chocolate_Tortie_Pt_11636-140.jpg)
 <!-- END_ANIMAL -->
 
 
