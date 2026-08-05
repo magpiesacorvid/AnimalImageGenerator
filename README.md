@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-05 22:30:51 UTC
-**Next update:** ~2026-08-05 22:32:51 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-05 22:32:24 UTC
+**Next update:** ~2026-08-05 22:34:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arabian Mau
-![Arabian Mau](https://commons.wikimedia.org/wiki/Special:FilePath/Bex_Arabian_Mau.jpg)
+### Eurasian water shrew
+![Eurasian water shrew](https://upload.wikimedia.org/wikipedia/commons/e/ea/Neomys_fodiens_%28Varsinais-Suomi%2C_Finland%29_1_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
