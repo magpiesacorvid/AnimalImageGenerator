@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-05 05:20:33 UTC
-**Next update:** ~2026-08-05 05:22:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-05 05:22:26 UTC
+**Next update:** ~2026-08-05 05:24:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Madagascan flying fox
-![Madagascan flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pteropus_rufus_ii.jpg/1280px-Pteropus_rufus_ii.jpg)
+### Dry Chaco fat-tailed opossum
+![Dry Chaco fat-tailed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Thylamys_pulchellus_140409426.jpg/1920px-Thylamys_pulchellus_140409426.jpg)
 <!-- END_ANIMAL -->
 
 
