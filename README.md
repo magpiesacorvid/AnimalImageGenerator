@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-05 20:46:21 UTC
-**Next update:** ~2026-08-05 20:48:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-05 20:48:23 UTC
+**Next update:** ~2026-08-05 20:50:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Haida ermine
-![Haida ermine](https://upload.wikimedia.org/wikipedia/commons/d/d1/Haida_Ermine_%28Mustela_haidarum%29.jpg)
+### Cape grysbok
+![Cape grysbok](https://upload.wikimedia.org/wikipedia/commons/6/6f/Southafrica-capegrysbok.jpg)
 <!-- END_ANIMAL -->
 
 
