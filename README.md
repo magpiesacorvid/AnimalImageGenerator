@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-06 13:50:37 UTC
-**Next update:** ~2026-08-06 13:52:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-06 13:52:22 UTC
+**Next update:** ~2026-08-06 13:54:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mule deer
-![Mule deer](N01https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mule_buck_elk_creek_m_myatt_%285489214303%29.jpg/1280px-Mule_buck_elk_creek_m_myatt_%285489214303%29.jpgMAGE)
+### Koala
+![Koala](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Koala_climbing_tree.jpg/960px-Koala_climbing_tree.jpg)
 <!-- END_ANIMAL -->
 
 
