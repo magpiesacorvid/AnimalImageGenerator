@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-06 06:00:57 UTC
-**Next update:** ~2026-08-06 06:02:57 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-06 06:02:29 UTC
+**Next update:** ~2026-08-06 06:04:29 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Andean Mountain Cat
-![Andean Mountain Cat](https://upload.wikimedia.org/wikipedia/commons/e/e0/Andean_cat_1_Jim_Sanderson.jpg)
+### Gray fox
+![Gray fox](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Gray_fox.jpg/1920px-Gray_fox.jpg)
 <!-- END_ANIMAL -->
 
 
