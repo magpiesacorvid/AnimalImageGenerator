@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-06 23:24:48 UTC
-**Next update:** ~2026-08-06 23:26:48 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-06 23:24:59 UTC
+**Next update:** ~2026-08-06 23:26:59 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chinese goral
-![Chinese goral](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Nemorhaeduscaudatusarnouxianus2.JPG/1920px-Nemorhaeduscaudatusarnouxianus2.JPG)
+### Common shrew
+![Common shrew](https://upload.wikimedia.org/wikipedia/commons/6/6c/Sorex-araneus.jpg)
 <!-- END_ANIMAL -->
 
 
