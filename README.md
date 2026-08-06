@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-06 14:42:23 UTC
-**Next update:** ~2026-08-06 14:44:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-06 14:44:21 UTC
+**Next update:** ~2026-08-06 14:46:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gray short-tailed opossum
-![Gray short-tailed opossum](https://upload.wikimedia.org/wikipedia/commons/b/b5/Monodelphis_domestica.jpg)
+### Broom hare
+![Broom hare](https://upload.wikimedia.org/wikipedia/commons/5/50/Lepus_castroviejoi_392447261_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
