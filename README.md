@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-06 02:47:30 UTC
-**Next update:** ~2026-08-06 02:49:30 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-06 02:48:19 UTC
+**Next update:** ~2026-08-06 02:50:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian Brown Mongoose
-![Indian Brown Mongoose](https://upload.wikimedia.org/wikipedia/commons/a/af/Indian_Brown_Mongoose.jpg)
+### Dall sheep
+![Dall sheep](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dall_Sheep_Ewe_%280968efe1-d032-4834-bada-bb862e09ddfb%29.jpg/1920px-Dall_Sheep_Ewe_%280968efe1-d032-4834-bada-bb862e09ddfb%29.jpg)
 <!-- END_ANIMAL -->
 
 
