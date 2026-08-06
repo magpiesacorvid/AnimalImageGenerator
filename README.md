@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-06 04:44:18 UTC
-**Next update:** ~2026-08-06 04:46:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-06 04:46:24 UTC
+**Next update:** ~2026-08-06 04:48:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Crabeater seal
-![Crabeater seal](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lobodon_carcinophagus_on_sea_ice_%28cropped%29.jpg/1920px-Lobodon_carcinophagus_on_sea_ice_%28cropped%29.jpg)
+### North Sulawesi babirusa
+![North Sulawesi babirusa](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hirscheber1a.jpg/1280px-Hirscheber1a.jpg)
 <!-- END_ANIMAL -->
 
 
