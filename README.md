@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-06 23:40:33 UTC
-**Next update:** ~2026-08-06 23:42:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-06 23:42:25 UTC
+**Next update:** ~2026-08-06 23:44:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown Rat
-![Brown Rat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Brown_rat_%28Rattus_norvegicus%29_Drenthe_2.jpg/1920px-Brown_rat_%28Rattus_norvegicus%29_Drenthe_2.jpg)
+### Least weasel
+![Least weasel](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mustela_nivalis_-British_Wildlife_Centre-4.jpg/1280px-Mustela_nivalis_-British_Wildlife_Centre-4.jpg)
 <!-- END_ANIMAL -->
 
 
