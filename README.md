@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-06 03:22:19 UTC
-**Next update:** ~2026-08-06 03:24:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-06 03:24:20 UTC
+**Next update:** ~2026-08-06 03:26:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eurasian otter
-![Eurasian otter](https://upload.wikimedia.org/wikipedia/commons/d/d3/Fischotter%2C_Lutra_Lutra.JPG)
+### Four-horned antelope
+![Four-horned antelope](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tetracerus_quadricornis_I.jpg/1920px-Tetracerus_quadricornis_I.jpg)
 <!-- END_ANIMAL -->
 
 
