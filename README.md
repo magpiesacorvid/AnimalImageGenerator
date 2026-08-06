@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-06 23:24:59 UTC
-**Next update:** ~2026-08-06 23:26:59 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-06 23:26:16 UTC
+**Next update:** ~2026-08-06 23:28:16 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common shrew
-![Common shrew](https://upload.wikimedia.org/wikipedia/commons/6/6c/Sorex-araneus.jpg)
+### Barasingha
+![Barasingha](https://commons.wikimedia.org/wiki/Special:FilePath/The_barasingha.jpg)
 <!-- END_ANIMAL -->
 
 
