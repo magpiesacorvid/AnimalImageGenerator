@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-06 05:08:24 UTC
-**Next update:** ~2026-08-06 05:10:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-06 05:10:31 UTC
+**Next update:** ~2026-08-06 05:12:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dusky dolphin
-![Dusky dolphin](https://upload.wikimedia.org/wikipedia/commons/1/13/DuskyDolphin.jpg)
+### Livingstone's fruit bat
+![Livingstone's fruit bat](https://upload.wikimedia.org/wikipedia/commons/c/ca/Bristol.zoo.livfruitbat.arp.jpg)
 <!-- END_ANIMAL -->
 
 
