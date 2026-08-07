@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-07 18:58:23 UTC
-**Next update:** ~2026-08-07 19:00:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-07 19:00:55 UTC
+**Next update:** ~2026-08-07 19:02:55 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown-throated sloth
-![Brown-throated sloth](https://commons.wikimedia.org/wiki/Special:FilePath/Brown-throated_sloth_on_tree.jpg)
+### Foldex Cat
+![Foldex Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cachorro_de_Gato_FoldEx_%28%22Belisario_del_Laberinto%22%29.JPG/1920px-Cachorro_de_Gato_FoldEx_%28%22Belisario_del_Laberinto%22%29.JPG)
 <!-- END_ANIMAL -->
 
 
