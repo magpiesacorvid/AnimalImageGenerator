@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-07 12:34:20 UTC
-**Next update:** ~2026-08-07 12:36:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-07 12:36:28 UTC
+**Next update:** ~2026-08-07 12:38:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brush-tailed phascogale
-![Brush-tailed phascogale](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Brush-tailed_phascogale.jpg/1920px-Brush-tailed_phascogale.jpg)
+### Madagascan rousette
+![Madagascan rousette](https://upload.wikimedia.org/wikipedia/commons/1/15/Rousettus_madagascariensis_2.png)
 <!-- END_ANIMAL -->
 
 
