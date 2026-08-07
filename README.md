@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-07 18:38:27 UTC
-**Next update:** ~2026-08-07 18:40:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-07 18:40:34 UTC
+**Next update:** ~2026-08-07 18:42:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bishop's slender opossum
-![Bishop's slender opossum](https://upload.wikimedia.org/wikipedia/commons/7/76/Marmosops_bishopi.jpg)
+### Lesser kudu
+![Lesser kudu](https://upload.wikimedia.org/wikipedia/commons/b/b8/Lesser_Kudu_Male_%28Tragelaphus_imberbis%29.jpg)
 <!-- END_ANIMAL -->
 
 
