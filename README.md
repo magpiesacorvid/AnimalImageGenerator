@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-07 17:28:26 UTC
-**Next update:** ~2026-08-07 17:30:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-07 17:30:48 UTC
+**Next update:** ~2026-08-07 17:32:48 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-fronted duiker
-![Black-fronted duiker](https://upload.wikimedia.org/wikipedia/commons/c/cf/Cephalophe_a_front_noir.jpg)
+### Nine-banded armadillo
+![Nine-banded armadillo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dasypus_novemcinctus_en_Zool%C3%B3gico_de_Paraguan%C3%A1.jpg/960px-Dasypus_novemcinctus_en_Zool%C3%B3gico_de_Paraguan%C3%A1.jpg)
 <!-- END_ANIMAL -->
 
 
