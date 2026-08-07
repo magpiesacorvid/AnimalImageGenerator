@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-07 03:38:23 UTC
-**Next update:** ~2026-08-07 03:40:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-07 03:40:32 UTC
+**Next update:** ~2026-08-07 03:42:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-striped wallaby
-![Black-striped wallaby](https://upload.wikimedia.org/wikipedia/commons/5/5f/Dorsalis1.jpg)
+### Mountain pygmy possum
+![Mountain pygmy possum](https://upload.wikimedia.org/wikipedia/commons/9/9b/Mountain-pygmy-possum.jpg)
 <!-- END_ANIMAL -->
 
 
