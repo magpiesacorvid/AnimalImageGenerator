@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-07 07:26:24 UTC
-**Next update:** ~2026-08-07 07:28:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-07 07:28:19 UTC
+**Next update:** ~2026-08-07 07:30:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American Curl
-![American Curl](https://commons.wikimedia.org/wiki/Special:FilePath/American_curl_2.jpg)
+### Marsh rabbit
+![Marsh rabbit](https://upload.wikimedia.org/wikipedia/commons/6/62/Sylvilagus_palustris_-_Peter_Chen_2.0_-_473222718.jpeg)
 <!-- END_ANIMAL -->
 
 
