@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-07 06:20:32 UTC
-**Next update:** ~2026-08-07 06:22:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-07 06:22:21 UTC
+**Next update:** ~2026-08-07 06:24:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lumholtz's tree-kangaroo
-![Lumholtz's tree-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lumholtz%27s_tree_kangaroo-03.JPG/500px-Lumholtz%27s_tree_kangaroo-03.JPG)
+### Dusky dolphin
+![Dusky dolphin](https://upload.wikimedia.org/wikipedia/commons/1/13/DuskyDolphin.jpg)
 <!-- END_ANIMAL -->
 
 
