@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-07 17:44:25 UTC
-**Next update:** ~2026-08-07 17:46:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-07 17:46:24 UTC
+**Next update:** ~2026-08-07 17:48:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mongolian gazelle
-![Mongolian gazelle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Procapra_gutturosa_381343709.jpg/1280px-Procapra_gutturosa_381343709.jpg)
+### Hairy-fronted muntjac
+![Hairy-fronted muntjac](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2011_Muntjak-4.jpg/1920px-2011_Muntjak-4.jpg)
 <!-- END_ANIMAL -->
 
 
