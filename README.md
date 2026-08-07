@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-07 11:40:31 UTC
-**Next update:** ~2026-08-07 11:42:31 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-07 11:42:23 UTC
+**Next update:** ~2026-08-07 11:44:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Grandidier's mongoose
-![Grandidier's mongoose](https://upload.wikimedia.org/wikipedia/commons/3/3e/Mungo1.jpg)
+### Calamian deer
+![Calamian deer](https://commons.wikimedia.org/wiki/Special:FilePath/Axis_calamianensis.jpg)
 <!-- END_ANIMAL -->
 
 
