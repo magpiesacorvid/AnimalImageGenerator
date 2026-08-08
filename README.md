@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-08 00:08:20 UTC
-**Next update:** ~2026-08-08 00:10:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-08 00:10:38 UTC
+**Next update:** ~2026-08-08 00:12:38 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Coast mole
-![Coast mole](https://upload.wikimedia.org/wikipedia/commons/a/a3/Coast_Mole_%28Scapanus_orarius%29.jpeg)
+### Greater bilby
+![Greater bilby](https://upload.wikimedia.org/wikipedia/commons/e/ed/Bilby_at_Sydney_Wildlife_World.jpg)
 <!-- END_ANIMAL -->
 
 
