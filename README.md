@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-08 02:04:20 UTC
-**Next update:** ~2026-08-08 02:06:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-08 02:06:26 UTC
+**Next update:** ~2026-08-08 02:08:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-and-white ruffed lemur
-![Black-and-white ruffed lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/1_black_and_white_ruffed_lemur.jpg/1920px-1_black_and_white_ruffed_lemur.jpg)
+### Bornean yellow muntjac
+![Bornean yellow muntjac](https://upload.wikimedia.org/wikipedia/commons/8/87/Bornean_Yellow_Muntjac%2C_Kutai_Timur%2C_ID-KI%2C_ID_imported_from_iNaturalist_photo_351183693_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
