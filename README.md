@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-08 02:01:02 UTC
-**Next update:** ~2026-08-08 02:03:02 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-08 02:02:20 UTC
+**Next update:** ~2026-08-08 02:04:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian rhinoceros
-![Indian rhinoceros](https://upload.wikimedia.org/wikipedia/commons/7/77/Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg)
+### Broom hare
+![Broom hare](https://upload.wikimedia.org/wikipedia/commons/5/50/Lepus_castroviejoi_392447261_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
