@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-08 12:46:22 UTC
-**Next update:** ~2026-08-08 12:48:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-08 12:48:22 UTC
+**Next update:** ~2026-08-08 12:50:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater short-nosed fruit bat
-![Greater short-nosed fruit bat](https://upload.wikimedia.org/wikipedia/commons/6/66/Short-nosed_Fruit_Bat_%28Cynopterus_sphinx%29_Photograph_By_Shantanu_Kuveskar.jpg)
+### Afghan pika
+![Afghan pika](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ochotona_rufescens_213736083.jpg/1280px-Ochotona_rufescens_213736083.jpg)
 <!-- END_ANIMAL -->
 
 
