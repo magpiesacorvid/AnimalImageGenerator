@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-08 05:22:21 UTC
-**Next update:** ~2026-08-08 05:24:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-08 05:24:24 UTC
+**Next update:** ~2026-08-08 05:26:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Goitered gazelle
-![Goitered gazelle](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Female_goitered_gazelle%2C_Shirvan_National_Park%2C_Azerbaijan.jpg/1920px-Female_goitered_gazelle%2C_Shirvan_National_Park%2C_Azerbaijan.jpg)
+### Greater short-nosed fruit bat
+![Greater short-nosed fruit bat](https://upload.wikimedia.org/wikipedia/commons/6/66/Short-nosed_Fruit_Bat_%28Cynopterus_sphinx%29_Photograph_By_Shantanu_Kuveskar.jpg)
 <!-- END_ANIMAL -->
 
 
