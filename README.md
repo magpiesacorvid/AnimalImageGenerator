@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-08 06:06:21 UTC
-**Next update:** ~2026-08-08 06:08:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-08 06:08:20 UTC
+**Next update:** ~2026-08-08 06:10:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mohol bushbaby
-![Mohol bushbaby](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Mohol_bushbaby_%28Galago_moholi%29%2C_crop.jpg/960px-The_Mohol_bushbaby_%28Galago_moholi%29%2C_crop.jpg)
+### Long-tailed pangolin
+![Long-tailed pangolin](https://upload.wikimedia.org/wikipedia/commons/c/c3/Manis_tetradactyla_%2829645778336%29.jpg)
 <!-- END_ANIMAL -->
 
 
