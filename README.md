@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-08 12:48:22 UTC
-**Next update:** ~2026-08-08 12:50:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-08 12:50:36 UTC
+**Next update:** ~2026-08-08 12:52:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Afghan pika
-![Afghan pika](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ochotona_rufescens_213736083.jpg/1280px-Ochotona_rufescens_213736083.jpg)
+### Eastern mole
+![Eastern mole](https://upload.wikimedia.org/wikipedia/commons/3/3e/ScalopusAquaticus.jpg)
 <!-- END_ANIMAL -->
 
 
