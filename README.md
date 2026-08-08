@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-08 21:14:19 UTC
-**Next update:** ~2026-08-08 21:16:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-08 21:16:22 UTC
+**Next update:** ~2026-08-08 21:18:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater bandicoot rat
-![Greater bandicoot rat](https://upload.wikimedia.org/wikipedia/commons/f/f8/Bandicota_indica.jpg)
+### African wild ass
+![African wild ass](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg/1280px-Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg)
 <!-- END_ANIMAL -->
 
 
