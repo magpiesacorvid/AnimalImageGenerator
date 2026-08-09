@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-09 12:06:19 UTC
-**Next update:** ~2026-08-09 12:08:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-09 12:08:19 UTC
+**Next update:** ~2026-08-09 12:10:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern lowland olingo
-![Eastern lowland olingo](https://upload.wikimedia.org/wikipedia/commons/f/f0/Bassaricyon_alleni.jpg)
+### Cuban funnel-eared bat
+![Cuban funnel-eared bat](https://upload.wikimedia.org/wikipedia/commons/d/dc/Chilonatalus_micropus.png)
 <!-- END_ANIMAL -->
 
 
