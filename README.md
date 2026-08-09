@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-09 07:24:22 UTC
-**Next update:** ~2026-08-09 07:26:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-09 07:26:20 UTC
+**Next update:** ~2026-08-09 07:28:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hairy-fronted muntjac
-![Hairy-fronted muntjac](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2011_Muntjak-4.jpg/1920px-2011_Muntjak-4.jpg)
+### Black Backed Jackal
+![Black Backed Jackal](https://commons.wikimedia.org/wiki/Special:FilePath/Black-backed_jackal_(Canis_mesomelas_mesomelas).jpg)
 <!-- END_ANIMAL -->
 
 
