@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-09 13:40:37 UTC
-**Next update:** ~2026-08-09 13:42:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-09 13:42:20 UTC
+**Next update:** ~2026-08-09 13:44:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Golden hamster
-![Golden hamster](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Golden_hamster_front_1.jpg/1920px-Golden_hamster_front_1.jpg)
+### Dromedary camel
+![Dromedary camel](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Camelus_dromedarius_in_Nuweiba.jpg/1920px-Camelus_dromedarius_in_Nuweiba.jpg)
 <!-- END_ANIMAL -->
 
 
