@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-09 21:10:39 UTC
-**Next update:** ~2026-08-09 21:12:39 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-09 21:12:22 UTC
+**Next update:** ~2026-08-09 21:14:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-shouldered opossum
-![Black-shouldered opossum](https://upload.wikimedia.org/wikipedia/commons/2/20/Photographs-of-a-specimen-of-Caluromysiops-irrupta-taken-at-Parque-Estadual-Guajara1.png)
+### Buru babirusa
+![Buru babirusa](https://upload.wikimedia.org/wikipedia/commons/b/b7/%D0%91%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D1%81%D1%81%D0%B0_Babyrousa_babyrussa.jpg)
 <!-- END_ANIMAL -->
 
 
