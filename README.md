@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-09 13:18:21 UTC
-**Next update:** ~2026-08-09 13:20:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-09 13:20:35 UTC
+**Next update:** ~2026-08-09 13:22:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chinese Mountain Cat
-![Chinese Mountain Cat](https://upload.wikimedia.org/wikipedia/commons/4/41/Chinese_Mountain_Cat_%28Felis_Bieti%29_in_XiNing_Wild_Zoo_2.jpg)
+### Black-shouldered opossum
+![Black-shouldered opossum](https://upload.wikimedia.org/wikipedia/commons/2/20/Photographs-of-a-specimen-of-Caluromysiops-irrupta-taken-at-Parque-Estadual-Guajara1.png)
 <!-- END_ANIMAL -->
 
 
