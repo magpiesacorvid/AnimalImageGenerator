@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-09 22:20:38 UTC
-**Next update:** ~2026-08-09 22:22:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-09 22:22:25 UTC
+**Next update:** ~2026-08-09 22:24:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American badger
-![American badger](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Taxidea_taxus_%28Point_Reyes%2C_2007%29.jpg/1280px-Taxidea_taxus_%28Point_Reyes%2C_2007%29.jpg)
+### Brown dorcopsis
+![Brown dorcopsis](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dorcopsis_muelleri_K%C3%B6ln.jpg/1920px-Dorcopsis_muelleri_K%C3%B6ln.jpg)
 <!-- END_ANIMAL -->
 
 
