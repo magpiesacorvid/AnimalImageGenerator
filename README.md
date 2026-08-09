@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-09 06:50:34 UTC
-**Next update:** ~2026-08-09 06:52:34 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-09 06:52:24 UTC
+**Next update:** ~2026-08-09 06:54:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asian Golden Cat
-![Asian Golden Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Asian_Golden_cat.jpg/960px-Asian_Golden_cat.jpg)
+### Northern four-eyed opossum
+![Northern four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Philander_vossi_58242502.jpg/1280px-Philander_vossi_58242502.jpg)
 <!-- END_ANIMAL -->
 
 
