@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-09 20:30:46 UTC
-**Next update:** ~2026-08-09 20:32:46 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-09 20:32:20 UTC
+**Next update:** ~2026-08-09 20:34:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hooded seal
-![Hooded seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2016-klappm%C3%BCtzemuseumkoenig.jpg/1280px-2016-klappm%C3%BCtzemuseumkoenig.jpg)
+### Javan rhinoceros
+![Javan rhinoceros](https://upload.wikimedia.org/wikipedia/commons/c/ce/Rhinoceros_sondaicus_in_London_Zoo.jpg)
 <!-- END_ANIMAL -->
 
 
