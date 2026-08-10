@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 08:01:00 UTC
-**Next update:** ~2026-08-10 08:03:00 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 08:02:22 UTC
+**Next update:** ~2026-08-10 08:04:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Livingstone's fruit bat
-![Livingstone's fruit bat](https://upload.wikimedia.org/wikipedia/commons/c/ca/Bristol.zoo.livfruitbat.arp.jpg)
+### Common Tailless tenrec
+![Common Tailless tenrec](https://upload.wikimedia.org/wikipedia/commons/b/bc/Tanrek.jpg)
 <!-- END_ANIMAL -->
 
 
