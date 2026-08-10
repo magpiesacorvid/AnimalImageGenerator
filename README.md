@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 17:18:22 UTC
-**Next update:** ~2026-08-10 17:20:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 17:20:37 UTC
+**Next update:** ~2026-08-10 17:22:37 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Horsfield's fruit bat
-![Horsfield's fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cynopterus_horsfieldii_544329261.jpg/1280px-Cynopterus_horsfieldii_544329261.jpg)
+### Lesser hedgehog tenrec
+![Lesser hedgehog tenrec](https://upload.wikimedia.org/wikipedia/commons/0/01/Kleiner-igeltanrek-a.jpg)
 <!-- END_ANIMAL -->
 
 
