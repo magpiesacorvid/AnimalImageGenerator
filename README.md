@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 17:32:24 UTC
-**Next update:** ~2026-08-10 17:34:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 17:34:22 UTC
+**Next update:** ~2026-08-10 17:36:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Montane Fish-eating Rat
-![Montane Fish-eating Rat](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Neusticomys_monticolus.jpg/960px-Neusticomys_monticolus.jpg)
+### Abyssinian cat
+![Abyssinian cat](https://commons.wikimedia.org/wiki/Special:FilePath/Fawn_Abyssinian_cat.jpg)
 <!-- END_ANIMAL -->
 
 
