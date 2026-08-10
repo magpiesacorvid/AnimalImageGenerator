@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 15:40:42 UTC
-**Next update:** ~2026-08-10 15:42:42 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 15:42:28 UTC
+**Next update:** ~2026-08-10 15:44:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Marsh Mongoose
-![Marsh Mongoose](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Marsh_mongoose_or_water_mongoose%2C_Atilax_paludinosus%2C_at_Rietvlei_Nature_Reserve%2C_Gauteng%2C_South_Africa_%2822548192738%29.jpg/1920px-Marsh_mongoose_or_water_mongoose%2C_Atilax_paludinosus%2C_at_Rietvlei_Nature_Reserve%2C_Gauteng%2C_South_Africa_%2822548192738%29.jpg)
+### Chamois
+![Chamois](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg/1920px-064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
