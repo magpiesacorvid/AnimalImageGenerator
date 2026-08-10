@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 09:26:26 UTC
-**Next update:** ~2026-08-10 09:28:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 09:28:23 UTC
+**Next update:** ~2026-08-10 09:30:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Guinea baboon
-![Guinea baboon](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Male_Guinea_Baboon_in_Nuremberg_Zoo.jpg/1920px-Male_Guinea_Baboon_in_Nuremberg_Zoo.jpg)
+### Arabian tahr
+![Arabian tahr](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg/1280px-Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg)
 <!-- END_ANIMAL -->
 
 
