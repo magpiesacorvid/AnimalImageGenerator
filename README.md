@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 12:56:26 UTC
-**Next update:** ~2026-08-10 12:58:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 12:58:23 UTC
+**Next update:** ~2026-08-10 13:00:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Daintree River ringtail possum
-![Daintree River ringtail possum](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pseudochirulus_cinereus_149827298.jpg/1920px-Pseudochirulus_cinereus_149827298.jpg)
+### African Wild Cat
+![African Wild Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Southern_African_Wildcat_%28Felis_sylvestris_cafra%29_female_..._%28captive_specimen%29_%2839789072173%29.jpg/1280px-Southern_African_Wildcat_%28Felis_sylvestris_cafra%29_female_..._%28captive_specimen%29_%2839789072173%29.jpg)
 <!-- END_ANIMAL -->
 
 
