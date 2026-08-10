@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 15:42:28 UTC
-**Next update:** ~2026-08-10 15:44:28 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 15:44:24 UTC
+**Next update:** ~2026-08-10 15:46:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chamois
-![Chamois](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg/1920px-064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg)
+### Goeldi's marmoset
+![Goeldi's marmoset](https://upload.wikimedia.org/wikipedia/commons/5/5b/Springtamarin_%28Callimico_goeldii%29.jpg)
 <!-- END_ANIMAL -->
 
 
