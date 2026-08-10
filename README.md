@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 03:38:23 UTC
-**Next update:** ~2026-08-10 03:40:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 03:40:34 UTC
+**Next update:** ~2026-08-10 03:42:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common wombat
-![Common wombat](https://commons.wikimedia.org/wiki/Special:FilePath/Common_wombat_4.jpg)
+### Furry-eared dwarf lemur
+![Furry-eared dwarf lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Crossley%27s_dwarf_lemur_%28Cheirogaleus_crossleyi%29_Ranomafana.jpg/1920px-Crossley%27s_dwarf_lemur_%28Cheirogaleus_crossleyi%29_Ranomafana.jpg)
 <!-- END_ANIMAL -->
 
 
