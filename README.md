@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 04:58:20 UTC
-**Next update:** ~2026-08-10 05:00:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 05:01:01 UTC
+**Next update:** ~2026-08-10 05:03:01 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African manatee
-![African manatee](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg/960px-African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg)
+### Giant otter shrew
+![Giant otter shrew](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Potamogale_velox_340101862.jpg/1920px-Potamogale_velox_340101862.jpg)
 <!-- END_ANIMAL -->
 
 
