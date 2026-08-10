@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 19:34:21 UTC
-**Next update:** ~2026-08-10 19:36:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 19:36:25 UTC
+**Next update:** ~2026-08-10 19:38:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Grey-cheeked mangabey
-![Grey-cheeked mangabey](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Grey-cheeked_Mangabey.JPG/1920px-Grey-cheeked_Mangabey.JPG)
+### Mountain goat
+![Mountain goat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mountain_Goat%2C_Enchantments_Basin.jpg/960px-Mountain_Goat%2C_Enchantments_Basin.jpg)
 <!-- END_ANIMAL -->
 
 
