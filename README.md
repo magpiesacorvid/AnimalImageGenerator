@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 18:10:34 UTC
-**Next update:** ~2026-08-10 18:12:34 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 18:12:23 UTC
+**Next update:** ~2026-08-10 18:14:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Domestic Cattle
-![Domestic Cattle](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/1920px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg)
+### Northern three-striped opossum
+![Northern three-striped opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cu%C3%ADca_de_tr%C3%AAs_listras_-_Monodelphis_americana.jpg/1280px-Cu%C3%ADca_de_tr%C3%AAs_listras_-_Monodelphis_americana.jpg)
 <!-- END_ANIMAL -->
 
 
