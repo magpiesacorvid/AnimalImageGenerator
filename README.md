@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 06:30:50 UTC
-**Next update:** ~2026-08-10 06:32:50 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 06:32:24 UTC
+**Next update:** ~2026-08-10 06:34:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Nile lechwe
-![Nile lechwe](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vodu%C5%A1ka_abok_1_%28cropped%29.jpg/960px-Vodu%C5%A1ka_abok_1_%28cropped%29.jpg)
+### Indian rhinoceros
+![Indian rhinoceros](https://upload.wikimedia.org/wikipedia/commons/7/77/Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg)
 <!-- END_ANIMAL -->
 
 
