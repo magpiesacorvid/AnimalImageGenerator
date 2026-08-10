@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 13:34:23 UTC
-**Next update:** ~2026-08-10 13:36:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 13:36:23 UTC
+**Next update:** ~2026-08-10 13:38:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eland
-![Eland](https://upload.wikimedia.org/wikipedia/commons/6/68/Taurotragus_oryx_%28captive%29.jpg)
+### Golden palm civet
+![Golden palm civet](https://upload.wikimedia.org/wikipedia/commons/7/77/Paradoxurus_zeylonensis.jpg)
 <!-- END_ANIMAL -->
 
 
