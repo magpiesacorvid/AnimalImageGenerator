@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 04:46:21 UTC
-**Next update:** ~2026-08-10 04:48:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 04:48:20 UTC
+**Next update:** ~2026-08-10 04:50:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lion
-![Lion](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/1280px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg)
+### Greater kudu
+![Greater kudu](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Male_greater_kudu.jpg/1920px-Male_greater_kudu.jpg)
 <!-- END_ANIMAL -->
 
 
