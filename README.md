@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 04:18:20 UTC
-**Next update:** ~2026-08-10 04:20:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 04:20:40 UTC
+**Next update:** ~2026-08-10 04:22:40 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African striped weasel
-![African striped weasel](https://upload.wikimedia.org/wikipedia/commons/d/d5/Whitenapedweasellg2.jpg)
+### Gray four-eyed opossum
+![Gray four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/a/ab/Cuica_verdadeira.jpg)
 <!-- END_ANIMAL -->
 
 
