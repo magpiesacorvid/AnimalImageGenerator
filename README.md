@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 02:44:20 UTC
-**Next update:** ~2026-08-10 02:46:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 02:46:19 UTC
+**Next update:** ~2026-08-10 02:48:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Iberian ibex
-![Iberian ibex](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cabra_mont%C3%A9s_2%2C_cropped_and_brightened.jpg/960px-Cabra_mont%C3%A9s_2%2C_cropped_and_brightened.jpg)
+### German Rex Cat
+![German Rex Cat](https://upload.wikimedia.org/wikipedia/commons/c/c7/German_rex_harry_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
