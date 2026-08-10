@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 08:34:22 UTC
-**Next update:** ~2026-08-10 08:36:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 08:36:21 UTC
+**Next update:** ~2026-08-10 08:38:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asiatic linsang
-![Asiatic linsang](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Prionodon_linsang.jpg/1280px-Prionodon_linsang.jpg)
+### Long-nosed bandicoot
+![Long-nosed bandicoot](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Long-nosed_Bandicoot_0059.jpg/1280px-Long-nosed_Bandicoot_0059.jpg)
 <!-- END_ANIMAL -->
 
 
