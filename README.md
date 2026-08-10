@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-10 06:58:28 UTC
-**Next update:** ~2026-08-10 07:00:28 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-10 07:00:57 UTC
+**Next update:** ~2026-08-10 07:02:57 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Darwin's fox
-![Darwin's fox](https://upload.wikimedia.org/wikipedia/commons/8/87/Pseudalopex_fulvipes.jpg)
+### Kangaroo Island dunnart
+![Kangaroo Island dunnart](https://upload.wikimedia.org/wikipedia/commons/5/52/SminthopsisAitkeni.webp)
 <!-- END_ANIMAL -->
 
 
