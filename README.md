@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-11 06:40:34 UTC
-**Next update:** ~2026-08-11 06:42:34 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-11 06:42:27 UTC
+**Next update:** ~2026-08-11 06:44:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Campbell's dwarf hamster
-![Campbell's dwarf hamster](https://upload.wikimedia.org/wikipedia/commons/e/ec/Campbell_hamster_agouti.jpg)
+### American marten
+![American marten](https://upload.wikimedia.org/wikipedia/commons/8/8e/Newfoundland_Pine_Marten.jpg)
 <!-- END_ANIMAL -->
 
 
