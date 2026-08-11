@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-11 11:20:34 UTC
-**Next update:** ~2026-08-11 11:22:34 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-11 11:22:31 UTC
+**Next update:** ~2026-08-11 11:24:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Devon Rex Cat
-![Devon Rex Cat](https://upload.wikimedia.org/wikipedia/commons/a/ad/Devon_Rex_Cassini.jpeg)
+### East Asian finless porpoise
+![East Asian finless porpoise](https://upload.wikimedia.org/wikipedia/commons/e/e4/Neophocaena_phocaenoides_-Miyajima_Aquarium_-Japan-8a.jpg)
 <!-- END_ANIMAL -->
 
 
