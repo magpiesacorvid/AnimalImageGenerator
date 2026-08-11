@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-11 14:01:04 UTC
-**Next update:** ~2026-08-11 14:03:04 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-11 14:02:21 UTC
+**Next update:** ~2026-08-11 14:04:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bornean orangutan
-![Bornean orangutan](https://upload.wikimedia.org/wikipedia/commons/d/d6/Tanjung_Puting30477.jpg)
+### Northern tamandua
+![Northern tamandua](https://upload.wikimedia.org/wikipedia/commons/8/80/DirkvdM_tamandua.jpg)
 <!-- END_ANIMAL -->
 
 
