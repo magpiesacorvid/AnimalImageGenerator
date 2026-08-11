@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-11 16:30:54 UTC
-**Next update:** ~2026-08-11 16:32:54 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-11 16:32:24 UTC
+**Next update:** ~2026-08-11 16:34:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bawean deer
-![Bawean deer](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Adult_male_Bawean_deer_Axis_kuhlii.JPG/1920px-Adult_male_Bawean_deer_Axis_kuhlii.JPG)
+### Gray four-eyed opossum
+![Gray four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/a/ab/Cuica_verdadeira.jpg)
 <!-- END_ANIMAL -->
 
 
