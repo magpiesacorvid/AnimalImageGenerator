@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-11 14:42:25 UTC
-**Next update:** ~2026-08-11 14:44:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-11 14:44:22 UTC
+**Next update:** ~2026-08-11 14:46:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Carr's slender opossum
-![Carr's slender opossum](https://upload.wikimedia.org/wikipedia/commons/5/5c/Marmosops_carri_426343845_%28cropped%29.jpg)
+### Eld's deer
+![Eld's deer](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Panolia_eldii_thamin.jpg/1920px-Panolia_eldii_thamin.jpg)
 <!-- END_ANIMAL -->
 
 
