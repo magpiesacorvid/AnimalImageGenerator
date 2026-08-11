@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-11 00:26:20 UTC
-**Next update:** ~2026-08-11 00:28:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-11 00:28:21 UTC
+**Next update:** ~2026-08-11 00:30:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Okapi
-![Okapi](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg/1280px-Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg)
+### Common four-eyed opossum
+![Common four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Common_Four-eyed_Opossum_imported_from_iNaturalist_photo_284956116_on_14_October_2024.jpg/1920px-Common_Four-eyed_Opossum_imported_from_iNaturalist_photo_284956116_on_14_October_2024.jpg)
 <!-- END_ANIMAL -->
 
 
