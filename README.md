@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-11 12:48:24 UTC
-**Next update:** ~2026-08-11 12:50:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-11 12:50:39 UTC
+**Next update:** ~2026-08-11 12:52:39 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ethiopian Wolf
-![Ethiopian Wolf](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ethiopian_wolf_%28Canis_simensis_citernii%29.jpg/1920px-Ethiopian_wolf_%28Canis_simensis_citernii%29.jpg)
+### Ladak pika
+![Ladak pika](https://upload.wikimedia.org/wikipedia/commons/4/4d/Ladakh_Pika_2007.jpg)
 <!-- END_ANIMAL -->
 
 
