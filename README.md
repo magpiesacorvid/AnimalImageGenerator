@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-11 13:40:36 UTC
-**Next update:** ~2026-08-11 13:42:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-11 13:42:22 UTC
+**Next update:** ~2026-08-11 13:44:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern tree hyrax
-![Eastern tree hyrax](https://upload.wikimedia.org/wikipedia/commons/d/d2/Dendrohyrax_validus_terricola.jpg)
+### American Curl
+![American Curl](https://commons.wikimedia.org/wiki/Special:FilePath/American_curl_2.jpg)
 <!-- END_ANIMAL -->
 
 
