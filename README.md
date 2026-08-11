@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-11 18:01:01 UTC
-**Next update:** ~2026-08-11 18:03:01 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-11 18:02:24 UTC
+**Next update:** ~2026-08-11 18:04:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chimpanzee
-![Chimpanzee](https://commons.wikimedia.org/wiki/Special:FilePath/Chimpanzee_(Pan_troglodytes).jpg)
+### Irrawaddy dolphin
+![Irrawaddy dolphin](https://upload.wikimedia.org/wikipedia/commons/a/ae/Irrawaddy_dolphin-Orcaella_brevirostris_by_2eight.jpg)
 <!-- END_ANIMAL -->
 
 
