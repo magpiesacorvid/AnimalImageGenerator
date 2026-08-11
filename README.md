@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-11 02:38:21 UTC
-**Next update:** ~2026-08-11 02:40:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-11 02:40:37 UTC
+**Next update:** ~2026-08-11 02:42:37 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American pika
-![American pika](https://upload.wikimedia.org/wikipedia/commons/8/8f/American_pika_Banff_National_Park.jpg)
+### Caucasian badger
+![Caucasian badger](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Badger_Crete.jpg/1920px-Badger_Crete.jpg)
 <!-- END_ANIMAL -->
 
 
