@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-11 03:10:36 UTC
-**Next update:** ~2026-08-11 03:12:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-11 03:12:23 UTC
+**Next update:** ~2026-08-11 03:14:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Borneo fruit bat
-![Borneo fruit bat](https://upload.wikimedia.org/wikipedia/commons/4/4d/Aethalops_aequalis.jpg)
+### Argali Mountain Sheep
+![Argali Mountain Sheep](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ovis_ammon_%28cropped%29.jpg/960px-Ovis_ammon_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
