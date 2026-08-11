@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-11 16:26:35 UTC
-**Next update:** ~2026-08-11 16:28:35 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-11 16:28:22 UTC
+**Next update:** ~2026-08-11 16:30:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American Bobtail
-![American Bobtail](https://commons.wikimedia.org/wiki/Special:FilePath/American_bobtail_2.jpg)
+### Monito del monte
+![Monito del monte](https://upload.wikimedia.org/wikipedia/commons/5/51/Monito_del_Monte_ps6.jpg)
 <!-- END_ANIMAL -->
 
 
