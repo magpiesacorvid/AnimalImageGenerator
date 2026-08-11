@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-11 11:54:22 UTC
-**Next update:** ~2026-08-11 11:56:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-11 11:56:22 UTC
+**Next update:** ~2026-08-11 11:58:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Havana Brown Cat
-![Havana Brown Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Havana_kittens.jpg/960px-Havana_kittens.jpg)
+### European pine marten
+![European pine marten](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pine_Marten_%2848173751702%29.jpg/1920px-Pine_Marten_%2848173751702%29.jpg)
 <!-- END_ANIMAL -->
 
 
