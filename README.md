@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-11 00:04:23 UTC
-**Next update:** ~2026-08-11 00:06:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-11 00:06:24 UTC
+**Next update:** ~2026-08-11 00:08:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Golden-crowned sifaka
-![Golden-crowned sifaka](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Propithecus_tattersalli_001.jpg/1920px-Propithecus_tattersalli_001.jpg)
+### Dama gazelle
+![Dama gazelle](https://upload.wikimedia.org/wikipedia/commons/a/a5/Gazella_dama_ruficollis_3zz.jpg)
 <!-- END_ANIMAL -->
 
 
