@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-12 01:56:21 UTC
-**Next update:** ~2026-08-12 01:58:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-12 01:58:19 UTC
+**Next update:** ~2026-08-12 02:00:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Grey-cheeked mangabey
-![Grey-cheeked mangabey](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Grey-cheeked_Mangabey.JPG/1920px-Grey-cheeked_Mangabey.JPG)
+### Large flying fox
+![Large flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wilhelma_Kalong-Flughund_Pteropus_vampyrus_0513.jpg/960px-Wilhelma_Kalong-Flughund_Pteropus_vampyrus_0513.jpg)
 <!-- END_ANIMAL -->
 
 
