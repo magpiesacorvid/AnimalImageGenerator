@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-12 22:01:10 UTC
-**Next update:** ~2026-08-12 22:03:10 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-12 22:02:26 UTC
+**Next update:** ~2026-08-12 22:04:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mauritian flying fox
-![Mauritian flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mauritian_flying_fox_%28Pteropus_niger%29_male_in_flight.jpg/1280px-Mauritian_flying_fox_%28Pteropus_niger%29_male_in_flight.jpg)
+### Lemuroid ringtail possum
+![Lemuroid ringtail possum](https://upload.wikimedia.org/wikipedia/commons/e/e8/Hemibelideus_lemuroides_-Queensland-8.jpg)
 <!-- END_ANIMAL -->
 
 
