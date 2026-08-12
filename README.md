@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-12 03:30:47 UTC
-**Next update:** ~2026-08-12 03:32:47 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-12 03:32:19 UTC
+**Next update:** ~2026-08-12 03:34:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lioness
-![Lioness](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Okonjima_Lioness.jpg/960px-Okonjima_Lioness.jpg)
+### Northern white-cheeked gibbon
+![Northern white-cheeked gibbon](https://upload.wikimedia.org/wikipedia/commons/8/85/Witwanggibbon_M.jpg)
 <!-- END_ANIMAL -->
 
 
