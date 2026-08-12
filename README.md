@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-12 21:42:29 UTC
-**Next update:** ~2026-08-12 21:44:29 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-12 21:44:21 UTC
+**Next update:** ~2026-08-12 21:46:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Margay
-![Margay](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Margay_in_Costa_Rica.jpg/960px-Margay_in_Costa_Rica.jpg)
+### Nubra pika
+![Nubra pika](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nubra_Pika_imported_from_iNaturalist_photo_280695445_on_14_February_2024.jpg/250px-Nubra_Pika_imported_from_iNaturalist_photo_280695445_on_14_February_2024.jpg)
 <!-- END_ANIMAL -->
 
 
