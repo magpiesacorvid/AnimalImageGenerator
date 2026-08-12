@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-12 19:08:25 UTC
-**Next update:** ~2026-08-12 19:10:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-12 19:10:33 UTC
+**Next update:** ~2026-08-12 19:12:33 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Juliana's golden mole
-![Juliana's golden mole](https://upload.wikimedia.org/wikipedia/commons/4/45/The_Juliana%E2%80%99s_golden_mole_is_one_of_Africa%E2%80%99s_most_threatened_mammals_Jackson.png)
+### Long-furred woolly mouse opossum
+![Long-furred woolly mouse opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/North-eastern_Woolly_Mouse_Opossum_imported_from_iNaturalist_photo_417123381_on_18_October_2024.jpg/250px-North-eastern_Woolly_Mouse_Opossum_imported_from_iNaturalist_photo_417123381_on_18_October_2024.jpg)
 <!-- END_ANIMAL -->
 
 
