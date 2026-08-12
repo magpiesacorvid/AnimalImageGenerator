@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-12 01:08:20 UTC
-**Next update:** ~2026-08-12 01:10:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-12 01:10:39 UTC
+**Next update:** ~2026-08-12 01:12:39 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Calamian deer
-![Calamian deer](https://commons.wikimedia.org/wiki/Special:FilePath/Axis_calamianensis.jpg)
+### Giant anteater
+![Giant anteater](https://upload.wikimedia.org/wikipedia/commons/3/3b/Myresluger2.jpg)
 <!-- END_ANIMAL -->
 
 
