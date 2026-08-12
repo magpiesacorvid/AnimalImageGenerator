@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-12 11:38:30 UTC
-**Next update:** ~2026-08-12 11:40:30 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-12 11:40:37 UTC
+**Next update:** ~2026-08-12 11:42:37 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dusky Langur
-![Dusky Langur](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Dusky_leaf_monkey_%288050982300%29.jpg/1920px-Dusky_leaf_monkey_%288050982300%29.jpg)
+### False killer whale
+![False killer whale](https://upload.wikimedia.org/wikipedia/commons/9/99/Pseudoorca_Crassidens_-_False_Killer_Whale.jpg)
 <!-- END_ANIMAL -->
 
 
