@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-12 10:56:24 UTC
-**Next update:** ~2026-08-12 10:58:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-12 10:58:22 UTC
+**Next update:** ~2026-08-12 11:00:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chacoan naked-tailed armadillo
-![Chacoan naked-tailed armadillo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Cabassous_chacoensis_eating.jpg)
+### Kitti's hog-nosed bat
+![Kitti's hog-nosed bat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Craseonycteris_thonglongyai_414843825.jpg/960px-Craseonycteris_thonglongyai_414843825.jpg)
 <!-- END_ANIMAL -->
 
 
