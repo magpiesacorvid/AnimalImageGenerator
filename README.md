@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-12 21:54:23 UTC
-**Next update:** ~2026-08-12 21:56:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-12 21:56:21 UTC
+**Next update:** ~2026-08-12 21:58:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Fennec fox
-![Fennec fox](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fennec_Fox_Vulpes_zerda.jpg/1920px-Fennec_Fox_Vulpes_zerda.jpg)
+### Central Asian red deer
+![Central Asian red deer](https://upload.wikimedia.org/wikipedia/commons/1/1f/Bukhara_Deer_stag_at_Speyside_Wildlife_Park_-_geograph.org.uk_-_1002574_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
