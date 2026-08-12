@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-12 11:02:30 UTC
-**Next update:** ~2026-08-12 11:04:30 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-12 11:04:23 UTC
+**Next update:** ~2026-08-12 11:06:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### New Guinean quoll
-![New Guinean quoll](https://upload.wikimedia.org/wikipedia/commons/6/62/New_Guinean_quoll.webp)
+### Crab-eating macaque
+![Crab-eating macaque](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ubud_Monkey_Family.jpg/1920px-Ubud_Monkey_Family.jpg)
 <!-- END_ANIMAL -->
 
 
