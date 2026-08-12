@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-12 02:30:48 UTC
-**Next update:** ~2026-08-12 02:32:48 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-12 02:32:22 UTC
+**Next update:** ~2026-08-12 02:34:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arctic fox
-![Arctic fox](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg/960px-Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg)
+### Cape Gray Mongoose
+![Cape Gray Mongoose](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MJK_25239_Galerella_pulverulenta.jpg/1920px-MJK_25239_Galerella_pulverulenta.jpg)
 <!-- END_ANIMAL -->
 
 
