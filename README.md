@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-12 08:40:39 UTC
-**Next update:** ~2026-08-12 08:42:39 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-12 08:42:28 UTC
+**Next update:** ~2026-08-12 08:44:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Crab-eating macaque
-![Crab-eating macaque](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ubud_Monkey_Family.jpg/1920px-Ubud_Monkey_Family.jpg)
+### Mongolian gazelle
+![Mongolian gazelle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Procapra_gutturosa_381343709.jpg/1280px-Procapra_gutturosa_381343709.jpg)
 <!-- END_ANIMAL -->
 
 
