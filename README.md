@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-13 03:46:18 UTC
-**Next update:** ~2026-08-13 03:48:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-13 03:48:20 UTC
+**Next update:** ~2026-08-13 03:50:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Caspian seal
-![Caspian seal](https://upload.wikimedia.org/wikipedia/commons/8/83/Caspian_seal_03.jpg)
+### Highland streaked tenrec
+![Highland streaked tenrec](https://upload.wikimedia.org/wikipedia/commons/c/c8/Hemicentetes_nigriceps.jpg)
 <!-- END_ANIMAL -->
 
 
