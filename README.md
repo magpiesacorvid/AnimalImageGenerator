@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-13 18:46:23 UTC
-**Next update:** ~2026-08-13 18:48:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-13 18:48:20 UTC
+**Next update:** ~2026-08-13 18:50:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Guanaco
-![Guanaco](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Guanaco_%28Lama_guanicoe%29_Leona_Amarga.jpg/1920px-Guanaco_%28Lama_guanicoe%29_Leona_Amarga.jpg)
+### Eastern chipmunk
+![Eastern chipmunk](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Chipmunk_with_stuffed_cheeks_in_Prospect_Park_%2805980%29.jpg/1920px-Chipmunk_with_stuffed_cheeks_in_Prospect_Park_%2805980%29.jpg)
 <!-- END_ANIMAL -->
 
 
