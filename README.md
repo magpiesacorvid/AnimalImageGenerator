@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-13 03:38:22 UTC
-**Next update:** ~2026-08-13 03:40:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-13 03:40:35 UTC
+**Next update:** ~2026-08-13 03:42:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black Footed Cat
-![Black Footed Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Zoo_Wuppertal_Schwarzfusskatze.jpg/1920px-Zoo_Wuppertal_Schwarzfusskatze.jpg)
+### Minuet Cat
+![Minuet Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/White_Gray_Minuet_Cat.png/1280px-White_Gray_Minuet_Cat.png)
 <!-- END_ANIMAL -->
 
 
