@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-13 21:28:19 UTC
-**Next update:** ~2026-08-13 21:30:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-13 21:30:45 UTC
+**Next update:** ~2026-08-13 21:32:45 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Beaked whale
-![Beaked whale](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Beaked_Whale.jpg/1920px-Beaked_Whale.jpg)
+### Capuchin monkey
+![Capuchin monkey](https://upload.wikimedia.org/wikipedia/commons/4/40/Capuchin_Costa_Rica.jpg)
 <!-- END_ANIMAL -->
 
 
