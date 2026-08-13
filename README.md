@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-13 06:14:23 UTC
-**Next update:** ~2026-08-13 06:16:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-13 06:16:20 UTC
+**Next update:** ~2026-08-13 06:18:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater kudu
-![Greater kudu](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Male_greater_kudu.jpg/1920px-Male_greater_kudu.jpg)
+### Mekong Bobtail
+![Mekong Bobtail](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mekong_bobtail_%28Thai_bobtail%29._Tabby-point..jpg/1280px-Mekong_bobtail_%28Thai_bobtail%29._Tabby-point..jpg)
 <!-- END_ANIMAL -->
 
 
