@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-13 19:04:27 UTC
-**Next update:** ~2026-08-13 19:06:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-13 19:06:26 UTC
+**Next update:** ~2026-08-13 19:08:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Minskin Cat
-![Minskin Cat](https://upload.wikimedia.org/wikipedia/commons/7/73/Minskin_Kitten_Female_blue_tabby_color-pattern.jpg)
+### Guadalupe fur seal
+![Guadalupe fur seal](https://upload.wikimedia.org/wikipedia/commons/b/ba/Arctocephalus_townsendi.jpg)
 <!-- END_ANIMAL -->
 
 
