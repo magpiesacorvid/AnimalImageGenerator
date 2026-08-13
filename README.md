@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-13 18:24:30 UTC
-**Next update:** ~2026-08-13 18:26:30 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-13 18:26:26 UTC
+**Next update:** ~2026-08-13 18:28:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Giant otter
-![Giant otter](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Giant_otters_%28Pteronura_brasiliensis%29.jpg/1920px-Giant_otters_%28Pteronura_brasiliensis%29.jpg)
+### Greater naked-tailed armadillo
+![Greater naked-tailed armadillo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ejemplar_de_tatu_de_rabo_molle_%28Cabassous_tatouay%29%2C_Uruguay%2C_2022.jpg/1920px-Ejemplar_de_tatu_de_rabo_molle_%28Cabassous_tatouay%29%2C_Uruguay%2C_2022.jpg)
 <!-- END_ANIMAL -->
 
 
