@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-14 03:40:34 UTC
-**Next update:** ~2026-08-14 03:42:34 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-14 03:42:22 UTC
+**Next update:** ~2026-08-14 03:44:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African bush elephant
-![African bush elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg)
+### Markhor
+![Markhor](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg/960px-Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg)
 <!-- END_ANIMAL -->
 
 
