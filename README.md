@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-14 12:08:21 UTC
-**Next update:** ~2026-08-14 12:10:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-14 12:10:38 UTC
+**Next update:** ~2026-08-14 12:12:38 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Golden Jackal
-![Golden Jackal](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/500px-033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg)
+### Masked palm civet
+![Masked palm civet](https://upload.wikimedia.org/wikipedia/commons/2/2a/Palm_civet_on_tree_%28detail%29.jpg)
 <!-- END_ANIMAL -->
 
 
