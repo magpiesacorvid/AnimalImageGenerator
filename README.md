@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-14 08:30:47 UTC
-**Next update:** ~2026-08-14 08:32:47 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-14 08:32:19 UTC
+**Next update:** ~2026-08-14 08:34:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Flat Headed Cat
-![Flat Headed Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flat-headed_cat_1_Jim_Sanderson.JPG/1920px-Flat-headed_cat_1_Jim_Sanderson.JPG)
+### Bald uakari
+![Bald uakari](https://commons.wikimedia.org/wiki/Special:FilePath/Male_uakari.jpg)
 <!-- END_ANIMAL -->
 
 
