@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-14 05:50:33 UTC
-**Next update:** ~2026-08-14 05:52:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-14 05:52:21 UTC
+**Next update:** ~2026-08-14 05:54:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common warthog
-![Common warthog](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Southern_warthog_%28Phacochoerus_africanus_sundevallii%29_male.jpg/1920px-Southern_warthog_%28Phacochoerus_africanus_sundevallii%29_male.jpg)
+### Lowland streaked tenrec
+![Lowland streaked tenrec](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lowland_Streaked_Tenrec%2C_Mantadia%2C_Madagascar.jpg/1280px-Lowland_Streaked_Tenrec%2C_Mantadia%2C_Madagascar.jpg)
 <!-- END_ANIMAL -->
 
 
