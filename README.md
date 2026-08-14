@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-14 05:38:23 UTC
-**Next update:** ~2026-08-14 05:40:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-14 05:40:32 UTC
+**Next update:** ~2026-08-14 05:42:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Japanese marten
-![Japanese marten](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Inokashira_Park_Zoo_PC053197.jpg/960px-Inokashira_Park_Zoo_PC053197.jpg)
+### Common Tailless tenrec
+![Common Tailless tenrec](https://upload.wikimedia.org/wikipedia/commons/b/bc/Tanrek.jpg)
 <!-- END_ANIMAL -->
 
 
