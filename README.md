@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-14 06:48:20 UTC
-**Next update:** ~2026-08-14 06:50:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-14 06:50:35 UTC
+**Next update:** ~2026-08-14 06:52:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chinese hamster
-![Chinese hamster](https://upload.wikimedia.org/wikipedia/commons/4/4f/Chinesedsaffa.jpg)
+### False killer whale
+![False killer whale](https://upload.wikimedia.org/wikipedia/commons/9/99/Pseudoorca_Crassidens_-_False_Killer_Whale.jpg)
 <!-- END_ANIMAL -->
 
 
