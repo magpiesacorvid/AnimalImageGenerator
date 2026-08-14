@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-14 07:14:26 UTC
-**Next update:** ~2026-08-14 07:16:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-14 07:16:21 UTC
+**Next update:** ~2026-08-14 07:18:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Molina's hog-nosed skunk
-![Molina's hog-nosed skunk](https://upload.wikimedia.org/wikipedia/commons/5/5b/Chingue_%28Conepatus_chinga%29_Inao_V%C3%A1squez_001.jpg)
+### Malayan tapir
+![Malayan tapir](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schabrackentapir_Tapirus_indicus_Tiergarten-Nuernberg-1.jpg/1280px-Schabrackentapir_Tapirus_indicus_Tiergarten-Nuernberg-1.jpg)
 <!-- END_ANIMAL -->
 
 
