@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-14 04:00:56 UTC
-**Next update:** ~2026-08-14 04:02:56 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-14 04:02:21 UTC
+**Next update:** ~2026-08-14 04:04:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Haida ermine
-![Haida ermine](https://upload.wikimedia.org/wikipedia/commons/d/d1/Haida_Ermine_%28Mustela_haidarum%29.jpg)
+### Dry Chaco fat-tailed opossum
+![Dry Chaco fat-tailed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Thylamys_pulchellus_140409426.jpg/1920px-Thylamys_pulchellus_140409426.jpg)
 <!-- END_ANIMAL -->
 
 
