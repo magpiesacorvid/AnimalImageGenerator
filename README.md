@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-14 19:06:22 UTC
-**Next update:** ~2026-08-14 19:08:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-14 19:08:24 UTC
+**Next update:** ~2026-08-14 19:10:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Koala
-![Koala](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Koala_climbing_tree.jpg/960px-Koala_climbing_tree.jpg)
+### Hooded seal
+![Hooded seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2016-klappm%C3%BCtzemuseumkoenig.jpg/1280px-2016-klappm%C3%BCtzemuseumkoenig.jpg)
 <!-- END_ANIMAL -->
 
 
