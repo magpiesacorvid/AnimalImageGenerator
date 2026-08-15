@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-15 17:12:21 UTC
-**Next update:** ~2026-08-15 17:14:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-15 17:14:21 UTC
+**Next update:** ~2026-08-15 17:16:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Artibeus
-![Artibeus](https://upload.wikimedia.org/wikipedia/commons/1/12/Artibeus_sp._Tortuguero_National_Park_crop.jpg)
+### Nilgiri marten
+![Nilgiri marten](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nilgiri_marten_by_N_A_Nazeer.jpg/960px-Nilgiri_marten_by_N_A_Nazeer.jpg)
 <!-- END_ANIMAL -->
 
 
