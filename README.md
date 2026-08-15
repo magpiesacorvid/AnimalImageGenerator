@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-15 12:58:19 UTC
-**Next update:** ~2026-08-15 13:00:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-15 13:00:55 UTC
+**Next update:** ~2026-08-15 13:02:55 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-headed night monkey
-![Black-headed night monkey](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Aotus_nigriceps.jpg/1920px-Aotus_nigriceps.jpg)
+### New England cottontail
+![New England cottontail](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sylvilagus_transitionalis_%2821315229532%29.jpg/1920px-Sylvilagus_transitionalis_%2821315229532%29.jpg)
 <!-- END_ANIMAL -->
 
 
