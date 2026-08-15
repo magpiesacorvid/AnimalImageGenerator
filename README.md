@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-15 20:10:33 UTC
-**Next update:** ~2026-08-15 20:12:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-15 20:12:20 UTC
+**Next update:** ~2026-08-15 20:14:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mekong Bobtail
-![Mekong Bobtail](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mekong_bobtail_%28Thai_bobtail%29._Tabby-point..jpg/1280px-Mekong_bobtail_%28Thai_bobtail%29._Tabby-point..jpg)
+### Okapi
+![Okapi](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg/1280px-Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg)
 <!-- END_ANIMAL -->
 
 
