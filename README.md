@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-15 01:38:20 UTC
-**Next update:** ~2026-08-15 01:40:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-15 01:40:34 UTC
+**Next update:** ~2026-08-15 01:42:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Amazonian manatee
-![Amazonian manatee](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Manati_amazonico_en_Iquitos.jpg/1280px-Manati_amazonico_en_Iquitos.jpg)
+### Daintree River ringtail possum
+![Daintree River ringtail possum](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pseudochirulus_cinereus_149827298.jpg/1920px-Pseudochirulus_cinereus_149827298.jpg)
 <!-- END_ANIMAL -->
 
 
