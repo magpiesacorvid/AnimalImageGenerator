@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-16 20:04:23 UTC
-**Next update:** ~2026-08-16 20:06:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-16 20:06:23 UTC
+**Next update:** ~2026-08-16 20:08:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asian mole shrew
-![Asian mole shrew](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Anourosorex_squamips_yamashinai_%28adult%29_PShaner_2011-5-4.png/1920px-Anourosorex_squamips_yamashinai_%28adult%29_PShaner_2011-5-4.png)
+### Asiatic linsang
+![Asiatic linsang](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Prionodon_linsang.jpg/1280px-Prionodon_linsang.jpg)
 <!-- END_ANIMAL -->
 
 
