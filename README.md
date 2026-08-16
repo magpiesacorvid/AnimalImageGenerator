@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-16 06:50:36 UTC
-**Next update:** ~2026-08-16 06:52:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-16 06:52:20 UTC
+**Next update:** ~2026-08-16 06:54:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern pygmy possum
-![Eastern pygmy possum](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eastern_Pygmy_Possum_Pilliga_Forest_NSW.jpg/1920px-Eastern_Pygmy_Possum_Pilliga_Forest_NSW.jpg)
+### Furry-eared dwarf lemur
+![Furry-eared dwarf lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Crossley%27s_dwarf_lemur_%28Cheirogaleus_crossleyi%29_Ranomafana.jpg/1920px-Crossley%27s_dwarf_lemur_%28Cheirogaleus_crossleyi%29_Ranomafana.jpg)
 <!-- END_ANIMAL -->
 
 
