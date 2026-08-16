@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-16 12:18:23 UTC
-**Next update:** ~2026-08-16 12:20:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-16 12:20:35 UTC
+**Next update:** ~2026-08-16 12:22:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Coppery brushtail possum
-![Coppery brushtail possum](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coppery_Brushtail_Possum_%283625102158%29.jpg/1920px-Coppery_Brushtail_Possum_%283625102158%29.jpg)
+### Domestic sheep
+![Domestic sheep](https://upload.wikimedia.org/wikipedia/commons/2/2c/Flock_of_sheep.jpg)
 <!-- END_ANIMAL -->
 
 
