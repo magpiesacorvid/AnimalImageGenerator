@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-16 15:50:36 UTC
-**Next update:** ~2026-08-16 15:52:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-16 15:52:21 UTC
+**Next update:** ~2026-08-16 15:54:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Blue-eyed black lemur
-![Blue-eyed black lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Blue-Eyed_Black_Lemur.jpg/1920px-Blue-Eyed_Black_Lemur.jpg)
+### Chacoan naked-tailed armadillo
+![Chacoan naked-tailed armadillo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Cabassous_chacoensis_eating.jpg)
 <!-- END_ANIMAL -->
 
 
