@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-16 23:46:20 UTC
-**Next update:** ~2026-08-16 23:48:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-16 23:48:21 UTC
+**Next update:** ~2026-08-16 23:50:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gilbert's potoroo
-![Gilbert's potoroo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GilbertsPotoroo.JPG/250px-GilbertsPotoroo.JPG)
+### Fin whale
+![Fin whale](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Finhval_%281%29.jpg/1920px-Finhval_%281%29.jpg)
 <!-- END_ANIMAL -->
 
 
