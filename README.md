@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-16 22:54:22 UTC
-**Next update:** ~2026-08-16 22:56:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-16 22:56:20 UTC
+**Next update:** ~2026-08-16 22:58:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Himalayan tahr
-![Himalayan tahr](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Himalayan_Tahr_at_Sagarmatha_National_Park%2C_Nepal_01.jpg/1280px-Himalayan_Tahr_at_Sagarmatha_National_Park%2C_Nepal_01.jpg)
+### European Wild Cat
+![European Wild Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Felis_silvestris_silvestris_Luc_Viatour.jpg/1920px-Felis_silvestris_silvestris_Luc_Viatour.jpg)
 <!-- END_ANIMAL -->
 
 
