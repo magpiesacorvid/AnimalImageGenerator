@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-16 03:40:34 UTC
-**Next update:** ~2026-08-16 03:42:34 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-16 03:42:20 UTC
+**Next update:** ~2026-08-16 03:44:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Matschie's tree-kangaroo
-![Matschie's tree-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dendrolagus_matschiei_at_the_Bronx_Zoo_007.jpg/960px-Dendrolagus_matschiei_at_the_Bronx_Zoo_007.jpg)
+### Black-eared flying fox
+![Black-eared flying fox](https://upload.wikimedia.org/wikipedia/commons/e/e9/Pteropus_melanotus_natalis_-_the_Christmas_Island_flying-fox.jpg)
 <!-- END_ANIMAL -->
 
 
