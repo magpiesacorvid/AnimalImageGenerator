@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-16 23:32:21 UTC
-**Next update:** ~2026-08-16 23:34:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-16 23:34:20 UTC
+**Next update:** ~2026-08-16 23:36:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dwarf epauletted fruit bat
-![Dwarf epauletted fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Peters%27s_dwarf_epauletted_fruit_bat_%28Micropteropus_pusillus%29.jpg/1920px-Peters%27s_dwarf_epauletted_fruit_bat_%28Micropteropus_pusillus%29.jpg)
+### Lowland streaked tenrec
+![Lowland streaked tenrec](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lowland_Streaked_Tenrec%2C_Mantadia%2C_Madagascar.jpg/1280px-Lowland_Streaked_Tenrec%2C_Mantadia%2C_Madagascar.jpg)
 <!-- END_ANIMAL -->
 
 
