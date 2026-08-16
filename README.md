@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-16 13:58:21 UTC
-**Next update:** ~2026-08-16 14:00:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-16 14:00:56 UTC
+**Next update:** ~2026-08-16 14:02:56 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### North American porcupine
-![North American porcupine](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Porcupine-BioDome.jpg/250px-Porcupine-BioDome.jpg)
+### Highlander Cat
+![Highlander Cat](https://upload.wikimedia.org/wikipedia/commons/1/15/Highlander-7.jpg)
 <!-- END_ANIMAL -->
 
 
