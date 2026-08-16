@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-16 13:44:19 UTC
-**Next update:** ~2026-08-16 13:46:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-16 13:46:21 UTC
+**Next update:** ~2026-08-16 13:48:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Large-spotted civet
-![Large-spotted civet](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Large-spotted_Civet_%28Viverra_megaspila%29.jpg/1280px-Large-spotted_Civet_%28Viverra_megaspila%29.jpg)
+### Gilbert's potoroo
+![Gilbert's potoroo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GilbertsPotoroo.JPG/250px-GilbertsPotoroo.JPG)
 <!-- END_ANIMAL -->
 
 
