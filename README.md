@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-16 21:42:19 UTC
-**Next update:** ~2026-08-16 21:44:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-16 21:44:22 UTC
+**Next update:** ~2026-08-16 21:46:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mantled Howler
-![Mantled Howler](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Panamanian_Male_Adult_Howler_Monkey.jpg/1280px-Panamanian_Male_Adult_Howler_Monkey.jpg)
+### Northern white-cheeked gibbon
+![Northern white-cheeked gibbon](https://upload.wikimedia.org/wikipedia/commons/8/85/Witwanggibbon_M.jpg)
 <!-- END_ANIMAL -->
 
 
