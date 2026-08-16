@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-16 08:58:21 UTC
-**Next update:** ~2026-08-16 09:00:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-16 09:00:54 UTC
+**Next update:** ~2026-08-16 09:02:54 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Malayan tapir
-![Malayan tapir](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schabrackentapir_Tapirus_indicus_Tiergarten-Nuernberg-1.jpg/1280px-Schabrackentapir_Tapirus_indicus_Tiergarten-Nuernberg-1.jpg)
+### Mediterranean monk seal
+![Mediterranean monk seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Monachus_monachus_DSC_0274.jpg/1280px-Monachus_monachus_DSC_0274.jpg)
 <!-- END_ANIMAL -->
 
 
