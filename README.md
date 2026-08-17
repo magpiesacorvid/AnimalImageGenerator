@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-17 10:10:36 UTC
-**Next update:** ~2026-08-17 10:12:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-17 10:12:21 UTC
+**Next update:** ~2026-08-17 10:14:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Grey-cheeked mangabey
-![Grey-cheeked mangabey](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Grey-cheeked_Mangabey.JPG/1920px-Grey-cheeked_Mangabey.JPG)
+### Bengal Tiger
+![Bengal Tiger](https://commons.wikimedia.org/wiki/Special:FilePath/Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg)
 <!-- END_ANIMAL -->
 
 
