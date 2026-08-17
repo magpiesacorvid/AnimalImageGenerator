@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-17 00:10:33 UTC
-**Next update:** ~2026-08-17 00:12:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-17 00:12:21 UTC
+**Next update:** ~2026-08-17 00:14:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dwarf sperm whale
-![Dwarf sperm whale](https://upload.wikimedia.org/wikipedia/commons/5/58/Dwarf_sperm_whale_%28NOAA_Pitman%29.jpg)
+### Banded Mongoose
+![Banded Mongoose](https://commons.wikimedia.org/wiki/Special:FilePath/Banded_mongoose_(Mungos_mungo).jpg)
 <!-- END_ANIMAL -->
 
 
