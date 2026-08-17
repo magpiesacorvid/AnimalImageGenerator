@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-17 01:12:20 UTC
-**Next update:** ~2026-08-17 01:14:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-17 01:14:18 UTC
+**Next update:** ~2026-08-17 01:16:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian flying fox
-![Indian flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/047_Indian_flying_fox_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/960px-047_Indian_flying_fox_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg)
+### Chinese hamster
+![Chinese hamster](https://upload.wikimedia.org/wikipedia/commons/4/4f/Chinesedsaffa.jpg)
 <!-- END_ANIMAL -->
 
 
