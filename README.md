@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-17 14:32:20 UTC
-**Next update:** ~2026-08-17 14:34:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-17 14:34:21 UTC
+**Next update:** ~2026-08-17 14:36:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cape Golden Mole
-![Cape Golden Mole](https://commons.wikimedia.org/wiki/Special:FilePath/Chrysochloris_asiatica_Cape_golden_mole_adult_IMG_7120.jpg)
+### Harp seal
+![Harp seal](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Harp_Seal_%28Pagophilus_groenlandicus%29%2C_Greenland_Sea_IMG_5075.jpg/1920px-Harp_Seal_%28Pagophilus_groenlandicus%29%2C_Greenland_Sea_IMG_5075.jpg)
 <!-- END_ANIMAL -->
 
 
