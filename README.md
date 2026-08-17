@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-17 00:48:21 UTC
-**Next update:** ~2026-08-17 00:50:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-17 00:50:32 UTC
+**Next update:** ~2026-08-17 00:52:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Madras treeshrew
-![Madras treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Madras_treeshrew_%28Anathana_ellioti%29_by_Davidraju_img7.jpg/1920px-The_Madras_treeshrew_%28Anathana_ellioti%29_by_Davidraju_img7.jpg)
+### Horsfield's fruit bat
+![Horsfield's fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cynopterus_horsfieldii_544329261.jpg/1280px-Cynopterus_horsfieldii_544329261.jpg)
 <!-- END_ANIMAL -->
 
 
