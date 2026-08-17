@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-17 01:30:45 UTC
-**Next update:** ~2026-08-17 01:32:45 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-17 01:32:20 UTC
+**Next update:** ~2026-08-17 01:34:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Golden hamster
-![Golden hamster](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Golden_hamster_front_1.jpg/1920px-Golden_hamster_front_1.jpg)
+### Brown dorcopsis
+![Brown dorcopsis](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dorcopsis_muelleri_K%C3%B6ln.jpg/1920px-Dorcopsis_muelleri_K%C3%B6ln.jpg)
 <!-- END_ANIMAL -->
 
 
