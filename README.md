@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-17 03:24:18 UTC
-**Next update:** ~2026-08-17 03:26:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-17 03:26:21 UTC
+**Next update:** ~2026-08-17 03:28:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Musky rat-kangaroo
-![Musky rat-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Musky_rat-kangaroo_%28Hypsiprymnodon_moschatus%29_Atherton.jpg/1280px-Musky_rat-kangaroo_%28Hypsiprymnodon_moschatus%29_Atherton.jpg)
+### Lykoi Cat
+![Lykoi Cat](https://upload.wikimedia.org/wikipedia/commons/1/1e/8-month-old_male_Lykoi.jpg)
 <!-- END_ANIMAL -->
 
 
