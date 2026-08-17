@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-17 20:06:21 UTC
-**Next update:** ~2026-08-17 20:08:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-17 20:08:20 UTC
+**Next update:** ~2026-08-17 20:10:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asiatic linsang
-![Asiatic linsang](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Prionodon_linsang.jpg/1280px-Prionodon_linsang.jpg)
+### Common Tailless tenrec
+![Common Tailless tenrec](https://upload.wikimedia.org/wikipedia/commons/b/bc/Tanrek.jpg)
 <!-- END_ANIMAL -->
 
 
