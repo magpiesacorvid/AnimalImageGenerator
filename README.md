@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-18 19:06:21 UTC
-**Next update:** ~2026-08-18 19:08:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-18 19:08:23 UTC
+**Next update:** ~2026-08-18 19:10:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cowan's shrew tenrec
-![Cowan's shrew tenrec](https://upload.wikimedia.org/wikipedia/commons/6/61/Microgale_cowani.jpg)
+### Bare-tailed woolly opossum
+![Bare-tailed woolly opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Caluromys_philander_284958705.jpg/1920px-Caluromys_philander_284958705.jpg)
 <!-- END_ANIMAL -->
 
 
