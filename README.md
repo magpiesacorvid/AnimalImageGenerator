@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-18 03:20:32 UTC
-**Next update:** ~2026-08-18 03:22:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-18 03:22:19 UTC
+**Next update:** ~2026-08-18 03:24:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Monjon
-![Monjon](https://upload.wikimedia.org/wikipedia/commons/0/0b/Petrogale_burbidgei_227072157_2.jpg)
+### Gemsbok
+![Gemsbok](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gemsbok_%28Oryx_gazella%29_male.jpg/1920px-Gemsbok_%28Oryx_gazella%29_male.jpg)
 <!-- END_ANIMAL -->
 
 
