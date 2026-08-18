@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-18 07:32:23 UTC
-**Next update:** ~2026-08-18 07:34:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-18 07:34:19 UTC
+**Next update:** ~2026-08-18 07:36:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Grévy's zebra
-![Grévy's zebra](https://upload.wikimedia.org/wikipedia/commons/7/74/Grevy%27s_Zebra_Stallion.jpg)
+### Felou gundi
+![Felou gundi](https://upload.wikimedia.org/wikipedia/commons/c/cc/Felovia_vae.jpg)
 <!-- END_ANIMAL -->
 
 
