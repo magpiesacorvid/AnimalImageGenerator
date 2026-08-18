@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-18 21:56:19 UTC
-**Next update:** ~2026-08-18 21:58:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-18 21:58:20 UTC
+**Next update:** ~2026-08-18 22:00:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Golden Jackal
-![Golden Jackal](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/500px-033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg)
+### Indian Ocean humpback dolphin
+![Indian Ocean humpback dolphin](https://upload.wikimedia.org/wikipedia/commons/2/2d/Dolphin-Musandam_2.jpg)
 <!-- END_ANIMAL -->
 
 
