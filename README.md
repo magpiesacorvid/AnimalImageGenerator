@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-18 09:24:22 UTC
-**Next update:** ~2026-08-18 09:26:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-18 09:26:20 UTC
+**Next update:** ~2026-08-18 09:28:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### North African hedgehog
-![North African hedgehog](https://upload.wikimedia.org/wikipedia/commons/8/8a/Atelerix_algirus.jpg)
+### Molina's hog-nosed skunk
+![Molina's hog-nosed skunk](https://upload.wikimedia.org/wikipedia/commons/5/5b/Chingue_%28Conepatus_chinga%29_Inao_V%C3%A1squez_001.jpg)
 <!-- END_ANIMAL -->
 
 
