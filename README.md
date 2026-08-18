@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-18 15:00:59 UTC
-**Next update:** ~2026-08-18 15:02:59 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-18 15:02:22 UTC
+**Next update:** ~2026-08-18 15:04:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain reedbuck
-![Mountain reedbuck](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Southern_Mountain_Reedbuck_%28Redunca_fulvorufula%29_%2833043612376%29.jpg/960px-Southern_Mountain_Reedbuck_%28Redunca_fulvorufula%29_%2833043612376%29.jpg)
+### Chinese hamster
+![Chinese hamster](https://upload.wikimedia.org/wikipedia/commons/4/4f/Chinesedsaffa.jpg)
 <!-- END_ANIMAL -->
 
 
