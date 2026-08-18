@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-18 08:02:21 UTC
-**Next update:** ~2026-08-18 08:04:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-18 08:04:21 UTC
+**Next update:** ~2026-08-18 08:06:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hottentot Golden Mole
-![Hottentot Golden Mole](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Amblysomus_hottentotus_%28Palmiet_Nature_Reserve%2C_South_Africa_East_Coast%29_2.jpg/1280px-Amblysomus_hottentotus_%28Palmiet_Nature_Reserve%2C_South_Africa_East_Coast%29_2.jpg)
+### Northern flying squirrel
+![Northern flying squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Northern_Flying_Squirrel%2C_D%27Alembert%2C_6400_Route_d%27Aiguebelle%2C_Rouyn-Noranda%2C_QC%2C_Canada_imported_from_iNaturalist_photo_41110662.jpg/1280px-Northern_Flying_Squirrel%2C_D%27Alembert%2C_6400_Route_d%27Aiguebelle%2C_Rouyn-Noranda%2C_QC%2C_Canada_imported_from_iNaturalist_photo_41110662.jpg)
 <!-- END_ANIMAL -->
 
 
