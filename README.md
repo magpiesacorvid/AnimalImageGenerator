@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-18 06:40:35 UTC
-**Next update:** ~2026-08-18 06:42:35 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-18 06:42:21 UTC
+**Next update:** ~2026-08-18 06:44:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Moonrat
-![Moonrat](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Echinosorex_gymnurus_431075148.jpg/1280px-Echinosorex_gymnurus_431075148.jpg)
+### Dall's porpoise
+![Dall's porpoise](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Phocoenoides_dalli_%28Dall%27s_porpoise%29.jpg/1920px-Phocoenoides_dalli_%28Dall%27s_porpoise%29.jpg)
 <!-- END_ANIMAL -->
 
 
