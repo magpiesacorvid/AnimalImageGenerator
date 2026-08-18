@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-18 02:00:54 UTC
-**Next update:** ~2026-08-18 02:02:54 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-18 02:02:21 UTC
+**Next update:** ~2026-08-18 02:04:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kanaani
-![Kanaani](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kanaani_cat_Haifa_full_body_profile_Brooklyn_2025_%28cropped%29.jpg/1280px-Kanaani_cat_Haifa_full_body_profile_Brooklyn_2025_%28cropped%29.jpg)
+### Ocelot
+![Ocelot](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/1280px-016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
