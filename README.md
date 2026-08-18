@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-18 21:12:19 UTC
-**Next update:** ~2026-08-18 21:14:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-18 21:14:21 UTC
+**Next update:** ~2026-08-18 21:16:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan talapoin
-![Angolan talapoin](https://upload.wikimedia.org/wikipedia/commons/7/78/Talapoin_II_-_Bioparc_Valencia_%282787418966%29.jpg)
+### Feathertail glider
+![Feathertail glider](https://upload.wikimedia.org/wikipedia/commons/6/6d/Acrobates_neuneu.jpg)
 <!-- END_ANIMAL -->
 
 
