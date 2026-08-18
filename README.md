@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-18 23:42:20 UTC
-**Next update:** ~2026-08-18 23:44:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-18 23:44:23 UTC
+**Next update:** ~2026-08-18 23:46:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ferret
-![Ferret](https://upload.wikimedia.org/wikipedia/commons/3/32/Ferret_2008.png)
+### Neotropical otter
+![Neotropical otter](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lontra_longicaudis_4.jpeg/1280px-Lontra_longicaudis_4.jpeg)
 <!-- END_ANIMAL -->
 
 
