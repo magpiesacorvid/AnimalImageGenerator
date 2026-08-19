@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-19 05:54:19 UTC
-**Next update:** ~2026-08-19 05:56:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-19 05:56:21 UTC
+**Next update:** ~2026-08-19 05:58:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mauritian flying fox
-![Mauritian flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mauritian_flying_fox_%28Pteropus_niger%29_male_in_flight.jpg/1280px-Mauritian_flying_fox_%28Pteropus_niger%29_male_in_flight.jpg)
+### African wild ass
+![African wild ass](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg/1280px-Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg)
 <!-- END_ANIMAL -->
 
 
