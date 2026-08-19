@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-19 00:32:19 UTC
-**Next update:** ~2026-08-19 00:34:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-19 00:34:21 UTC
+**Next update:** ~2026-08-19 00:36:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain anoa
-![Mountain anoa](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mountain_Anoa_at_Krefeld_Zoo.jpg/1280px-Mountain_Anoa_at_Krefeld_Zoo.jpg)
+### Günther's dik-dik
+![Günther's dik-dik](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Guenther%27s_Dik-dik_%28Madoqua_guentheri_smithii%29_%287662529270%29.jpg/1920px-Guenther%27s_Dik-dik_%28Madoqua_guentheri_smithii%29_%287662529270%29.jpg)
 <!-- END_ANIMAL -->
 
 
