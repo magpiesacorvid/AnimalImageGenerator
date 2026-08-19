@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-19 22:18:22 UTC
-**Next update:** ~2026-08-19 22:20:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-19 22:20:34 UTC
+**Next update:** ~2026-08-19 22:22:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Moustached tamarin
-![Moustached tamarin](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Saguinus_mystax_at_the_Bronx_Zoo_01.jpg/1280px-Saguinus_mystax_at_the_Bronx_Zoo_01.jpg)
+### Indian Grey Mongoose
+![Indian Grey Mongoose](https://upload.wikimedia.org/wikipedia/commons/9/96/Herpestes_edwardsii_at_Hyderaba.jpg)
 <!-- END_ANIMAL -->
 
 
