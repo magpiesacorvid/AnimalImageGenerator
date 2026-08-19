@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-19 03:30:45 UTC
-**Next update:** ~2026-08-19 03:32:45 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-19 03:32:25 UTC
+**Next update:** ~2026-08-19 03:34:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Formosan rock macaque
-![Formosan rock macaque](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Taiwanese_macaque_%28Macaca_cyclopis%29_female_Yangmingshan_2.jpg/1920px-Taiwanese_macaque_%28Macaca_cyclopis%29_female_Yangmingshan_2.jpg)
+### Goeldi's marmoset
+![Goeldi's marmoset](https://upload.wikimedia.org/wikipedia/commons/5/5b/Springtamarin_%28Callimico_goeldii%29.jpg)
 <!-- END_ANIMAL -->
 
 
