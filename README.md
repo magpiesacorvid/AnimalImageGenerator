@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-19 04:00:56 UTC
-**Next update:** ~2026-08-19 04:02:56 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-19 04:02:22 UTC
+**Next update:** ~2026-08-19 04:04:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common Dwarf Mongoose
-![Common Dwarf Mongoose](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dwarf_Mongoose_%28Helogale_parvula%29_%286002158282%29.jpg/1920px-Dwarf_Mongoose_%28Helogale_parvula%29_%286002158282%29.jpg)
+### Atlantic white-sided dolphin
+![Atlantic white-sided dolphin](https://upload.wikimedia.org/wikipedia/commons/9/9a/Atlantic_white-sided_dolphin.jpg)
 <!-- END_ANIMAL -->
 
 
