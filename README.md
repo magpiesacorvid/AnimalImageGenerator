@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-19 16:58:19 UTC
-**Next update:** ~2026-08-19 17:00:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-19 17:00:59 UTC
+**Next update:** ~2026-08-19 17:02:59 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Javanese Cat
-![Javanese Cat](https://upload.wikimedia.org/wikipedia/commons/b/b4/Ghislaine_6028.jpg)
+### Bushy-tailed woodrat
+![Bushy-tailed woodrat](https://upload.wikimedia.org/wikipedia/commons/7/79/Neotoma_cinerea_%28bushy_tailed_woodrat%29.jpg)
 <!-- END_ANIMAL -->
 
 
