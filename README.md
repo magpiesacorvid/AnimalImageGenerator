@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-20 03:38:18 UTC
-**Next update:** ~2026-08-20 03:40:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-20 03:40:33 UTC
+**Next update:** ~2026-08-20 03:42:33 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cape genet
-![Cape genet](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Large-spotted_Genet_%28Genetta_tigrina%29_%2817356502041%29_%28crop%29.jpg/1920px-Large-spotted_Genet_%28Genetta_tigrina%29_%2817356502041%29_%28crop%29.jpg)
+### Greater hog badger
+![Greater hog badger](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Arctonyx-collaris-hog-badger.jpg/1920px-Arctonyx-collaris-hog-badger.jpg)
 <!-- END_ANIMAL -->
 
 
