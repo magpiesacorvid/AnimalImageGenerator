@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-20 09:22:21 UTC
-**Next update:** ~2026-08-20 09:24:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-20 09:24:20 UTC
+**Next update:** ~2026-08-20 09:26:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Highland Pony
-![Highland Pony](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Gracie-rhs2005.jpg/1280px-Gracie-rhs2005.jpg)
+### Large Indian Civet
+![Large Indian Civet](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Large_Indian_Civet%2C_Viverra_zibetha_in_Kaeng_Krachan_national_park.jpg/1280px-Large_Indian_Civet%2C_Viverra_zibetha_in_Kaeng_Krachan_national_park.jpg)
 <!-- END_ANIMAL -->
 
 
