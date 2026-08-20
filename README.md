@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-20 20:58:20 UTC
-**Next update:** ~2026-08-20 21:00:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-20 21:00:55 UTC
+**Next update:** ~2026-08-20 21:02:55 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian Ocean humpback dolphin
-![Indian Ocean humpback dolphin](https://upload.wikimedia.org/wikipedia/commons/2/2d/Dolphin-Musandam_2.jpg)
+### Bay Cat
+![Bay Cat](https://upload.wikimedia.org/wikipedia/commons/b/ba/Bay_cat_1_Jim_Sanderson-cropped.jpg)
 <!-- END_ANIMAL -->
 
 
