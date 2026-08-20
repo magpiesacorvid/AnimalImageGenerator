@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-20 08:18:20 UTC
-**Next update:** ~2026-08-20 08:20:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-20 08:20:35 UTC
+**Next update:** ~2026-08-20 08:22:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bohor reedbuck
-![Bohor reedbuck](https://upload.wikimedia.org/wikipedia/commons/6/6f/2009-reedbuck.jpg)
+### Bornean yellow muntjac
+![Bornean yellow muntjac](https://upload.wikimedia.org/wikipedia/commons/8/87/Bornean_Yellow_Muntjac%2C_Kutai_Timur%2C_ID-KI%2C_ID_imported_from_iNaturalist_photo_351183693_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
