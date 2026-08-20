@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-20 23:10:36 UTC
-**Next update:** ~2026-08-20 23:12:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-20 23:12:22 UTC
+**Next update:** ~2026-08-20 23:14:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Juliana's golden mole
-![Juliana's golden mole](https://upload.wikimedia.org/wikipedia/commons/4/45/The_Juliana%E2%80%99s_golden_mole_is_one_of_Africa%E2%80%99s_most_threatened_mammals_Jackson.png)
+### Mountain hare
+![Mountain hare](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lepus_timidus_-_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%BE%D1%80%D0%B5%D0%B9%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2_-_96446302.jpeg/1280px-Lepus_timidus_-_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%BE%D1%80%D0%B5%D0%B9%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2_-_96446302.jpeg)
 <!-- END_ANIMAL -->
 
 
