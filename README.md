@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-20 22:22:24 UTC
-**Next update:** ~2026-08-20 22:24:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-20 22:24:23 UTC
+**Next update:** ~2026-08-20 22:26:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Northern white-breasted hedgehog
-![Northern white-breasted hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Erinaceus_roumanicus_2020_G2.jpg/1280px-Erinaceus_roumanicus_2020_G2.jpg)
+### Mareeba rock-wallaby
+![Mareeba rock-wallaby](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mareeba_Rock_Wallaby_JCB.jpg/1280px-Mareeba_Rock_Wallaby_JCB.jpg)
 <!-- END_ANIMAL -->
 
 
