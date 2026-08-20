@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-20 20:00:57 UTC
-**Next update:** ~2026-08-20 20:02:57 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-20 20:02:24 UTC
+**Next update:** ~2026-08-20 20:04:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mole-like rice tenrec
-![Mole-like rice tenrec](https://upload.wikimedia.org/wikipedia/commons/c/cb/Mole-like_Rice_Tenrec_%28Oryzoryctes_hova%29_%2844120142915%29_2.jpg)
+### Indo-Pacific humpback dolphin
+![Indo-Pacific humpback dolphin](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pink_Dolphin.JPG/1280px-Pink_Dolphin.JPG)
 <!-- END_ANIMAL -->
 
 
