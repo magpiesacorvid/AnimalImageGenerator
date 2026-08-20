@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-20 18:32:22 UTC
-**Next update:** ~2026-08-20 18:34:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-20 18:34:23 UTC
+**Next update:** ~2026-08-20 18:36:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Australian Mist Cat
-![Australian Mist Cat](https://commons.wikimedia.org/wiki/Special:FilePath/Australian_Mist.jpg)
+### Great flying fox
+![Great flying fox](https://upload.wikimedia.org/wikipedia/commons/d/da/Great_Flying-fox.jpg)
 <!-- END_ANIMAL -->
 
 
