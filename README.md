@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-20 01:22:20 UTC
-**Next update:** ~2026-08-20 01:24:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-20 01:24:18 UTC
+**Next update:** ~2026-08-20 01:26:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mareeba rock-wallaby
-![Mareeba rock-wallaby](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mareeba_Rock_Wallaby_JCB.jpg/1280px-Mareeba_Rock_Wallaby_JCB.jpg)
+### Jaguarundi
+![Jaguarundi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Puma_yagouaroundi.jpg/1280px-Puma_yagouaroundi.jpg)
 <!-- END_ANIMAL -->
 
 
