@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-20 00:00:56 UTC
-**Next update:** ~2026-08-20 00:02:56 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-20 00:02:21 UTC
+**Next update:** ~2026-08-20 00:04:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hawaiian monk seal
-![Hawaiian monk seal](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Monachus_schauinslandi.jpg/1280px-Monachus_schauinslandi.jpg)
+### African pygmy mouse
+![African pygmy mouse](https://upload.wikimedia.org/wikipedia/commons/6/66/Mus_minutoides00.jpg)
 <!-- END_ANIMAL -->
 
 
