@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-20 16:26:20 UTC
-**Next update:** ~2026-08-20 16:28:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-20 16:28:21 UTC
+**Next update:** ~2026-08-20 16:30:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dall sheep
-![Dall sheep](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dall_Sheep_Ewe_%280968efe1-d032-4834-bada-bb862e09ddfb%29.jpg/1920px-Dall_Sheep_Ewe_%280968efe1-d032-4834-bada-bb862e09ddfb%29.jpg)
+### Nubian wild ass
+![Nubian wild ass](https://upload.wikimedia.org/wikipedia/commons/7/7c/Bonaire%27s_Critically-Endangered_Nubian_Wild_Ass.jpg)
 <!-- END_ANIMAL -->
 
 
