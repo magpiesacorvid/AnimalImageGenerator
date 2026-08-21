@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-21 07:10:34 UTC
-**Next update:** ~2026-08-21 07:12:34 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-21 07:12:23 UTC
+**Next update:** ~2026-08-21 07:14:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Egyptian Mau
-![Egyptian Mau](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/RoyalNefertt_Serket_of_AchetAton.jpg/1920px-RoyalNefertt_Serket_of_AchetAton.jpg)
+### African clawless otter
+![African clawless otter](https://upload.wikimedia.org/wikipedia/commons/6/69/Aonyx_capensis%2C_male%2C_Shamvura.jpg)
 <!-- END_ANIMAL -->
 
 
