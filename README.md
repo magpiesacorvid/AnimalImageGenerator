@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-21 10:08:19 UTC
-**Next update:** ~2026-08-21 10:10:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-21 10:10:35 UTC
+**Next update:** ~2026-08-21 10:12:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kurilian Bobtail
-![Kurilian Bobtail](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/KURILIAN_BOBTAIL_Maschio_Veika_2011_%28cropped%29.JPG/1280px-KURILIAN_BOBTAIL_Maschio_Veika_2011_%28cropped%29.JPG)
+### Long-tailed goral
+![Long-tailed goral](https://upload.wikimedia.org/wikipedia/commons/4/4c/Nemorhaedus_caudatus.jpg)
 <!-- END_ANIMAL -->
 
 
