@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-21 02:48:20 UTC
-**Next update:** ~2026-08-21 02:50:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-21 02:50:32 UTC
+**Next update:** ~2026-08-21 02:52:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Alpaca
-![Alpaca](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Alpaca_in_Higashiyama_Zoo_-_1.jpg/1280px-Alpaca_in_Higashiyama_Zoo_-_1.jpg)
+### Humboldt's hog-nosed skunk
+![Humboldt's hog-nosed skunk](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Zorrillo.jpg/1280px-Zorrillo.jpg)
 <!-- END_ANIMAL -->
 
 
