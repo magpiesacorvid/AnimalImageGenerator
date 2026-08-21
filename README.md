@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-21 14:04:22 UTC
-**Next update:** ~2026-08-21 14:06:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-21 14:06:23 UTC
+**Next update:** ~2026-08-21 14:08:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dwarf sperm whale
-![Dwarf sperm whale](https://upload.wikimedia.org/wikipedia/commons/5/58/Dwarf_sperm_whale_%28NOAA_Pitman%29.jpg)
+### Brush-tailed phascogale
+![Brush-tailed phascogale](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Brush-tailed_phascogale.jpg/1920px-Brush-tailed_phascogale.jpg)
 <!-- END_ANIMAL -->
 
 
