@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-21 04:08:21 UTC
-**Next update:** ~2026-08-21 04:10:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-21 04:10:36 UTC
+**Next update:** ~2026-08-21 04:12:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hoffmann's two-toed sloth
-![Hoffmann's two-toed sloth](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2_toed_sloth.jpg/1280px-2_toed_sloth.jpg)
+### Long-furred woolly mouse opossum
+![Long-furred woolly mouse opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/North-eastern_Woolly_Mouse_Opossum_imported_from_iNaturalist_photo_417123381_on_18_October_2024.jpg/250px-North-eastern_Woolly_Mouse_Opossum_imported_from_iNaturalist_photo_417123381_on_18_October_2024.jpg)
 <!-- END_ANIMAL -->
 
 
