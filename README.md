@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-21 05:48:20 UTC
-**Next update:** ~2026-08-21 05:50:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-21 05:50:34 UTC
+**Next update:** ~2026-08-21 05:52:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cuban solenodon
-![Cuban solenodon](https://upload.wikimedia.org/wikipedia/commons/7/7e/Solenodon_cubanus.jpg)
+### Black Footed Cat
+![Black Footed Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Zoo_Wuppertal_Schwarzfusskatze.jpg/1920px-Zoo_Wuppertal_Schwarzfusskatze.jpg)
 <!-- END_ANIMAL -->
 
 
