@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-21 16:22:22 UTC
-**Next update:** ~2026-08-21 16:24:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-21 16:24:28 UTC
+**Next update:** ~2026-08-21 16:26:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bornean bearded pig
-![Bornean bearded pig](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bearded_Pigs_%28Sus_barbatus%29_female_with_youngs_%288220051061%29.jpg/1920px-Bearded_Pigs_%28Sus_barbatus%29_female_with_youngs_%288220051061%29.jpg)
+### Aegean cat
+![Aegean cat](https://commons.wikimedia.org/wiki/Special:FilePath/Aegean_Island_Cat.jpg)
 <!-- END_ANIMAL -->
 
 
