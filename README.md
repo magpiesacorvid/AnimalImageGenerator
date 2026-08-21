@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-21 11:08:19 UTC
-**Next update:** ~2026-08-21 11:10:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-21 11:10:32 UTC
+**Next update:** ~2026-08-21 11:12:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Malayan civet
-![Malayan civet](https://upload.wikimedia.org/wikipedia/commons/5/56/Malay_civet.jpg)
+### Cotton rats
+![Cotton rats](https://upload.wikimedia.org/wikipedia/commons/e/ee/Sigmodon_hispidus1.jpg)
 <!-- END_ANIMAL -->
 
 
