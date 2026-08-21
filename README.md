@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-21 08:18:20 UTC
-**Next update:** ~2026-08-21 08:20:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-21 08:20:36 UTC
+**Next update:** ~2026-08-21 08:22:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arctic hare
-![Arctic hare](https://upload.wikimedia.org/wikipedia/commons/e/e3/Arctic_Hare_1.jpg)
+### Lesser short-nosed fruit bat
+![Lesser short-nosed fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Lesser_short-nosed_fruit_bat_%28Cynopterus_brachyotis%29.jpg/1920px-Lesser_short-nosed_fruit_bat_%28Cynopterus_brachyotis%29.jpg)
 <!-- END_ANIMAL -->
 
 
