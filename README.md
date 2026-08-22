@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-22 22:52:20 UTC
-**Next update:** ~2026-08-22 22:54:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-22 22:54:21 UTC
+**Next update:** ~2026-08-22 22:56:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Agouta
-![Agouta](https://upload.wikimedia.org/wikipedia/commons/0/09/Hispaniolan_Solenodon_crop.jpg)
+### Dwarf fat-tailed mouse opossum
+![Dwarf fat-tailed mouse opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dwarf_Fat-tailed_Mouse_Opossum_imported_from_iNaturalist_photo_351995812_on_19_October_2024.jpg/1920px-Dwarf_Fat-tailed_Mouse_Opossum_imported_from_iNaturalist_photo_351995812_on_19_October_2024.jpg)
 <!-- END_ANIMAL -->
 
 
