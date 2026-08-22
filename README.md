@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-22 07:02:20 UTC
-**Next update:** ~2026-08-22 07:04:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-22 07:04:21 UTC
+**Next update:** ~2026-08-22 07:06:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Agile gracile opossum
-![Agile gracile opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Gracilinanus_agilis_04.jpg/960px-Gracilinanus_agilis_04.jpg)
+### Island spotted skunk
+![Island spotted skunk](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Spilogale_gracilis_amphiala.jpg/1280px-Spilogale_gracilis_amphiala.jpg)
 <!-- END_ANIMAL -->
 
 
