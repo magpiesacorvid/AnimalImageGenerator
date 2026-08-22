@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-22 15:34:21 UTC
-**Next update:** ~2026-08-22 15:36:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-22 15:36:22 UTC
+**Next update:** ~2026-08-22 15:38:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common four-eyed opossum
-![Common four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Common_Four-eyed_Opossum_imported_from_iNaturalist_photo_284956116_on_14_October_2024.jpg/1920px-Common_Four-eyed_Opossum_imported_from_iNaturalist_photo_284956116_on_14_October_2024.jpg)
+### Lumholtz's tree-kangaroo
+![Lumholtz's tree-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lumholtz%27s_tree_kangaroo-03.JPG/500px-Lumholtz%27s_tree_kangaroo-03.JPG)
 <!-- END_ANIMAL -->
 
 
