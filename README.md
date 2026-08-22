@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-22 21:46:21 UTC
-**Next update:** ~2026-08-22 21:48:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-22 21:48:20 UTC
+**Next update:** ~2026-08-22 21:50:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Desert hedgehog
-![Desert hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Desert_Hedgehog.png/1920px-Desert_Hedgehog.png)
+### Goitered gazelle
+![Goitered gazelle](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Female_goitered_gazelle%2C_Shirvan_National_Park%2C_Azerbaijan.jpg/1920px-Female_goitered_gazelle%2C_Shirvan_National_Park%2C_Azerbaijan.jpg)
 <!-- END_ANIMAL -->
 
 
