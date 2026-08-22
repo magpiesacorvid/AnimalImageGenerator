@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-22 02:36:20 UTC
-**Next update:** ~2026-08-22 02:38:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-22 02:38:22 UTC
+**Next update:** ~2026-08-22 02:40:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black rhinoceros
-![Black rhinoceros](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Black_Rhino_at_Working_with_Wildlife.jpg/1920px-Black_Rhino_at_Working_with_Wildlife.jpg)
+### Northern three-striped opossum
+![Northern three-striped opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cu%C3%ADca_de_tr%C3%AAs_listras_-_Monodelphis_americana.jpg/1280px-Cu%C3%ADca_de_tr%C3%AAs_listras_-_Monodelphis_americana.jpg)
 <!-- END_ANIMAL -->
 
 
