@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-22 13:28:21 UTC
-**Next update:** ~2026-08-22 13:30:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-22 13:30:47 UTC
+**Next update:** ~2026-08-22 13:32:47 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown Rat
-![Brown Rat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Brown_rat_%28Rattus_norvegicus%29_Drenthe_2.jpg/1920px-Brown_rat_%28Rattus_norvegicus%29_Drenthe_2.jpg)
+### Broad-striped Malagasy mongoose
+![Broad-striped Malagasy mongoose](https://upload.wikimedia.org/wikipedia/commons/1/1a/Galidictis_fasciata_Striped_Vontsira%2C_Atsimo-Andrefana%2C_MG-TL%2C_MG_iNaturalist.jpg)
 <!-- END_ANIMAL -->
 
 
