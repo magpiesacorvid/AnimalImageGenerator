@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-22 06:46:23 UTC
-**Next update:** ~2026-08-22 06:48:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-22 06:48:23 UTC
+**Next update:** ~2026-08-22 06:50:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African bush elephant
-![African bush elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg)
+### East Asian finless porpoise
+![East Asian finless porpoise](https://upload.wikimedia.org/wikipedia/commons/e/e4/Neophocaena_phocaenoides_-Miyajima_Aquarium_-Japan-8a.jpg)
 <!-- END_ANIMAL -->
 
 
