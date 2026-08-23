@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-23 23:28:19 UTC
-**Next update:** ~2026-08-23 23:30:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-23 23:30:55 UTC
+**Next update:** ~2026-08-23 23:32:55 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Central greater glider
-![Central greater glider](https://upload.wikimedia.org/wikipedia/commons/2/2e/Petauroides_volans4.jpg)
+### Cyprus cat
+![Cyprus cat](https://upload.wikimedia.org/wikipedia/commons/b/b9/CyprusShorthair.jpg)
 <!-- END_ANIMAL -->
 
 
