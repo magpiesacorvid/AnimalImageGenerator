@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-23 06:30:47 UTC
-**Next update:** ~2026-08-23 06:32:47 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-23 06:32:23 UTC
+**Next update:** ~2026-08-23 06:34:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Norwegian Forest Cat
-![Norwegian Forest Cat](https://upload.wikimedia.org/wikipedia/commons/6/65/Dalaja-Doll-norv%C3%A9gien-ambre-blotched-tabby_avec-blanc_2008_%28cropped%29.jpg)
+### Borneo elephant
+![Borneo elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%D0%A1%D0%BB%D0%BE%D0%BD-%D0%BC%D0%B0%D1%8F%D0%BA.jpg/1920px-%D0%A1%D0%BB%D0%BE%D0%BD-%D0%BC%D0%B0%D1%8F%D0%BA.jpg)
 <!-- END_ANIMAL -->
 
 
