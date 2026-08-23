@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-23 21:18:23 UTC
-**Next update:** ~2026-08-23 21:20:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-23 21:20:36 UTC
+**Next update:** ~2026-08-23 21:22:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common vole
-![Common vole](https://upload.wikimedia.org/wikipedia/commons/1/10/Feldmaus_Microtus_arvalis.jpg)
+### Leschenault's rousette
+![Leschenault's rousette](https://upload.wikimedia.org/wikipedia/commons/4/46/Leschenault%27s_rousette_Fulvous_Fruit_Bat_Sikkim_India.jpg)
 <!-- END_ANIMAL -->
 
 
