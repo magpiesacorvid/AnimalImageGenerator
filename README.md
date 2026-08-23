@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-23 01:28:18 UTC
-**Next update:** ~2026-08-23 01:30:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-23 01:30:45 UTC
+**Next update:** ~2026-08-23 01:32:45 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Amur hedgehog
-![Amur hedgehog](https://upload.wikimedia.org/wikipedia/commons/d/d1/Erinaceus_amurensis.jpg)
+### Brown-throated sloth
+![Brown-throated sloth](https://commons.wikimedia.org/wiki/Special:FilePath/Brown-throated_sloth_on_tree.jpg)
 <!-- END_ANIMAL -->
 
 
