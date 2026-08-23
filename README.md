@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-23 00:50:32 UTC
-**Next update:** ~2026-08-23 00:52:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-23 00:52:19 UTC
+**Next update:** ~2026-08-23 00:54:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gayal
-![Gayal](https://upload.wikimedia.org/wikipedia/commons/6/69/Gayals_at_Gazipur_Safari_Park.jpg)
+### Cape hare
+![Cape hare](https://upload.wikimedia.org/wikipedia/commons/2/23/Lepus_capensis_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
