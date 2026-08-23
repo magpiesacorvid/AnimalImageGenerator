@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-23 01:10:34 UTC
-**Next update:** ~2026-08-23 01:12:34 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-23 01:12:18 UTC
+**Next update:** ~2026-08-23 01:14:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black duiker
-![Black duiker](https://commons.wikimedia.org/wiki/Special:FilePath/Black_Duiker.jpg)
+### Commerson's dolphin
+![Commerson's dolphin](https://upload.wikimedia.org/wikipedia/commons/a/a1/Tonina1_%282731842634%29.jpg)
 <!-- END_ANIMAL -->
 
 
