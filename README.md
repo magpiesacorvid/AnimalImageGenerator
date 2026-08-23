@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-23 19:32:23 UTC
-**Next update:** ~2026-08-23 19:34:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-23 19:34:20 UTC
+**Next update:** ~2026-08-23 19:36:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Least weasel
-![Least weasel](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mustela_nivalis_-British_Wildlife_Centre-4.jpg/1280px-Mustela_nivalis_-British_Wildlife_Centre-4.jpg)
+### Cuvier's gazelle
+![Cuvier's gazelle](https://upload.wikimedia.org/wikipedia/commons/f/fa/Cuvier%27s_Gazelle.jpg)
 <!-- END_ANIMAL -->
 
 
