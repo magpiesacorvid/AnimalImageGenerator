@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-23 17:26:20 UTC
-**Next update:** ~2026-08-23 17:28:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-23 17:28:22 UTC
+**Next update:** ~2026-08-23 17:30:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mearns's grasshopper mouse
-![Mearns's grasshopper mouse](https://upload.wikimedia.org/wikipedia/commons/2/2e/Chihuahuan_grasshopper_mouse.jpg)
+### Horsfield's fruit bat
+![Horsfield's fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cynopterus_horsfieldii_544329261.jpg/1280px-Cynopterus_horsfieldii_544329261.jpg)
 <!-- END_ANIMAL -->
 
 
