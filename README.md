@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-24 23:14:20 UTC
-**Next update:** ~2026-08-24 23:16:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-24 23:16:22 UTC
+**Next update:** ~2026-08-24 23:18:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian rhinoceros
-![Indian rhinoceros](https://upload.wikimedia.org/wikipedia/commons/7/77/Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg)
+### Japanese marten
+![Japanese marten](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Inokashira_Park_Zoo_PC053197.jpg/960px-Inokashira_Park_Zoo_PC053197.jpg)
 <!-- END_ANIMAL -->
 
 
