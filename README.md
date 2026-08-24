@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-24 15:01:05 UTC
-**Next update:** ~2026-08-24 15:03:05 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-24 15:02:24 UTC
+**Next update:** ~2026-08-24 15:04:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern wolf
-![Eastern wolf](https://upload.wikimedia.org/wikipedia/commons/3/3b/Eastern_wolf_in_Algonquin_Provincial_Park_01.jpg)
+### African pygmy mouse
+![African pygmy mouse](https://upload.wikimedia.org/wikipedia/commons/6/66/Mus_minutoides00.jpg)
 <!-- END_ANIMAL -->
 
 
