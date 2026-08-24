@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-24 20:54:28 UTC
-**Next update:** ~2026-08-24 20:56:28 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-24 20:56:20 UTC
+**Next update:** ~2026-08-24 20:58:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Northern broad-footed mole
-![Northern broad-footed mole](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Scapanus_latimanus2.jpg/1280px-Scapanus_latimanus2.jpg)
+### Himalayan goral
+![Himalayan goral](https://upload.wikimedia.org/wikipedia/commons/6/62/Himalayan_Brown_Goral_Male_and_Female_pangolakha_Wildlife_Sanctuary_East_Sikkim_India_13.02.2016.jpg)
 <!-- END_ANIMAL -->
 
 
