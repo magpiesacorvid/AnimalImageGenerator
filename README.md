@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-24 15:58:21 UTC
-**Next update:** ~2026-08-24 16:00:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-24 16:01:02 UTC
+**Next update:** ~2026-08-24 16:03:02 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Egyptian fruit bat
-![Egyptian fruit bat](https://upload.wikimedia.org/wikipedia/commons/4/4c/Skraidantis_egipto_%C5%A1uo_%28cropped%29.jpg)
+### Ocicat
+![Ocicat](https://upload.wikimedia.org/wikipedia/commons/1/14/Topspot_La_Colombina_%28Liina%29_OCI_c_24_female_kitten_EX1.JPG)
 <!-- END_ANIMAL -->
 
 
