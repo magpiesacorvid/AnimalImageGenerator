@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-24 07:40:38 UTC
-**Next update:** ~2026-08-24 07:42:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-24 07:42:20 UTC
+**Next update:** ~2026-08-24 07:44:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-mantled tamarin
-![Black-mantled tamarin](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Black-mantled_tamarin_%28Saguinus_nigricollis_graellsi%29_Sumaco.jpg/1920px-Black-mantled_tamarin_%28Saguinus_nigricollis_graellsi%29_Sumaco.jpg)
+### European hamster
+![European hamster](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/European_hamster_%28Cricetus_cricetus%29_Meidling_2.jpg/1920px-European_hamster_%28Cricetus_cricetus%29_Meidling_2.jpg)
 <!-- END_ANIMAL -->
 
 
