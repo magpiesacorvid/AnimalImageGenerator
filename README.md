@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-24 23:38:20 UTC
-**Next update:** ~2026-08-24 23:40:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-24 23:40:36 UTC
+**Next update:** ~2026-08-24 23:42:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain cottontail
-![Mountain cottontail](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nuttall%27s_Cottontail_%28Sylvilagus_nuttallii%29.jpg/1280px-Nuttall%27s_Cottontail_%28Sylvilagus_nuttallii%29.jpg)
+### Galápagos fur seal
+![Galápagos fur seal](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Galapagos_Fur_Seal%2C_Santiago_Island.jpg/1920px-Galapagos_Fur_Seal%2C_Santiago_Island.jpg)
 <!-- END_ANIMAL -->
 
 
