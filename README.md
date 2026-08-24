@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-24 00:42:20 UTC
-**Next update:** ~2026-08-24 00:44:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-24 00:44:20 UTC
+**Next update:** ~2026-08-24 00:46:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Little red flying fox
-![Little red flying fox](https://upload.wikimedia.org/wikipedia/commons/7/74/Little_red_flying_fox_2016.png)
+### Indian elephant
+![Indian elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/1280px-Elephas_maximus_%28Bandipur%29.jpg)
 <!-- END_ANIMAL -->
 
 
