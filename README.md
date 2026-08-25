@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-25 07:52:20 UTC
-**Next update:** ~2026-08-25 07:54:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-25 07:54:23 UTC
+**Next update:** ~2026-08-25 07:56:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Molina's hog-nosed skunk
-![Molina's hog-nosed skunk](https://upload.wikimedia.org/wikipedia/commons/5/5b/Chingue_%28Conepatus_chinga%29_Inao_V%C3%A1squez_001.jpg)
+### Mearns's grasshopper mouse
+![Mearns's grasshopper mouse](https://upload.wikimedia.org/wikipedia/commons/2/2e/Chihuahuan_grasshopper_mouse.jpg)
 <!-- END_ANIMAL -->
 
 
