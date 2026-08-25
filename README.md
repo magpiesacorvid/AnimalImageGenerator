@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-25 23:20:40 UTC
-**Next update:** ~2026-08-25 23:22:40 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-25 23:22:21 UTC
+**Next update:** ~2026-08-25 23:24:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kodiak Bear
-![Kodiak Bear](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/1280px-2010-kodiak-bear-1.jpg)
+### Daintree River ringtail possum
+![Daintree River ringtail possum](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pseudochirulus_cinereus_149827298.jpg/1920px-Pseudochirulus_cinereus_149827298.jpg)
 <!-- END_ANIMAL -->
 
 
