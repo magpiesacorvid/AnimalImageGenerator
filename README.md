@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-25 13:16:26 UTC
-**Next update:** ~2026-08-25 13:18:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-25 13:18:23 UTC
+**Next update:** ~2026-08-25 13:20:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown Rat
-![Brown Rat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Brown_rat_%28Rattus_norvegicus%29_Drenthe_2.jpg/1920px-Brown_rat_%28Rattus_norvegicus%29_Drenthe_2.jpg)
+### Minskin Cat
+![Minskin Cat](https://upload.wikimedia.org/wikipedia/commons/7/73/Minskin_Kitten_Female_blue_tabby_color-pattern.jpg)
 <!-- END_ANIMAL -->
 
 
