@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-25 18:36:24 UTC
-**Next update:** ~2026-08-25 18:38:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-25 18:38:23 UTC
+**Next update:** ~2026-08-25 18:40:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Alpine ibex
-![Alpine ibex](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg/960px-003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg)
+### Hottentot Golden Mole
+![Hottentot Golden Mole](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Amblysomus_hottentotus_%28Palmiet_Nature_Reserve%2C_South_Africa_East_Coast%29_2.jpg/1280px-Amblysomus_hottentotus_%28Palmiet_Nature_Reserve%2C_South_Africa_East_Coast%29_2.jpg)
 <!-- END_ANIMAL -->
 
 
