@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-25 07:58:24 UTC
-**Next update:** ~2026-08-25 08:00:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-25 08:01:03 UTC
+**Next update:** ~2026-08-25 08:03:03 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Maxwell's duiker
-![Maxwell's duiker](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Maxwell%27s_duiker_%28Philantomba_maxwellii_maxwellii%29_Ankasa.jpg/1280px-Maxwell%27s_duiker_%28Philantomba_maxwellii_maxwellii%29_Ankasa.jpg)
+### Mongoose lemur
+![Mongoose lemur](https://upload.wikimedia.org/wikipedia/commons/4/44/Eulemur-mongoz_59489762.jpg)
 <!-- END_ANIMAL -->
 
 
