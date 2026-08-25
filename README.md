@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-25 10:08:24 UTC
-**Next update:** ~2026-08-25 10:10:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-25 10:10:43 UTC
+**Next update:** ~2026-08-25 10:12:43 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Honey badger
-![Honey badger](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Honey_Badger.jpg/1920px-Honey_Badger.jpg)
+### European Shorthair
+![European Shorthair](https://upload.wikimedia.org/wikipedia/commons/2/2c/European_Shorthair_EUR_d_22.jpg)
 <!-- END_ANIMAL -->
 
 
