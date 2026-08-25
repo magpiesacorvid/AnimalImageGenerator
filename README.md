@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-25 06:50:37 UTC
-**Next update:** ~2026-08-25 06:52:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-25 06:52:22 UTC
+**Next update:** ~2026-08-25 06:54:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Addax
-![Addax](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg/1280px-A_big_male_Addax_showing_as_the_power_of_his_horns.jpg)
+### Duck-billed platypus
+![Duck-billed platypus](https://commons.wikimedia.org/wiki/Special:FilePath/Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg)
 <!-- END_ANIMAL -->
 
 
