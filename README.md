@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-25 15:10:41 UTC
-**Next update:** ~2026-08-25 15:12:41 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-25 15:12:21 UTC
+**Next update:** ~2026-08-25 15:14:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mole-like rice tenrec
-![Mole-like rice tenrec](https://upload.wikimedia.org/wikipedia/commons/c/cb/Mole-like_Rice_Tenrec_%28Oryzoryctes_hova%29_%2844120142915%29_2.jpg)
+### Eastern spotted skunk
+![Eastern spotted skunk](https://upload.wikimedia.org/wikipedia/commons/f/f2/Spilogale_putorius_%282%29.jpg)
 <!-- END_ANIMAL -->
 
 
