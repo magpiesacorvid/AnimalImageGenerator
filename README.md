@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-25 16:44:23 UTC
-**Next update:** ~2026-08-25 16:46:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-25 16:46:24 UTC
+**Next update:** ~2026-08-25 16:48:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Horsfield's fruit bat
-![Horsfield's fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cynopterus_horsfieldii_544329261.jpg/1280px-Cynopterus_horsfieldii_544329261.jpg)
+### Blue-eyed black lemur
+![Blue-eyed black lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Blue-Eyed_Black_Lemur.jpg/1920px-Blue-Eyed_Black_Lemur.jpg)
 <!-- END_ANIMAL -->
 
 
