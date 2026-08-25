@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-25 01:28:22 UTC
-**Next update:** ~2026-08-25 01:30:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-25 01:30:48 UTC
+**Next update:** ~2026-08-25 01:32:48 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater dwarf lemur
-![Greater dwarf lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/CHEIROGALEUS-1.JPG/1920px-CHEIROGALEUS-1.JPG)
+### Large Indian Civet
+![Large Indian Civet](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Large_Indian_Civet%2C_Viverra_zibetha_in_Kaeng_Krachan_national_park.jpg/1280px-Large_Indian_Civet%2C_Viverra_zibetha_in_Kaeng_Krachan_national_park.jpg)
 <!-- END_ANIMAL -->
 
 
