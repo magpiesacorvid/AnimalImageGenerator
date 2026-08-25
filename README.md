@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-25 06:14:22 UTC
-**Next update:** ~2026-08-25 06:16:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-25 06:16:28 UTC
+**Next update:** ~2026-08-25 06:18:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bushy-tailed opossum
-![Bushy-tailed opossum](https://upload.wikimedia.org/wikipedia/commons/e/ef/Glironia_venusta.jpeg)
+### Leopard Cat
+![Leopard Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Chat_L%C3%A9opard_de_Sib%C3%A9rie.jpg/1280px-Chat_L%C3%A9opard_de_Sib%C3%A9rie.jpg)
 <!-- END_ANIMAL -->
 
 
