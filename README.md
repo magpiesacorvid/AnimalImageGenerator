@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-26 08:58:26 UTC
-**Next update:** ~2026-08-26 09:00:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-26 09:01:05 UTC
+**Next update:** ~2026-08-26 09:03:05 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Oaxaca giant deer mouse
-![Oaxaca giant deer mouse](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Megadontomys_cryophilus_59624487.jpg/1280px-Megadontomys_cryophilus_59624487.jpg)
+### Greater grison
+![Greater grison](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Greater_grison.jpg/1920px-Greater_grison.jpg)
 <!-- END_ANIMAL -->
 
 
