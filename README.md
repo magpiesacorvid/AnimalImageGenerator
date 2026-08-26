@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-26 08:44:23 UTC
-**Next update:** ~2026-08-26 08:46:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-26 08:46:23 UTC
+**Next update:** ~2026-08-26 08:48:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cuvier's gazelle
-![Cuvier's gazelle](https://upload.wikimedia.org/wikipedia/commons/f/fa/Cuvier%27s_Gazelle.jpg)
+### Hooded seal
+![Hooded seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2016-klappm%C3%BCtzemuseumkoenig.jpg/1280px-2016-klappm%C3%BCtzemuseumkoenig.jpg)
 <!-- END_ANIMAL -->
 
 
