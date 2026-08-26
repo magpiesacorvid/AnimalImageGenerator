@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-26 06:08:25 UTC
-**Next update:** ~2026-08-26 06:10:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-26 06:10:39 UTC
+**Next update:** ~2026-08-26 06:12:39 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Nine-banded armadillo
-![Nine-banded armadillo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dasypus_novemcinctus_en_Zool%C3%B3gico_de_Paraguan%C3%A1.jpg/960px-Dasypus_novemcinctus_en_Zool%C3%B3gico_de_Paraguan%C3%A1.jpg)
+### Gunnison's prairie dog
+![Gunnison's prairie dog](https://upload.wikimedia.org/wikipedia/commons/7/7b/Gunnison%27s_prairie_dog%2C_sitting_up.jpg)
 <!-- END_ANIMAL -->
 
 
