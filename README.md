@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-26 21:10:37 UTC
-**Next update:** ~2026-08-26 21:12:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-26 21:12:22 UTC
+**Next update:** ~2026-08-26 21:14:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Guadalupe fur seal
-![Guadalupe fur seal](https://upload.wikimedia.org/wikipedia/commons/b/ba/Arctocephalus_townsendi.jpg)
+### Black-and-white colobus
+![Black-and-white colobus](https://upload.wikimedia.org/wikipedia/commons/6/6b/Colubusmonkey.JPG)
 <!-- END_ANIMAL -->
 
 
