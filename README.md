@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-26 23:08:23 UTC
-**Next update:** ~2026-08-26 23:10:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-26 23:10:38 UTC
+**Next update:** ~2026-08-26 23:12:38 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern chipmunk
-![Eastern chipmunk](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Chipmunk_with_stuffed_cheeks_in_Prospect_Park_%2805980%29.jpg/1920px-Chipmunk_with_stuffed_cheeks_in_Prospect_Park_%2805980%29.jpg)
+### Brush rabbit
+![Brush rabbit](https://upload.wikimedia.org/wikipedia/commons/5/50/Sylvilagus_bachmani_01035t.JPG)
 <!-- END_ANIMAL -->
 
 
