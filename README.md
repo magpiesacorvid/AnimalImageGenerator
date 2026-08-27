@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-27 16:32:24 UTC
-**Next update:** ~2026-08-27 16:34:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-27 16:34:24 UTC
+**Next update:** ~2026-08-27 16:36:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Fishing Cat
-![Fishing Cat](https://upload.wikimedia.org/wikipedia/commons/f/f7/Prionailurus_viverrinus_01.jpg)
+### Fijian monkey-faced bat
+![Fijian monkey-faced bat](https://upload.wikimedia.org/wikipedia/en/a/a9/1977.05.03_Fiji_Monkey_Bat_%2CTaveuni%2C_Fiji_3443_ccccc_crop.jpg)
 <!-- END_ANIMAL -->
 
 
