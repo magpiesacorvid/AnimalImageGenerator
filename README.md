@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-27 21:38:23 UTC
-**Next update:** ~2026-08-27 21:40:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-27 21:40:39 UTC
+**Next update:** ~2026-08-27 21:42:39 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lesser hairy-footed dunnart
-![Lesser hairy-footed dunnart](https://upload.wikimedia.org/wikipedia/commons/9/9c/Dunnart.JPG)
+### Eastern lowland olingo
+![Eastern lowland olingo](https://upload.wikimedia.org/wikipedia/commons/f/f0/Bassaricyon_alleni.jpg)
 <!-- END_ANIMAL -->
 
 
