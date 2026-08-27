@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-27 15:30:54 UTC
-**Next update:** ~2026-08-27 15:32:54 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-27 15:32:23 UTC
+**Next update:** ~2026-08-27 15:34:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Crab-Eating Mongoose
-![Crab-Eating Mongoose](https://upload.wikimedia.org/wikipedia/commons/7/78/Urva_urva_77938111.jpg)
+### Acrobatic cavy
+![Acrobatic cavy](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kerodon-acrobata-asportella.JPG/1280px-Kerodon-acrobata-asportella.JPG)
 <!-- END_ANIMAL -->
 
 
