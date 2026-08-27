@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-27 01:46:20 UTC
-**Next update:** ~2026-08-27 01:48:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-27 01:48:20 UTC
+**Next update:** ~2026-08-27 01:50:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Commerson's dolphin
-![Commerson's dolphin](https://upload.wikimedia.org/wikipedia/commons/a/a1/Tonina1_%282731842634%29.jpg)
+### Irrawaddy dolphin
+![Irrawaddy dolphin](https://upload.wikimedia.org/wikipedia/commons/a/ae/Irrawaddy_dolphin-Orcaella_brevirostris_by_2eight.jpg)
 <!-- END_ANIMAL -->
 
 
