@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-27 21:28:21 UTC
-**Next update:** ~2026-08-27 21:30:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-27 21:30:51 UTC
+**Next update:** ~2026-08-27 21:32:51 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Long-tailed goral
-![Long-tailed goral](https://upload.wikimedia.org/wikipedia/commons/4/4c/Nemorhaedus_caudatus.jpg)
+### Bighorn sheep
+![Bighorn sheep](https://commons.wikimedia.org/wiki/Special:FilePath/Big_Horn_Sheep.jpg)
 <!-- END_ANIMAL -->
 
 
