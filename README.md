@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-27 00:24:20 UTC
-**Next update:** ~2026-08-27 00:26:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-27 00:26:20 UTC
+**Next update:** ~2026-08-27 00:28:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Juan Fernández Fur Seal
-![Juan Fernández Fur Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Arctocephalus_philippii_368442243_2.jpg/960px-Arctocephalus_philippii_368442243_2.jpg)
+### Fraser's dolphin
+![Fraser's dolphin](https://upload.wikimedia.org/wikipedia/commons/2/2b/Frazer%C2%B4s_dolphin_group.jpg)
 <!-- END_ANIMAL -->
 
 
