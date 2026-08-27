@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-27 15:10:41 UTC
-**Next update:** ~2026-08-27 15:12:41 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-27 15:12:23 UTC
+**Next update:** ~2026-08-27 15:14:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain pygmy possum
-![Mountain pygmy possum](https://upload.wikimedia.org/wikipedia/commons/9/9b/Mountain-pygmy-possum.jpg)
+### Cymric Cat
+![Cymric Cat](https://upload.wikimedia.org/wikipedia/commons/d/d5/Cymric_Fond_Blanc.jpg)
 <!-- END_ANIMAL -->
 
 
