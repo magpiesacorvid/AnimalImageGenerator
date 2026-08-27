@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-27 16:02:25 UTC
-**Next update:** ~2026-08-27 16:04:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-27 16:04:26 UTC
+**Next update:** ~2026-08-27 16:06:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Golden Jackal
-![Golden Jackal](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/500px-033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg)
+### Oaxaca giant deer mouse
+![Oaxaca giant deer mouse](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Megadontomys_cryophilus_59624487.jpg/1280px-Megadontomys_cryophilus_59624487.jpg)
 <!-- END_ANIMAL -->
 
 
