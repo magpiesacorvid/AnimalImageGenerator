@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-27 05:44:20 UTC
-**Next update:** ~2026-08-27 05:46:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-27 05:46:20 UTC
+**Next update:** ~2026-08-27 05:48:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain reedbuck
-![Mountain reedbuck](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Southern_Mountain_Reedbuck_%28Redunca_fulvorufula%29_%2833043612376%29.jpg/960px-Southern_Mountain_Reedbuck_%28Redunca_fulvorufula%29_%2833043612376%29.jpg)
+### Giant golden-crowned flying fox
+![Giant golden-crowned flying fox](https://upload.wikimedia.org/wikipedia/commons/9/97/Acerodon_jubatus_by_Gregg_Yan.jpg)
 <!-- END_ANIMAL -->
 
 
