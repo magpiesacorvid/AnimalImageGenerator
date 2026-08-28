@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-28 17:36:29 UTC
-**Next update:** ~2026-08-28 17:38:29 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-28 17:38:23 UTC
+**Next update:** ~2026-08-28 17:40:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Madagascan rousette
-![Madagascan rousette](https://upload.wikimedia.org/wikipedia/commons/1/15/Rousettus_madagascariensis_2.png)
+### Irrawaddy dolphin
+![Irrawaddy dolphin](https://upload.wikimedia.org/wikipedia/commons/a/ae/Irrawaddy_dolphin-Orcaella_brevirostris_by_2eight.jpg)
 <!-- END_ANIMAL -->
 
 
