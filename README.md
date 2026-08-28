@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-28 11:44:22 UTC
-**Next update:** ~2026-08-28 11:46:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-28 11:46:24 UTC
+**Next update:** ~2026-08-28 11:48:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lesser capybara
-![Lesser capybara](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Lessercapybaracropped.jpg/1280px-Lessercapybaracropped.jpg)
+### Javan rhinoceros
+![Javan rhinoceros](https://upload.wikimedia.org/wikipedia/commons/c/ce/Rhinoceros_sondaicus_in_London_Zoo.jpg)
 <!-- END_ANIMAL -->
 
 
