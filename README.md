@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-28 04:52:26 UTC
-**Next update:** ~2026-08-28 04:54:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-28 04:54:27 UTC
+**Next update:** ~2026-08-28 04:56:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Golden hamster
-![Golden hamster](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Golden_hamster_front_1.jpg/1920px-Golden_hamster_front_1.jpg)
+### Chinese Mountain Cat
+![Chinese Mountain Cat](https://upload.wikimedia.org/wikipedia/commons/4/41/Chinese_Mountain_Cat_%28Felis_Bieti%29_in_XiNing_Wild_Zoo_2.jpg)
 <!-- END_ANIMAL -->
 
 
