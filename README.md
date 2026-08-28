@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-28 00:20:43 UTC
-**Next update:** ~2026-08-28 00:22:43 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-28 00:22:21 UTC
+**Next update:** ~2026-08-28 00:24:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cornish Rex
-![Cornish Rex](https://upload.wikimedia.org/wikipedia/commons/5/5c/Rex_staredown.jpg)
+### Mountain brushtail possum
+![Mountain brushtail possum](https://upload.wikimedia.org/wikipedia/commons/5/54/Trichosurus_cunninghami3.jpg)
 <!-- END_ANIMAL -->
 
 
