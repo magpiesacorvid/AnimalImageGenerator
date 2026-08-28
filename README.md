@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-28 19:20:38 UTC
-**Next update:** ~2026-08-28 19:22:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-28 19:22:22 UTC
+**Next update:** ~2026-08-28 19:24:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asiatic brush-tailed porcupine
-![Asiatic brush-tailed porcupine](https://upload.wikimedia.org/wikipedia/commons/7/76/Brush-tailed_Porcupine%2C_Atherurus_macrourus_in_Kaeng_Krachan_national_park_%2815925250476%29.jpg)
+### Brown-Eared Woolly Opossum
+![Brown-Eared Woolly Opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Caluramys_lanatus.jpg/1920px-Caluramys_lanatus.jpg)
 <!-- END_ANIMAL -->
 
 
