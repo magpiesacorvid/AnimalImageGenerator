@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-28 16:06:24 UTC
-**Next update:** ~2026-08-28 16:08:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-28 16:08:27 UTC
+**Next update:** ~2026-08-28 16:10:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common vole
-![Common vole](https://upload.wikimedia.org/wikipedia/commons/1/10/Feldmaus_Microtus_arvalis.jpg)
+### Krefft's glider
+![Krefft's glider](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sugar_Glider_JCB.jpg/960px-Sugar_Glider_JCB.jpg)
 <!-- END_ANIMAL -->
 
 
