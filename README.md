@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-28 05:42:25 UTC
-**Next update:** ~2026-08-28 05:44:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-28 05:44:26 UTC
+**Next update:** ~2026-08-28 05:46:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cape scrub hare
-![Cape scrub hare](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Madikwe_Game_Reserve%2C_South_Africa_%2831873568687%29.jpg/1920px-Madikwe_Game_Reserve%2C_South_Africa_%2831873568687%29.jpg)
+### Guanaco
+![Guanaco](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Guanaco_%28Lama_guanicoe%29_Leona_Amarga.jpg/1920px-Guanaco_%28Lama_guanicoe%29_Leona_Amarga.jpg)
 <!-- END_ANIMAL -->
 
 
