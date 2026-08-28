@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-28 05:52:21 UTC
-**Next update:** ~2026-08-28 05:54:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-28 05:54:23 UTC
+**Next update:** ~2026-08-28 05:56:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cave Nectar Bat
-![Cave Nectar Bat](https://upload.wikimedia.org/wikipedia/commons/b/b7/Eonycteris_spelea.png)
+### Dark four-eyed opossum
+![Dark four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/2/2f/Dark_Four-eyed_Opossum_imported_from_iNaturalist_photo_352635072_on_14_October_2024.jpg)
 <!-- END_ANIMAL -->
 
 
