@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-28 21:50:40 UTC
-**Next update:** ~2026-08-28 21:52:40 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-28 21:52:26 UTC
+**Next update:** ~2026-08-28 21:54:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Llama
-![Llama](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Llamas%2C_Vernagt-Stausee%2C_Italy.jpg/1280px-Llamas%2C_Vernagt-Stausee%2C_Italy.jpg)
+### California sea lion
+![California sea lion](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/California_Sea_Lion%2C_Monterey%2C_California%2C_United_States_imported_from_iNaturalist_photo_203598492.jpg/1920px-California_Sea_Lion%2C_Monterey%2C_California%2C_United_States_imported_from_iNaturalist_photo_203598492.jpg)
 <!-- END_ANIMAL -->
 
 
