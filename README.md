@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-28 11:08:23 UTC
-**Next update:** ~2026-08-28 11:10:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-28 11:10:36 UTC
+**Next update:** ~2026-08-28 11:12:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common Kusimanse
-![Common Kusimanse](https://upload.wikimedia.org/wikipedia/commons/9/98/Crossarchus_obscurus_Plzen_zoo_02.2011.jpg)
+### Marbled Cat
+![Marbled Cat](https://upload.wikimedia.org/wikipedia/commons/3/3f/Marbled_cat_borneo.jpg)
 <!-- END_ANIMAL -->
 
 
