@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-28 17:32:22 UTC
-**Next update:** ~2026-08-28 17:34:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-28 17:34:24 UTC
+**Next update:** ~2026-08-28 17:36:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Collared brown lemur
-![Collared brown lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Eulemur_collaris_001_edit.jpg/1920px-Eulemur_collaris_001_edit.jpg)
+### European fallow deer
+![European fallow deer](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fallow_deer_in_field.jpg/1920px-Fallow_deer_in_field.jpg)
 <!-- END_ANIMAL -->
 
 
