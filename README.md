@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-28 04:08:25 UTC
-**Next update:** ~2026-08-28 04:10:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-28 04:10:40 UTC
+**Next update:** ~2026-08-28 04:12:40 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Domestic sheep
-![Domestic sheep](https://upload.wikimedia.org/wikipedia/commons/2/2c/Flock_of_sheep.jpg)
+### Campbell's dwarf hamster
+![Campbell's dwarf hamster](https://upload.wikimedia.org/wikipedia/commons/e/ec/Campbell_hamster_agouti.jpg)
 <!-- END_ANIMAL -->
 
 
