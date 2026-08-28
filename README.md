@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-28 11:04:23 UTC
-**Next update:** ~2026-08-28 11:06:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-28 11:06:23 UTC
+**Next update:** ~2026-08-28 11:08:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common brown lemur
-![Common brown lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Common_brown_lemur_%28Eulemur_fulvus%29_male.jpg/1920px-Common_brown_lemur_%28Eulemur_fulvus%29_male.jpg)
+### Linnaeus's two-toed sloth
+![Linnaeus's two-toed sloth](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cholepus_didactylus_-_Flickr_-_Dick_Culbert.jpg/960px-Cholepus_didactylus_-_Flickr_-_Dick_Culbert.jpg)
 <!-- END_ANIMAL -->
 
 
