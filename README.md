@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-29 15:38:24 UTC
-**Next update:** ~2026-08-29 15:40:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-29 15:40:39 UTC
+**Next update:** ~2026-08-29 15:42:39 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian hog deer
-![Indian hog deer](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hog_deer12.jpg/1280px-Hog_deer12.jpg)
+### Nubian wild ass
+![Nubian wild ass](https://upload.wikimedia.org/wikipedia/commons/7/7c/Bonaire%27s_Critically-Endangered_Nubian_Wild_Ass.jpg)
 <!-- END_ANIMAL -->
 
 
