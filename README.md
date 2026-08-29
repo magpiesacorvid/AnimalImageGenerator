@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-29 02:01:07 UTC
-**Next update:** ~2026-08-29 02:03:07 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-29 02:02:25 UTC
+**Next update:** ~2026-08-29 02:04:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lesser grison
-![Lesser grison](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Galictis_cuja_365111167.jpg/1920px-Galictis_cuja_365111167.jpg)
+### Brandt's hedgehog
+![Brandt's hedgehog](https://upload.wikimedia.org/wikipedia/commons/7/77/Brandt%27s_Hedgehog.jpg)
 <!-- END_ANIMAL -->
 
 
