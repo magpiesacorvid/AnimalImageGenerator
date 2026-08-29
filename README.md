@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-29 06:48:22 UTC
-**Next update:** ~2026-08-29 06:50:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-29 06:50:44 UTC
+**Next update:** ~2026-08-29 06:52:44 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Caucasian Mountain ground squirrel
-![Caucasian Mountain ground squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%D0%A1%D1%83%D1%81%D0%BB%D0%B8%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B5.jpg/1920px-%D0%A1%D1%83%D1%81%D0%BB%D0%B8%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B5.jpg)
+### Diademed sifaka
+![Diademed sifaka](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Diademed_sifaka_%28Propithecus_diadema%29.jpg/1920px-Diademed_sifaka_%28Propithecus_diadema%29.jpg)
 <!-- END_ANIMAL -->
 
 
