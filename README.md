@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-29 16:50:47 UTC
-**Next update:** ~2026-08-29 16:52:47 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-29 16:52:25 UTC
+**Next update:** ~2026-08-29 16:54:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cape Golden Mole
-![Cape Golden Mole](https://commons.wikimedia.org/wiki/Special:FilePath/Chrysochloris_asiatica_Cape_golden_mole_adult_IMG_7120.jpg)
+### Japanese serow
+![Japanese serow](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nihonkamoshika-akita.JPG/1280px-Nihonkamoshika-akita.JPG)
 <!-- END_ANIMAL -->
 
 
