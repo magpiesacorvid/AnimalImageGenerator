@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-29 18:28:22 UTC
-**Next update:** ~2026-08-29 18:30:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-29 18:30:55 UTC
+**Next update:** ~2026-08-29 18:32:55 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Northern common cuscus
-![Northern common cuscus](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Phalanger_orientalis_bbksda.webp/960px-Phalanger_orientalis_bbksda.webp.png)
+### Coyote
+![Coyote](https://commons.wikimedia.org/wiki/Special:FilePath/Coyote_portrait.jpg)
 <!-- END_ANIMAL -->
 
 
