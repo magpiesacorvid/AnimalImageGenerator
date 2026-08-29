@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-29 15:36:25 UTC
-**Next update:** ~2026-08-29 15:38:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-29 15:38:24 UTC
+**Next update:** ~2026-08-29 15:40:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kei flying fox
-![Kei flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kei_Flying-fox%2C_Kai_Kecil_Airport_Rd%2C_Sotheast_Maluku_Regency%2C_Maluku%2C_Indonesia_imported_from_iNaturalist_photo_247416279.jpg/960px-Kei_Flying-fox%2C_Kai_Kecil_Airport_Rd%2C_Sotheast_Maluku_Regency%2C_Maluku%2C_Indonesia_imported_from_iNaturalist_photo_247416279.jpg)
+### Indian hog deer
+![Indian hog deer](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hog_deer12.jpg/1280px-Hog_deer12.jpg)
 <!-- END_ANIMAL -->
 
 
