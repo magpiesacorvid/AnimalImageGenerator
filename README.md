@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-29 06:50:44 UTC
-**Next update:** ~2026-08-29 06:52:44 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-29 06:52:22 UTC
+**Next update:** ~2026-08-29 06:54:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Diademed sifaka
-![Diademed sifaka](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Diademed_sifaka_%28Propithecus_diadema%29.jpg/1920px-Diademed_sifaka_%28Propithecus_diadema%29.jpg)
+### Daintree River ringtail possum
+![Daintree River ringtail possum](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pseudochirulus_cinereus_149827298.jpg/1920px-Pseudochirulus_cinereus_149827298.jpg)
 <!-- END_ANIMAL -->
 
 
