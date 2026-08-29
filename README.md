@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-29 21:02:23 UTC
-**Next update:** ~2026-08-29 21:04:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-29 21:04:24 UTC
+**Next update:** ~2026-08-29 21:06:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Formosan rock macaque
-![Formosan rock macaque](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Taiwanese_macaque_%28Macaca_cyclopis%29_female_Yangmingshan_2.jpg/1920px-Taiwanese_macaque_%28Macaca_cyclopis%29_female_Yangmingshan_2.jpg)
+### Central African Oyan
+![Central African Oyan](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Poiana_richardsonii_56244763.jpg/1920px-Poiana_richardsonii_56244763.jpg)
 <!-- END_ANIMAL -->
 
 
