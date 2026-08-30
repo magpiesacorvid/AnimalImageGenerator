@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-30 18:54:22 UTC
-**Next update:** ~2026-08-30 18:56:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-30 18:56:22 UTC
+**Next update:** ~2026-08-30 18:58:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Flat Headed Cat
-![Flat Headed Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flat-headed_cat_1_Jim_Sanderson.JPG/1920px-Flat-headed_cat_1_Jim_Sanderson.JPG)
+### North African hedgehog
+![North African hedgehog](https://upload.wikimedia.org/wikipedia/commons/8/8a/Atelerix_algirus.jpg)
 <!-- END_ANIMAL -->
 
 
