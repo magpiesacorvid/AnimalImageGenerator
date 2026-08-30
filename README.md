@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-30 14:30:57 UTC
-**Next update:** ~2026-08-30 14:32:57 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-30 14:32:24 UTC
+**Next update:** ~2026-08-30 14:34:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Clouded Leopard
-![Clouded Leopard](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Neofelis_nebulosa%2C_Clouded_leopard.jpg/1920px-Neofelis_nebulosa%2C_Clouded_leopard.jpg)
+### Black Panther-Leopard
+![Black Panther-Leopard](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Black_Panther_-_India.jpg/1920px-Black_Panther_-_India.jpg)
 <!-- END_ANIMAL -->
 
 
