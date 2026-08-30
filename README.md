@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-30 12:10:45 UTC
-**Next update:** ~2026-08-30 12:12:45 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-30 12:12:25 UTC
+**Next update:** ~2026-08-30 12:14:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cornish Rex
-![Cornish Rex](https://upload.wikimedia.org/wikipedia/commons/5/5c/Rex_staredown.jpg)
+### Juliana's golden mole
+![Juliana's golden mole](https://upload.wikimedia.org/wikipedia/commons/4/45/The_Juliana%E2%80%99s_golden_mole_is_one_of_Africa%E2%80%99s_most_threatened_mammals_Jackson.png)
 <!-- END_ANIMAL -->
 
 
