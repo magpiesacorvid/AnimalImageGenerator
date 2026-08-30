@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-30 22:58:23 UTC
-**Next update:** ~2026-08-30 23:00:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-30 23:01:03 UTC
+**Next update:** ~2026-08-30 23:03:03 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Large flying fox
-![Large flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wilhelma_Kalong-Flughund_Pteropus_vampyrus_0513.jpg/960px-Wilhelma_Kalong-Flughund_Pteropus_vampyrus_0513.jpg)
+### Binturong
+![Binturong](https://commons.wikimedia.org/wiki/Special:FilePath/Binturong001.JPG)
 <!-- END_ANIMAL -->
 
 
