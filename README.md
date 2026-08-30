@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-30 03:58:21 UTC
-**Next update:** ~2026-08-30 04:00:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-30 04:01:09 UTC
+**Next update:** ~2026-08-30 04:03:09 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chinkara
-![Chinkara](https://upload.wikimedia.org/wikipedia/commons/d/d6/Chinkara_-_Shreeram_M_V_-_Bikaner.jpg)
+### East African oryx
+![East African oryx](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Common_beisa_oryx_%28Oryx_beisa_beisa%29_female.jpg/1920px-Common_beisa_oryx_%28Oryx_beisa_beisa%29_female.jpg)
 <!-- END_ANIMAL -->
 
 
