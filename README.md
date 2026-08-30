@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-30 04:58:21 UTC
-**Next update:** ~2026-08-30 05:00:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-30 05:01:03 UTC
+**Next update:** ~2026-08-30 05:03:03 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ethiopian Wolf
-![Ethiopian Wolf](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ethiopian_wolf_%28Canis_simensis_citernii%29.jpg/1920px-Ethiopian_wolf_%28Canis_simensis_citernii%29.jpg)
+### Darwin's fox
+![Darwin's fox](https://upload.wikimedia.org/wikipedia/commons/8/87/Pseudalopex_fulvipes.jpg)
 <!-- END_ANIMAL -->
 
 
