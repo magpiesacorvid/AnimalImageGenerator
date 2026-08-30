@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-30 18:01:06 UTC
-**Next update:** ~2026-08-30 18:03:06 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-30 18:02:24 UTC
+**Next update:** ~2026-08-30 18:04:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Foldex Cat
-![Foldex Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cachorro_de_Gato_FoldEx_%28%22Belisario_del_Laberinto%22%29.JPG/1920px-Cachorro_de_Gato_FoldEx_%28%22Belisario_del_Laberinto%22%29.JPG)
+### Common ringtail possum
+![Common ringtail possum](https://upload.wikimedia.org/wikipedia/commons/a/a7/Possum_Ring-tailed444.jpg)
 <!-- END_ANIMAL -->
 
 
