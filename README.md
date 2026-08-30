@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-30 12:16:23 UTC
-**Next update:** ~2026-08-30 12:18:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-30 12:18:23 UTC
+**Next update:** ~2026-08-30 12:20:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Heart-nosed bat
-![Heart-nosed bat](https://upload.wikimedia.org/wikipedia/commons/3/31/Cardioderma_cor_in_Samburu.jpg)
+### Mzab gundi
+![Mzab gundi](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Massoutiera_mzabi_206262897.jpg/1280px-Massoutiera_mzabi_206262897.jpg)
 <!-- END_ANIMAL -->
 
 
