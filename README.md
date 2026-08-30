@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-30 01:04:24 UTC
-**Next update:** ~2026-08-30 01:06:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-30 01:06:21 UTC
+**Next update:** ~2026-08-30 01:08:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Leopard Seal
-![Leopard Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Antarctic_Sound-2016-Brown_Bluff%E2%80%93Leopard_seal_%28Hydrurga_leptonyx%29_04.jpg/1280px-Antarctic_Sound-2016-Brown_Bluff%E2%80%93Leopard_seal_%28Hydrurga_leptonyx%29_04.jpg)
+### Brown Hyena
+![Brown Hyena](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Brown_Hyena_%28Hyaena_brunnea%29_leaving_waterhole_..._%2850915531592%29%2C_crop.jpg/1920px-Brown_Hyena_%28Hyaena_brunnea%29_leaving_waterhole_..._%2850915531592%29%2C_crop.jpg)
 <!-- END_ANIMAL -->
 
 
