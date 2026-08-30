@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-30 02:52:22 UTC
-**Next update:** ~2026-08-30 02:54:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-30 02:54:20 UTC
+**Next update:** ~2026-08-30 02:56:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian hog deer
-![Indian hog deer](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hog_deer12.jpg/1280px-Hog_deer12.jpg)
+### Greater bandicoot rat
+![Greater bandicoot rat](https://upload.wikimedia.org/wikipedia/commons/f/f8/Bandicota_indica.jpg)
 <!-- END_ANIMAL -->
 
 
