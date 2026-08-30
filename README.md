@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-30 13:46:25 UTC
-**Next update:** ~2026-08-30 13:48:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-30 13:48:28 UTC
+**Next update:** ~2026-08-30 13:50:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black rat
-![Black rat](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/House_Rat_David_Raju.jpg/1920px-House_Rat_David_Raju.jpg)
+### Daintree River ringtail possum
+![Daintree River ringtail possum](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pseudochirulus_cinereus_149827298.jpg/1920px-Pseudochirulus_cinereus_149827298.jpg)
 <!-- END_ANIMAL -->
 
 
