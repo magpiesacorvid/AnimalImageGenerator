@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-30 13:42:21 UTC
-**Next update:** ~2026-08-30 13:44:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-30 13:44:24 UTC
+**Next update:** ~2026-08-30 13:46:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### House mouse
-![House mouse](https://upload.wikimedia.org/wikipedia/commons/8/8f/Mouse_white_background.jpg)
+### Clouded Leopard
+![Clouded Leopard](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Neofelis_nebulosa%2C_Clouded_leopard.jpg/1920px-Neofelis_nebulosa%2C_Clouded_leopard.jpg)
 <!-- END_ANIMAL -->
 
 
