@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-31 07:32:23 UTC
-**Next update:** ~2026-08-31 07:34:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-31 07:34:25 UTC
+**Next update:** ~2026-08-31 07:36:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Grey rhebok
-![Grey rhebok](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Grey_Rhebok_%28Pelea_capreolus%29_male_at_Karoo_NP%2C_Western_Cape%2C_South_Africa.jpg/1920px-Grey_Rhebok_%28Pelea_capreolus%29_male_at_Karoo_NP%2C_Western_Cape%2C_South_Africa.jpg)
+### Bryde's Whale
+![Bryde's Whale](https://upload.wikimedia.org/wikipedia/commons/d/d0/Brydeswhale_sophiewebb-swfsc-star2006.jpg)
 <!-- END_ANIMAL -->
 
 
