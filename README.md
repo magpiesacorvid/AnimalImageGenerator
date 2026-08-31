@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-31 03:36:23 UTC
-**Next update:** ~2026-08-31 03:38:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-31 03:38:24 UTC
+**Next update:** ~2026-08-31 03:40:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Muenster yellow-toothed cavy
-![Muenster yellow-toothed cavy](https://upload.wikimedia.org/wikipedia/commons/4/45/Galea_monasteriensis.JPG)
+### Ifola
+![Ifola](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ifola_tree-kangaroo.jpg/1280px-Ifola_tree-kangaroo.jpg)
 <!-- END_ANIMAL -->
 
 
