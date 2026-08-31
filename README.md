@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-31 16:14:23 UTC
-**Next update:** ~2026-08-31 16:16:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-31 16:16:26 UTC
+**Next update:** ~2026-08-31 16:18:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Nilgiri marten
-![Nilgiri marten](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nilgiri_marten_by_N_A_Nazeer.jpg/960px-Nilgiri_marten_by_N_A_Nazeer.jpg)
+### Big-eared opossum
+![Big-eared opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Didelphis_aurita_photo-Christian_Roger_Dockhorn.JPG/1920px-Didelphis_aurita_photo-Christian_Roger_Dockhorn.JPG)
 <!-- END_ANIMAL -->
 
 
