@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-31 14:22:24 UTC
-**Next update:** ~2026-08-31 14:24:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-31 14:24:21 UTC
+**Next update:** ~2026-08-31 14:26:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Big hairy armadillo
-![Big hairy armadillo](https://commons.wikimedia.org/wiki/Special:FilePath/Chaetophractus_villosus_(Wroclaw_zoo).JPG)
+### Banded palm civet
+![Banded palm civet](https://commons.wikimedia.org/wiki/Special:FilePath/Banded_Palm_Civet-2.jpg)
 <!-- END_ANIMAL -->
 
 
