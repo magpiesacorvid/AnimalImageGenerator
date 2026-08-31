@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-31 18:48:23 UTC
-**Next update:** ~2026-08-31 18:50:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-31 18:50:41 UTC
+**Next update:** ~2026-08-31 18:52:41 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dragon Li Cat
-![Dragon Li Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cat_named_Pipi.jpg/1920px-Cat_named_Pipi.jpg)
+### Milne-Edwards's sifaka
+![Milne-Edwards's sifaka](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Milne_Edwards%27s_sifaka_%28Propithecus_edwardsi%29.jpg/960px-Milne_Edwards%27s_sifaka_%28Propithecus_edwardsi%29.jpg)
 <!-- END_ANIMAL -->
 
 
