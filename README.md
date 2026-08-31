@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-31 06:36:25 UTC
-**Next update:** ~2026-08-31 06:38:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-31 06:38:27 UTC
+**Next update:** ~2026-08-31 06:40:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Madagascan fruit bat
-![Madagascan fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Eidolon_dupreanum%2C_Peyrieras.jpg/1280px-Eidolon_dupreanum%2C_Peyrieras.jpg)
+### Binturong
+![Binturong](https://commons.wikimedia.org/wiki/Special:FilePath/Binturong001.JPG)
 <!-- END_ANIMAL -->
 
 
