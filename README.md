@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-31 01:22:22 UTC
-**Next update:** ~2026-08-31 01:24:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-31 01:24:24 UTC
+**Next update:** ~2026-08-31 01:26:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan talapoin
-![Angolan talapoin](https://upload.wikimedia.org/wikipedia/commons/7/78/Talapoin_II_-_Bioparc_Valencia_%282787418966%29.jpg)
+### Japanese badger
+![Japanese badger](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Meles_meles_anakuma_at_Inokashira_Park_Zoo.jpg/1280px-Meles_meles_anakuma_at_Inokashira_Park_Zoo.jpg)
 <!-- END_ANIMAL -->
 
 
