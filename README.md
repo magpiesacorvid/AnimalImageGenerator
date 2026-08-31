@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-31 12:34:24 UTC
-**Next update:** ~2026-08-31 12:36:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-31 12:36:25 UTC
+**Next update:** ~2026-08-31 12:38:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Northern white-cheeked gibbon
-![Northern white-cheeked gibbon](https://upload.wikimedia.org/wikipedia/commons/8/85/Witwanggibbon_M.jpg)
+### Darwin's fox
+![Darwin's fox](https://upload.wikimedia.org/wikipedia/commons/8/87/Pseudalopex_fulvipes.jpg)
 <!-- END_ANIMAL -->
 
 
