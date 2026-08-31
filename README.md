@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-31 01:12:22 UTC
-**Next update:** ~2026-08-31 01:14:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-31 01:14:25 UTC
+**Next update:** ~2026-08-31 01:16:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Acrobatic cavy
-![Acrobatic cavy](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kerodon-acrobata-asportella.JPG/1280px-Kerodon-acrobata-asportella.JPG)
+### Broad-striped Malagasy mongoose
+![Broad-striped Malagasy mongoose](https://upload.wikimedia.org/wikipedia/commons/1/1a/Galidictis_fasciata_Striped_Vontsira%2C_Atsimo-Andrefana%2C_MG-TL%2C_MG_iNaturalist.jpg)
 <!-- END_ANIMAL -->
 
 
