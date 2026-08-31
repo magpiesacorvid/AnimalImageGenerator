@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-31 13:20:44 UTC
-**Next update:** ~2026-08-31 13:22:44 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-31 13:22:27 UTC
+**Next update:** ~2026-08-31 13:24:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chinese pangolin
-![Chinese pangolin](https://upload.wikimedia.org/wikipedia/commons/9/94/Manis_pentadactyla_%2829054818144%29.jpg)
+### Japanese badger
+![Japanese badger](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Meles_meles_anakuma_at_Inokashira_Park_Zoo.jpg/1280px-Meles_meles_anakuma_at_Inokashira_Park_Zoo.jpg)
 <!-- END_ANIMAL -->
 
 
