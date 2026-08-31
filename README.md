@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-31 10:38:22 UTC
-**Next update:** ~2026-08-31 10:40:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-31 10:40:38 UTC
+**Next update:** ~2026-08-31 10:42:38 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hatt's vesper rat
-![Hatt's vesper rat](https://upload.wikimedia.org/wikipedia/commons/8/8f/Otonyctomys_hatti_2.jpg)
+### Lelwel hartebeest
+![Lelwel hartebeest](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Male_Jackson%27s_hartebeest.jpg/960px-Male_Jackson%27s_hartebeest.jpg)
 <!-- END_ANIMAL -->
 
 
