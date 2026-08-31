@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-31 03:38:24 UTC
-**Next update:** ~2026-08-31 03:40:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-31 03:40:41 UTC
+**Next update:** ~2026-08-31 03:42:41 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ifola
-![Ifola](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ifola_tree-kangaroo.jpg/1280px-Ifola_tree-kangaroo.jpg)
+### Brown deer mouse
+![Brown deer mouse](https://upload.wikimedia.org/wikipedia/commons/d/d8/Peromyscus_megalops.jpg)
 <!-- END_ANIMAL -->
 
 
