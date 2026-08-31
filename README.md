@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-31 07:44:24 UTC
-**Next update:** ~2026-08-31 07:46:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-31 07:46:26 UTC
+**Next update:** ~2026-08-31 07:48:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian long-eared hedgehog
-![Indian long-eared hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hemiechinus_collaris_-_Indian_long-eared_hedgehog.jpg/1280px-Hemiechinus_collaris_-_Indian_long-eared_hedgehog.jpg)
+### Humpback whale
+![Humpback whale](https://upload.wikimedia.org/wikipedia/commons/6/61/Humpback_Whale_underwater_shot.jpg)
 <!-- END_ANIMAL -->
 
 
