@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-31 23:20:41 UTC
-**Next update:** ~2026-08-31 23:22:41 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-31 23:22:20 UTC
+**Next update:** ~2026-08-31 23:24:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Forrest's pika
-![Forrest's pika](https://upload.wikimedia.org/wikipedia/commons/9/93/Ochotona_forresti.png)
+### Northern smooth-tailed treeshrew
+![Northern smooth-tailed treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_northern_smooth-tailed_treeshrew_2.jpg/1920px-The_northern_smooth-tailed_treeshrew_2.jpg)
 <!-- END_ANIMAL -->
 
 
