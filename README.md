@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-31 05:40:40 UTC
-**Next update:** ~2026-08-31 05:42:40 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-31 05:42:22 UTC
+**Next update:** ~2026-08-31 05:44:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain degu
-![Mountain degu](https://upload.wikimedia.org/wikipedia/commons/3/30/Octodontomys_gliroides_339329462_%28crop-sharp%29.png)
+### Four-toed hedgehog
+![Four-toed hedgehog](https://upload.wikimedia.org/wikipedia/commons/d/d0/Atelerix_albiventris.jpg)
 <!-- END_ANIMAL -->
 
 
