@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-08-31 18:26:22 UTC
-**Next update:** ~2026-08-31 18:28:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-08-31 18:28:21 UTC
+**Next update:** ~2026-08-31 18:30:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Annamite striped rabbit
-![Annamite striped rabbit](https://upload.wikimedia.org/wikipedia/commons/9/98/Annamite_striped_rabbit_%28Nesolagus_timminsi%29.jpg)
+### Horsfield's fruit bat
+![Horsfield's fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cynopterus_horsfieldii_544329261.jpg/1280px-Cynopterus_horsfieldii_544329261.jpg)
 <!-- END_ANIMAL -->
 
 
