@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-01 16:04:53 UTC
-**Next update:** ~2026-09-01 16:06:53 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-01 16:06:26 UTC
+**Next update:** ~2026-09-01 16:08:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bay duiker
-![Bay duiker](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cephalophus_dorsalis.JPG/1920px-Cephalophus_dorsalis.JPG)
+### Chevrotain
+![Chevrotain](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mouse-deer_Singapore_Zoo_2012.JPG/1920px-Mouse-deer_Singapore_Zoo_2012.JPG)
 <!-- END_ANIMAL -->
 
 
