@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-01 11:10:39 UTC
-**Next update:** ~2026-09-01 11:12:39 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-01 11:12:22 UTC
+**Next update:** ~2026-09-01 11:14:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Great flying fox
-![Great flying fox](https://upload.wikimedia.org/wikipedia/commons/d/da/Great_Flying-fox.jpg)
+### European hamster
+![European hamster](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/European_hamster_%28Cricetus_cricetus%29_Meidling_2.jpg/1920px-European_hamster_%28Cricetus_cricetus%29_Meidling_2.jpg)
 <!-- END_ANIMAL -->
 
 
