@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-01 04:54:20 UTC
-**Next update:** ~2026-09-01 04:56:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-01 04:56:22 UTC
+**Next update:** ~2026-09-01 04:58:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Molina's hog-nosed skunk
-![Molina's hog-nosed skunk](https://upload.wikimedia.org/wikipedia/commons/5/5b/Chingue_%28Conepatus_chinga%29_Inao_V%C3%A1squez_001.jpg)
+### Fijian monkey-faced bat
+![Fijian monkey-faced bat](https://upload.wikimedia.org/wikipedia/en/a/a9/1977.05.03_Fiji_Monkey_Bat_%2CTaveuni%2C_Fiji_3443_ccccc_crop.jpg)
 <!-- END_ANIMAL -->
 
 
