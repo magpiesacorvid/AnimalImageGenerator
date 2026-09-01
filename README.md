@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-01 17:04:23 UTC
-**Next update:** ~2026-09-01 17:06:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-01 17:06:25 UTC
+**Next update:** ~2026-09-01 17:08:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Milne-Edwards's sifaka
-![Milne-Edwards's sifaka](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Milne_Edwards%27s_sifaka_%28Propithecus_edwardsi%29.jpg/960px-Milne_Edwards%27s_sifaka_%28Propithecus_edwardsi%29.jpg)
+### American Black Bear
+![American Black Bear](https://upload.wikimedia.org/wikipedia/commons/0/08/01_Schwarzb%C3%A4r.jpg)
 <!-- END_ANIMAL -->
 
 
