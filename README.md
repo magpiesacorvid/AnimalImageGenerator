@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-01 15:32:23 UTC
-**Next update:** ~2026-09-01 15:34:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-01 15:34:27 UTC
+**Next update:** ~2026-09-01 15:36:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Nubian ibex
-![Nubian ibex](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/PikiWiki_Israel_38769_Male_Ibex.jpg/1280px-PikiWiki_Israel_38769_Male_Ibex.jpg)
+### Baturite porcupine
+![Baturite porcupine](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Coendou_baturitensis_Mulungu-CE.JPG/1920px-Coendou_baturitensis_Mulungu-CE.JPG)
 <!-- END_ANIMAL -->
 
 
