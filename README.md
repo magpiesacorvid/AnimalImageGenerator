@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-01 05:12:44 UTC
-**Next update:** ~2026-09-01 05:14:44 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-01 05:20:01 UTC
+**Next update:** ~2026-09-01 05:22:01 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bushpig
-![Bushpig](https://upload.wikimedia.org/wikipedia/commons/4/40/Southern_Bush_Pig.jpg)
+### Indian giant squirrel
+![Indian giant squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Indian_giant_squirrel_in_Kuldiha_Wildlife_Sanctuary_March_2025_by_Tisha_Mukherjee_01.jpg/960px-Indian_giant_squirrel_in_Kuldiha_Wildlife_Sanctuary_March_2025_by_Tisha_Mukherjee_01.jpg)
 <!-- END_ANIMAL -->
 
 
