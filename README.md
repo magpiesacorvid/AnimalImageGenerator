@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-02 13:40:41 UTC
-**Next update:** ~2026-09-02 13:42:41 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-02 13:42:22 UTC
+**Next update:** ~2026-09-02 13:44:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain brushtail possum
-![Mountain brushtail possum](https://upload.wikimedia.org/wikipedia/commons/5/54/Trichosurus_cunninghami3.jpg)
+### Feathertail glider
+![Feathertail glider](https://upload.wikimedia.org/wikipedia/commons/6/6d/Acrobates_neuneu.jpg)
 <!-- END_ANIMAL -->
 
 
