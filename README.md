@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-02 20:48:27 UTC
-**Next update:** ~2026-09-02 20:50:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-02 20:50:43 UTC
+**Next update:** ~2026-09-02 20:52:43 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Blue wildebeest
-![Blue wildebeest](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Blue_Wildebeest%2C_Ngorongoro.jpg/1920px-Blue_Wildebeest%2C_Ngorongoro.jpg)
+### Bear cuscuses
+![Bear cuscuses](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ailurops_ursinus_Naemundung_2_North_Sulawesi.jpg/1920px-Ailurops_ursinus_Naemundung_2_North_Sulawesi.jpg)
 <!-- END_ANIMAL -->
 
 
