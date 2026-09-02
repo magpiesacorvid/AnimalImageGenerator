@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-02 23:22:21 UTC
-**Next update:** ~2026-09-02 23:24:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-02 23:24:23 UTC
+**Next update:** ~2026-09-02 23:26:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chartreux Cat
-![Chartreux Cat](https://upload.wikimedia.org/wikipedia/commons/3/3c/IC_Blue_Melody_Flipper_CHA_male_EX1_CACIB.jpg)
+### Kodkod
+![Kodkod](https://upload.wikimedia.org/wikipedia/commons/d/d0/Leopardus_guigna.jpeg)
 <!-- END_ANIMAL -->
 
 
