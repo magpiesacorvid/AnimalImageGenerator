@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-02 05:56:33 UTC
-**Next update:** ~2026-09-02 05:58:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-02 05:58:21 UTC
+**Next update:** ~2026-09-02 06:00:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lowland yellow-toothed cavy
-![Lowland yellow-toothed cavy](https://upload.wikimedia.org/wikipedia/commons/6/66/Galea_leucoblephara_33484925.jpg)
+### Colorpoint Shorthair
+![Colorpoint Shorthair](https://upload.wikimedia.org/wikipedia/commons/1/11/Chocolate_Tortie_Pt_11636-140.jpg)
 <!-- END_ANIMAL -->
 
 
