@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-02 18:50:44 UTC
-**Next update:** ~2026-09-02 18:52:44 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-02 18:52:24 UTC
+**Next update:** ~2026-09-02 18:54:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Meadow jumping mouse
-![Meadow jumping mouse](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Zapus_hudsonius.jpg/1920px-Zapus_hudsonius.jpg)
+### Montane guinea pig
+![Montane guinea pig](https://upload.wikimedia.org/wikipedia/commons/d/df/Cavia_tschudii_104314763_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
