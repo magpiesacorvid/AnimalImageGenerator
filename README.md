@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-02 15:02:26 UTC
-**Next update:** ~2026-09-02 15:04:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-02 15:04:24 UTC
+**Next update:** ~2026-09-02 15:06:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Nebelung Cat
-![Nebelung Cat](https://upload.wikimedia.org/wikipedia/commons/2/29/Aleksandr_van_Song_de_Chine.jpg)
+### Crawford's gray shrew
+![Crawford's gray shrew](https://upload.wikimedia.org/wikipedia/commons/d/d1/Crawford%27s_gray_shrew.jpg)
 <!-- END_ANIMAL -->
 
 
