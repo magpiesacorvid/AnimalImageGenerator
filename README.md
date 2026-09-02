@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-02 11:38:25 UTC
-**Next update:** ~2026-09-02 11:40:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-02 11:40:40 UTC
+**Next update:** ~2026-09-02 11:42:40 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Island spotted skunk
-![Island spotted skunk](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Spilogale_gracilis_amphiala.jpg/1280px-Spilogale_gracilis_amphiala.jpg)
+### Kitti's hog-nosed bat
+![Kitti's hog-nosed bat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Craseonycteris_thonglongyai_414843825.jpg/960px-Craseonycteris_thonglongyai_414843825.jpg)
 <!-- END_ANIMAL -->
 
 
