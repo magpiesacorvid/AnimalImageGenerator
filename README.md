@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-02 11:58:22 UTC
-**Next update:** ~2026-09-02 12:00:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-02 12:01:04 UTC
+**Next update:** ~2026-09-02 12:03:04 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Big lutrine opossum
-![Big lutrine opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lutreolina_crassicaudata_216572398.jpg/1920px-Lutreolina_crassicaudata_216572398.jpg)
+### Horsfield's treeshrew
+![Horsfield's treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Tupaia_javanica.jpg/960px-Tupaia_javanica.jpg)
 <!-- END_ANIMAL -->
 
 
