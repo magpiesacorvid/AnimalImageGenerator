@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-02 09:20:42 UTC
-**Next update:** ~2026-09-02 09:22:42 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-02 09:22:23 UTC
+**Next update:** ~2026-09-02 09:24:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bali cattle
-![Bali cattle](https://commons.wikimedia.org/wiki/Special:FilePath/Bali_Cattle.jpg)
+### American Mink
+![American Mink](https://upload.wikimedia.org/wikipedia/commons/0/04/MinkforWiki.jpg)
 <!-- END_ANIMAL -->
 
 
