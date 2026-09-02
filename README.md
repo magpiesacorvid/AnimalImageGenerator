@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-02 17:24:27 UTC
-**Next update:** ~2026-09-02 17:26:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-02 17:26:20 UTC
+**Next update:** ~2026-09-02 17:28:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common Tailless tenrec
-![Common Tailless tenrec](https://upload.wikimedia.org/wikipedia/commons/b/bc/Tanrek.jpg)
+### European pine marten
+![European pine marten](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pine_Marten_%2848173751702%29.jpg/1920px-Pine_Marten_%2848173751702%29.jpg)
 <!-- END_ANIMAL -->
 
 
