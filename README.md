@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-03 15:48:32 UTC
-**Next update:** ~2026-09-03 15:50:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-03 15:50:38 UTC
+**Next update:** ~2026-09-03 15:52:38 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Northern three-striped opossum
-![Northern three-striped opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cu%C3%ADca_de_tr%C3%AAs_listras_-_Monodelphis_americana.jpg/1280px-Cu%C3%ADca_de_tr%C3%AAs_listras_-_Monodelphis_americana.jpg)
+### House mouse
+![House mouse](https://upload.wikimedia.org/wikipedia/commons/8/8f/Mouse_white_background.jpg)
 <!-- END_ANIMAL -->
 
 
