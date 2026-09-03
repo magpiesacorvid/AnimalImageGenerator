@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-03 12:46:33 UTC
-**Next update:** ~2026-09-03 12:48:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-03 12:48:26 UTC
+**Next update:** ~2026-09-03 12:50:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dhole
-![Dhole](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dhole_%28Asiatic_wild_dog%29_cropped.jpg/1920px-Dhole_%28Asiatic_wild_dog%29_cropped.jpg)
+### Chinese Birch mouse
+![Chinese Birch mouse](https://upload.wikimedia.org/wikipedia/commons/e/e1/Sicista_concolor.jpg)
 <!-- END_ANIMAL -->
 
 
