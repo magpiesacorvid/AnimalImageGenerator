@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-03 17:46:28 UTC
-**Next update:** ~2026-09-03 17:48:28 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-03 17:48:26 UTC
+**Next update:** ~2026-09-03 17:50:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cape grysbok
-![Cape grysbok](https://upload.wikimedia.org/wikipedia/commons/6/6f/Southafrica-capegrysbok.jpg)
+### Emperor tamarin
+![Emperor tamarin](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tamarin_portrait.JPG/1920px-Tamarin_portrait.JPG)
 <!-- END_ANIMAL -->
 
 
