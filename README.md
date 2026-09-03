@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-03 01:20:35 UTC
-**Next update:** ~2026-09-03 01:22:35 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-03 01:22:20 UTC
+**Next update:** ~2026-09-03 01:24:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Madagascan rousette
-![Madagascan rousette](https://upload.wikimedia.org/wikipedia/commons/1/15/Rousettus_madagascariensis_2.png)
+### Long-eared hedgehog
+![Long-eared hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hedgehog_cyprus_hg.jpg/1280px-Hedgehog_cyprus_hg.jpg)
 <!-- END_ANIMAL -->
 
 
