@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-03 06:10:48 UTC
-**Next update:** ~2026-09-03 06:12:48 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-03 06:12:26 UTC
+**Next update:** ~2026-09-03 06:14:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Donskoy
-![Donskoy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/DSX_World_Premior_RU%2ADon_Xuk%27s_Login_WOW_%2814037189016%29.jpg/1920px-DSX_World_Premior_RU%2ADon_Xuk%27s_Login_WOW_%2814037189016%29.jpg)
+### Mountain pygmy possum
+![Mountain pygmy possum](https://upload.wikimedia.org/wikipedia/commons/9/9b/Mountain-pygmy-possum.jpg)
 <!-- END_ANIMAL -->
 
 
