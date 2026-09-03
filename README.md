@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-03 22:46:23 UTC
-**Next update:** ~2026-09-03 22:48:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-03 22:48:24 UTC
+**Next update:** ~2026-09-03 22:50:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gilbert's dunnart
-![Gilbert's dunnart](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gilberts_Dunnart_%2826482365072%29.jpg/250px-Gilberts_Dunnart_%2826482365072%29.jpg)
+### Big hairy armadillo
+![Big hairy armadillo](https://commons.wikimedia.org/wiki/Special:FilePath/Chaetophractus_villosus_(Wroclaw_zoo).JPG)
 <!-- END_ANIMAL -->
 
 
