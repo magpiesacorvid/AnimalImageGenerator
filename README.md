@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-03 12:36:23 UTC
-**Next update:** ~2026-09-03 12:38:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-03 12:38:25 UTC
+**Next update:** ~2026-09-03 12:40:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Elk
-![Elk](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jasper.Wapiti-Hirsch.P1033401.jpg/1920px-Jasper.Wapiti-Hirsch.P1033401.jpg)
+### Black-headed night monkey
+![Black-headed night monkey](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Aotus_nigriceps.jpg/1920px-Aotus_nigriceps.jpg)
 <!-- END_ANIMAL -->
 
 
