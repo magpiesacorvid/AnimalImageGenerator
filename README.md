@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-03 08:12:25 UTC
-**Next update:** ~2026-09-03 08:14:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-03 08:14:24 UTC
+**Next update:** ~2026-09-03 08:16:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mariana fruit bat
-![Mariana fruit bat](https://upload.wikimedia.org/wikipedia/commons/5/58/Mariana_Fruit_Bat.jpg)
+### Greater bilby
+![Greater bilby](https://upload.wikimedia.org/wikipedia/commons/e/ed/Bilby_at_Sydney_Wildlife_World.jpg)
 <!-- END_ANIMAL -->
 
 
