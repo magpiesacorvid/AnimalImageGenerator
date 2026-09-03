@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-03 19:30:52 UTC
-**Next update:** ~2026-09-03 19:32:52 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-03 19:32:25 UTC
+**Next update:** ~2026-09-03 19:34:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chimpanzee
-![Chimpanzee](https://commons.wikimedia.org/wiki/Special:FilePath/Chimpanzee_(Pan_troglodytes).jpg)
+### Harnessed bushbuck
+![Harnessed bushbuck](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tragelaphus_scriptus_scriptus_345230787.jpg/1920px-Tragelaphus_scriptus_scriptus_345230787.jpg)
 <!-- END_ANIMAL -->
 
 
