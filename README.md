@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-03 15:18:31 UTC
-**Next update:** ~2026-09-03 15:20:31 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-03 15:20:42 UTC
+**Next update:** ~2026-09-03 15:22:42 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Livingstone's fruit bat
-![Livingstone's fruit bat](https://upload.wikimedia.org/wikipedia/commons/c/ca/Bristol.zoo.livfruitbat.arp.jpg)
+### Minskin Cat
+![Minskin Cat](https://upload.wikimedia.org/wikipedia/commons/7/73/Minskin_Kitten_Female_blue_tabby_color-pattern.jpg)
 <!-- END_ANIMAL -->
 
 
