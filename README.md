@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-04 08:46:21 UTC
-**Next update:** ~2026-09-04 08:48:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-04 08:48:22 UTC
+**Next update:** ~2026-09-04 08:50:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bowhead whale
-![Bowhead whale](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bowhead_Whale_NOAA.jpg/1920px-Bowhead_Whale_NOAA.jpg)
+### Meadow jumping mouse
+![Meadow jumping mouse](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Zapus_hudsonius.jpg/1920px-Zapus_hudsonius.jpg)
 <!-- END_ANIMAL -->
 
 
