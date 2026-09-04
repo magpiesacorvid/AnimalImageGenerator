@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-04 10:22:23 UTC
-**Next update:** ~2026-09-04 10:24:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-04 10:24:21 UTC
+**Next update:** ~2026-09-04 10:26:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Four-horned antelope
-![Four-horned antelope](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tetracerus_quadricornis_I.jpg/1920px-Tetracerus_quadricornis_I.jpg)
+### Common genet
+![Common genet](https://upload.wikimedia.org/wikipedia/commons/2/23/A_female_common_genet_in_the_dining_room%2C_Satao_Camp%2C_Tsavo_East.jpg)
 <!-- END_ANIMAL -->
 
 
