@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-04 18:04:23 UTC
-**Next update:** ~2026-09-04 18:06:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-04 18:06:29 UTC
+**Next update:** ~2026-09-04 18:08:29 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Long-furred woolly mouse opossum
-![Long-furred woolly mouse opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/North-eastern_Woolly_Mouse_Opossum_imported_from_iNaturalist_photo_417123381_on_18_October_2024.jpg/250px-North-eastern_Woolly_Mouse_Opossum_imported_from_iNaturalist_photo_417123381_on_18_October_2024.jpg)
+### Klipspringer
+![Klipspringer](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Klipspringer.jpg/960px-Klipspringer.jpg)
 <!-- END_ANIMAL -->
 
 
