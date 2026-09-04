@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-04 18:06:29 UTC
-**Next update:** ~2026-09-04 18:08:29 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-04 18:08:25 UTC
+**Next update:** ~2026-09-04 18:10:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Klipspringer
-![Klipspringer](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Klipspringer.jpg/960px-Klipspringer.jpg)
+### Grey seal
+![Grey seal](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Focas_grises_%28Halichoerus_grypus%29%2C_playa_de_Horsey%2C_Norfolk%2C_Inglaterra%2C_2022-11-20%2C_DD_11.jpg/1920px-Focas_grises_%28Halichoerus_grypus%29%2C_playa_de_Horsey%2C_Norfolk%2C_Inglaterra%2C_2022-11-20%2C_DD_11.jpg)
 <!-- END_ANIMAL -->
 
 
