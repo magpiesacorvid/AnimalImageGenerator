@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-04 05:30:50 UTC
-**Next update:** ~2026-09-04 05:32:50 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-04 05:32:57 UTC
+**Next update:** ~2026-09-04 05:34:57 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common duiker
-![Common duiker](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/C%C3%A9phalophe_de_grimm%2C_crop.jpg/1920px-C%C3%A9phalophe_de_grimm%2C_crop.jpg)
+### Goldman's woodrat
+![Goldman's woodrat](https://upload.wikimedia.org/wikipedia/commons/1/15/Neotoma_goldmani_377907_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
