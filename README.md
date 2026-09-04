@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-04 20:38:22 UTC
-**Next update:** ~2026-09-04 20:40:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-04 20:40:41 UTC
+**Next update:** ~2026-09-04 20:42:41 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Monito del monte
-![Monito del monte](https://upload.wikimedia.org/wikipedia/commons/5/51/Monito_del_Monte_ps6.jpg)
+### Gray four-eyed opossum
+![Gray four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/a/ab/Cuica_verdadeira.jpg)
 <!-- END_ANIMAL -->
 
 
