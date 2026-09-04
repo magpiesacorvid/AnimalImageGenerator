@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-04 14:42:22 UTC
-**Next update:** ~2026-09-04 14:44:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-04 14:44:23 UTC
+**Next update:** ~2026-09-04 14:46:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bobcat
-![Bobcat](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bobcat_at_Columbus_Zoo_Boo.jpg/1920px-Bobcat_at_Columbus_Zoo_Boo.jpg)
+### Japanese marten
+![Japanese marten](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Inokashira_Park_Zoo_PC053197.jpg/960px-Inokashira_Park_Zoo_PC053197.jpg)
 <!-- END_ANIMAL -->
 
 
