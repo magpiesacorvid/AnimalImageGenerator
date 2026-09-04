@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-04 06:16:24 UTC
-**Next update:** ~2026-09-04 06:18:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-04 06:18:20 UTC
+**Next update:** ~2026-09-04 06:20:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Leopard Seal
-![Leopard Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Antarctic_Sound-2016-Brown_Bluff%E2%80%93Leopard_seal_%28Hydrurga_leptonyx%29_04.jpg/1280px-Antarctic_Sound-2016-Brown_Bluff%E2%80%93Leopard_seal_%28Hydrurga_leptonyx%29_04.jpg)
+### Common vole
+![Common vole](https://upload.wikimedia.org/wikipedia/commons/1/10/Feldmaus_Microtus_arvalis.jpg)
 <!-- END_ANIMAL -->
 
 
