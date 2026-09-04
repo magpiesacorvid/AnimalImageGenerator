@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-04 13:36:23 UTC
-**Next update:** ~2026-09-04 13:38:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-04 13:38:21 UTC
+**Next update:** ~2026-09-04 13:40:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dwarf epauletted fruit bat
-![Dwarf epauletted fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Peters%27s_dwarf_epauletted_fruit_bat_%28Micropteropus_pusillus%29.jpg/1920px-Peters%27s_dwarf_epauletted_fruit_bat_%28Micropteropus_pusillus%29.jpg)
+### Asian mole shrew
+![Asian mole shrew](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Anourosorex_squamips_yamashinai_%28adult%29_PShaner_2011-5-4.png/1920px-Anourosorex_squamips_yamashinai_%28adult%29_PShaner_2011-5-4.png)
 <!-- END_ANIMAL -->
 
 
