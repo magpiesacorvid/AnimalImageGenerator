@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-05 23:44:21 UTC
-**Next update:** ~2026-09-05 23:46:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-05 23:46:24 UTC
+**Next update:** ~2026-09-05 23:48:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black wildebeest
-![Black wildebeest](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Black_Wildebeest_%28Connochaetes_gnou%29_%2831746882054%29.jpg/1920px-Black_Wildebeest_%28Connochaetes_gnou%29_%2831746882054%29.jpg)
+### Indian giant squirrel
+![Indian giant squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Indian_giant_squirrel_in_Kuldiha_Wildlife_Sanctuary_March_2025_by_Tisha_Mukherjee_01.jpg/960px-Indian_giant_squirrel_in_Kuldiha_Wildlife_Sanctuary_March_2025_by_Tisha_Mukherjee_01.jpg)
 <!-- END_ANIMAL -->
 
 
