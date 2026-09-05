@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-05 05:22:23 UTC
-**Next update:** ~2026-09-05 05:24:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-05 05:24:20 UTC
+**Next update:** ~2026-09-05 05:26:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Javan rusa
-![Javan rusa](https://upload.wikimedia.org/wikipedia/commons/0/05/Javan_Deer_couple_-_Baluran_NP_-_East_Java_%2829505339513%29.jpg)
+### Eurasian otter
+![Eurasian otter](https://upload.wikimedia.org/wikipedia/commons/d/d3/Fischotter%2C_Lutra_Lutra.JPG)
 <!-- END_ANIMAL -->
 
 
