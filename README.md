@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-05 15:50:40 UTC
-**Next update:** ~2026-09-05 15:52:40 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-05 15:52:20 UTC
+**Next update:** ~2026-09-05 15:54:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Livingstone's fruit bat
-![Livingstone's fruit bat](https://upload.wikimedia.org/wikipedia/commons/c/ca/Bristol.zoo.livfruitbat.arp.jpg)
+### Gray short-tailed opossum
+![Gray short-tailed opossum](https://upload.wikimedia.org/wikipedia/commons/b/b5/Monodelphis_domestica.jpg)
 <!-- END_ANIMAL -->
 
 
