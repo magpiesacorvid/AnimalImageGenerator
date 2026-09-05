@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-05 00:58:20 UTC
-**Next update:** ~2026-09-05 01:00:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-05 01:00:55 UTC
+**Next update:** ~2026-09-05 01:02:55 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Desert pygmy mouse
-![Desert pygmy mouse](https://upload.wikimedia.org/wikipedia/commons/0/0c/Mus_indutus.jpeg)
+### Indian hedgehog
+![Indian hedgehog](https://upload.wikimedia.org/wikipedia/commons/e/ea/Paraechinus_micropus.jpg)
 <!-- END_ANIMAL -->
 
 
