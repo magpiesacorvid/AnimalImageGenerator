@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-05 18:22:20 UTC
-**Next update:** ~2026-09-05 18:24:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-05 18:26:04 UTC
+**Next update:** ~2026-09-05 18:28:04 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Moustached tamarin
-![Moustached tamarin](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Saguinus_mystax_at_the_Bronx_Zoo_01.jpg/1280px-Saguinus_mystax_at_the_Bronx_Zoo_01.jpg)
+### Cuvier's gazelle
+![Cuvier's gazelle](https://upload.wikimedia.org/wikipedia/commons/f/fa/Cuvier%27s_Gazelle.jpg)
 <!-- END_ANIMAL -->
 
 
