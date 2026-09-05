@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-05 23:10:36 UTC
-**Next update:** ~2026-09-05 23:12:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-05 23:12:21 UTC
+**Next update:** ~2026-09-05 23:14:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black Backed Jackal
-![Black Backed Jackal](https://commons.wikimedia.org/wiki/Special:FilePath/Black-backed_jackal_(Canis_mesomelas_mesomelas).jpg)
+### Isthmian mouse opossum
+![Isthmian mouse opossum](https://upload.wikimedia.org/wikipedia/commons/8/88/Marmosa_isthmica.jpg)
 <!-- END_ANIMAL -->
 
 
