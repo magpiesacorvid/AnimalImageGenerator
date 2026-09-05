@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-05 22:16:26 UTC
-**Next update:** ~2026-09-05 22:18:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-05 22:18:24 UTC
+**Next update:** ~2026-09-05 22:20:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Burmese Cat
-![Burmese Cat](https://upload.wikimedia.org/wikipedia/commons/5/5c/British_burmese_-_Andel_Alois_at_Cat_show.JPG)
+### Argali Mountain Sheep
+![Argali Mountain Sheep](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ovis_ammon_%28cropped%29.jpg/960px-Ovis_ammon_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
