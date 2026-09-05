@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-05 18:20:37 UTC
-**Next update:** ~2026-09-05 18:22:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-05 18:22:20 UTC
+**Next update:** ~2026-09-05 18:24:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common four-eyed opossum
-![Common four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Common_Four-eyed_Opossum_imported_from_iNaturalist_photo_284956116_on_14_October_2024.jpg/1920px-Common_Four-eyed_Opossum_imported_from_iNaturalist_photo_284956116_on_14_October_2024.jpg)
+### Moustached tamarin
+![Moustached tamarin](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Saguinus_mystax_at_the_Bronx_Zoo_01.jpg/1280px-Saguinus_mystax_at_the_Bronx_Zoo_01.jpg)
 <!-- END_ANIMAL -->
 
 
