@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-05 19:56:20 UTC
-**Next update:** ~2026-09-05 19:58:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-05 19:58:20 UTC
+**Next update:** ~2026-09-05 20:00:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ethiopian Dwarf Mongoose
-![Ethiopian Dwarf Mongoose](https://upload.wikimedia.org/wikipedia/commons/c/c1/Helogale_hirtula_230649079.jpg)
+### Magdalena rat
+![Magdalena rat](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Xenomys_nelsoni_14716792.jpg/1280px-Xenomys_nelsoni_14716792.jpg)
 <!-- END_ANIMAL -->
 
 
