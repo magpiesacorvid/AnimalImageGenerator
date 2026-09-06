@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-06 17:22:24 UTC
-**Next update:** ~2026-09-06 17:24:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-06 17:24:22 UTC
+**Next update:** ~2026-09-06 17:26:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain brushtail possum
-![Mountain brushtail possum](https://upload.wikimedia.org/wikipedia/commons/5/54/Trichosurus_cunninghami3.jpg)
+### Black-and-white ruffed lemur
+![Black-and-white ruffed lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/1_black_and_white_ruffed_lemur.jpg/1920px-1_black_and_white_ruffed_lemur.jpg)
 <!-- END_ANIMAL -->
 
 
