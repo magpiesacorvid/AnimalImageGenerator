@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-06 13:32:22 UTC
-**Next update:** ~2026-09-06 13:34:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-06 13:34:24 UTC
+**Next update:** ~2026-09-06 13:36:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Nilgiri langur
-![Nilgiri langur](https://upload.wikimedia.org/wikipedia/commons/6/66/Nilgiri_langur_%281%29_by_N._A._Naseer.jpg)
+### Lesser short-nosed fruit bat
+![Lesser short-nosed fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Lesser_short-nosed_fruit_bat_%28Cynopterus_brachyotis%29.jpg/1920px-Lesser_short-nosed_fruit_bat_%28Cynopterus_brachyotis%29.jpg)
 <!-- END_ANIMAL -->
 
 
