@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-06 10:24:27 UTC
-**Next update:** ~2026-09-06 10:26:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-06 10:26:21 UTC
+**Next update:** ~2026-09-06 10:28:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Marbled polecat
-![Marbled polecat](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/%286604%29_Marbled_polecat.jpg/960px-%286604%29_Marbled_polecat.jpg)
+### Grey rhebok
+![Grey rhebok](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Grey_Rhebok_%28Pelea_capreolus%29_male_at_Karoo_NP%2C_Western_Cape%2C_South_Africa.jpg/1920px-Grey_Rhebok_%28Pelea_capreolus%29_male_at_Karoo_NP%2C_Western_Cape%2C_South_Africa.jpg)
 <!-- END_ANIMAL -->
 
 
