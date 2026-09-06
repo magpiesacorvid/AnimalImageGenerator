@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-06 03:44:21 UTC
-**Next update:** ~2026-09-06 03:46:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-06 03:46:22 UTC
+**Next update:** ~2026-09-06 03:48:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Forrest's pika
-![Forrest's pika](https://upload.wikimedia.org/wikipedia/commons/9/93/Ochotona_forresti.png)
+### Elephant Shrew
+![Elephant Shrew](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rhynchocyon_petersi_from_side.jpg/1920px-Rhynchocyon_petersi_from_side.jpg)
 <!-- END_ANIMAL -->
 
 
