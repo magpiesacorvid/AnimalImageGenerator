@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-06 17:56:23 UTC
-**Next update:** ~2026-09-06 17:58:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-06 17:58:20 UTC
+**Next update:** ~2026-09-06 18:00:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Feathertail glider
-![Feathertail glider](https://upload.wikimedia.org/wikipedia/commons/6/6d/Acrobates_neuneu.jpg)
+### Bongo
+![Bongo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Eastern_Bongo_at_Jacksonville_Zoo.jpg/1920px-Eastern_Bongo_at_Jacksonville_Zoo.jpg)
 <!-- END_ANIMAL -->
 
 
