@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-06 12:32:24 UTC
-**Next update:** ~2026-09-06 12:34:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-06 12:34:23 UTC
+**Next update:** ~2026-09-06 12:36:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan talapoin
-![Angolan talapoin](https://upload.wikimedia.org/wikipedia/commons/7/78/Talapoin_II_-_Bioparc_Valencia_%282787418966%29.jpg)
+### Eastern lesser bamboo lemur
+![Eastern lesser bamboo lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eastern_lesser_bamboo_lemur.jpg/1920px-Eastern_lesser_bamboo_lemur.jpg)
 <!-- END_ANIMAL -->
 
 
