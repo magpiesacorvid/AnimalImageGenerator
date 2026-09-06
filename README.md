@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-06 08:26:21 UTC
-**Next update:** ~2026-09-06 08:28:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-06 08:28:22 UTC
+**Next update:** ~2026-09-06 08:30:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cuban solenodon
-![Cuban solenodon](https://upload.wikimedia.org/wikipedia/commons/7/7e/Solenodon_cubanus.jpg)
+### Golden-mantled ground squirrel
+![Golden-mantled ground squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Goldmantelziesel.jpg/1920px-Goldmantelziesel.jpg)
 <!-- END_ANIMAL -->
 
 
