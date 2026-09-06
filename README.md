@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-06 03:52:22 UTC
-**Next update:** ~2026-09-06 03:54:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-06 03:54:21 UTC
+**Next update:** ~2026-09-06 03:56:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chital
-![Chital](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/066_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg/1920px-066_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg)
+### Horseshoe bat
+![Horseshoe bat](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bat%2820070605%29.jpg/960px-Bat%2820070605%29.jpg)
 <!-- END_ANIMAL -->
 
 
