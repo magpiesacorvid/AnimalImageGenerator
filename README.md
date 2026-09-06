@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-06 23:34:19 UTC
-**Next update:** ~2026-09-06 23:36:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-06 23:36:20 UTC
+**Next update:** ~2026-09-06 23:38:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain gazelle
-![Mountain gazelle](https://upload.wikimedia.org/wikipedia/commons/7/79/Gazella_gazella.jpg)
+### Eastern quoll
+![Eastern quoll](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg/1920px-Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg)
 <!-- END_ANIMAL -->
 
 
