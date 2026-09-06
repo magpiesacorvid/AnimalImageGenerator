@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-06 14:30:52 UTC
-**Next update:** ~2026-09-06 14:32:52 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-06 14:32:23 UTC
+**Next update:** ~2026-09-06 14:34:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dhole
-![Dhole](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dhole_%28Asiatic_wild_dog%29_cropped.jpg/1920px-Dhole_%28Asiatic_wild_dog%29_cropped.jpg)
+### Eurasian beaver
+![Eurasian beaver](https://upload.wikimedia.org/wikipedia/commons/c/cc/Beaver_pho34.jpg)
 <!-- END_ANIMAL -->
 
 
