@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-06 20:32:26 UTC
-**Next update:** ~2026-09-06 20:34:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-06 20:34:21 UTC
+**Next update:** ~2026-09-06 20:36:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater mouse-tailed bat
-![Greater mouse-tailed bat](https://upload.wikimedia.org/wikipedia/commons/0/04/Greater_Mouse_Tailed_bat_%28Rhinopoma_microphyllum%29.jpg)
+### Cymric Cat
+![Cymric Cat](https://upload.wikimedia.org/wikipedia/commons/d/d5/Cymric_Fond_Blanc.jpg)
 <!-- END_ANIMAL -->
 
 
