@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-07 03:04:23 UTC
-**Next update:** ~2026-09-07 03:06:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-07 03:06:23 UTC
+**Next update:** ~2026-09-07 03:08:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### European mink
-![European mink](https://upload.wikimedia.org/wikipedia/commons/e/e4/Europ%C3%A4ischer_Nerz.jpg)
+### Lykoi Cat
+![Lykoi Cat](https://upload.wikimedia.org/wikipedia/commons/1/1e/8-month-old_male_Lykoi.jpg)
 <!-- END_ANIMAL -->
 
 
