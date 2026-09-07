@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-07 19:14:20 UTC
-**Next update:** ~2026-09-07 19:16:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-07 19:16:24 UTC
+**Next update:** ~2026-09-07 19:18:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Baturite porcupine
-![Baturite porcupine](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Coendou_baturitensis_Mulungu-CE.JPG/1920px-Coendou_baturitensis_Mulungu-CE.JPG)
+### Gray-headed lemur
+![Gray-headed lemur](https://upload.wikimedia.org/wikipedia/commons/2/20/White-collared_brown_lemur.jpg)
 <!-- END_ANIMAL -->
 
 
