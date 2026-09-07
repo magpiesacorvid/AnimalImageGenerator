@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-07 08:50:39 UTC
-**Next update:** ~2026-09-07 08:52:39 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-07 08:52:22 UTC
+**Next update:** ~2026-09-07 08:54:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Munchkin Cat
-![Munchkin Cat](https://upload.wikimedia.org/wikipedia/commons/6/6e/Longhairedmunchkin.jpg)
+### Common dolphin
+![Common dolphin](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Common_dolphin_noaa.jpg/1920px-Common_dolphin_noaa.jpg)
 <!-- END_ANIMAL -->
 
 
