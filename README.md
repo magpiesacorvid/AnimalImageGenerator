@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-07 05:54:21 UTC
-**Next update:** ~2026-09-07 05:56:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-07 05:56:22 UTC
+**Next update:** ~2026-09-07 05:58:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan genet
-![Angolan genet](https://upload.wikimedia.org/wikipedia/commons/9/95/Genetta_angolensis.jpg)
+### Asiatic water shrew
+![Asiatic water shrew](https://upload.wikimedia.org/wikipedia/commons/6/62/Kawanezumi.jpg)
 <!-- END_ANIMAL -->
 
 
