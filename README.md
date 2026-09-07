@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-07 00:48:19 UTC
-**Next update:** ~2026-09-07 00:50:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-07 00:50:36 UTC
+**Next update:** ~2026-09-07 00:52:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black rat
-![Black rat](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/House_Rat_David_Raju.jpg/1920px-House_Rat_David_Raju.jpg)
+### Gold-and-white marmoset
+![Gold-and-white marmoset](https://upload.wikimedia.org/wikipedia/commons/0/08/Mico_chrysoleucus_Kenny_Ross_1.jpg)
 <!-- END_ANIMAL -->
 
 
