@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-07 20:20:42 UTC
-**Next update:** ~2026-09-07 20:22:42 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-07 20:22:24 UTC
+**Next update:** ~2026-09-07 20:24:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Crawford's gray shrew
-![Crawford's gray shrew](https://upload.wikimedia.org/wikipedia/commons/d/d1/Crawford%27s_gray_shrew.jpg)
+### Little red brocket
+![Little red brocket](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mazama_rufina1.JPG/1280px-Mazama_rufina1.JPG)
 <!-- END_ANIMAL -->
 
 
