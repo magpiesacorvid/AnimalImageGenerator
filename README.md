@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-07 14:02:29 UTC
-**Next update:** ~2026-09-07 14:04:29 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-07 14:04:25 UTC
+**Next update:** ~2026-09-07 14:06:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bay duiker
-![Bay duiker](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cephalophus_dorsalis.JPG/1920px-Cephalophus_dorsalis.JPG)
+### Indian rhinoceros
+![Indian rhinoceros](https://upload.wikimedia.org/wikipedia/commons/7/77/Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg)
 <!-- END_ANIMAL -->
 
 
