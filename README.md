@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-07 12:28:21 UTC
-**Next update:** ~2026-09-07 12:30:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-07 12:30:52 UTC
+**Next update:** ~2026-09-07 12:32:52 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### European bison
-![European bison](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/European_bison_%28Bison_bonasus%29_male_Bia%C5%82owieza.jpg/1920px-European_bison_%28Bison_bonasus%29_male_Bia%C5%82owieza.jpg)
+### Four-horned antelope
+![Four-horned antelope](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tetracerus_quadricornis_I.jpg/1920px-Tetracerus_quadricornis_I.jpg)
 <!-- END_ANIMAL -->
 
 
