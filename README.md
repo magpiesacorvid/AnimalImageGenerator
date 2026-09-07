@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-07 01:34:22 UTC
-**Next update:** ~2026-09-07 01:36:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-07 01:36:21 UTC
+**Next update:** ~2026-09-07 01:38:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-and-white colobus
-![Black-and-white colobus](https://upload.wikimedia.org/wikipedia/commons/6/6b/Colubusmonkey.JPG)
+### Blanford's fox
+![Blanford's fox](https://commons.wikimedia.org/wiki/Special:FilePath/Blandford's_fox_1.jpg)
 <!-- END_ANIMAL -->
 
 
