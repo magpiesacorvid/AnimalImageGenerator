@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-07 03:58:25 UTC
-**Next update:** ~2026-09-07 04:00:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-07 04:01:01 UTC
+**Next update:** ~2026-09-07 04:03:01 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### New Zealand sea lion
-![New Zealand sea lion](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Big_male_New_Zealand_Sea_Lion_walking_on_the_beach.jpg/1280px-Big_male_New_Zealand_Sea_Lion_walking_on_the_beach.jpg)
+### Javan rusa
+![Javan rusa](https://upload.wikimedia.org/wikipedia/commons/0/05/Javan_Deer_couple_-_Baluran_NP_-_East_Java_%2829505339513%29.jpg)
 <!-- END_ANIMAL -->
 
 
