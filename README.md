@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-07 20:14:21 UTC
-**Next update:** ~2026-09-07 20:16:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-07 20:16:22 UTC
+**Next update:** ~2026-09-07 20:18:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-and-white ruffed lemur
-![Black-and-white ruffed lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/1_black_and_white_ruffed_lemur.jpg/1920px-1_black_and_white_ruffed_lemur.jpg)
+### Kordofan giraffe
+![Kordofan giraffe](https://upload.wikimedia.org/wikipedia/commons/4/47/Giraffa_camelopardalis_antiquorum_%28Vincennes_Zoo%29_2.jpg)
 <!-- END_ANIMAL -->
 
 
