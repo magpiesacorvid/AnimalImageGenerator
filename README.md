@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 18:18:26 UTC
-**Next update:** ~2026-09-08 18:20:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 18:20:45 UTC
+**Next update:** ~2026-09-08 18:22:45 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Goitered gazelle
-![Goitered gazelle](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Female_goitered_gazelle%2C_Shirvan_National_Park%2C_Azerbaijan.jpg/1920px-Female_goitered_gazelle%2C_Shirvan_National_Park%2C_Azerbaijan.jpg)
+### Domestic Cattle
+![Domestic Cattle](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/1920px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg)
 <!-- END_ANIMAL -->
 
 
