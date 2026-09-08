@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 13:26:26 UTC
-**Next update:** ~2026-09-08 13:28:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 13:28:22 UTC
+**Next update:** ~2026-09-08 13:30:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bushy-tailed woodrat
-![Bushy-tailed woodrat](https://upload.wikimedia.org/wikipedia/commons/7/79/Neotoma_cinerea_%28bushy_tailed_woodrat%29.jpg)
+### Bushy-Tailed Mongoose
+![Bushy-Tailed Mongoose](https://upload.wikimedia.org/wikipedia/commons/6/62/Bushy-tailed_mongoose_-_Snapshot_Safari_Ruaha1.jpg)
 <!-- END_ANIMAL -->
 
 
