@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 00:26:22 UTC
-**Next update:** ~2026-09-08 00:28:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 00:28:21 UTC
+**Next update:** ~2026-09-08 00:30:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cougar
-![Cougar](https://upload.wikimedia.org/wikipedia/commons/d/d6/Mountain_Lion_in_Glacier_National_Park.jpg)
+### Harnessed bushbuck
+![Harnessed bushbuck](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tragelaphus_scriptus_scriptus_345230787.jpg/1920px-Tragelaphus_scriptus_scriptus_345230787.jpg)
 <!-- END_ANIMAL -->
 
 
