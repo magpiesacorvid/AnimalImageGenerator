@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 12:10:40 UTC
-**Next update:** ~2026-09-08 12:12:40 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 12:12:22 UTC
+**Next update:** ~2026-09-08 12:14:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Big-eared opossum
-![Big-eared opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Didelphis_aurita_photo-Christian_Roger_Dockhorn.JPG/1920px-Didelphis_aurita_photo-Christian_Roger_Dockhorn.JPG)
+### Common vole
+![Common vole](https://upload.wikimedia.org/wikipedia/commons/1/10/Feldmaus_Microtus_arvalis.jpg)
 <!-- END_ANIMAL -->
 
 
