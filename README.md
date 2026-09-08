@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 01:52:20 UTC
-**Next update:** ~2026-09-08 01:54:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 01:54:20 UTC
+**Next update:** ~2026-09-08 01:56:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian flying fox
-![Indian flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/047_Indian_flying_fox_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/960px-047_Indian_flying_fox_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg)
+### Dwarf fat-tailed mouse opossum
+![Dwarf fat-tailed mouse opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dwarf_Fat-tailed_Mouse_Opossum_imported_from_iNaturalist_photo_351995812_on_19_October_2024.jpg/1920px-Dwarf_Fat-tailed_Mouse_Opossum_imported_from_iNaturalist_photo_351995812_on_19_October_2024.jpg)
 <!-- END_ANIMAL -->
 
 
