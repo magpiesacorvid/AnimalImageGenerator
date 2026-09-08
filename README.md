@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 09:10:44 UTC
-**Next update:** ~2026-09-08 09:12:44 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 09:12:23 UTC
+**Next update:** ~2026-09-08 09:14:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Baird's tapir
-![Baird's tapir](https://commons.wikimedia.org/wiki/Special:FilePath/Baird's_tapir_mother_with_baby_(92151).jpg)
+### Indian hedgehog
+![Indian hedgehog](https://upload.wikimedia.org/wikipedia/commons/e/ea/Paraechinus_micropus.jpg)
 <!-- END_ANIMAL -->
 
 
