@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 14:01:06 UTC
-**Next update:** ~2026-09-08 14:03:06 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 14:02:27 UTC
+**Next update:** ~2026-09-08 14:04:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Egyptian Mau
-![Egyptian Mau](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/RoyalNefertt_Serket_of_AchetAton.jpg/1920px-RoyalNefertt_Serket_of_AchetAton.jpg)
+### Korean hare
+![Korean hare](https://upload.wikimedia.org/wikipedia/commons/7/70/Lepus_coreanus.jpg)
 <!-- END_ANIMAL -->
 
 
