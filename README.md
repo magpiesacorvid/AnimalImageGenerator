@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 09:42:23 UTC
-**Next update:** ~2026-09-08 09:44:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 09:44:20 UTC
+**Next update:** ~2026-09-08 09:46:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arabian oryx
-![Arabian oryx](https://upload.wikimedia.org/wikipedia/commons/4/43/Arabian_oryx_%28oryx_leucoryx%29.jpg)
+### Magdalena rat
+![Magdalena rat](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Xenomys_nelsoni_14716792.jpg/1280px-Xenomys_nelsoni_14716792.jpg)
 <!-- END_ANIMAL -->
 
 
