@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 07:06:23 UTC
-**Next update:** ~2026-09-08 07:08:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 07:08:22 UTC
+**Next update:** ~2026-09-08 07:10:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Northern right whale dolphin
-![Northern right whale dolphin](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Anim1749_-_Flickr_-_NOAA_Photo_Library.jpg/1280px-Anim1749_-_Flickr_-_NOAA_Photo_Library.jpg)
+### Bushpig
+![Bushpig](https://upload.wikimedia.org/wikipedia/commons/4/40/Southern_Bush_Pig.jpg)
 <!-- END_ANIMAL -->
 
 
