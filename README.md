@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 06:44:22 UTC
-**Next update:** ~2026-09-08 06:46:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 06:46:21 UTC
+**Next update:** ~2026-09-08 06:48:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Domestic goat
-![Domestic goat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hausziege_04.jpg/1920px-Hausziege_04.jpg)
+### Grizzled tree-kangaroo
+![Grizzled tree-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kangguru_pohon.jpg/1920px-Kangguru_pohon.jpg)
 <!-- END_ANIMAL -->
 
 
