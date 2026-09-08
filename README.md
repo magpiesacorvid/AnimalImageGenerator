@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 19:28:22 UTC
-**Next update:** ~2026-09-08 19:30:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 19:30:51 UTC
+**Next update:** ~2026-09-08 19:32:51 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African clawless otter
-![African clawless otter](https://upload.wikimedia.org/wikipedia/commons/6/69/Aonyx_capensis%2C_male%2C_Shamvura.jpg)
+### Greater dwarf lemur
+![Greater dwarf lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/CHEIROGALEUS-1.JPG/1920px-CHEIROGALEUS-1.JPG)
 <!-- END_ANIMAL -->
 
 
