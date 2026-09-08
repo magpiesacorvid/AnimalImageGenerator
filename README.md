@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 17:08:24 UTC
-**Next update:** ~2026-09-08 17:10:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 17:10:45 UTC
+**Next update:** ~2026-09-08 17:12:45 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### New England cottontail
-![New England cottontail](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sylvilagus_transitionalis_%2821315229532%29.jpg/1920px-Sylvilagus_transitionalis_%2821315229532%29.jpg)
+### Aye-aye
+![Aye-aye](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_aye_aye.jpg/1280px-Wild_aye_aye.jpg)
 <!-- END_ANIMAL -->
 
 
