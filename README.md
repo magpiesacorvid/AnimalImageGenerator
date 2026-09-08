@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 01:44:23 UTC
-**Next update:** ~2026-09-08 01:46:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 01:46:19 UTC
+**Next update:** ~2026-09-08 01:48:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater bandicoot rat
-![Greater bandicoot rat](https://upload.wikimedia.org/wikipedia/commons/f/f8/Bandicota_indica.jpg)
+### Aye-aye
+![Aye-aye](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_aye_aye.jpg/1280px-Wild_aye_aye.jpg)
 <!-- END_ANIMAL -->
 
 
