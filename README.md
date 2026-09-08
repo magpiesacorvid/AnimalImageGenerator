@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 18:01:39 UTC
-**Next update:** ~2026-09-08 18:03:39 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 18:02:25 UTC
+**Next update:** ~2026-09-08 18:04:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Big lutrine opossum
-![Big lutrine opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lutreolina_crassicaudata_216572398.jpg/1920px-Lutreolina_crassicaudata_216572398.jpg)
+### Bennett's tree-kangaroo
+![Bennett's tree-kangaroo](https://commons.wikimedia.org/wiki/Special:FilePath/Bennett's_Tree-kangaroo.jpg)
 <!-- END_ANIMAL -->
 
 
