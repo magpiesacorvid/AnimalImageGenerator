@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 17:40:37 UTC
-**Next update:** ~2026-09-08 17:42:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 17:42:22 UTC
+**Next update:** ~2026-09-08 17:44:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Long-nosed short-tailed opossum
-![Long-nosed short-tailed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Mododelphis_scalops2.png/250px-Mododelphis_scalops2.png)
+### Dwarf fat-tailed mouse opossum
+![Dwarf fat-tailed mouse opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dwarf_Fat-tailed_Mouse_Opossum_imported_from_iNaturalist_photo_351995812_on_19_October_2024.jpg/1920px-Dwarf_Fat-tailed_Mouse_Opossum_imported_from_iNaturalist_photo_351995812_on_19_October_2024.jpg)
 <!-- END_ANIMAL -->
 
 
