@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 12:18:24 UTC
-**Next update:** ~2026-09-08 12:20:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 12:20:42 UTC
+**Next update:** ~2026-09-08 12:22:42 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### House Bat
-![House Bat](https://upload.wikimedia.org/wikipedia/commons/e/e0/Eptesicus_nilssoni.jpg)
+### Coyote
+![Coyote](https://commons.wikimedia.org/wiki/Special:FilePath/Coyote_portrait.jpg)
 <!-- END_ANIMAL -->
 
 
