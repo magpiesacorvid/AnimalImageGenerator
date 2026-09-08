@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-08 08:48:20 UTC
-**Next update:** ~2026-09-08 08:50:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-08 08:50:39 UTC
+**Next update:** ~2026-09-08 08:52:39 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African wild ass
-![African wild ass](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg/1280px-Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg)
+### Northern birch mouse
+![Northern birch mouse](https://upload.wikimedia.org/wikipedia/commons/3/37/Sicista_betulina_03.JPG)
 <!-- END_ANIMAL -->
 
 
