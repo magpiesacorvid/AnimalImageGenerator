@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-09 00:58:21 UTC
-**Next update:** ~2026-09-09 01:00:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-09 01:01:03 UTC
+**Next update:** ~2026-09-09 01:03:03 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cave Nectar Bat
-![Cave Nectar Bat](https://upload.wikimedia.org/wikipedia/commons/b/b7/Eonycteris_spelea.png)
+### Naked-tailed armadillo
+![Naked-tailed armadillo](https://upload.wikimedia.org/wikipedia/commons/c/c2/Cabassous-centralis-2.png)
 <!-- END_ANIMAL -->
 
 
