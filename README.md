@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-09 03:42:22 UTC
-**Next update:** ~2026-09-09 03:44:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-09 03:44:22 UTC
+**Next update:** ~2026-09-09 03:46:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Domestic Cattle
-![Domestic Cattle](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/1920px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg)
+### Eastern grey kangaroo
+![Eastern grey kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Macropus_giganteus_-_Brunkerville.jpg/1920px-Macropus_giganteus_-_Brunkerville.jpg)
 <!-- END_ANIMAL -->
 
 
