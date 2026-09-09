@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-09 15:04:26 UTC
-**Next update:** ~2026-09-09 15:06:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-09 15:06:25 UTC
+**Next update:** ~2026-09-09 15:08:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brushtail Possum
-![Brushtail Possum](https://upload.wikimedia.org/wikipedia/commons/e/eb/Northen_brushtail_possum.jpg)
+### Flat Headed Cat
+![Flat Headed Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flat-headed_cat_1_Jim_Sanderson.JPG/1920px-Flat-headed_cat_1_Jim_Sanderson.JPG)
 <!-- END_ANIMAL -->
 
 
