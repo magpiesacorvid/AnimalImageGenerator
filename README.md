@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-09 02:30:54 UTC
-**Next update:** ~2026-09-09 02:32:54 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-09 02:32:25 UTC
+**Next update:** ~2026-09-09 02:34:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bryde's Whale
-![Bryde's Whale](https://upload.wikimedia.org/wikipedia/commons/d/d0/Brydeswhale_sophiewebb-swfsc-star2006.jpg)
+### Cape fox
+![Cape fox](https://upload.wikimedia.org/wikipedia/commons/2/28/Kapfuchs-nachwuchs.jpg)
 <!-- END_ANIMAL -->
 
 
