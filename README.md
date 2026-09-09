@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-09 07:24:23 UTC
-**Next update:** ~2026-09-09 07:26:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-09 07:26:24 UTC
+**Next update:** ~2026-09-09 07:28:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Elephant Shrew
-![Elephant Shrew](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rhynchocyon_petersi_from_side.jpg/1920px-Rhynchocyon_petersi_from_side.jpg)
+### Greater false vampire bat
+![Greater false vampire bat](https://upload.wikimedia.org/wikipedia/commons/3/3a/Greater_False_Vampire_Bat_%28Megaderma_lyra%29.jpg)
 <!-- END_ANIMAL -->
 
 
