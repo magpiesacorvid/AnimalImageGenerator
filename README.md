@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-09 16:56:22 UTC
-**Next update:** ~2026-09-09 16:58:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-09 16:58:19 UTC
+**Next update:** ~2026-09-09 17:00:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Addax
-![Addax](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg/1280px-A_big_male_Addax_showing_as_the_power_of_his_horns.jpg)
+### Musky rat-kangaroo
+![Musky rat-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Musky_rat-kangaroo_%28Hypsiprymnodon_moschatus%29_Atherton.jpg/1280px-Musky_rat-kangaroo_%28Hypsiprymnodon_moschatus%29_Atherton.jpg)
 <!-- END_ANIMAL -->
 
 
