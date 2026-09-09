@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-09 03:04:23 UTC
-**Next update:** ~2026-09-09 03:06:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-09 03:06:24 UTC
+**Next update:** ~2026-09-09 03:08:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Northern four-eyed opossum
-![Northern four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Philander_vossi_58242502.jpg/1280px-Philander_vossi_58242502.jpg)
+### Egyptian fruit bat
+![Egyptian fruit bat](https://upload.wikimedia.org/wikipedia/commons/4/4c/Skraidantis_egipto_%C5%A1uo_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
