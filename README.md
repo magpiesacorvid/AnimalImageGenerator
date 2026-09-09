@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-09 04:56:21 UTC
-**Next update:** ~2026-09-09 04:58:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-09 04:58:21 UTC
+**Next update:** ~2026-09-09 05:00:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African brush-tailed porcupine
-![African brush-tailed porcupine](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Atherurus_africanus_Zoo_Berlin_01.jpg/1920px-Atherurus_africanus_Zoo_Berlin_01.jpg)
+### Cowan's shrew tenrec
+![Cowan's shrew tenrec](https://upload.wikimedia.org/wikipedia/commons/6/61/Microgale_cowani.jpg)
 <!-- END_ANIMAL -->
 
 
