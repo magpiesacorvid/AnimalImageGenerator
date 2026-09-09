@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-09 21:50:42 UTC
-**Next update:** ~2026-09-09 21:52:42 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-09 21:52:26 UTC
+**Next update:** ~2026-09-09 21:54:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-footed ferret
-![Black-footed ferret](https://upload.wikimedia.org/wikipedia/commons/c/cf/Mustela_nigripes_2.jpg)
+### Dusky pademelon
+![Dusky pademelon](https://upload.wikimedia.org/wikipedia/commons/4/4d/TamanSafariIndonesia184_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
