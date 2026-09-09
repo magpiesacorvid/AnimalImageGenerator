@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-09 23:01:00 UTC
-**Next update:** ~2026-09-09 23:03:00 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-09 23:02:23 UTC
+**Next update:** ~2026-09-09 23:04:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ghost Bat
-![Ghost Bat](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/%281%29Ghost_Bat_078.jpg/960px-%281%29Ghost_Bat_078.jpg)
+### Central African Oyan
+![Central African Oyan](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Poiana_richardsonii_56244763.jpg/1920px-Poiana_richardsonii_56244763.jpg)
 <!-- END_ANIMAL -->
 
 
