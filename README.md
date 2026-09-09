@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-09 13:46:25 UTC
-**Next update:** ~2026-09-09 13:48:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-09 13:48:27 UTC
+**Next update:** ~2026-09-09 13:50:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cymric Cat
-![Cymric Cat](https://upload.wikimedia.org/wikipedia/commons/d/d5/Cymric_Fond_Blanc.jpg)
+### Hatt's vesper rat
+![Hatt's vesper rat](https://upload.wikimedia.org/wikipedia/commons/8/8f/Otonyctomys_hatti_2.jpg)
 <!-- END_ANIMAL -->
 
 
