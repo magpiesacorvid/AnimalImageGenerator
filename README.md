@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-09 04:08:20 UTC
-**Next update:** ~2026-09-09 04:10:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-09 04:10:37 UTC
+**Next update:** ~2026-09-09 04:12:37 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-shouldered opossum
-![Black-shouldered opossum](https://upload.wikimedia.org/wikipedia/commons/2/20/Photographs-of-a-specimen-of-Caluromysiops-irrupta-taken-at-Parque-Estadual-Guajara1.png)
+### Celebes crested macaque
+![Celebes crested macaque](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kuifmakaak_%288721744168%29.jpg/1920px-Kuifmakaak_%288721744168%29.jpg)
 <!-- END_ANIMAL -->
 
 
