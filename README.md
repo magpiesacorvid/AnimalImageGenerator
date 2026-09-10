@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-10 06:06:24 UTC
-**Next update:** ~2026-09-10 06:08:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-10 06:08:22 UTC
+**Next update:** ~2026-09-10 06:10:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cotton mouse
-![Cotton mouse](https://upload.wikimedia.org/wikipedia/commons/a/af/Peromyscus_gossypinus.jpg)
+### Furry-eared dwarf lemur
+![Furry-eared dwarf lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Crossley%27s_dwarf_lemur_%28Cheirogaleus_crossleyi%29_Ranomafana.jpg/1920px-Crossley%27s_dwarf_lemur_%28Cheirogaleus_crossleyi%29_Ranomafana.jpg)
 <!-- END_ANIMAL -->
 
 
