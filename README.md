@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-10 03:06:32 UTC
-**Next update:** ~2026-09-10 03:08:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-10 03:08:20 UTC
+**Next update:** ~2026-09-10 03:10:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Elegant fat-tailed mouse opossum
-![Elegant fat-tailed mouse opossum](https://upload.wikimedia.org/wikipedia/commons/1/16/Llaca.jpg)
+### Hamadryas baboon
+![Hamadryas baboon](https://upload.wikimedia.org/wikipedia/commons/9/9c/Papio_hamadryas_eating_an_apple.JPG)
 <!-- END_ANIMAL -->
 
 
