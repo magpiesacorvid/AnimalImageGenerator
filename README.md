@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-10 08:12:24 UTC
-**Next update:** ~2026-09-10 08:14:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-10 08:14:25 UTC
+**Next update:** ~2026-09-10 08:16:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ground pangolin
-![Ground pangolin](https://upload.wikimedia.org/wikipedia/commons/6/6b/Manis_temminckii_%2829645803646%29.jpg)
+### Calamian deer
+![Calamian deer](https://commons.wikimedia.org/wiki/Special:FilePath/Axis_calamianensis.jpg)
 <!-- END_ANIMAL -->
 
 
