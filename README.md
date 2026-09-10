@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-10 16:38:42 UTC
-**Next update:** ~2026-09-10 16:40:42 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-10 16:40:43 UTC
+**Next update:** ~2026-09-10 16:42:43 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black flying fox
-![Black flying fox](https://upload.wikimedia.org/wikipedia/commons/0/02/Black_Flying_Fox_-_Pteropus_alecto_-_%28IMG_4883%29.jpg)
+### Northern broad-footed mole
+![Northern broad-footed mole](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Scapanus_latimanus2.jpg/1280px-Scapanus_latimanus2.jpg)
 <!-- END_ANIMAL -->
 
 
