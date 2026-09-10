@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-10 14:20:46 UTC
-**Next update:** ~2026-09-10 14:22:46 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-10 14:22:24 UTC
+**Next update:** ~2026-09-10 14:24:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Antarctic Fur Seal
-![Antarctic Fur Seal](https://upload.wikimedia.org/wikipedia/commons/a/ab/Seeb%C3%A4r_%28Arctocephalus%29_01.jpg)
+### Himalayan Cat
+![Himalayan Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sonny_Bunny.jpg/960px-Sonny_Bunny.jpg)
 <!-- END_ANIMAL -->
 
 
