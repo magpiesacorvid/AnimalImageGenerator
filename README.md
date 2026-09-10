@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-10 11:50:43 UTC
-**Next update:** ~2026-09-10 11:52:43 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-10 11:52:25 UTC
+**Next update:** ~2026-09-10 11:54:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cape genet
-![Cape genet](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Large-spotted_Genet_%28Genetta_tigrina%29_%2817356502041%29_%28crop%29.jpg/1920px-Large-spotted_Genet_%28Genetta_tigrina%29_%2817356502041%29_%28crop%29.jpg)
+### Iberian ibex
+![Iberian ibex](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cabra_mont%C3%A9s_2%2C_cropped_and_brightened.jpg/960px-Cabra_mont%C3%A9s_2%2C_cropped_and_brightened.jpg)
 <!-- END_ANIMAL -->
 
 
