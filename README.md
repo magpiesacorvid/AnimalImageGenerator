@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-10 02:18:20 UTC
-**Next update:** ~2026-09-10 02:20:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-10 02:20:36 UTC
+**Next update:** ~2026-09-10 02:22:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ethiopian Dwarf Mongoose
-![Ethiopian Dwarf Mongoose](https://upload.wikimedia.org/wikipedia/commons/c/c1/Helogale_hirtula_230649079.jpg)
+### Black-tailed jackrabbit
+![Black-tailed jackrabbit](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Black-tailed_Jack_Rabbit_%28Lepus_californicus%29.jpg/1920px-Black-tailed_Jack_Rabbit_%28Lepus_californicus%29.jpg)
 <!-- END_ANIMAL -->
 
 
