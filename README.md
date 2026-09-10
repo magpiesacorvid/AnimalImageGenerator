@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-10 22:56:27 UTC
-**Next update:** ~2026-09-10 22:58:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-10 22:58:22 UTC
+**Next update:** ~2026-09-10 23:00:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common treeshrew
-![Common treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Common_treeshrew_in_Latpanchar_January_2024_by_Tisha_Mukherjee_01.jpg/1920px-Common_treeshrew_in_Latpanchar_January_2024_by_Tisha_Mukherjee_01.jpg)
+### Aardwolf
+![Aardwolf](https://upload.wikimedia.org/wikipedia/commons/2/2f/Aardwolf%2C_Buffalo_Springs_National_Park%2C_Kenya_1_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
