@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-10 02:22:21 UTC
-**Next update:** ~2026-09-10 02:24:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-10 02:24:22 UTC
+**Next update:** ~2026-09-10 02:26:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American Shorthair
-![American Shorthair](https://commons.wikimedia.org/wiki/Special:FilePath/Jewelkatz_Romeo_Of_Stalker-Bars.jpg)
+### Humboldt's flying squirrel
+![Humboldt's flying squirrel](https://upload.wikimedia.org/wikipedia/commons/7/7e/Glaucomys_oregonensis2.jpg)
 <!-- END_ANIMAL -->
 
 
