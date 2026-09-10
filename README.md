@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-10 03:46:21 UTC
-**Next update:** ~2026-09-10 03:48:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-10 03:48:24 UTC
+**Next update:** ~2026-09-10 03:50:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chinkara
-![Chinkara](https://upload.wikimedia.org/wikipedia/commons/d/d6/Chinkara_-_Shreeram_M_V_-_Bikaner.jpg)
+### American Wirehair
+![American Wirehair](https://commons.wikimedia.org/wiki/Special:FilePath/American_Wirehair.jpg)
 <!-- END_ANIMAL -->
 
 
