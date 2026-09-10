@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-10 13:18:24 UTC
-**Next update:** ~2026-09-10 13:20:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-10 13:20:45 UTC
+**Next update:** ~2026-09-10 13:22:45 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American marten
-![American marten](https://upload.wikimedia.org/wikipedia/commons/8/8e/Newfoundland_Pine_Marten.jpg)
+### Lac Alaotra bamboo lemur
+![Lac Alaotra bamboo lemur](https://upload.wikimedia.org/wikipedia/commons/e/e3/Hapalemur_alaotrensis_JJLM.JPG)
 <!-- END_ANIMAL -->
 
 
