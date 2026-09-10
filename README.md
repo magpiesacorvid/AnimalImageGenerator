@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-10 06:51:14 UTC
-**Next update:** ~2026-09-10 06:53:14 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-10 06:52:22 UTC
+**Next update:** ~2026-09-10 06:54:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Emilia's short-tailed opossum
-![Emilia's short-tailed opossum](https://upload.wikimedia.org/wikipedia/commons/6/64/Monodelphis_emiliae.jpg)
+### Australian sea lion
+![Australian sea lion](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Australian_sea_lion_02.JPG/1280px-Australian_sea_lion_02.JPG)
 <!-- END_ANIMAL -->
 
 
