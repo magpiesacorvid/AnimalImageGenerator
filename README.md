@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-10 05:56:24 UTC
-**Next update:** ~2026-09-10 05:58:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-10 05:58:23 UTC
+**Next update:** ~2026-09-10 06:00:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Baker's small-toothed harvest mouse
-![Baker's small-toothed harvest mouse](https://upload.wikimedia.org/wikipedia/commons/8/8e/Reithrodontomys_bakeri.jpeg)
+### Big lutrine opossum
+![Big lutrine opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lutreolina_crassicaudata_216572398.jpg/1920px-Lutreolina_crassicaudata_216572398.jpg)
 <!-- END_ANIMAL -->
 
 
