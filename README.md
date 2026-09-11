@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-11 05:26:22 UTC
-**Next update:** ~2026-09-11 05:28:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-11 05:28:21 UTC
+**Next update:** ~2026-09-11 05:30:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain nyala
-![Mountain nyala](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mountain_nyala_%28Tragelaphus_buxtoni%29_male.jpg/1280px-Mountain_nyala_%28Tragelaphus_buxtoni%29_male.jpg)
+### Dragon Li Cat
+![Dragon Li Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cat_named_Pipi.jpg/1920px-Cat_named_Pipi.jpg)
 <!-- END_ANIMAL -->
 
 
