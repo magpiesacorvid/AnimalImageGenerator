@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-11 05:06:21 UTC
-**Next update:** ~2026-09-11 05:08:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-11 05:08:23 UTC
+**Next update:** ~2026-09-11 05:10:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gilbert's dunnart
-![Gilbert's dunnart](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gilberts_Dunnart_%2826482365072%29.jpg/250px-Gilberts_Dunnart_%2826482365072%29.jpg)
+### Colorpoint Shorthair
+![Colorpoint Shorthair](https://upload.wikimedia.org/wikipedia/commons/1/11/Chocolate_Tortie_Pt_11636-140.jpg)
 <!-- END_ANIMAL -->
 
 
