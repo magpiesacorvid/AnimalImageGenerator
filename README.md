@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-11 05:34:22 UTC
-**Next update:** ~2026-09-11 05:36:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-11 05:36:58 UTC
+**Next update:** ~2026-09-11 05:38:58 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Markhor
-![Markhor](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg/960px-Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg)
+### Fraser's dolphin
+![Fraser's dolphin](https://upload.wikimedia.org/wikipedia/commons/2/2b/Frazer%C2%B4s_dolphin_group.jpg)
 <!-- END_ANIMAL -->
 
 
