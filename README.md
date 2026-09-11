@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-11 13:34:23 UTC
-**Next update:** ~2026-09-11 13:36:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-11 13:36:25 UTC
+**Next update:** ~2026-09-11 13:38:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-and-white colobus
-![Black-and-white colobus](https://upload.wikimedia.org/wikipedia/commons/6/6b/Colubusmonkey.JPG)
+### Australian sea lion
+![Australian sea lion](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Australian_sea_lion_02.JPG/1280px-Australian_sea_lion_02.JPG)
 <!-- END_ANIMAL -->
 
 
