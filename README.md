@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-11 07:26:22 UTC
-**Next update:** ~2026-09-11 07:28:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-11 07:28:25 UTC
+**Next update:** ~2026-09-11 07:30:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Milne-Edwards's sifaka
-![Milne-Edwards's sifaka](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Milne_Edwards%27s_sifaka_%28Propithecus_edwardsi%29.jpg/960px-Milne_Edwards%27s_sifaka_%28Propithecus_edwardsi%29.jpg)
+### European Rabbit
+![European Rabbit](https://upload.wikimedia.org/wikipedia/commons/5/5f/Oryctolagus_cuniculus_-_euqirneto_-_419737670_%28cropped%29.jpeg)
 <!-- END_ANIMAL -->
 
 
