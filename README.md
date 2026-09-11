@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-11 06:12:24 UTC
-**Next update:** ~2026-09-11 06:14:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-11 06:14:25 UTC
+**Next update:** ~2026-09-11 06:16:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Big hairy armadillo
-![Big hairy armadillo](https://commons.wikimedia.org/wiki/Special:FilePath/Chaetophractus_villosus_(Wroclaw_zoo).JPG)
+### European water vole
+![European water vole](https://upload.wikimedia.org/wikipedia/commons/5/5c/Water_Vole_on_Boot_Hill_%285592665124%29.jpg)
 <!-- END_ANIMAL -->
 
 
