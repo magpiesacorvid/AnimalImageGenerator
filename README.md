@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-11 10:18:21 UTC
-**Next update:** ~2026-09-11 10:20:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-11 10:20:36 UTC
+**Next update:** ~2026-09-11 10:22:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Coppery brushtail possum
-![Coppery brushtail possum](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coppery_Brushtail_Possum_%283625102158%29.jpg/1920px-Coppery_Brushtail_Possum_%283625102158%29.jpg)
+### Angolan talapoin
+![Angolan talapoin](https://upload.wikimedia.org/wikipedia/commons/7/78/Talapoin_II_-_Bioparc_Valencia_%282787418966%29.jpg)
 <!-- END_ANIMAL -->
 
 
