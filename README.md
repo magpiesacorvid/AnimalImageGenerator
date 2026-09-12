@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-12 20:30:52 UTC
-**Next update:** ~2026-09-12 20:32:52 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-12 20:32:28 UTC
+**Next update:** ~2026-09-12 20:34:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Derby's woolly opossum
-![Derby's woolly opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Central_American_woolly_opossum_%28Caluromys_derbianus%29_male.jpg/1920px-Central_American_woolly_opossum_%28Caluromys_derbianus%29_male.jpg)
+### Honey possum
+![Honey possum](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tarsipes_rostratus_325231884.jpg/960px-Tarsipes_rostratus_325231884.jpg)
 <!-- END_ANIMAL -->
 
 
