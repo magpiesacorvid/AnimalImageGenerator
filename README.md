@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-12 14:30:59 UTC
-**Next update:** ~2026-09-12 14:32:59 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-12 14:32:27 UTC
+**Next update:** ~2026-09-12 14:34:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Crabeater seal
-![Crabeater seal](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lobodon_carcinophagus_on_sea_ice_%28cropped%29.jpg/1920px-Lobodon_carcinophagus_on_sea_ice_%28cropped%29.jpg)
+### Large Indian Civet
+![Large Indian Civet](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Large_Indian_Civet%2C_Viverra_zibetha_in_Kaeng_Krachan_national_park.jpg/1280px-Large_Indian_Civet%2C_Viverra_zibetha_in_Kaeng_Krachan_national_park.jpg)
 <!-- END_ANIMAL -->
 
 
