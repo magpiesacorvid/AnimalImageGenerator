@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-12 17:56:24 UTC
-**Next update:** ~2026-09-12 17:58:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-12 17:58:26 UTC
+**Next update:** ~2026-09-12 18:00:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bavarian pine vole
-![Bavarian pine vole](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bavarianpinevole.jpg/1920px-Bavarianpinevole.jpg)
+### Bengal slow loris
+![Bengal slow loris](https://upload.wikimedia.org/wikipedia/commons/3/3d/Captive_N._bengalensis_from_Laos_with_6-week_baby.JPG)
 <!-- END_ANIMAL -->
 
 
