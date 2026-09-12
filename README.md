@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-12 19:44:21 UTC
-**Next update:** ~2026-09-12 19:46:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-12 19:46:28 UTC
+**Next update:** ~2026-09-12 19:48:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Crab-eating fox
-![Crab-eating fox](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Crab-eating_Fox_%28cropped%29.JPG/1920px-Crab-eating_Fox_%28cropped%29.JPG)
+### Bushy-tailed woodrat
+![Bushy-tailed woodrat](https://upload.wikimedia.org/wikipedia/commons/7/79/Neotoma_cinerea_%28bushy_tailed_woodrat%29.jpg)
 <!-- END_ANIMAL -->
 
 
