@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-13 01:38:22 UTC
-**Next update:** ~2026-09-13 01:40:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-13 01:40:38 UTC
+**Next update:** ~2026-09-13 01:42:38 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Honey badger
-![Honey badger](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Honey_Badger.jpg/1920px-Honey_Badger.jpg)
+### Impala
+![Impala](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Impala_%28Aepyceros_melampus%29_male_Kruger.jpg/1280px-Impala_%28Aepyceros_melampus%29_male_Kruger.jpg)
 <!-- END_ANIMAL -->
 
 
