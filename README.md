@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-13 01:28:21 UTC
-**Next update:** ~2026-09-13 01:30:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-13 01:30:51 UTC
+**Next update:** ~2026-09-13 01:32:51 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Agile gracile opossum
-![Agile gracile opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Gracilinanus_agilis_04.jpg/960px-Gracilinanus_agilis_04.jpg)
+### Northern birch mouse
+![Northern birch mouse](https://upload.wikimedia.org/wikipedia/commons/3/37/Sicista_betulina_03.JPG)
 <!-- END_ANIMAL -->
 
 
