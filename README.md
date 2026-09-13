@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-13 03:20:37 UTC
-**Next update:** ~2026-09-13 03:22:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-13 03:22:22 UTC
+**Next update:** ~2026-09-13 03:24:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Javan rhinoceros
-![Javan rhinoceros](https://upload.wikimedia.org/wikipedia/commons/c/ce/Rhinoceros_sondaicus_in_London_Zoo.jpg)
+### Nepal gray langur
+![Nepal gray langur](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nepal_gray_langur%2C_Bhutan.jpg/960px-Nepal_gray_langur%2C_Bhutan.jpg)
 <!-- END_ANIMAL -->
 
 
