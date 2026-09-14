@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-14 14:34:25 UTC
-**Next update:** ~2026-09-14 14:36:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-14 14:36:26 UTC
+**Next update:** ~2026-09-14 14:38:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Artibeus
-![Artibeus](https://upload.wikimedia.org/wikipedia/commons/1/12/Artibeus_sp._Tortuguero_National_Park_crop.jpg)
+### Hooded skunk
+![Hooded skunk](https://upload.wikimedia.org/wikipedia/commons/3/3d/Hooded_Skunk_side_%28Gelsenkirchen%29.jpg)
 <!-- END_ANIMAL -->
 
 
