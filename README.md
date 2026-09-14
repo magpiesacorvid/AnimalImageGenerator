@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-14 08:16:23 UTC
-**Next update:** ~2026-09-14 08:18:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-14 08:18:24 UTC
+**Next update:** ~2026-09-14 08:20:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hawaiian monk seal
-![Hawaiian monk seal](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Monachus_schauinslandi.jpg/1280px-Monachus_schauinslandi.jpg)
+### Black duiker
+![Black duiker](https://commons.wikimedia.org/wiki/Special:FilePath/Black_Duiker.jpg)
 <!-- END_ANIMAL -->
 
 
