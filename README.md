@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-14 16:12:23 UTC
-**Next update:** ~2026-09-14 16:14:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-14 16:14:28 UTC
+**Next update:** ~2026-09-14 16:16:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bald uakari
-![Bald uakari](https://commons.wikimedia.org/wiki/Special:FilePath/Male_uakari.jpg)
+### Mongoose lemur
+![Mongoose lemur](https://upload.wikimedia.org/wikipedia/commons/4/44/Eulemur-mongoz_59489762.jpg)
 <!-- END_ANIMAL -->
 
 
