@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-14 20:40:39 UTC
-**Next update:** ~2026-09-14 20:42:39 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-14 20:42:24 UTC
+**Next update:** ~2026-09-14 20:44:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Nile lechwe
-![Nile lechwe](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vodu%C5%A1ka_abok_1_%28cropped%29.jpg/960px-Vodu%C5%A1ka_abok_1_%28cropped%29.jpg)
+### Himalayan tahr
+![Himalayan tahr](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Himalayan_Tahr_at_Sagarmatha_National_Park%2C_Nepal_01.jpg/1280px-Himalayan_Tahr_at_Sagarmatha_National_Park%2C_Nepal_01.jpg)
 <!-- END_ANIMAL -->
 
 
