@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-14 05:38:22 UTC
-**Next update:** ~2026-09-14 05:40:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-14 05:40:35 UTC
+**Next update:** ~2026-09-14 05:42:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common tsessebe
-![Common tsessebe](https://upload.wikimedia.org/wikipedia/commons/f/f8/Tsessebe_%28Botswana%29.jpg)
+### Long-finned pilot whale
+![Long-finned pilot whale](https://upload.wikimedia.org/wikipedia/commons/8/85/Pilot_Whale_-_Flickr_-_gailhampshire.jpg)
 <!-- END_ANIMAL -->
 
 
