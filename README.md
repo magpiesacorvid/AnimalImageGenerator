@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-14 16:26:24 UTC
-**Next update:** ~2026-09-14 16:28:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-14 16:28:22 UTC
+**Next update:** ~2026-09-14 16:30:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Canadian Lynx
-![Canadian Lynx](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canada_lynx_by_Michael_Zahra_%28cropped%29.jpg/1920px-Canada_lynx_by_Michael_Zahra_%28cropped%29.jpg)
+### Hairy-tailed mole
+![Hairy-tailed mole](https://upload.wikimedia.org/wikipedia/commons/3/3f/Hairy-tailed_Mole_iNaturalist.jpg)
 <!-- END_ANIMAL -->
 
 
