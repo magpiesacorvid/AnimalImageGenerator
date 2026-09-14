@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-14 04:14:04 UTC
-**Next update:** ~2026-09-14 04:16:04 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-14 04:14:16 UTC
+**Next update:** ~2026-09-14 04:16:16 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dama gazelle
-![Dama gazelle](https://upload.wikimedia.org/wikipedia/commons/a/a5/Gazella_dama_ruficollis_3zz.jpg)
+### Brown Fur Seal
+![Brown Fur Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Arctocephalus_pusillus_-_SE_Tasmania.jpg/1920px-Arctocephalus_pusillus_-_SE_Tasmania.jpg)
 <!-- END_ANIMAL -->
 
 
