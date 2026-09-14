@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-14 04:50:39 UTC
-**Next update:** ~2026-09-14 04:52:39 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-14 04:52:57 UTC
+**Next update:** ~2026-09-14 04:54:57 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Goldman's woodrat
-![Goldman's woodrat](https://upload.wikimedia.org/wikipedia/commons/1/15/Neotoma_goldmani_377907_%28cropped%29.jpg)
+### Javan rusa
+![Javan rusa](https://upload.wikimedia.org/wikipedia/commons/0/05/Javan_Deer_couple_-_Baluran_NP_-_East_Java_%2829505339513%29.jpg)
 <!-- END_ANIMAL -->
 
 
