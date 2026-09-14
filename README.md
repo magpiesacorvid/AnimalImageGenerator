@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-14 12:16:26 UTC
-**Next update:** ~2026-09-14 12:18:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-14 12:18:26 UTC
+**Next update:** ~2026-09-14 12:20:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Malagasy civet
-![Malagasy civet](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Spotted_fanaloka_%28Fossa_fossana%29.jpg/1280px-Spotted_fanaloka_%28Fossa_fossana%29.jpg)
+### Kinda baboon
+![Kinda baboon](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Female_kinda_baboon.jpg/1280px-Female_kinda_baboon.jpg)
 <!-- END_ANIMAL -->
 
 
