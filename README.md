@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-14 11:30:55 UTC
-**Next update:** ~2026-09-14 11:32:55 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-14 11:32:26 UTC
+**Next update:** ~2026-09-14 11:34:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern chipmunk
-![Eastern chipmunk](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Chipmunk_with_stuffed_cheeks_in_Prospect_Park_%2805980%29.jpg/1920px-Chipmunk_with_stuffed_cheeks_in_Prospect_Park_%2805980%29.jpg)
+### Black Backed Jackal
+![Black Backed Jackal](https://commons.wikimedia.org/wiki/Special:FilePath/Black-backed_jackal_(Canis_mesomelas_mesomelas).jpg)
 <!-- END_ANIMAL -->
 
 
