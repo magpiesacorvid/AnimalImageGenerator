@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-14 19:48:23 UTC
-**Next update:** ~2026-09-14 19:50:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-14 19:50:42 UTC
+**Next update:** ~2026-09-14 19:52:42 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Llama
-![Llama](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Llamas%2C_Vernagt-Stausee%2C_Italy.jpg/1280px-Llamas%2C_Vernagt-Stausee%2C_Italy.jpg)
+### Brazilian Shorthair
+![Brazilian Shorthair](https://upload.wikimedia.org/wikipedia/commons/8/87/Gato_pelo_curto_brasileiro.JPG)
 <!-- END_ANIMAL -->
 
 
