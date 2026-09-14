@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-14 20:42:24 UTC
-**Next update:** ~2026-09-14 20:44:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-14 20:44:22 UTC
+**Next update:** ~2026-09-14 20:46:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Himalayan tahr
-![Himalayan tahr](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Himalayan_Tahr_at_Sagarmatha_National_Park%2C_Nepal_01.jpg/1280px-Himalayan_Tahr_at_Sagarmatha_National_Park%2C_Nepal_01.jpg)
+### California deermouse
+![California deermouse](https://upload.wikimedia.org/wikipedia/commons/0/0d/California_mouse_5_Peromyscus_californicus.jpg)
 <!-- END_ANIMAL -->
 
 
