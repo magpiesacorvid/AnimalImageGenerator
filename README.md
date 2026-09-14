@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-14 07:08:23 UTC
-**Next update:** ~2026-09-14 07:10:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-14 07:10:45 UTC
+**Next update:** ~2026-09-14 07:12:45 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### North African hedgehog
-![North African hedgehog](https://upload.wikimedia.org/wikipedia/commons/8/8a/Atelerix_algirus.jpg)
+### Bharal
+![Bharal](https://commons.wikimedia.org/wiki/Special:FilePath/Bharal,_Himalayan_blue_sheep.jpg)
 <!-- END_ANIMAL -->
 
 
