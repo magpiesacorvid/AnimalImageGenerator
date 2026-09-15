@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-15 13:50:43 UTC
-**Next update:** ~2026-09-15 13:52:43 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-15 13:52:22 UTC
+**Next update:** ~2026-09-15 13:54:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Coyote
-![Coyote](https://commons.wikimedia.org/wiki/Special:FilePath/Coyote_portrait.jpg)
+### American Bobtail
+![American Bobtail](https://commons.wikimedia.org/wiki/Special:FilePath/American_bobtail_2.jpg)
 <!-- END_ANIMAL -->
 
 
