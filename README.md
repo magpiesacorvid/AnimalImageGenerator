@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-15 07:50:39 UTC
-**Next update:** ~2026-09-15 07:52:39 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-15 07:52:24 UTC
+**Next update:** ~2026-09-15 07:54:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ocelot
-![Ocelot](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/1280px-016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg)
+### Honey possum
+![Honey possum](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tarsipes_rostratus_325231884.jpg/960px-Tarsipes_rostratus_325231884.jpg)
 <!-- END_ANIMAL -->
 
 
