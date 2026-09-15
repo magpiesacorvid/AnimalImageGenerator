@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-15 08:42:21 UTC
-**Next update:** ~2026-09-15 08:44:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-15 08:44:22 UTC
+**Next update:** ~2026-09-15 08:46:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Matschie's tree-kangaroo
-![Matschie's tree-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dendrolagus_matschiei_at_the_Bronx_Zoo_007.jpg/960px-Dendrolagus_matschiei_at_the_Bronx_Zoo_007.jpg)
+### Common Tailless tenrec
+![Common Tailless tenrec](https://upload.wikimedia.org/wikipedia/commons/b/bc/Tanrek.jpg)
 <!-- END_ANIMAL -->
 
 
