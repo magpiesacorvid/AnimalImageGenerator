@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-15 15:02:24 UTC
-**Next update:** ~2026-09-15 15:04:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-15 15:04:25 UTC
+**Next update:** ~2026-09-15 15:06:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Birman Cat
-![Birman Cat](https://commons.wikimedia.org/wiki/Special:FilePath/Minerva-25.jpg)
+### Mediterranean monk seal
+![Mediterranean monk seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Monachus_monachus_DSC_0274.jpg/1280px-Monachus_monachus_DSC_0274.jpg)
 <!-- END_ANIMAL -->
 
 
