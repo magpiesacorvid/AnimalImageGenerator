@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-15 17:36:22 UTC
-**Next update:** ~2026-09-15 17:38:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-15 17:38:27 UTC
+**Next update:** ~2026-09-15 17:40:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Barasingha
-![Barasingha](https://commons.wikimedia.org/wiki/Special:FilePath/The_barasingha.jpg)
+### Brown greater galago
+![Brown greater galago](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Brown_Greater_Galago.jpg/1920px-Brown_Greater_Galago.jpg)
 <!-- END_ANIMAL -->
 
 
