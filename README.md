@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-15 13:06:23 UTC
-**Next update:** ~2026-09-15 13:08:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-15 13:08:27 UTC
+**Next update:** ~2026-09-15 13:10:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### East African oryx
-![East African oryx](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Common_beisa_oryx_%28Oryx_beisa_beisa%29_female.jpg/1920px-Common_beisa_oryx_%28Oryx_beisa_beisa%29_female.jpg)
+### Bawean deer
+![Bawean deer](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Adult_male_Bawean_deer_Axis_kuhlii.JPG/1920px-Adult_male_Bawean_deer_Axis_kuhlii.JPG)
 <!-- END_ANIMAL -->
 
 
