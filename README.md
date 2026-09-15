@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-15 00:56:20 UTC
-**Next update:** ~2026-09-15 00:58:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-15 00:58:19 UTC
+**Next update:** ~2026-09-15 01:00:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kodkod
-![Kodkod](https://upload.wikimedia.org/wikipedia/commons/d/d0/Leopardus_guigna.jpeg)
+### Crab-eating macaque
+![Crab-eating macaque](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ubud_Monkey_Family.jpg/1920px-Ubud_Monkey_Family.jpg)
 <!-- END_ANIMAL -->
 
 
