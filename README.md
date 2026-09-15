@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-15 16:40:38 UTC
-**Next update:** ~2026-09-15 16:42:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-15 16:42:21 UTC
+**Next update:** ~2026-09-15 16:44:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater dwarf lemur
-![Greater dwarf lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/CHEIROGALEUS-1.JPG/1920px-CHEIROGALEUS-1.JPG)
+### Montane guinea pig
+![Montane guinea pig](https://upload.wikimedia.org/wikipedia/commons/d/df/Cavia_tschudii_104314763_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
