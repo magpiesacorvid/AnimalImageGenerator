@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-15 23:26:20 UTC
-**Next update:** ~2026-09-15 23:28:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-15 23:28:23 UTC
+**Next update:** ~2026-09-15 23:30:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain brushtail possum
-![Mountain brushtail possum](https://upload.wikimedia.org/wikipedia/commons/5/54/Trichosurus_cunninghami3.jpg)
+### Kenya coast galago
+![Kenya coast galago](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Taita_mountain_dwarf_galago_from_Taita_Hills.jpg/1280px-Taita_mountain_dwarf_galago_from_Taita_Hills.jpg)
 <!-- END_ANIMAL -->
 
 
