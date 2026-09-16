@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-16 09:38:24 UTC
-**Next update:** ~2026-09-16 09:40:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-16 09:40:38 UTC
+**Next update:** ~2026-09-16 09:42:38 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Japanese Bobtail
-![Japanese Bobtail](https://upload.wikimedia.org/wikipedia/commons/5/56/JapaneseBobtailBlueEyedMi-ke.JPG)
+### Fin whale
+![Fin whale](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Finhval_%281%29.jpg/1920px-Finhval_%281%29.jpg)
 <!-- END_ANIMAL -->
 
 
