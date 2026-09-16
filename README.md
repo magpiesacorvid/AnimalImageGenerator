@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-16 19:56:23 UTC
-**Next update:** ~2026-09-16 19:58:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-16 19:58:20 UTC
+**Next update:** ~2026-09-16 20:00:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Naked-tailed armadillo
-![Naked-tailed armadillo](https://upload.wikimedia.org/wikipedia/commons/c/c2/Cabassous-centralis-2.png)
+### African wild ass
+![African wild ass](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg/1280px-Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg)
 <!-- END_ANIMAL -->
 
 
