@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-16 22:18:26 UTC
-**Next update:** ~2026-09-16 22:20:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-16 22:20:41 UTC
+**Next update:** ~2026-09-16 22:22:41 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Baturite porcupine
-![Baturite porcupine](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Coendou_baturitensis_Mulungu-CE.JPG/1920px-Coendou_baturitensis_Mulungu-CE.JPG)
+### Gray four-eyed opossum
+![Gray four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/a/ab/Cuica_verdadeira.jpg)
 <!-- END_ANIMAL -->
 
 
