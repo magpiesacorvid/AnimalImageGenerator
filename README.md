@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-16 11:40:44 UTC
-**Next update:** ~2026-09-16 11:42:44 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-16 11:42:23 UTC
+**Next update:** ~2026-09-16 11:44:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Formosan ferret-badger
-![Formosan ferret-badger](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Melogale_subaurantiaca_151917951.jpg/1920px-Melogale_subaurantiaca_151917951.jpg)
+### Eurasian Lynx
+![Eurasian Lynx](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lynx_Nationalpark_Bayerischer_Wald_01.jpg/1920px-Lynx_Nationalpark_Bayerischer_Wald_01.jpg)
 <!-- END_ANIMAL -->
 
 
