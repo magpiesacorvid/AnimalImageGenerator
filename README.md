@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-16 17:36:22 UTC
-**Next update:** ~2026-09-16 17:38:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-16 17:38:22 UTC
+**Next update:** ~2026-09-16 17:40:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Muskox
-![Muskox](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Muskox_%28Ovibos_moschatus%29_male_Dovrefjell_4.jpg/1280px-Muskox_%28Ovibos_moschatus%29_male_Dovrefjell_4.jpg)
+### Australian big-eared bat
+![Australian big-eared bat](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lesser_Long-eared_Bat_%28Nyctophilus_geoffroyi%29_%288656888933%29.jpg/1920px-Lesser_Long-eared_Bat_%28Nyctophilus_geoffroyi%29_%288656888933%29.jpg)
 <!-- END_ANIMAL -->
 
 
