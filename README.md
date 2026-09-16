@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-16 23:30:50 UTC
-**Next update:** ~2026-09-16 23:32:50 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-16 23:32:22 UTC
+**Next update:** ~2026-09-16 23:34:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Golden Jackal
-![Golden Jackal](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/500px-033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg)
+### Common brushtail possum
+![Common brushtail possum](https://upload.wikimedia.org/wikipedia/commons/2/22/Trichosurus_vulpecula_1.jpg)
 <!-- END_ANIMAL -->
 
 
