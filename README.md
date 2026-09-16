@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-16 23:42:21 UTC
-**Next update:** ~2026-09-16 23:44:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-16 23:44:21 UTC
+**Next update:** ~2026-09-16 23:46:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-mantled tamarin
-![Black-mantled tamarin](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Black-mantled_tamarin_%28Saguinus_nigricollis_graellsi%29_Sumaco.jpg/1920px-Black-mantled_tamarin_%28Saguinus_nigricollis_graellsi%29_Sumaco.jpg)
+### Black Backed Jackal
+![Black Backed Jackal](https://commons.wikimedia.org/wiki/Special:FilePath/Black-backed_jackal_(Canis_mesomelas_mesomelas).jpg)
 <!-- END_ANIMAL -->
 
 
