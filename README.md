@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-16 07:01:10 UTC
-**Next update:** ~2026-09-16 07:03:10 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-16 07:02:23 UTC
+**Next update:** ~2026-09-16 07:04:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black jackrabbit
-![Black jackrabbit](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lepus_insularis_iNaturalist.jpg)
+### Ladak pika
+![Ladak pika](https://upload.wikimedia.org/wikipedia/commons/4/4d/Ladakh_Pika_2007.jpg)
 <!-- END_ANIMAL -->
 
 
