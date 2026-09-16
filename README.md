@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-16 22:30:54 UTC
-**Next update:** ~2026-09-16 22:32:54 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-16 22:32:23 UTC
+**Next update:** ~2026-09-16 22:34:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Minuet Cat
-![Minuet Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/White_Gray_Minuet_Cat.png/1280px-White_Gray_Minuet_Cat.png)
+### Desert hedgehog
+![Desert hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Desert_Hedgehog.png/1920px-Desert_Hedgehog.png)
 <!-- END_ANIMAL -->
 
 
