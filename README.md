@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-17 15:01:07 UTC
-**Next update:** ~2026-09-17 15:03:07 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-17 15:02:27 UTC
+**Next update:** ~2026-09-17 15:04:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain degu
-![Mountain degu](https://upload.wikimedia.org/wikipedia/commons/3/30/Octodontomys_gliroides_339329462_%28crop-sharp%29.png)
+### Bare-tailed woolly opossum
+![Bare-tailed woolly opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Caluromys_philander_284958705.jpg/1920px-Caluromys_philander_284958705.jpg)
 <!-- END_ANIMAL -->
 
 
