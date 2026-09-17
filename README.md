@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-17 08:56:24 UTC
-**Next update:** ~2026-09-17 08:58:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-17 08:58:21 UTC
+**Next update:** ~2026-09-17 09:00:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater hog badger
-![Greater hog badger](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Arctonyx-collaris-hog-badger.jpg/1920px-Arctonyx-collaris-hog-badger.jpg)
+### Culpeo
+![Culpeo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Culpeo_%28Lycalopex_culpaeus_culpaeus%29_Lo_Barnechea_2.jpg/1920px-Culpeo_%28Lycalopex_culpaeus_culpaeus%29_Lo_Barnechea_2.jpg)
 <!-- END_ANIMAL -->
 
 
