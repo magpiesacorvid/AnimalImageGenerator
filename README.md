@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-17 17:28:22 UTC
-**Next update:** ~2026-09-17 17:30:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-17 17:30:53 UTC
+**Next update:** ~2026-09-17 17:32:53 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lemuroid ringtail possum
-![Lemuroid ringtail possum](https://upload.wikimedia.org/wikipedia/commons/e/e8/Hemibelideus_lemuroides_-Queensland-8.jpg)
+### Long-tailed goral
+![Long-tailed goral](https://upload.wikimedia.org/wikipedia/commons/4/4c/Nemorhaedus_caudatus.jpg)
 <!-- END_ANIMAL -->
 
 
