@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-17 13:18:24 UTC
-**Next update:** ~2026-09-17 13:20:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-17 13:20:45 UTC
+**Next update:** ~2026-09-17 13:22:45 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common opossum
-![Common opossum](https://upload.wikimedia.org/wikipedia/commons/2/25/Rabipelao2.jpg)
+### Black rat
+![Black rat](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/House_Rat_David_Raju.jpg/1920px-House_Rat_David_Raju.jpg)
 <!-- END_ANIMAL -->
 
 
