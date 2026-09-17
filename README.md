@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-17 22:58:21 UTC
-**Next update:** ~2026-09-17 23:00:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-17 23:01:04 UTC
+**Next update:** ~2026-09-17 23:03:04 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Long-tailed weasel
-![Long-tailed weasel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Long-tailed_Weasel%2C_Sonoma_County%2C_US-CA%2C_US_imported_from_iNaturalist_photo_108909271.jpg/960px-Long-tailed_Weasel%2C_Sonoma_County%2C_US-CA%2C_US_imported_from_iNaturalist_photo_108909271.jpg)
+### American pika
+![American pika](https://upload.wikimedia.org/wikipedia/commons/8/8f/American_pika_Banff_National_Park.jpg)
 <!-- END_ANIMAL -->
 
 
