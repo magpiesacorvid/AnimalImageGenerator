@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-17 17:48:25 UTC
-**Next update:** ~2026-09-17 17:50:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-17 17:50:45 UTC
+**Next update:** ~2026-09-17 17:52:45 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chamois
-![Chamois](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg/1920px-064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg)
+### Greater hedgehog tenrec
+![Greater hedgehog tenrec](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Greater_Hedgehog_Tenrec_%28Setifer_setosus%29_%289614561811%29.jpg/1920px-Greater_Hedgehog_Tenrec_%28Setifer_setosus%29_%289614561811%29.jpg)
 <!-- END_ANIMAL -->
 
 
