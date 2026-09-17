@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-17 10:44:22 UTC
-**Next update:** ~2026-09-17 10:46:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-17 10:46:24 UTC
+**Next update:** ~2026-09-17 10:48:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gray brocket
-![Gray brocket](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Grey_brocket_%28Mazama_gouazoubira%29_young_female.JPG/1920px-Grey_brocket_%28Mazama_gouazoubira%29_young_female.JPG)
+### Japanese badger
+![Japanese badger](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Meles_meles_anakuma_at_Inokashira_Park_Zoo.jpg/1280px-Meles_meles_anakuma_at_Inokashira_Park_Zoo.jpg)
 <!-- END_ANIMAL -->
 
 
