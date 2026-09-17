@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-17 14:58:21 UTC
-**Next update:** ~2026-09-17 15:00:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-17 15:01:07 UTC
+**Next update:** ~2026-09-17 15:03:07 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Horseshoe bat
-![Horseshoe bat](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bat%2820070605%29.jpg/960px-Bat%2820070605%29.jpg)
+### Mountain degu
+![Mountain degu](https://upload.wikimedia.org/wikipedia/commons/3/30/Octodontomys_gliroides_339329462_%28crop-sharp%29.png)
 <!-- END_ANIMAL -->
 
 
