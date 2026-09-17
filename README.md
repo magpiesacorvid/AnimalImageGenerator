@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-17 14:30:53 UTC
-**Next update:** ~2026-09-17 14:32:53 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-17 14:32:29 UTC
+**Next update:** ~2026-09-17 14:34:29 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Maine Coon Cat
-![Maine Coon Cat](https://upload.wikimedia.org/wikipedia/commons/8/87/M%C3%A2le_Black_Silver_Blotched_Tabby.jpeg)
+### Marsh Mongoose
+![Marsh Mongoose](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Marsh_mongoose_or_water_mongoose%2C_Atilax_paludinosus%2C_at_Rietvlei_Nature_Reserve%2C_Gauteng%2C_South_Africa_%2822548192738%29.jpg/1920px-Marsh_mongoose_or_water_mongoose%2C_Atilax_paludinosus%2C_at_Rietvlei_Nature_Reserve%2C_Gauteng%2C_South_Africa_%2822548192738%29.jpg)
 <!-- END_ANIMAL -->
 
 
