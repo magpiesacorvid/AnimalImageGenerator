@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-17 23:30:52 UTC
-**Next update:** ~2026-09-17 23:32:52 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-17 23:32:22 UTC
+**Next update:** ~2026-09-17 23:34:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bali cattle
-![Bali cattle](https://commons.wikimedia.org/wiki/Special:FilePath/Bali_Cattle.jpg)
+### Desert hedgehog
+![Desert hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Desert_Hedgehog.png/1920px-Desert_Hedgehog.png)
 <!-- END_ANIMAL -->
 
 
