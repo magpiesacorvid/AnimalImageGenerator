@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-17 21:02:26 UTC
-**Next update:** ~2026-09-17 21:04:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-17 21:04:24 UTC
+**Next update:** ~2026-09-17 21:06:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Human
-![Human](https://upload.wikimedia.org/wikipedia/commons/6/68/Akha_cropped_hires.JPG)
+### Dusky-footed woodrat
+![Dusky-footed woodrat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Riparian_woodrat_neotoma_fuscipes_riparia_endangered_mammal_species.jpg/1920px-Riparian_woodrat_neotoma_fuscipes_riparia_endangered_mammal_species.jpg)
 <!-- END_ANIMAL -->
 
 
