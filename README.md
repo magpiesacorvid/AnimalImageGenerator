@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-17 17:42:23 UTC
-**Next update:** ~2026-09-17 17:44:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-17 17:44:22 UTC
+**Next update:** ~2026-09-17 17:46:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Aldabra flying fox
-![Aldabra flying fox](https://upload.wikimedia.org/wikipedia/commons/7/74/Aldabra_flying_fox_318252.jpg)
+### Daurian hedgehog
+![Daurian hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Daurian_Hedgehog_%28Mesechinus_dauuricus%29.tif/lossy-page1-1920px-Daurian_Hedgehog_%28Mesechinus_dauuricus%29.tif.jpg)
 <!-- END_ANIMAL -->
 
 
