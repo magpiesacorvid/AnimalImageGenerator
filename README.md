@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-18 15:10:41 UTC
-**Next update:** ~2026-09-18 15:12:41 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-18 15:12:22 UTC
+**Next update:** ~2026-09-18 15:14:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown dorcopsis
-![Brown dorcopsis](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dorcopsis_muelleri_K%C3%B6ln.jpg/1920px-Dorcopsis_muelleri_K%C3%B6ln.jpg)
+### Mule deer
+![Mule deer](N01https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mule_buck_elk_creek_m_myatt_%285489214303%29.jpg/1280px-Mule_buck_elk_creek_m_myatt_%285489214303%29.jpgMAGE)
 <!-- END_ANIMAL -->
 
 
