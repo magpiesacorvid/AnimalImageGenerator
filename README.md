@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-18 17:38:22 UTC
-**Next update:** ~2026-09-18 17:40:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-18 17:40:37 UTC
+**Next update:** ~2026-09-18 17:42:37 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Numbat
-![Numbat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg/1920px-Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg)
+### Long-tailed weasel
+![Long-tailed weasel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Long-tailed_Weasel%2C_Sonoma_County%2C_US-CA%2C_US_imported_from_iNaturalist_photo_108909271.jpg/960px-Long-tailed_Weasel%2C_Sonoma_County%2C_US-CA%2C_US_imported_from_iNaturalist_photo_108909271.jpg)
 <!-- END_ANIMAL -->
 
 
