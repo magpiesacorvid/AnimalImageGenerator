@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-18 18:38:23 UTC
-**Next update:** ~2026-09-18 18:40:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-18 18:40:47 UTC
+**Next update:** ~2026-09-18 18:42:47 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dusky Langur
-![Dusky Langur](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Dusky_leaf_monkey_%288050982300%29.jpg/1920px-Dusky_leaf_monkey_%288050982300%29.jpg)
+### Furry-eared dwarf lemur
+![Furry-eared dwarf lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Crossley%27s_dwarf_lemur_%28Cheirogaleus_crossleyi%29_Ranomafana.jpg/1920px-Crossley%27s_dwarf_lemur_%28Cheirogaleus_crossleyi%29_Ranomafana.jpg)
 <!-- END_ANIMAL -->
 
 
