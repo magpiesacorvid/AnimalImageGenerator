@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-18 07:40:42 UTC
-**Next update:** ~2026-09-18 07:42:42 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-18 07:42:26 UTC
+**Next update:** ~2026-09-18 07:44:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Jaguar
-![Jaguar](https://upload.wikimedia.org/wikipedia/commons/0/0a/Standing_jaguar.jpg)
+### Neotropical otter
+![Neotropical otter](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lontra_longicaudis_4.jpeg/1280px-Lontra_longicaudis_4.jpeg)
 <!-- END_ANIMAL -->
 
 
