@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-18 08:10:37 UTC
-**Next update:** ~2026-09-18 08:12:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-18 08:12:24 UTC
+**Next update:** ~2026-09-18 08:14:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gray four-eyed opossum
-![Gray four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/a/ab/Cuica_verdadeira.jpg)
+### Crowned lemur
+![Crowned lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Crowned_lemur_%28Eulemur_coronatus%29_male.jpg/1920px-Crowned_lemur_%28Eulemur_coronatus%29_male.jpg)
 <!-- END_ANIMAL -->
 
 
