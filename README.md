@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-19 10:42:23 UTC
-**Next update:** ~2026-09-19 10:44:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-19 10:44:20 UTC
+**Next update:** ~2026-09-19 10:46:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Neva Masquerade Cat
-![Neva Masquerade Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NevaMasqueradeFiona_%28cropped%29.jpg/1280px-NevaMasqueradeFiona_%28cropped%29.jpg)
+### Mule deer
+![Mule deer](N01https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mule_buck_elk_creek_m_myatt_%285489214303%29.jpg/1280px-Mule_buck_elk_creek_m_myatt_%285489214303%29.jpgMAGE)
 <!-- END_ANIMAL -->
 
 
