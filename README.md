@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-19 01:04:24 UTC
-**Next update:** ~2026-09-19 01:06:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-19 01:06:23 UTC
+**Next update:** ~2026-09-19 01:08:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Jaguar
-![Jaguar](https://upload.wikimedia.org/wikipedia/commons/0/0a/Standing_jaguar.jpg)
+### Drill
+![Drill](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Drill_Mandrillus_leucophaeus_Junges_Tierpark_Hellabrunn-7.jpg/1920px-Drill_Mandrillus_leucophaeus_Junges_Tierpark_Hellabrunn-7.jpg)
 <!-- END_ANIMAL -->
 
 
