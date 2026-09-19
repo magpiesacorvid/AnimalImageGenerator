@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-19 00:16:23 UTC
-**Next update:** ~2026-09-19 00:18:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-19 00:18:24 UTC
+**Next update:** ~2026-09-19 00:20:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Large Indian Civet
-![Large Indian Civet](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Large_Indian_Civet%2C_Viverra_zibetha_in_Kaeng_Krachan_national_park.jpg/1280px-Large_Indian_Civet%2C_Viverra_zibetha_in_Kaeng_Krachan_national_park.jpg)
+### Eld's deer
+![Eld's deer](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Panolia_eldii_thamin.jpg/1920px-Panolia_eldii_thamin.jpg)
 <!-- END_ANIMAL -->
 
 
