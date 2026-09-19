@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-19 08:12:24 UTC
-**Next update:** ~2026-09-19 08:14:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-19 08:14:22 UTC
+**Next update:** ~2026-09-19 08:16:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mediterranean monk seal
-![Mediterranean monk seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Monachus_monachus_DSC_0274.jpg/1280px-Monachus_monachus_DSC_0274.jpg)
+### Lowland anoa
+![Lowland anoa](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Anoa_Bubalus_depressicornis_Surabaya_Zoo.jpg/960px-Anoa_Bubalus_depressicornis_Surabaya_Zoo.jpg)
 <!-- END_ANIMAL -->
 
 
