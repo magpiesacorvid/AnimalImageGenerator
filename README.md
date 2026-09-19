@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-19 09:08:24 UTC
-**Next update:** ~2026-09-19 09:10:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-19 09:10:41 UTC
+**Next update:** ~2026-09-19 09:12:41 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Malagasy civet
-![Malagasy civet](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Spotted_fanaloka_%28Fossa_fossana%29.jpg/1280px-Spotted_fanaloka_%28Fossa_fossana%29.jpg)
+### Antarctic Fur Seal
+![Antarctic Fur Seal](https://upload.wikimedia.org/wikipedia/commons/a/ab/Seeb%C3%A4r_%28Arctocephalus%29_01.jpg)
 <!-- END_ANIMAL -->
 
 
