@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-19 17:24:23 UTC
-**Next update:** ~2026-09-19 17:26:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-19 17:26:21 UTC
+**Next update:** ~2026-09-19 17:28:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chamois
-![Chamois](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg/1920px-064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg)
+### New Zealand sea lion
+![New Zealand sea lion](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Big_male_New_Zealand_Sea_Lion_walking_on_the_beach.jpg/1280px-Big_male_New_Zealand_Sea_Lion_walking_on_the_beach.jpg)
 <!-- END_ANIMAL -->
 
 
