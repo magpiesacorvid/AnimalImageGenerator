@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-20 06:26:21 UTC
-**Next update:** ~2026-09-20 06:28:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-20 06:28:22 UTC
+**Next update:** ~2026-09-20 06:30:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asian elephant
-![Asian elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/1280px-Elephas_maximus_%28Bandipur%29.jpg)
+### Brown Hyena
+![Brown Hyena](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Brown_Hyena_%28Hyaena_brunnea%29_leaving_waterhole_..._%2850915531592%29%2C_crop.jpg/1920px-Brown_Hyena_%28Hyaena_brunnea%29_leaving_waterhole_..._%2850915531592%29%2C_crop.jpg)
 <!-- END_ANIMAL -->
 
 
