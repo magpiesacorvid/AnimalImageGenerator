@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-20 09:40:39 UTC
-**Next update:** ~2026-09-20 09:42:39 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-20 09:42:23 UTC
+**Next update:** ~2026-09-20 09:44:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Galápagos oryzomys
-![Galápagos oryzomys](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Galapagos_Rice_Rat.jpg/1920px-Galapagos_Rice_Rat.jpg)
+### Lesser short-nosed fruit bat
+![Lesser short-nosed fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Lesser_short-nosed_fruit_bat_%28Cynopterus_brachyotis%29.jpg/1920px-Lesser_short-nosed_fruit_bat_%28Cynopterus_brachyotis%29.jpg)
 <!-- END_ANIMAL -->
 
 
