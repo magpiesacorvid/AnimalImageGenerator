@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-20 22:10:37 UTC
-**Next update:** ~2026-09-20 22:12:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-20 22:12:21 UTC
+**Next update:** ~2026-09-20 22:14:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bennett's tree-kangaroo
-![Bennett's tree-kangaroo](https://commons.wikimedia.org/wiki/Special:FilePath/Bennett's_Tree-kangaroo.jpg)
+### Asian Black Bear
+![Asian Black Bear](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/960px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG)
 <!-- END_ANIMAL -->
 
 
