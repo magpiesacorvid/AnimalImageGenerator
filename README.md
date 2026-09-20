@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-20 16:30:50 UTC
-**Next update:** ~2026-09-20 16:32:50 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-20 16:32:23 UTC
+**Next update:** ~2026-09-20 16:34:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chacoan mara
-![Chacoan mara](https://upload.wikimedia.org/wikipedia/commons/7/79/%D0%A7%D0%B0%D0%BA%D0%BE%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C_%D0%B8%D0%BB%D0%B8_%D1%87%D0%B0%D0%BA%D1%81%D0%BA%D0%B0%D1%8F%2C_%D0%B8%D0%BB%D0%B8_%D0%BC%D0%B0%D0%BB%D0%B0%D1%8F_%D0%BC%D0%B0%D1%80%D0%B0_%28Dolichotis_salinicola%29%2C_Chacoan_mara%2C_Kleiner_Mara%2C_Tierpark_Berlin_Friedrichsfelde%2C_10.2012.jpg)
+### European Rabbit
+![European Rabbit](https://upload.wikimedia.org/wikipedia/commons/5/5f/Oryctolagus_cuniculus_-_euqirneto_-_419737670_%28cropped%29.jpeg)
 <!-- END_ANIMAL -->
 
 
