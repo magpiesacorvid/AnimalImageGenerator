@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-20 23:24:21 UTC
-**Next update:** ~2026-09-20 23:26:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-20 23:26:23 UTC
+**Next update:** ~2026-09-20 23:28:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Javan warty pig
-![Javan warty pig](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sus_verrucosus_in_PCBA.jpg/960px-Sus_verrucosus_in_PCBA.jpg)
+### African wild ass
+![African wild ass](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg/1280px-Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg)
 <!-- END_ANIMAL -->
 
 
