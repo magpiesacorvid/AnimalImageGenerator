@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-20 04:06:21 UTC
-**Next update:** ~2026-09-20 04:08:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-20 04:08:20 UTC
+**Next update:** ~2026-09-20 04:10:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Impala
-![Impala](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Impala_%28Aepyceros_melampus%29_male_Kruger.jpg/1280px-Impala_%28Aepyceros_melampus%29_male_Kruger.jpg)
+### Bawean deer
+![Bawean deer](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Adult_male_Bawean_deer_Axis_kuhlii.JPG/1920px-Adult_male_Bawean_deer_Axis_kuhlii.JPG)
 <!-- END_ANIMAL -->
 
 
