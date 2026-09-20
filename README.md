@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-20 20:40:39 UTC
-**Next update:** ~2026-09-20 20:42:39 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-20 20:42:21 UTC
+**Next update:** ~2026-09-20 20:44:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Guanaco
-![Guanaco](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Guanaco_%28Lama_guanicoe%29_Leona_Amarga.jpg/1920px-Guanaco_%28Lama_guanicoe%29_Leona_Amarga.jpg)
+### Bare-bellied hedgehog
+![Bare-bellied hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/The_bare-bellied_hedgehog_%28Paraechinus_nudiventris%29.jpg/1920px-The_bare-bellied_hedgehog_%28Paraechinus_nudiventris%29.jpg)
 <!-- END_ANIMAL -->
 
 
