@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-21 01:20:39 UTC
-**Next update:** ~2026-09-21 01:22:39 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-21 01:22:22 UTC
+**Next update:** ~2026-09-21 01:24:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Goitered gazelle
-![Goitered gazelle](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Female_goitered_gazelle%2C_Shirvan_National_Park%2C_Azerbaijan.jpg/1920px-Female_goitered_gazelle%2C_Shirvan_National_Park%2C_Azerbaijan.jpg)
+### Coppery brushtail possum
+![Coppery brushtail possum](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coppery_Brushtail_Possum_%283625102158%29.jpg/1920px-Coppery_Brushtail_Possum_%283625102158%29.jpg)
 <!-- END_ANIMAL -->
 
 
