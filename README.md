@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-21 09:54:23 UTC
-**Next update:** ~2026-09-21 09:56:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-21 09:56:21 UTC
+**Next update:** ~2026-09-21 09:58:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Baturite porcupine
-![Baturite porcupine](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Coendou_baturitensis_Mulungu-CE.JPG/1920px-Coendou_baturitensis_Mulungu-CE.JPG)
+### Buffy-headed marmoset
+![Buffy-headed marmoset](https://upload.wikimedia.org/wikipedia/commons/8/8c/Callithrix_flaviceps_2.jpg)
 <!-- END_ANIMAL -->
 
 
