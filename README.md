@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-21 23:26:26 UTC
-**Next update:** ~2026-09-21 23:28:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-21 23:28:21 UTC
+**Next update:** ~2026-09-21 23:30:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern spotted skunk
-![Eastern spotted skunk](https://upload.wikimedia.org/wikipedia/commons/f/f2/Spilogale_putorius_%282%29.jpg)
+### Blue wildebeest
+![Blue wildebeest](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Blue_Wildebeest%2C_Ngorongoro.jpg/1920px-Blue_Wildebeest%2C_Ngorongoro.jpg)
 <!-- END_ANIMAL -->
 
 
