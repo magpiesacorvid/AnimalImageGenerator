@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-21 02:01:04 UTC
-**Next update:** ~2026-09-21 02:03:04 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-21 02:02:21 UTC
+**Next update:** ~2026-09-21 02:04:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Goodfellow's tree-kangaroo
-![Goodfellow's tree-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tree_kangaroo2.jpg/1920px-Tree_kangaroo2.jpg)
+### Greater naked-tailed armadillo
+![Greater naked-tailed armadillo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ejemplar_de_tatu_de_rabo_molle_%28Cabassous_tatouay%29%2C_Uruguay%2C_2022.jpg/1920px-Ejemplar_de_tatu_de_rabo_molle_%28Cabassous_tatouay%29%2C_Uruguay%2C_2022.jpg)
 <!-- END_ANIMAL -->
 
 
