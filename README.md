@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-21 23:04:24 UTC
-**Next update:** ~2026-09-21 23:06:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-21 23:07:01 UTC
+**Next update:** ~2026-09-21 23:09:01 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kangaroo rat
-![Kangaroo rat](https://upload.wikimedia.org/wikipedia/commons/5/50/Kangaroo-rat.jpg)
+### Bengal Cat
+![Bengal Cat](https://upload.wikimedia.org/wikipedia/commons/b/ba/Paintedcats_Red_Star_standing.jpg)
 <!-- END_ANIMAL -->
 
 
