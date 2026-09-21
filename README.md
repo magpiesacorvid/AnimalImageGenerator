@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-21 05:54:21 UTC
-**Next update:** ~2026-09-21 05:56:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-21 05:56:21 UTC
+**Next update:** ~2026-09-21 05:58:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian pangolin
-![Indian pangolin](https://upload.wikimedia.org/wikipedia/commons/3/30/Scaly_ant_eater_by_Dushy_Ranetunge_2.jpg)
+### Caspian seal
+![Caspian seal](https://upload.wikimedia.org/wikipedia/commons/8/83/Caspian_seal_03.jpg)
 <!-- END_ANIMAL -->
 
 
