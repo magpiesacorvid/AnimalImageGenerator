@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-21 05:44:58 UTC
-**Next update:** ~2026-09-21 05:46:58 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-21 05:46:23 UTC
+**Next update:** ~2026-09-21 05:48:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dragon Li Cat
-![Dragon Li Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cat_named_Pipi.jpg/1920px-Cat_named_Pipi.jpg)
+### Bengal Tiger
+![Bengal Tiger](https://commons.wikimedia.org/wiki/Special:FilePath/Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg)
 <!-- END_ANIMAL -->
 
 
