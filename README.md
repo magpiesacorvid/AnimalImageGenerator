@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 21:01:03 UTC
-**Next update:** ~2026-09-22 21:03:03 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 21:02:25 UTC
+**Next update:** ~2026-09-22 21:04:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Fennec fox
-![Fennec fox](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fennec_Fox_Vulpes_zerda.jpg/1920px-Fennec_Fox_Vulpes_zerda.jpg)
+### Mountain anoa
+![Mountain anoa](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mountain_Anoa_at_Krefeld_Zoo.jpg/1280px-Mountain_Anoa_at_Krefeld_Zoo.jpg)
 <!-- END_ANIMAL -->
 
 
