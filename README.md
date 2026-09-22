@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 08:31:01 UTC
-**Next update:** ~2026-09-22 08:33:01 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 08:32:21 UTC
+**Next update:** ~2026-09-22 08:34:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lowland yellow-toothed cavy
-![Lowland yellow-toothed cavy](https://upload.wikimedia.org/wikipedia/commons/6/66/Galea_leucoblephara_33484925.jpg)
+### Hottentot Golden Mole
+![Hottentot Golden Mole](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Amblysomus_hottentotus_%28Palmiet_Nature_Reserve%2C_South_Africa_East_Coast%29_2.jpg/1280px-Amblysomus_hottentotus_%28Palmiet_Nature_Reserve%2C_South_Africa_East_Coast%29_2.jpg)
 <!-- END_ANIMAL -->
 
 
