@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 02:02:22 UTC
-**Next update:** ~2026-09-22 02:04:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 02:04:20 UTC
+**Next update:** ~2026-09-22 02:06:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater false vampire bat
-![Greater false vampire bat](https://upload.wikimedia.org/wikipedia/commons/3/3a/Greater_False_Vampire_Bat_%28Megaderma_lyra%29.jpg)
+### Giant golden-crowned flying fox
+![Giant golden-crowned flying fox](https://upload.wikimedia.org/wikipedia/commons/9/97/Acerodon_jubatus_by_Gregg_Yan.jpg)
 <!-- END_ANIMAL -->
 
 
