@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 16:40:43 UTC
-**Next update:** ~2026-09-22 16:42:43 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 16:42:23 UTC
+**Next update:** ~2026-09-22 16:44:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Fijian monkey-faced bat
-![Fijian monkey-faced bat](https://upload.wikimedia.org/wikipedia/en/a/a9/1977.05.03_Fiji_Monkey_Bat_%2CTaveuni%2C_Fiji_3443_ccccc_crop.jpg)
+### Masai giraffe
+![Masai giraffe](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/GiraffaCamelopardalisTippelskirchi-Masaai-Mara.JPG/500px-GiraffaCamelopardalisTippelskirchi-Masaai-Mara.JPG)
 <!-- END_ANIMAL -->
 
 
