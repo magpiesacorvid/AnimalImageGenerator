@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 15:46:26 UTC
-**Next update:** ~2026-09-22 15:48:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 15:48:25 UTC
+**Next update:** ~2026-09-22 15:50:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Northern broad-footed mole
-![Northern broad-footed mole](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Scapanus_latimanus2.jpg/1280px-Scapanus_latimanus2.jpg)
+### Guadalupe fur seal
+![Guadalupe fur seal](https://upload.wikimedia.org/wikipedia/commons/b/ba/Arctocephalus_townsendi.jpg)
 <!-- END_ANIMAL -->
 
 
