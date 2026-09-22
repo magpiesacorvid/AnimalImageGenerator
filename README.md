@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 17:22:23 UTC
-**Next update:** ~2026-09-22 17:24:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 17:24:26 UTC
+**Next update:** ~2026-09-22 17:26:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Elegant fat-tailed mouse opossum
-![Elegant fat-tailed mouse opossum](https://upload.wikimedia.org/wikipedia/commons/1/16/Llaca.jpg)
+### Black-footed ferret
+![Black-footed ferret](https://upload.wikimedia.org/wikipedia/commons/c/cf/Mustela_nigripes_2.jpg)
 <!-- END_ANIMAL -->
 
 
