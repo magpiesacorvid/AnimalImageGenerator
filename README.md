@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 21:09:32 UTC
-**Next update:** ~2026-09-22 21:11:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 21:10:39 UTC
+**Next update:** ~2026-09-22 21:12:39 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chinese pangolin
-![Chinese pangolin](https://upload.wikimedia.org/wikipedia/commons/9/94/Manis_pentadactyla_%2829054818144%29.jpg)
+### Common shrew opossums
+![Common shrew opossums](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Caenolestes_sangay._Foto_Jorge_Brito.jpg/1920px-Caenolestes_sangay._Foto_Jorge_Brito.jpg)
 <!-- END_ANIMAL -->
 
 
