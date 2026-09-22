@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 09:04:22 UTC
-**Next update:** ~2026-09-22 09:06:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 09:06:27 UTC
+**Next update:** ~2026-09-22 09:08:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### European Rabbit
-![European Rabbit](https://upload.wikimedia.org/wikipedia/commons/5/5f/Oryctolagus_cuniculus_-_euqirneto_-_419737670_%28cropped%29.jpeg)
+### Dusky Langur
+![Dusky Langur](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Dusky_leaf_monkey_%288050982300%29.jpg/1920px-Dusky_leaf_monkey_%288050982300%29.jpg)
 <!-- END_ANIMAL -->
 
 
