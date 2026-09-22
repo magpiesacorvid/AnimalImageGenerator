@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 00:44:25 UTC
-**Next update:** ~2026-09-22 00:46:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 00:46:26 UTC
+**Next update:** ~2026-09-22 00:48:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ifola
-![Ifola](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ifola_tree-kangaroo.jpg/1280px-Ifola_tree-kangaroo.jpg)
+### Kangaroo Island dunnart
+![Kangaroo Island dunnart](https://upload.wikimedia.org/wikipedia/commons/5/52/SminthopsisAitkeni.webp)
 <!-- END_ANIMAL -->
 
 
