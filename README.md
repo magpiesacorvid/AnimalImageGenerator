@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 10:24:21 UTC
-**Next update:** ~2026-09-22 10:26:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 10:26:23 UTC
+**Next update:** ~2026-09-22 10:28:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Meerkat
-![Meerkat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Meerkat_%28Suricata_suricatta%29_Tswalu.jpg/1280px-Meerkat_%28Suricata_suricatta%29_Tswalu.jpg)
+### European badger
+![European badger](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/European_badger_%28Meles_meles_taxus%29_Drenthe.jpg/1920px-European_badger_%28Meles_meles_taxus%29_Drenthe.jpg)
 <!-- END_ANIMAL -->
 
 
