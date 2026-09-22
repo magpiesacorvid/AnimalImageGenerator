@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 21:14:22 UTC
-**Next update:** ~2026-09-22 21:16:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 21:16:22 UTC
+**Next update:** ~2026-09-22 21:18:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gunnison's prairie dog
-![Gunnison's prairie dog](https://upload.wikimedia.org/wikipedia/commons/7/7b/Gunnison%27s_prairie_dog%2C_sitting_up.jpg)
+### Felou gundi
+![Felou gundi](https://upload.wikimedia.org/wikipedia/commons/c/cc/Felovia_vae.jpg)
 <!-- END_ANIMAL -->
 
 
