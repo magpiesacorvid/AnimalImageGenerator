@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 11:32:24 UTC
-**Next update:** ~2026-09-22 11:34:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 11:34:27 UTC
+**Next update:** ~2026-09-22 11:36:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lechwe
-![Lechwe](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Red_lechwe_%28Kobus_leche_leche%29_male.jpg/1280px-Red_lechwe_%28Kobus_leche_leche%29_male.jpg)
+### Mongolian gazelle
+![Mongolian gazelle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Procapra_gutturosa_381343709.jpg/1280px-Procapra_gutturosa_381343709.jpg)
 <!-- END_ANIMAL -->
 
 
