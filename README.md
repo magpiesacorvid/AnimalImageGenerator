@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 06:40:44 UTC
-**Next update:** ~2026-09-22 06:42:44 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 06:42:59 UTC
+**Next update:** ~2026-09-22 06:44:59 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### New Zealand sea lion
-![New Zealand sea lion](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Big_male_New_Zealand_Sea_Lion_walking_on_the_beach.jpg/1280px-Big_male_New_Zealand_Sea_Lion_walking_on_the_beach.jpg)
+### Cape Golden Mole
+![Cape Golden Mole](https://commons.wikimedia.org/wiki/Special:FilePath/Chrysochloris_asiatica_Cape_golden_mole_adult_IMG_7120.jpg)
 <!-- END_ANIMAL -->
 
 
