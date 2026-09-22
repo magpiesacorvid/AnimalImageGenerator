@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 18:32:24 UTC
-**Next update:** ~2026-09-22 18:34:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 18:34:23 UTC
+**Next update:** ~2026-09-22 18:36:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eland
-![Eland](https://upload.wikimedia.org/wikipedia/commons/6/68/Taurotragus_oryx_%28captive%29.jpg)
+### Bushpig
+![Bushpig](https://upload.wikimedia.org/wikipedia/commons/4/40/Southern_Bush_Pig.jpg)
 <!-- END_ANIMAL -->
 
 
