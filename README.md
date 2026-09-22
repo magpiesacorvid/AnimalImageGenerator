@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 07:50:38 UTC
-**Next update:** ~2026-09-22 07:52:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 07:52:23 UTC
+**Next update:** ~2026-09-22 07:54:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dugong
-![Dugong](https://upload.wikimedia.org/wikipedia/commons/f/f3/Dugong.jpg)
+### Common Kusimanse
+![Common Kusimanse](https://upload.wikimedia.org/wikipedia/commons/9/98/Crossarchus_obscurus_Plzen_zoo_02.2011.jpg)
 <!-- END_ANIMAL -->
 
 
