@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 07:10:43 UTC
-**Next update:** ~2026-09-22 07:12:43 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 07:12:23 UTC
+**Next update:** ~2026-09-22 07:14:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chevrotain
-![Chevrotain](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mouse-deer_Singapore_Zoo_2012.JPG/1920px-Mouse-deer_Singapore_Zoo_2012.JPG)
+### Eurasian water shrew
+![Eurasian water shrew](https://upload.wikimedia.org/wikipedia/commons/e/ea/Neomys_fodiens_%28Varsinais-Suomi%2C_Finland%29_1_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
