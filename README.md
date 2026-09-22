@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 02:28:29 UTC
-**Next update:** ~2026-09-22 02:30:29 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 02:30:54 UTC
+**Next update:** ~2026-09-22 02:32:54 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### California Spangled Cat
-![California Spangled Cat](https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Spangled_Cat.jpg)
+### Brazilian gracile opossum
+![Brazilian gracile opossum](https://upload.wikimedia.org/wikipedia/commons/c/cf/Catita_%28Gracilinanus_microtarsus%29_-_Leonardo_Mer%C3%A7on.jpg)
 <!-- END_ANIMAL -->
 
 
