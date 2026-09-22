@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 04:46:23 UTC
-**Next update:** ~2026-09-22 04:48:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 04:48:21 UTC
+**Next update:** ~2026-09-22 04:50:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black Panther-Leopard
-![Black Panther-Leopard](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Black_Panther_-_India.jpg/1920px-Black_Panther_-_India.jpg)
+### Agile gracile opossum
+![Agile gracile opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Gracilinanus_agilis_04.jpg/960px-Gracilinanus_agilis_04.jpg)
 <!-- END_ANIMAL -->
 
 
