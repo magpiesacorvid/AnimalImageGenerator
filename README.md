@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 13:52:23 UTC
-**Next update:** ~2026-09-22 13:54:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 13:54:22 UTC
+**Next update:** ~2026-09-22 13:56:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern pygmy possum
-![Eastern pygmy possum](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eastern_Pygmy_Possum_Pilliga_Forest_NSW.jpg/1920px-Eastern_Pygmy_Possum_Pilliga_Forest_NSW.jpg)
+### Cape bushbuck
+![Cape bushbuck](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cape_bushbuck_%28Tragelaphus_sylvaticus%29_female.jpg/1920px-Cape_bushbuck_%28Tragelaphus_sylvaticus%29_female.jpg)
 <!-- END_ANIMAL -->
 
 
