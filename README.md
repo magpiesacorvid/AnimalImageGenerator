@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-22 06:18:57 UTC
-**Next update:** ~2026-09-22 06:20:57 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-22 06:20:43 UTC
+**Next update:** ~2026-09-22 06:22:43 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dusky-footed woodrat
-![Dusky-footed woodrat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Riparian_woodrat_neotoma_fuscipes_riparia_endangered_mammal_species.jpg/1920px-Riparian_woodrat_neotoma_fuscipes_riparia_endangered_mammal_species.jpg)
+### Northern flying squirrel
+![Northern flying squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Northern_Flying_Squirrel%2C_D%27Alembert%2C_6400_Route_d%27Aiguebelle%2C_Rouyn-Noranda%2C_QC%2C_Canada_imported_from_iNaturalist_photo_41110662.jpg/1280px-Northern_Flying_Squirrel%2C_D%27Alembert%2C_6400_Route_d%27Aiguebelle%2C_Rouyn-Noranda%2C_QC%2C_Canada_imported_from_iNaturalist_photo_41110662.jpg)
 <!-- END_ANIMAL -->
 
 
