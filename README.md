@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-23 02:01:03 UTC
-**Next update:** ~2026-09-23 02:03:03 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-23 02:02:24 UTC
+**Next update:** ~2026-09-23 02:04:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Narrow-striped mongoose
-![Narrow-striped mongoose](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Smalstreepmangoest.JPG/1280px-Smalstreepmangoest.JPG)
+### Gaur
+![Gaur](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Indian_Gaur_from_anaimalai_hills_JEG5290.jpg/1920px-Indian_Gaur_from_anaimalai_hills_JEG5290.jpg)
 <!-- END_ANIMAL -->
 
 
