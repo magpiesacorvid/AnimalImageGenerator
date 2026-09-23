@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-23 12:44:23 UTC
-**Next update:** ~2026-09-23 12:46:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-23 12:46:23 UTC
+**Next update:** ~2026-09-23 12:48:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lechwe
-![Lechwe](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Red_lechwe_%28Kobus_leche_leche%29_male.jpg/1280px-Red_lechwe_%28Kobus_leche_leche%29_male.jpg)
+### Chinkara
+![Chinkara](https://upload.wikimedia.org/wikipedia/commons/d/d6/Chinkara_-_Shreeram_M_V_-_Bikaner.jpg)
 <!-- END_ANIMAL -->
 
 
