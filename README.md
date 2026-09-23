@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-23 13:20:42 UTC
-**Next update:** ~2026-09-23 13:22:42 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-23 13:22:23 UTC
+**Next update:** ~2026-09-23 13:24:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Duck-billed platypus
-![Duck-billed platypus](https://commons.wikimedia.org/wiki/Special:FilePath/Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg)
+### Crab-eating macaque
+![Crab-eating macaque](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ubud_Monkey_Family.jpg/1920px-Ubud_Monkey_Family.jpg)
 <!-- END_ANIMAL -->
 
 
