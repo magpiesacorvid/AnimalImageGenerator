@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-23 13:18:23 UTC
-**Next update:** ~2026-09-23 13:20:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-23 13:20:42 UTC
+**Next update:** ~2026-09-23 13:22:42 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Little woolly mouse opossum
-![Little woolly mouse opossum](https://upload.wikimedia.org/wikipedia/commons/0/03/Marmosa_phaea.jpg)
+### Duck-billed platypus
+![Duck-billed platypus](https://commons.wikimedia.org/wiki/Special:FilePath/Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg)
 <!-- END_ANIMAL -->
 
 
