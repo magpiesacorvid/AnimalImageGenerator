@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-23 16:36:25 UTC
-**Next update:** ~2026-09-23 16:38:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-23 16:38:23 UTC
+**Next update:** ~2026-09-23 16:40:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-fronted duiker
-![Black-fronted duiker](https://upload.wikimedia.org/wikipedia/commons/c/cf/Cephalophe_a_front_noir.jpg)
+### Harp seal
+![Harp seal](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Harp_Seal_%28Pagophilus_groenlandicus%29%2C_Greenland_Sea_IMG_5075.jpg/1920px-Harp_Seal_%28Pagophilus_groenlandicus%29%2C_Greenland_Sea_IMG_5075.jpg)
 <!-- END_ANIMAL -->
 
 
