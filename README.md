@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-23 01:42:22 UTC
-**Next update:** ~2026-09-23 01:44:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-23 01:44:21 UTC
+**Next update:** ~2026-09-23 01:46:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common warthog
-![Common warthog](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Southern_warthog_%28Phacochoerus_africanus_sundevallii%29_male.jpg/1920px-Southern_warthog_%28Phacochoerus_africanus_sundevallii%29_male.jpg)
+### Nubian ibex
+![Nubian ibex](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/PikiWiki_Israel_38769_Male_Ibex.jpg/1280px-PikiWiki_Israel_38769_Male_Ibex.jpg)
 <!-- END_ANIMAL -->
 
 
