@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-23 20:58:21 UTC
-**Next update:** ~2026-09-23 21:00:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-23 21:01:04 UTC
+**Next update:** ~2026-09-23 21:03:04 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Horse
-![Horse](https://upload.wikimedia.org/wikipedia/commons/d/de/Nokota_Horses_cropped.jpg)
+### Brush rabbit
+![Brush rabbit](https://upload.wikimedia.org/wikipedia/commons/5/50/Sylvilagus_bachmani_01035t.JPG)
 <!-- END_ANIMAL -->
 
 
