@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-23 18:26:24 UTC
-**Next update:** ~2026-09-23 18:28:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-23 18:28:25 UTC
+**Next update:** ~2026-09-23 18:30:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Marsh Mongoose
-![Marsh Mongoose](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Marsh_mongoose_or_water_mongoose%2C_Atilax_paludinosus%2C_at_Rietvlei_Nature_Reserve%2C_Gauteng%2C_South_Africa_%2822548192738%29.jpg/1920px-Marsh_mongoose_or_water_mongoose%2C_Atilax_paludinosus%2C_at_Rietvlei_Nature_Reserve%2C_Gauteng%2C_South_Africa_%2822548192738%29.jpg)
+### Dwarf fat-tailed mouse opossum
+![Dwarf fat-tailed mouse opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dwarf_Fat-tailed_Mouse_Opossum_imported_from_iNaturalist_photo_351995812_on_19_October_2024.jpg/1920px-Dwarf_Fat-tailed_Mouse_Opossum_imported_from_iNaturalist_photo_351995812_on_19_October_2024.jpg)
 <!-- END_ANIMAL -->
 
 
