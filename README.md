@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-23 12:24:24 UTC
-**Next update:** ~2026-09-23 12:26:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-23 12:26:22 UTC
+**Next update:** ~2026-09-23 12:28:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Grayish mouse opossum
-![Grayish mouse opossum](https://upload.wikimedia.org/wikipedia/commons/4/4a/Tlacuatzin_canescens_canescens_317311.jpg)
+### Northern broad-footed mole
+![Northern broad-footed mole](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Scapanus_latimanus2.jpg/1280px-Scapanus_latimanus2.jpg)
 <!-- END_ANIMAL -->
 
 
