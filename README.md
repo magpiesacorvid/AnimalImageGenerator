@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-24 19:44:22 UTC
-**Next update:** ~2026-09-24 19:46:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-24 19:46:24 UTC
+**Next update:** ~2026-09-24 19:48:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### False killer whale
-![False killer whale](https://upload.wikimedia.org/wikipedia/commons/9/99/Pseudoorca_Crassidens_-_False_Killer_Whale.jpg)
+### Brush rabbit
+![Brush rabbit](https://upload.wikimedia.org/wikipedia/commons/5/50/Sylvilagus_bachmani_01035t.JPG)
 <!-- END_ANIMAL -->
 
 
