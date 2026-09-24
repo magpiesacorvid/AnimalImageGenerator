@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-24 21:26:22 UTC
-**Next update:** ~2026-09-24 21:28:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-24 21:28:22 UTC
+**Next update:** ~2026-09-24 21:30:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-eared flying fox
-![Black-eared flying fox](https://upload.wikimedia.org/wikipedia/commons/e/e9/Pteropus_melanotus_natalis_-_the_Christmas_Island_flying-fox.jpg)
+### Common wombat
+![Common wombat](https://commons.wikimedia.org/wiki/Special:FilePath/Common_wombat_4.jpg)
 <!-- END_ANIMAL -->
 
 
