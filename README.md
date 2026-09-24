@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-24 13:22:59 UTC
-**Next update:** ~2026-09-24 13:24:59 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-24 13:24:24 UTC
+**Next update:** ~2026-09-24 13:26:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Nilgiri langur
-![Nilgiri langur](https://upload.wikimedia.org/wikipedia/commons/6/66/Nilgiri_langur_%281%29_by_N._A._Naseer.jpg)
+### Brown Woolly Monkey
+![Brown Woolly Monkey](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lagothrix_lagotricha_%28male%29.jpg/1920px-Lagothrix_lagotricha_%28male%29.jpg)
 <!-- END_ANIMAL -->
 
 
