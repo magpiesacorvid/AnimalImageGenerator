@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-24 02:38:23 UTC
-**Next update:** ~2026-09-24 02:40:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-24 02:40:39 UTC
+**Next update:** ~2026-09-24 02:42:39 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hoffmann's two-toed sloth
-![Hoffmann's two-toed sloth](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2_toed_sloth.jpg/1280px-2_toed_sloth.jpg)
+### Fennec fox
+![Fennec fox](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fennec_Fox_Vulpes_zerda.jpg/1920px-Fennec_Fox_Vulpes_zerda.jpg)
 <!-- END_ANIMAL -->
 
 
