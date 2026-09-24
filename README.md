@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-24 01:24:24 UTC
-**Next update:** ~2026-09-24 01:26:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-24 01:26:20 UTC
+**Next update:** ~2026-09-24 01:28:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Giant golden-crowned flying fox
-![Giant golden-crowned flying fox](https://upload.wikimedia.org/wikipedia/commons/9/97/Acerodon_jubatus_by_Gregg_Yan.jpg)
+### Montane Fish-eating Rat
+![Montane Fish-eating Rat](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Neusticomys_monticolus.jpg/960px-Neusticomys_monticolus.jpg)
 <!-- END_ANIMAL -->
 
 
