@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-24 05:28:24 UTC
-**Next update:** ~2026-09-24 05:30:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-24 05:30:52 UTC
+**Next update:** ~2026-09-24 05:32:52 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cave Nectar Bat
-![Cave Nectar Bat](https://upload.wikimedia.org/wikipedia/commons/b/b7/Eonycteris_spelea.png)
+### Cyprus cat
+![Cyprus cat](https://upload.wikimedia.org/wikipedia/commons/b/b9/CyprusShorthair.jpg)
 <!-- END_ANIMAL -->
 
 
