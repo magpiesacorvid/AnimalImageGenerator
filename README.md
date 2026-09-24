@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-24 21:48:24 UTC
-**Next update:** ~2026-09-24 21:50:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-24 21:50:39 UTC
+**Next update:** ~2026-09-24 21:52:39 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Fossa
-![Fossa](https://upload.wikimedia.org/wikipedia/commons/a/a6/Cryptoprocta_Ferox.JPG)
+### Black Backed Jackal
+![Black Backed Jackal](https://commons.wikimedia.org/wiki/Special:FilePath/Black-backed_jackal_(Canis_mesomelas_mesomelas).jpg)
 <!-- END_ANIMAL -->
 
 
