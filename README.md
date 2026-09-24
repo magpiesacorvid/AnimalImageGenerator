@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-24 02:32:24 UTC
-**Next update:** ~2026-09-24 02:34:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-24 02:34:23 UTC
+**Next update:** ~2026-09-24 02:36:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Central Asian red deer
-![Central Asian red deer](https://upload.wikimedia.org/wikipedia/commons/1/1f/Bukhara_Deer_stag_at_Speyside_Wildlife_Park_-_geograph.org.uk_-_1002574_%28cropped%29.jpg)
+### Magdalena rat
+![Magdalena rat](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Xenomys_nelsoni_14716792.jpg/1280px-Xenomys_nelsoni_14716792.jpg)
 <!-- END_ANIMAL -->
 
 
