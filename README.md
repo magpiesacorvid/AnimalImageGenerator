@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-24 05:20:37 UTC
-**Next update:** ~2026-09-24 05:22:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-24 05:22:22 UTC
+**Next update:** ~2026-09-24 05:24:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Montane Fish-eating Rat
-![Montane Fish-eating Rat](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Neusticomys_monticolus.jpg/960px-Neusticomys_monticolus.jpg)
+### Elephant Shrew
+![Elephant Shrew](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rhynchocyon_petersi_from_side.jpg/1920px-Rhynchocyon_petersi_from_side.jpg)
 <!-- END_ANIMAL -->
 
 
