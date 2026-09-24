@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-24 17:16:25 UTC
-**Next update:** ~2026-09-24 17:18:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-24 17:18:34 UTC
+**Next update:** ~2026-09-24 17:20:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common raccoon dog
-![Common raccoon dog](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D0%84%D0%BD%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0_%28Nyctereutes_procyonoides%29.jpg/1920px-%D0%84%D0%BD%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0_%28Nyctereutes_procyonoides%29.jpg)
+### Asian Golden Cat
+![Asian Golden Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Asian_Golden_cat.jpg/960px-Asian_Golden_cat.jpg)
 <!-- END_ANIMAL -->
 
 
