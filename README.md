@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-24 07:06:21 UTC
-**Next update:** ~2026-09-24 07:08:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-24 07:08:23 UTC
+**Next update:** ~2026-09-24 07:10:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kei flying fox
-![Kei flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kei_Flying-fox%2C_Kai_Kecil_Airport_Rd%2C_Sotheast_Maluku_Regency%2C_Maluku%2C_Indonesia_imported_from_iNaturalist_photo_247416279.jpg/960px-Kei_Flying-fox%2C_Kai_Kecil_Airport_Rd%2C_Sotheast_Maluku_Regency%2C_Maluku%2C_Indonesia_imported_from_iNaturalist_photo_247416279.jpg)
+### Chacoan mara
+![Chacoan mara](https://upload.wikimedia.org/wikipedia/commons/7/79/%D0%A7%D0%B0%D0%BA%D0%BE%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C_%D0%B8%D0%BB%D0%B8_%D1%87%D0%B0%D0%BA%D1%81%D0%BA%D0%B0%D1%8F%2C_%D0%B8%D0%BB%D0%B8_%D0%BC%D0%B0%D0%BB%D0%B0%D1%8F_%D0%BC%D0%B0%D1%80%D0%B0_%28Dolichotis_salinicola%29%2C_Chacoan_mara%2C_Kleiner_Mara%2C_Tierpark_Berlin_Friedrichsfelde%2C_10.2012.jpg)
 <!-- END_ANIMAL -->
 
 
