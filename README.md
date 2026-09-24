@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-24 13:52:29 UTC
-**Next update:** ~2026-09-24 13:54:29 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-24 13:54:24 UTC
+**Next update:** ~2026-09-24 13:56:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Amazonian long-tailed porcupine
-![Amazonian long-tailed porcupine](https://upload.wikimedia.org/wikipedia/commons/c/c3/Coendou_prehensilis_JJK%271.jpg)
+### Alpine ibex
+![Alpine ibex](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg/960px-003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
