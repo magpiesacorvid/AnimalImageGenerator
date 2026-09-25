@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-25 10:50:42 UTC
-**Next update:** ~2026-09-25 10:52:42 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-25 10:52:23 UTC
+**Next update:** ~2026-09-25 10:54:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Highland streaked tenrec
-![Highland streaked tenrec](https://upload.wikimedia.org/wikipedia/commons/c/c8/Hemicentetes_nigriceps.jpg)
+### Bearded seal
+![Bearded seal](https://upload.wikimedia.org/wikipedia/commons/7/78/Bearded_Seal.jpg)
 <!-- END_ANIMAL -->
 
 
