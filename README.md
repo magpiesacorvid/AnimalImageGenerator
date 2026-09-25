@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-25 09:30:58 UTC
-**Next update:** ~2026-09-25 09:32:58 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-25 09:32:24 UTC
+**Next update:** ~2026-09-25 09:34:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### North Sulawesi babirusa
-![North Sulawesi babirusa](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hirscheber1a.jpg/1280px-Hirscheber1a.jpg)
+### Brown deer mouse
+![Brown deer mouse](https://upload.wikimedia.org/wikipedia/commons/d/d8/Peromyscus_megalops.jpg)
 <!-- END_ANIMAL -->
 
 
