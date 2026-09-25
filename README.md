@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-25 19:36:24 UTC
-**Next update:** ~2026-09-25 19:38:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-25 19:38:26 UTC
+**Next update:** ~2026-09-25 19:40:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Juliana's golden mole
-![Juliana's golden mole](https://upload.wikimedia.org/wikipedia/commons/4/45/The_Juliana%E2%80%99s_golden_mole_is_one_of_Africa%E2%80%99s_most_threatened_mammals_Jackson.png)
+### Black Backed Jackal
+![Black Backed Jackal](https://commons.wikimedia.org/wiki/Special:FilePath/Black-backed_jackal_(Canis_mesomelas_mesomelas).jpg)
 <!-- END_ANIMAL -->
 
 
