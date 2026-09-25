@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-25 11:02:23 UTC
-**Next update:** ~2026-09-25 11:04:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-25 11:04:26 UTC
+**Next update:** ~2026-09-25 11:06:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Elephant seal
-![Elephant seal](https://upload.wikimedia.org/wikipedia/commons/d/d8/See_elefanten_edit.jpg)
+### Fat-tailed dunnart
+![Fat-tailed dunnart](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fat-tailed_Dunnart_imported_from_iNaturalist_photo_108307960_on_20_October_2024.jpg/1920px-Fat-tailed_Dunnart_imported_from_iNaturalist_photo_108307960_on_20_October_2024.jpg)
 <!-- END_ANIMAL -->
 
 
