@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-25 13:26:25 UTC
-**Next update:** ~2026-09-25 13:28:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-25 13:28:23 UTC
+**Next update:** ~2026-09-25 13:30:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Musky rat-kangaroo
-![Musky rat-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Musky_rat-kangaroo_%28Hypsiprymnodon_moschatus%29_Atherton.jpg/1280px-Musky_rat-kangaroo_%28Hypsiprymnodon_moschatus%29_Atherton.jpg)
+### Common warthog
+![Common warthog](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Southern_warthog_%28Phacochoerus_africanus_sundevallii%29_male.jpg/1920px-Southern_warthog_%28Phacochoerus_africanus_sundevallii%29_male.jpg)
 <!-- END_ANIMAL -->
 
 
