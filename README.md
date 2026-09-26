@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-26 18:58:22 UTC
-**Next update:** ~2026-09-26 19:00:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-26 19:01:04 UTC
+**Next update:** ~2026-09-26 19:03:04 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Addax
-![Addax](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg/1280px-A_big_male_Addax_showing_as_the_power_of_his_horns.jpg)
+### Honey badger
+![Honey badger](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Honey_Badger.jpg/1920px-Honey_Badger.jpg)
 <!-- END_ANIMAL -->
 
 
