@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-26 08:02:22 UTC
-**Next update:** ~2026-09-26 08:04:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-26 08:04:20 UTC
+**Next update:** ~2026-09-26 08:06:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern bettong
-![Eastern bettong](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bettongia_gaimardi.jpg/1920px-Bettongia_gaimardi.jpg)
+### Harbour Seal
+![Harbour Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Common_seal_%28Phoca_vitulina%29_2.jpg/1920px-Common_seal_%28Phoca_vitulina%29_2.jpg)
 <!-- END_ANIMAL -->
 
 
