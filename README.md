@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-26 07:58:22 UTC
-**Next update:** ~2026-09-26 08:00:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-26 08:01:03 UTC
+**Next update:** ~2026-09-26 08:03:03 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Andean porcupine
-![Andean porcupine](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Porcupine_6.jpg/1280px-Porcupine_6.jpg)
+### Greater hedgehog tenrec
+![Greater hedgehog tenrec](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Greater_Hedgehog_Tenrec_%28Setifer_setosus%29_%289614561811%29.jpg/1920px-Greater_Hedgehog_Tenrec_%28Setifer_setosus%29_%289614561811%29.jpg)
 <!-- END_ANIMAL -->
 
 
