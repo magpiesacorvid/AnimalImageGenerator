@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-26 07:24:26 UTC
-**Next update:** ~2026-09-26 07:26:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-26 07:26:22 UTC
+**Next update:** ~2026-09-26 07:28:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bushy-tailed woodrat
-![Bushy-tailed woodrat](https://upload.wikimedia.org/wikipedia/commons/7/79/Neotoma_cinerea_%28bushy_tailed_woodrat%29.jpg)
+### Mexican Mouse Opossum
+![Mexican Mouse Opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Marmosa_mexicana_mexicana_14889186.jpg/500px-Marmosa_mexicana_mexicana_14889186.jpg)
 <!-- END_ANIMAL -->
 
 
