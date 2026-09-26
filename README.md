@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-26 01:40:34 UTC
-**Next update:** ~2026-09-26 01:42:34 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-26 01:42:21 UTC
+**Next update:** ~2026-09-26 01:44:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African pygmy mouse
-![African pygmy mouse](https://upload.wikimedia.org/wikipedia/commons/6/66/Mus_minutoides00.jpg)
+### Lac Alaotra bamboo lemur
+![Lac Alaotra bamboo lemur](https://upload.wikimedia.org/wikipedia/commons/e/e3/Hapalemur_alaotrensis_JJLM.JPG)
 <!-- END_ANIMAL -->
 
 
