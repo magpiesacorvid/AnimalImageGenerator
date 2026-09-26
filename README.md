@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-26 14:26:22 UTC
-**Next update:** ~2026-09-26 14:28:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-26 14:28:22 UTC
+**Next update:** ~2026-09-26 14:30:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Himalayan Cat
-![Himalayan Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sonny_Bunny.jpg/960px-Sonny_Bunny.jpg)
+### African clawless otter
+![African clawless otter](https://upload.wikimedia.org/wikipedia/commons/6/69/Aonyx_capensis%2C_male%2C_Shamvura.jpg)
 <!-- END_ANIMAL -->
 
 
