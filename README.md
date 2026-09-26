@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-26 06:34:25 UTC
-**Next update:** ~2026-09-26 06:36:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-26 06:36:23 UTC
+**Next update:** ~2026-09-26 06:38:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bushy-Tailed Mongoose
-![Bushy-Tailed Mongoose](https://upload.wikimedia.org/wikipedia/commons/6/62/Bushy-tailed_mongoose_-_Snapshot_Safari_Ruaha1.jpg)
+### Heaviside's dolphin
+![Heaviside's dolphin](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dolphins_at_L%C3%BCderitz%2C_Namibia_%283144863196%29.jpg/1280px-Dolphins_at_L%C3%BCderitz%2C_Namibia_%283144863196%29.jpg)
 <!-- END_ANIMAL -->
 
 
