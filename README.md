@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-26 22:02:27 UTC
-**Next update:** ~2026-09-26 22:04:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-26 22:04:28 UTC
+**Next update:** ~2026-09-26 22:06:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black jackrabbit
-![Black jackrabbit](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lepus_insularis_iNaturalist.jpg)
+### Green ringtail possum
+![Green ringtail possum](https://upload.wikimedia.org/wikipedia/commons/a/a7/Green_ringtail_possum_on_August_2023.jpg)
 <!-- END_ANIMAL -->
 
 
