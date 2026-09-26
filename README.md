@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-25 23:58:19 UTC
-**Next update:** ~2026-09-26 00:00:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-26 00:01:04 UTC
+**Next update:** ~2026-09-26 00:03:04 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### North American beaver
-![North American beaver](https://upload.wikimedia.org/wikipedia/commons/6/6b/American_Beaver.jpg)
+### Naked Mole Rat
+![Naked Mole Rat](https://upload.wikimedia.org/wikipedia/commons/f/f6/Webs180130-rat.jpg)
 <!-- END_ANIMAL -->
 
 
