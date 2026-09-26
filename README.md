@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-26 17:01:04 UTC
-**Next update:** ~2026-09-26 17:03:04 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-26 17:02:22 UTC
+**Next update:** ~2026-09-26 17:04:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kangaroo rat
-![Kangaroo rat](https://upload.wikimedia.org/wikipedia/commons/5/50/Kangaroo-rat.jpg)
+### Mediterranean water shrew
+![Mediterranean water shrew](https://upload.wikimedia.org/wikipedia/commons/3/3a/Neomys_anomalus.jpg)
 <!-- END_ANIMAL -->
 
 
