@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-26 10:01:03 UTC
-**Next update:** ~2026-09-26 10:03:03 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-26 10:02:25 UTC
+**Next update:** ~2026-09-26 10:04:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Domestic goat
-![Domestic goat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hausziege_04.jpg/1920px-Hausziege_04.jpg)
+### Masai giraffe
+![Masai giraffe](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/GiraffaCamelopardalisTippelskirchi-Masaai-Mara.JPG/500px-GiraffaCamelopardalisTippelskirchi-Masaai-Mara.JPG)
 <!-- END_ANIMAL -->
 
 
