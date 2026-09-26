@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-26 21:18:26 UTC
-**Next update:** ~2026-09-26 21:20:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-26 21:20:41 UTC
+**Next update:** ~2026-09-26 21:22:41 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Big lutrine opossum
-![Big lutrine opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lutreolina_crassicaudata_216572398.jpg/1920px-Lutreolina_crassicaudata_216572398.jpg)
+### Caucasian Mountain ground squirrel
+![Caucasian Mountain ground squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%D0%A1%D1%83%D1%81%D0%BB%D0%B8%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B5.jpg/1920px-%D0%A1%D1%83%D1%81%D0%BB%D0%B8%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B5.jpg)
 <!-- END_ANIMAL -->
 
 
