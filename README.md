@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-26 04:46:21 UTC
-**Next update:** ~2026-09-26 04:48:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-26 04:48:22 UTC
+**Next update:** ~2026-09-26 04:50:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Island fox
-![Island fox](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Urocyon_littoralis_%28Island_fox%29_FWS_001.jpg/1280px-Urocyon_littoralis_%28Island_fox%29_FWS_001.jpg)
+### Black wallaroo
+![Black wallaroo](https://upload.wikimedia.org/wikipedia/commons/c/c6/Black_Wallaroo_Nourlangie_Rock_in_Kakadu_NP.jpg)
 <!-- END_ANIMAL -->
 
 
