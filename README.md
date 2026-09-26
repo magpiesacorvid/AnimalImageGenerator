@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-26 01:42:21 UTC
-**Next update:** ~2026-09-26 01:44:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-26 01:44:20 UTC
+**Next update:** ~2026-09-26 01:46:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lac Alaotra bamboo lemur
-![Lac Alaotra bamboo lemur](https://upload.wikimedia.org/wikipedia/commons/e/e3/Hapalemur_alaotrensis_JJLM.JPG)
+### Arabian Mau
+![Arabian Mau](https://commons.wikimedia.org/wiki/Special:FilePath/Bex_Arabian_Mau.jpg)
 <!-- END_ANIMAL -->
 
 
