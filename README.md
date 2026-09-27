@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-27 11:08:22 UTC
-**Next update:** ~2026-09-27 11:10:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-27 11:10:42 UTC
+**Next update:** ~2026-09-27 11:12:42 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Humboldt's hog-nosed skunk
-![Humboldt's hog-nosed skunk](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Zorrillo.jpg/1280px-Zorrillo.jpg)
+### Impala
+![Impala](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Impala_%28Aepyceros_melampus%29_male_Kruger.jpg/1280px-Impala_%28Aepyceros_melampus%29_male_Kruger.jpg)
 <!-- END_ANIMAL -->
 
 
