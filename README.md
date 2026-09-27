@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-27 18:38:24 UTC
-**Next update:** ~2026-09-27 18:40:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-27 18:40:38 UTC
+**Next update:** ~2026-09-27 18:42:38 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gray short-tailed opossum
-![Gray short-tailed opossum](https://upload.wikimedia.org/wikipedia/commons/b/b5/Monodelphis_domestica.jpg)
+### Cheetah
+![Cheetah](https://commons.wikimedia.org/wiki/Special:FilePath/Cheetah_(Acinonyx_jubatus)_female_2.jpg)
 <!-- END_ANIMAL -->
 
 
