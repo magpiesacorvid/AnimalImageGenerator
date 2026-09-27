@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-27 00:14:22 UTC
-**Next update:** ~2026-09-27 00:16:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-27 00:16:20 UTC
+**Next update:** ~2026-09-27 00:18:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African clawless otter
-![African clawless otter](https://upload.wikimedia.org/wikipedia/commons/6/69/Aonyx_capensis%2C_male%2C_Shamvura.jpg)
+### Northern white-cheeked gibbon
+![Northern white-cheeked gibbon](https://upload.wikimedia.org/wikipedia/commons/8/85/Witwanggibbon_M.jpg)
 <!-- END_ANIMAL -->
 
 
