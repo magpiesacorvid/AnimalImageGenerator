@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-27 04:26:22 UTC
-**Next update:** ~2026-09-27 04:28:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-27 04:28:23 UTC
+**Next update:** ~2026-09-27 04:30:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hooded skunk
-![Hooded skunk](https://upload.wikimedia.org/wikipedia/commons/3/3d/Hooded_Skunk_side_%28Gelsenkirchen%29.jpg)
+### Golden Jackal
+![Golden Jackal](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/500px-033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
