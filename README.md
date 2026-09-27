@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-27 04:28:23 UTC
-**Next update:** ~2026-09-27 04:30:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-27 04:30:53 UTC
+**Next update:** ~2026-09-27 04:32:53 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Golden Jackal
-![Golden Jackal](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/500px-033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg)
+### Crowned lemur
+![Crowned lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Crowned_lemur_%28Eulemur_coronatus%29_male.jpg/1920px-Crowned_lemur_%28Eulemur_coronatus%29_male.jpg)
 <!-- END_ANIMAL -->
 
 
