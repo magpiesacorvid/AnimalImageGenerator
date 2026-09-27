@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-27 05:18:22 UTC
-**Next update:** ~2026-09-27 05:20:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-27 05:20:35 UTC
+**Next update:** ~2026-09-27 05:22:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Crowned lemur
-![Crowned lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Crowned_lemur_%28Eulemur_coronatus%29_male.jpg/1920px-Crowned_lemur_%28Eulemur_coronatus%29_male.jpg)
+### Lesser capybara
+![Lesser capybara](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Lessercapybaracropped.jpg/1280px-Lessercapybaracropped.jpg)
 <!-- END_ANIMAL -->
 
 
