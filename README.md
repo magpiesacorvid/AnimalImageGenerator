@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-27 16:01:04 UTC
-**Next update:** ~2026-09-27 16:03:04 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-27 16:02:56 UTC
+**Next update:** ~2026-09-27 16:04:56 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American Black Bear
-![American Black Bear](https://upload.wikimedia.org/wikipedia/commons/0/08/01_Schwarzb%C3%A4r.jpg)
+### Cotton rats
+![Cotton rats](https://upload.wikimedia.org/wikipedia/commons/e/ee/Sigmodon_hispidus1.jpg)
 <!-- END_ANIMAL -->
 
 
