@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-27 11:16:21 UTC
-**Next update:** ~2026-09-27 11:18:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-27 11:18:23 UTC
+**Next update:** ~2026-09-27 11:20:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gray four-eyed opossum
-![Gray four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/a/ab/Cuica_verdadeira.jpg)
+### Kirk's dik-dik
+![Kirk's dik-dik](Kirk's dik-dik)
 <!-- END_ANIMAL -->
 
 
