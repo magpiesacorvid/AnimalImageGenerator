@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-27 02:01:01 UTC
-**Next update:** ~2026-09-27 02:03:01 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-27 02:02:23 UTC
+**Next update:** ~2026-09-27 02:04:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Harnessed bushbuck
-![Harnessed bushbuck](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tragelaphus_scriptus_scriptus_345230787.jpg/1920px-Tragelaphus_scriptus_scriptus_345230787.jpg)
+### Okapi
+![Okapi](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg/1280px-Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg)
 <!-- END_ANIMAL -->
 
 
