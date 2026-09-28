@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-28 22:38:22 UTC
-**Next update:** ~2026-09-28 22:40:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-28 22:40:34 UTC
+**Next update:** ~2026-09-28 22:42:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Baird's tapir
-![Baird's tapir](https://commons.wikimedia.org/wiki/Special:FilePath/Baird's_tapir_mother_with_baby_(92151).jpg)
+### Minskin Cat
+![Minskin Cat](https://upload.wikimedia.org/wikipedia/commons/7/73/Minskin_Kitten_Female_blue_tabby_color-pattern.jpg)
 <!-- END_ANIMAL -->
 
 
