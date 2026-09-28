@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-28 23:04:24 UTC
-**Next update:** ~2026-09-28 23:06:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-28 23:06:21 UTC
+**Next update:** ~2026-09-28 23:08:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African Wolf
-![African Wolf](https://upload.wikimedia.org/wikipedia/commons/4/42/African_wolf%2C_Dagana%2C_Senegal.jpg)
+### Indian Brown Mongoose
+![Indian Brown Mongoose](https://upload.wikimedia.org/wikipedia/commons/a/af/Indian_Brown_Mongoose.jpg)
 <!-- END_ANIMAL -->
 
 
