@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-28 17:42:22 UTC
-**Next update:** ~2026-09-28 17:44:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-28 17:44:21 UTC
+**Next update:** ~2026-09-28 17:46:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Northern birch mouse
-![Northern birch mouse](https://upload.wikimedia.org/wikipedia/commons/3/37/Sicista_betulina_03.JPG)
+### Dall's porpoise
+![Dall's porpoise](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Phocoenoides_dalli_%28Dall%27s_porpoise%29.jpg/1920px-Phocoenoides_dalli_%28Dall%27s_porpoise%29.jpg)
 <!-- END_ANIMAL -->
 
 
