@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-28 13:06:24 UTC
-**Next update:** ~2026-09-28 13:08:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-28 13:08:25 UTC
+**Next update:** ~2026-09-28 13:10:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asian Cat
-![Asian Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IMGP1134_%2851750850378%29.jpg/1920px-IMGP1134_%2851750850378%29.jpg)
+### Dusky-footed woodrat
+![Dusky-footed woodrat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Riparian_woodrat_neotoma_fuscipes_riparia_endangered_mammal_species.jpg/1920px-Riparian_woodrat_neotoma_fuscipes_riparia_endangered_mammal_species.jpg)
 <!-- END_ANIMAL -->
 
 
