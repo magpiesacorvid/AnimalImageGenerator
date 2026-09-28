@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-28 06:48:24 UTC
-**Next update:** ~2026-09-28 06:50:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-28 06:50:35 UTC
+**Next update:** ~2026-09-28 06:52:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Andean porcupine
-![Andean porcupine](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Porcupine_6.jpg/1280px-Porcupine_6.jpg)
+### Derby's woolly opossum
+![Derby's woolly opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Central_American_woolly_opossum_%28Caluromys_derbianus%29_male.jpg/1920px-Central_American_woolly_opossum_%28Caluromys_derbianus%29_male.jpg)
 <!-- END_ANIMAL -->
 
 
