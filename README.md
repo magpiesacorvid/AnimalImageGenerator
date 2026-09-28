@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-28 11:22:23 UTC
-**Next update:** ~2026-09-28 11:24:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-28 11:24:24 UTC
+**Next update:** ~2026-09-28 11:26:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Island spotted skunk
-![Island spotted skunk](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Spilogale_gracilis_amphiala.jpg/1280px-Spilogale_gracilis_amphiala.jpg)
+### Dusky-footed woodrat
+![Dusky-footed woodrat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Riparian_woodrat_neotoma_fuscipes_riparia_endangered_mammal_species.jpg/1920px-Riparian_woodrat_neotoma_fuscipes_riparia_endangered_mammal_species.jpg)
 <!-- END_ANIMAL -->
 
 
