@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-28 23:40:36 UTC
-**Next update:** ~2026-09-28 23:42:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-28 23:42:22 UTC
+**Next update:** ~2026-09-28 23:44:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Antarctic minke whale
-![Antarctic minke whale](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Minke_whale_in_ross_sea.jpg/960px-Minke_whale_in_ross_sea.jpg)
+### Collared pika
+![Collared pika](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ochotona_collaris_426417063.jpg/1920px-Ochotona_collaris_426417063.jpg)
 <!-- END_ANIMAL -->
 
 
