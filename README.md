@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-29 13:30:55 UTC
-**Next update:** ~2026-09-29 13:32:55 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-29 13:32:25 UTC
+**Next update:** ~2026-09-29 13:34:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hoary fox
-![Hoary fox](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lycalopex_vetulus_in_Bacury_Lodge%2C_Anhembi_5.jpg/1280px-Lycalopex_vetulus_in_Bacury_Lodge%2C_Anhembi_5.jpg)
+### Melon-headed whale
+![Melon-headed whale](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Peponocephala_electra_Mayotte.jpg/1280px-Peponocephala_electra_Mayotte.jpg)
 <!-- END_ANIMAL -->
 
 
