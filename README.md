@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-29 20:12:24 UTC
-**Next update:** ~2026-09-29 20:14:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-29 20:14:23 UTC
+**Next update:** ~2026-09-29 20:16:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown Fur Seal
-![Brown Fur Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Arctocephalus_pusillus_-_SE_Tasmania.jpg/1920px-Arctocephalus_pusillus_-_SE_Tasmania.jpg)
+### Chinese Birch mouse
+![Chinese Birch mouse](https://upload.wikimedia.org/wikipedia/commons/e/e1/Sicista_concolor.jpg)
 <!-- END_ANIMAL -->
 
 
