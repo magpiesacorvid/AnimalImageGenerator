@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-29 12:06:26 UTC
-**Next update:** ~2026-09-29 12:08:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-29 12:08:26 UTC
+**Next update:** ~2026-09-29 12:10:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Emperor tamarin
-![Emperor tamarin](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tamarin_portrait.JPG/1920px-Tamarin_portrait.JPG)
+### Asiatic water shrew
+![Asiatic water shrew](https://upload.wikimedia.org/wikipedia/commons/6/62/Kawanezumi.jpg)
 <!-- END_ANIMAL -->
 
 
