@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-29 04:32:24 UTC
-**Next update:** ~2026-09-29 04:34:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-29 04:34:21 UTC
+**Next update:** ~2026-09-29 04:36:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asiatic water shrew
-![Asiatic water shrew](https://upload.wikimedia.org/wikipedia/commons/6/62/Kawanezumi.jpg)
+### Giant golden-crowned flying fox
+![Giant golden-crowned flying fox](https://upload.wikimedia.org/wikipedia/commons/9/97/Acerodon_jubatus_by_Gregg_Yan.jpg)
 <!-- END_ANIMAL -->
 
 
