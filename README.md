@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-30 11:32:36 UTC
-**Next update:** ~2026-09-30 11:34:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-30 11:34:24 UTC
+**Next update:** ~2026-09-30 11:36:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Harbour Seal
-![Harbour Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Common_seal_%28Phoca_vitulina%29_2.jpg/1920px-Common_seal_%28Phoca_vitulina%29_2.jpg)
+### False killer whale
+![False killer whale](https://upload.wikimedia.org/wikipedia/commons/9/99/Pseudoorca_Crassidens_-_False_Killer_Whale.jpg)
 <!-- END_ANIMAL -->
 
 
