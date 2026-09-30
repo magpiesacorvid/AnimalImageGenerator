@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-30 20:46:27 UTC
-**Next update:** ~2026-09-30 20:48:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-30 20:48:26 UTC
+**Next update:** ~2026-09-30 20:50:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater hog badger
-![Greater hog badger](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Arctonyx-collaris-hog-badger.jpg/1920px-Arctonyx-collaris-hog-badger.jpg)
+### Cuban funnel-eared bat
+![Cuban funnel-eared bat](https://upload.wikimedia.org/wikipedia/commons/d/dc/Chilonatalus_micropus.png)
 <!-- END_ANIMAL -->
 
 
