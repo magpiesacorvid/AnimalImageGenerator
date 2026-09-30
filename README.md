@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-30 19:40:37 UTC
-**Next update:** ~2026-09-30 19:42:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-30 19:42:22 UTC
+**Next update:** ~2026-09-30 19:44:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Goa
-![Goa](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tibetan_Gazelle%2C_Ladakh_%28167275759%29.jpg/1920px-Tibetan_Gazelle%2C_Ladakh_%28167275759%29.jpg)
+### Bryde's Whale
+![Bryde's Whale](https://upload.wikimedia.org/wikipedia/commons/d/d0/Brydeswhale_sophiewebb-swfsc-star2006.jpg)
 <!-- END_ANIMAL -->
 
 
