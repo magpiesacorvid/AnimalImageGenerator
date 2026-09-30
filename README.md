@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-30 19:52:24 UTC
-**Next update:** ~2026-09-30 19:54:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-30 19:54:25 UTC
+**Next update:** ~2026-09-30 19:56:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Addax
-![Addax](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg/1280px-A_big_male_Addax_showing_as_the_power_of_his_horns.jpg)
+### Northern smooth-tailed treeshrew
+![Northern smooth-tailed treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_northern_smooth-tailed_treeshrew_2.jpg/1920px-The_northern_smooth-tailed_treeshrew_2.jpg)
 <!-- END_ANIMAL -->
 
 
