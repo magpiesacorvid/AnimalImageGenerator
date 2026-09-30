@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-30 02:38:24 UTC
-**Next update:** ~2026-09-30 02:40:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-30 02:40:37 UTC
+**Next update:** ~2026-09-30 02:42:37 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mohol bushbaby
-![Mohol bushbaby](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Mohol_bushbaby_%28Galago_moholi%29%2C_crop.jpg/960px-The_Mohol_bushbaby_%28Galago_moholi%29%2C_crop.jpg)
+### Kanaani
+![Kanaani](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kanaani_cat_Haifa_full_body_profile_Brooklyn_2025_%28cropped%29.jpg/1280px-Kanaani_cat_Haifa_full_body_profile_Brooklyn_2025_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
