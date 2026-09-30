@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-30 08:16:23 UTC
-**Next update:** ~2026-09-30 08:18:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-30 08:18:26 UTC
+**Next update:** ~2026-09-30 08:20:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common Kusimanse
-![Common Kusimanse](https://upload.wikimedia.org/wikipedia/commons/9/98/Crossarchus_obscurus_Plzen_zoo_02.2011.jpg)
+### Hoffmann's two-toed sloth
+![Hoffmann's two-toed sloth](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2_toed_sloth.jpg/1280px-2_toed_sloth.jpg)
 <!-- END_ANIMAL -->
 
 
