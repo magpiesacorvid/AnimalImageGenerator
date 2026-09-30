@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-30 04:34:23 UTC
-**Next update:** ~2026-09-30 04:36:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-30 04:36:20 UTC
+**Next update:** ~2026-09-30 04:38:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common eland
-![Common eland](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Taurotragus_oryx_-_young_bull_-_Etosha_2015.jpg/1920px-Taurotragus_oryx_-_young_bull_-_Etosha_2015.jpg)
+### Burmilla Cat
+![Burmilla Cat](https://upload.wikimedia.org/wikipedia/commons/e/e9/Male_Burmilla_cat.jpeg)
 <!-- END_ANIMAL -->
 
 
