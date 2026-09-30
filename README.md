@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-30 10:18:25 UTC
-**Next update:** ~2026-09-30 10:20:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-30 10:20:41 UTC
+**Next update:** ~2026-09-30 10:22:41 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lesser hedgehog tenrec
-![Lesser hedgehog tenrec](https://upload.wikimedia.org/wikipedia/commons/0/01/Kleiner-igeltanrek-a.jpg)
+### Burmilla Cat
+![Burmilla Cat](https://upload.wikimedia.org/wikipedia/commons/e/e9/Male_Burmilla_cat.jpeg)
 <!-- END_ANIMAL -->
 
 
