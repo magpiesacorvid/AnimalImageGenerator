@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-30 21:26:21 UTC
-**Next update:** ~2026-09-30 21:28:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-30 21:28:25 UTC
+**Next update:** ~2026-09-30 21:30:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Drill
-![Drill](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Drill_Mandrillus_leucophaeus_Junges_Tierpark_Hellabrunn-7.jpg/1920px-Drill_Mandrillus_leucophaeus_Junges_Tierpark_Hellabrunn-7.jpg)
+### Milne-Edwards's sifaka
+![Milne-Edwards's sifaka](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Milne_Edwards%27s_sifaka_%28Propithecus_edwardsi%29.jpg/960px-Milne_Edwards%27s_sifaka_%28Propithecus_edwardsi%29.jpg)
 <!-- END_ANIMAL -->
 
 
