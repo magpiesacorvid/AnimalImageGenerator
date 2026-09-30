@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-30 03:52:23 UTC
-**Next update:** ~2026-09-30 03:54:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-30 03:54:22 UTC
+**Next update:** ~2026-09-30 03:56:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### East Caucasian tur
-![East Caucasian tur](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Daghestanischer_Tur_Ostkaukasischer_Steinbock_Capra_cylindricornis_Zoo_Augsburg-10_%28cropped%29.jpg/1920px-Daghestanischer_Tur_Ostkaukasischer_Steinbock_Capra_cylindricornis_Zoo_Augsburg-10_%28cropped%29.jpg)
+### Indian hog deer
+![Indian hog deer](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hog_deer12.jpg/1280px-Hog_deer12.jpg)
 <!-- END_ANIMAL -->
 
 
