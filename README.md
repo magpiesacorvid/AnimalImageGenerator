@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-09-30 05:28:24 UTC
-**Next update:** ~2026-09-30 05:30:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-09-30 05:30:55 UTC
+**Next update:** ~2026-09-30 05:32:55 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Grey-headed flying fox
-![Grey-headed flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Grey_headed_flying_fox_-_Mating_behaviour_-_AndrewMercer_-_DSC11277_-_crop.jpg/1920px-Grey_headed_flying_fox_-_Mating_behaviour_-_AndrewMercer_-_DSC11277_-_crop.jpg)
+### Clouded Leopard
+![Clouded Leopard](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Neofelis_nebulosa%2C_Clouded_leopard.jpg/1920px-Neofelis_nebulosa%2C_Clouded_leopard.jpg)
 <!-- END_ANIMAL -->
 
 
