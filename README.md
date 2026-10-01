@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-01 02:02:21 UTC
-**Next update:** ~2026-10-01 02:04:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-01 02:04:22 UTC
+**Next update:** ~2026-10-01 02:06:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Melon-headed whale
-![Melon-headed whale](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Peponocephala_electra_Mayotte.jpg/1280px-Peponocephala_electra_Mayotte.jpg)
+### Hooded seal
+![Hooded seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2016-klappm%C3%BCtzemuseumkoenig.jpg/1280px-2016-klappm%C3%BCtzemuseumkoenig.jpg)
 <!-- END_ANIMAL -->
 
 
