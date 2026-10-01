@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-01 18:04:27 UTC
-**Next update:** ~2026-10-01 18:06:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-01 18:06:27 UTC
+**Next update:** ~2026-10-01 18:08:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bettongs
-![Bettongs](https://commons.wikimedia.org/wiki/Special:FilePath/Burrowing_bettong.jpg)
+### Benin tree hyrax
+![Benin tree hyrax](https://upload.wikimedia.org/wikipedia/commons/2/2c/Dendrohyrax_interfluvialis.jpg)
 <!-- END_ANIMAL -->
 
 
