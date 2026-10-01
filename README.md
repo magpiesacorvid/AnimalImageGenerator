@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-01 17:26:21 UTC
-**Next update:** ~2026-10-01 17:28:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-01 17:28:22 UTC
+**Next update:** ~2026-10-01 17:30:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black wallaroo
-![Black wallaroo](https://upload.wikimedia.org/wikipedia/commons/c/c6/Black_Wallaroo_Nourlangie_Rock_in_Kakadu_NP.jpg)
+### Lesser false vampire bat
+![Lesser false vampire bat](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Megaderma_spasma.jpg/960px-Megaderma_spasma.jpg)
 <!-- END_ANIMAL -->
 
 
