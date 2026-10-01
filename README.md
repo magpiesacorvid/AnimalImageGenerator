@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-01 00:48:23 UTC
-**Next update:** ~2026-10-01 00:50:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-01 00:50:35 UTC
+**Next update:** ~2026-10-01 00:52:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-tailed jackrabbit
-![Black-tailed jackrabbit](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Black-tailed_Jack_Rabbit_%28Lepus_californicus%29.jpg/1920px-Black-tailed_Jack_Rabbit_%28Lepus_californicus%29.jpg)
+### Mountain cottontail
+![Mountain cottontail](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nuttall%27s_Cottontail_%28Sylvilagus_nuttallii%29.jpg/1280px-Nuttall%27s_Cottontail_%28Sylvilagus_nuttallii%29.jpg)
 <!-- END_ANIMAL -->
 
 
