@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-01 17:44:23 UTC
-**Next update:** ~2026-10-01 17:46:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-01 17:46:24 UTC
+**Next update:** ~2026-10-01 17:48:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Forrest's pika
-![Forrest's pika](https://upload.wikimedia.org/wikipedia/commons/9/93/Ochotona_forresti.png)
+### Greater hedgehog tenrec
+![Greater hedgehog tenrec](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Greater_Hedgehog_Tenrec_%28Setifer_setosus%29_%289614561811%29.jpg/1920px-Greater_Hedgehog_Tenrec_%28Setifer_setosus%29_%289614561811%29.jpg)
 <!-- END_ANIMAL -->
 
 
