@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-01 08:04:22 UTC
-**Next update:** ~2026-10-01 08:06:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-01 08:06:25 UTC
+**Next update:** ~2026-10-01 08:08:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Impala
-![Impala](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Impala_%28Aepyceros_melampus%29_male_Kruger.jpg/1280px-Impala_%28Aepyceros_melampus%29_male_Kruger.jpg)
+### Capuchin monkey
+![Capuchin monkey](https://upload.wikimedia.org/wikipedia/commons/4/40/Capuchin_Costa_Rica.jpg)
 <!-- END_ANIMAL -->
 
 
