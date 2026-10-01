@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-01 00:04:20 UTC
-**Next update:** ~2026-10-01 00:06:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-01 00:06:22 UTC
+**Next update:** ~2026-10-01 00:08:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Andean hairy armadillo
-![Andean hairy armadillo](https://upload.wikimedia.org/wikipedia/commons/8/80/Chaetophractus_nationi%2C_Oruro%2C_Bolivia_-_20090824.jpg)
+### Mountain reedbuck
+![Mountain reedbuck](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Southern_Mountain_Reedbuck_%28Redunca_fulvorufula%29_%2833043612376%29.jpg/960px-Southern_Mountain_Reedbuck_%28Redunca_fulvorufula%29_%2833043612376%29.jpg)
 <!-- END_ANIMAL -->
 
 
