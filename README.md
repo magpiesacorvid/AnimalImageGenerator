@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-01 04:20:38 UTC
-**Next update:** ~2026-10-01 04:22:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-01 04:22:22 UTC
+**Next update:** ~2026-10-01 04:24:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### European bison
-![European bison](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/European_bison_%28Bison_bonasus%29_male_Bia%C5%82owieza.jpg/1920px-European_bison_%28Bison_bonasus%29_male_Bia%C5%82owieza.jpg)
+### Kob
+![Kob](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Male_Ugandan_kob_-_Queen_Elizabeth_National_Park%2C_Uganda_%284%29.jpg/1280px-Male_Ugandan_kob_-_Queen_Elizabeth_National_Park%2C_Uganda_%284%29.jpg)
 <!-- END_ANIMAL -->
 
 
