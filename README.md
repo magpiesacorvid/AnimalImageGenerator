@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-01 14:10:38 UTC
-**Next update:** ~2026-10-01 14:12:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-01 14:12:26 UTC
+**Next update:** ~2026-10-01 14:14:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arctic fox
-![Arctic fox](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg/960px-Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg)
+### Central greater glider
+![Central greater glider](https://upload.wikimedia.org/wikipedia/commons/2/2e/Petauroides_volans4.jpg)
 <!-- END_ANIMAL -->
 
 
