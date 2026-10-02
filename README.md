@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-02 10:30:54 UTC
-**Next update:** ~2026-10-02 10:32:54 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-02 10:32:28 UTC
+**Next update:** ~2026-10-02 10:34:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black Panther-Leopard
-![Black Panther-Leopard](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Black_Panther_-_India.jpg/1920px-Black_Panther_-_India.jpg)
+### Devon Rex Cat
+![Devon Rex Cat](https://upload.wikimedia.org/wikipedia/commons/a/ad/Devon_Rex_Cassini.jpeg)
 <!-- END_ANIMAL -->
 
 
