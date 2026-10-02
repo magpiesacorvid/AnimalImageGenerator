@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-02 13:01:09 UTC
-**Next update:** ~2026-10-02 13:03:09 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-02 13:02:27 UTC
+**Next update:** ~2026-10-02 13:04:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian pangolin
-![Indian pangolin](https://upload.wikimedia.org/wikipedia/commons/3/30/Scaly_ant_eater_by_Dushy_Ranetunge_2.jpg)
+### Crawford's gray shrew
+![Crawford's gray shrew](https://upload.wikimedia.org/wikipedia/commons/d/d1/Crawford%27s_gray_shrew.jpg)
 <!-- END_ANIMAL -->
 
 
