@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-02 14:12:25 UTC
-**Next update:** ~2026-10-02 14:14:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-02 14:15:41 UTC
+**Next update:** ~2026-10-02 14:17:41 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dwarf epauletted fruit bat
-![Dwarf epauletted fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Peters%27s_dwarf_epauletted_fruit_bat_%28Micropteropus_pusillus%29.jpg/1920px-Peters%27s_dwarf_epauletted_fruit_bat_%28Micropteropus_pusillus%29.jpg)
+### African bush elephant
+![African bush elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
