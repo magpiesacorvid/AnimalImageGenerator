@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-02 11:32:26 UTC
-**Next update:** ~2026-10-02 11:34:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-02 11:34:23 UTC
+**Next update:** ~2026-10-02 11:36:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Domestic sheep
-![Domestic sheep](https://upload.wikimedia.org/wikipedia/commons/2/2c/Flock_of_sheep.jpg)
+### Giant armadillo
+![Giant armadillo](https://upload.wikimedia.org/wikipedia/commons/0/06/Priodontes_maximus_at_R%C3%A9gina.jpg)
 <!-- END_ANIMAL -->
 
 
