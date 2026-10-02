@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-02 13:54:23 UTC
-**Next update:** ~2026-10-02 13:56:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-02 13:56:26 UTC
+**Next update:** ~2026-10-02 13:58:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Crab-Eating Mongoose
-![Crab-Eating Mongoose](https://upload.wikimedia.org/wikipedia/commons/7/78/Urva_urva_77938111.jpg)
+### Mountain brushtail possum
+![Mountain brushtail possum](https://upload.wikimedia.org/wikipedia/commons/5/54/Trichosurus_cunninghami3.jpg)
 <!-- END_ANIMAL -->
 
 
