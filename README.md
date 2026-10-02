@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-02 13:18:59 UTC
-**Next update:** ~2026-10-02 13:20:59 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-02 13:20:41 UTC
+**Next update:** ~2026-10-02 13:22:41 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern quoll
-![Eastern quoll](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg/1920px-Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg)
+### African Palm Civet
+![African Palm Civet](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nandinia_binotata%2C_crop.jpg/960px-Nandinia_binotata%2C_crop.jpg)
 <!-- END_ANIMAL -->
 
 
