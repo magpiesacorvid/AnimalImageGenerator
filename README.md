@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-02 00:26:22 UTC
-**Next update:** ~2026-10-02 00:28:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-02 00:28:23 UTC
+**Next update:** ~2026-10-02 00:30:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Blesbok
-![Blesbok](https://commons.wikimedia.org/wiki/Special:FilePath/Blesbok,_Damaliscus_pygargus_phillipsi,_at_Krugersdorp_Game_Reserve,_Gauteng,_South_Africa_(26872993194).jpg)
+### Northern treeshrew
+![Northern treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Tupaia_belangeri_99597342.jpg/1280px-Tupaia_belangeri_99597342.jpg)
 <!-- END_ANIMAL -->
 
 
