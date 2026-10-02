@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-02 18:20:43 UTC
-**Next update:** ~2026-10-02 18:22:43 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-02 18:22:28 UTC
+**Next update:** ~2026-10-02 18:24:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Jameson's red rock hare
-![Jameson's red rock hare](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pronolagus_randensis_Rudloff_%28cropped%29.jpg/1280px-Pronolagus_randensis_Rudloff_%28cropped%29.jpg)
+### Drill
+![Drill](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Drill_Mandrillus_leucophaeus_Junges_Tierpark_Hellabrunn-7.jpg/1920px-Drill_Mandrillus_leucophaeus_Junges_Tierpark_Hellabrunn-7.jpg)
 <!-- END_ANIMAL -->
 
 
