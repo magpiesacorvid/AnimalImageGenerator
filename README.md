@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-03 19:24:25 UTC
-**Next update:** ~2026-10-03 19:26:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-03 19:26:21 UTC
+**Next update:** ~2026-10-03 19:28:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chinese Birch mouse
-![Chinese Birch mouse](https://upload.wikimedia.org/wikipedia/commons/e/e1/Sicista_concolor.jpg)
+### Black Panther-Leopard
+![Black Panther-Leopard](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Black_Panther_-_India.jpg/1920px-Black_Panther_-_India.jpg)
 <!-- END_ANIMAL -->
 
 
