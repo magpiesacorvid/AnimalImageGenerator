@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-03 10:24:21 UTC
-**Next update:** ~2026-10-03 10:26:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-03 10:26:21 UTC
+**Next update:** ~2026-10-03 10:28:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian flying fox
-![Indian flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/047_Indian_flying_fox_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/960px-047_Indian_flying_fox_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg)
+### Flat Headed Cat
+![Flat Headed Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flat-headed_cat_1_Jim_Sanderson.JPG/1920px-Flat-headed_cat_1_Jim_Sanderson.JPG)
 <!-- END_ANIMAL -->
 
 
