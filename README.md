@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-03 00:06:21 UTC
-**Next update:** ~2026-10-03 00:08:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-03 00:08:21 UTC
+**Next update:** ~2026-10-03 00:10:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Nebelung Cat
-![Nebelung Cat](https://upload.wikimedia.org/wikipedia/commons/2/29/Aleksandr_van_Song_de_Chine.jpg)
+### Giant golden-crowned flying fox
+![Giant golden-crowned flying fox](https://upload.wikimedia.org/wikipedia/commons/9/97/Acerodon_jubatus_by_Gregg_Yan.jpg)
 <!-- END_ANIMAL -->
 
 
