@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-03 22:40:37 UTC
-**Next update:** ~2026-10-03 22:42:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-03 22:42:22 UTC
+**Next update:** ~2026-10-03 22:44:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Agricola's gracile opossum
-![Agricola's gracile opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Cryptonanus_agricolai_478752226.jpg/1280px-Cryptonanus_agricolai_478752226.jpg)
+### Northern tamandua
+![Northern tamandua](https://upload.wikimedia.org/wikipedia/commons/8/80/DirkvdM_tamandua.jpg)
 <!-- END_ANIMAL -->
 
 
