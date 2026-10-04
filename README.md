@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-04 13:42:21 UTC
-**Next update:** ~2026-10-04 13:44:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-04 13:44:28 UTC
+**Next update:** ~2026-10-04 13:46:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gilbert's dunnart
-![Gilbert's dunnart](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gilberts_Dunnart_%2826482365072%29.jpg/250px-Gilberts_Dunnart_%2826482365072%29.jpg)
+### Dwarf sperm whale
+![Dwarf sperm whale](https://upload.wikimedia.org/wikipedia/commons/5/58/Dwarf_sperm_whale_%28NOAA_Pitman%29.jpg)
 <!-- END_ANIMAL -->
 
 
