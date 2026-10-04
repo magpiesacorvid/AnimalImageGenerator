@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-04 03:20:38 UTC
-**Next update:** ~2026-10-04 03:22:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-04 03:22:22 UTC
+**Next update:** ~2026-10-04 03:24:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Four-toed hedgehog
-![Four-toed hedgehog](https://upload.wikimedia.org/wikipedia/commons/d/d0/Atelerix_albiventris.jpg)
+### Hairy-tailed mole
+![Hairy-tailed mole](https://upload.wikimedia.org/wikipedia/commons/3/3f/Hairy-tailed_Mole_iNaturalist.jpg)
 <!-- END_ANIMAL -->
 
 
