@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-04 18:04:24 UTC
-**Next update:** ~2026-10-04 18:06:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-04 18:06:22 UTC
+**Next update:** ~2026-10-04 18:08:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bear cuscuses
-![Bear cuscuses](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ailurops_ursinus_Naemundung_2_North_Sulawesi.jpg/1920px-Ailurops_ursinus_Naemundung_2_North_Sulawesi.jpg)
+### Mole-like rice tenrec
+![Mole-like rice tenrec](https://upload.wikimedia.org/wikipedia/commons/c/cb/Mole-like_Rice_Tenrec_%28Oryzoryctes_hova%29_%2844120142915%29_2.jpg)
 <!-- END_ANIMAL -->
 
 
