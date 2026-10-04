@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-04 17:16:24 UTC
-**Next update:** ~2026-10-04 17:18:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-04 17:18:25 UTC
+**Next update:** ~2026-10-04 17:20:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Emperor tamarin
-![Emperor tamarin](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tamarin_portrait.JPG/1920px-Tamarin_portrait.JPG)
+### Molina's hog-nosed skunk
+![Molina's hog-nosed skunk](https://upload.wikimedia.org/wikipedia/commons/5/5b/Chingue_%28Conepatus_chinga%29_Inao_V%C3%A1squez_001.jpg)
 <!-- END_ANIMAL -->
 
 
