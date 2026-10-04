@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-04 22:50:41 UTC
-**Next update:** ~2026-10-04 22:52:41 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-04 22:52:24 UTC
+**Next update:** ~2026-10-04 22:54:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Canadian Lynx
-![Canadian Lynx](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canada_lynx_by_Michael_Zahra_%28cropped%29.jpg/1920px-Canada_lynx_by_Michael_Zahra_%28cropped%29.jpg)
+### Bawean deer
+![Bawean deer](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Adult_male_Bawean_deer_Axis_kuhlii.JPG/1920px-Adult_male_Bawean_deer_Axis_kuhlii.JPG)
 <!-- END_ANIMAL -->
 
 
