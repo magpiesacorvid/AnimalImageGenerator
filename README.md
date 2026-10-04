@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-04 18:02:23 UTC
-**Next update:** ~2026-10-04 18:04:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-04 18:04:24 UTC
+**Next update:** ~2026-10-04 18:06:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Amazonian manatee
-![Amazonian manatee](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Manati_amazonico_en_Iquitos.jpg/1280px-Manati_amazonico_en_Iquitos.jpg)
+### Bear cuscuses
+![Bear cuscuses](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ailurops_ursinus_Naemundung_2_North_Sulawesi.jpg/1920px-Ailurops_ursinus_Naemundung_2_North_Sulawesi.jpg)
 <!-- END_ANIMAL -->
 
 
