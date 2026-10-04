@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-04 21:46:24 UTC
-**Next update:** ~2026-10-04 21:48:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-04 21:48:25 UTC
+**Next update:** ~2026-10-04 21:50:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Emilia's short-tailed opossum
-![Emilia's short-tailed opossum](https://upload.wikimedia.org/wikipedia/commons/6/64/Monodelphis_emiliae.jpg)
+### Geoffroy's cat
+![Geoffroy's cat](https://upload.wikimedia.org/wikipedia/commons/d/d9/Salzkatze.jpg)
 <!-- END_ANIMAL -->
 
 
