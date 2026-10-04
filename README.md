@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-04 16:02:24 UTC
-**Next update:** ~2026-10-04 16:04:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-04 16:04:24 UTC
+**Next update:** ~2026-10-04 16:06:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mongolian gazelle
-![Mongolian gazelle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Procapra_gutturosa_381343709.jpg/1280px-Procapra_gutturosa_381343709.jpg)
+### Commerson's leaf-nosed bat
+![Commerson's leaf-nosed bat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Commerson%27s_leaf-nosed_bat_%28Hipposideros_commersoni%29.jpg/1920px-Commerson%27s_leaf-nosed_bat_%28Hipposideros_commersoni%29.jpg)
 <!-- END_ANIMAL -->
 
 
