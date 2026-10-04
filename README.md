@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-04 18:38:24 UTC
-**Next update:** ~2026-10-04 18:40:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-04 18:41:14 UTC
+**Next update:** ~2026-10-04 18:43:14 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chevrotain
-![Chevrotain](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mouse-deer_Singapore_Zoo_2012.JPG/1920px-Mouse-deer_Singapore_Zoo_2012.JPG)
+### Long-nosed bandicoot
+![Long-nosed bandicoot](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Long-nosed_Bandicoot_0059.jpg/1280px-Long-nosed_Bandicoot_0059.jpg)
 <!-- END_ANIMAL -->
 
 
