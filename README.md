@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-05 23:26:22 UTC
-**Next update:** ~2026-10-05 23:28:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-05 23:28:25 UTC
+**Next update:** ~2026-10-05 23:30:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cape genet
-![Cape genet](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Large-spotted_Genet_%28Genetta_tigrina%29_%2817356502041%29_%28crop%29.jpg/1920px-Large-spotted_Genet_%28Genetta_tigrina%29_%2817356502041%29_%28crop%29.jpg)
+### Gunnison's prairie dog
+![Gunnison's prairie dog](https://upload.wikimedia.org/wikipedia/commons/7/7b/Gunnison%27s_prairie_dog%2C_sitting_up.jpg)
 <!-- END_ANIMAL -->
 
 
