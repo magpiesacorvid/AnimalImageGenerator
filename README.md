@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-05 04:38:21 UTC
-**Next update:** ~2026-10-05 04:40:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-05 04:40:38 UTC
+**Next update:** ~2026-10-05 04:42:38 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kanaani
-![Kanaani](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kanaani_cat_Haifa_full_body_profile_Brooklyn_2025_%28cropped%29.jpg/1280px-Kanaani_cat_Haifa_full_body_profile_Brooklyn_2025_%28cropped%29.jpg)
+### Numbat
+![Numbat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg/1920px-Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg)
 <!-- END_ANIMAL -->
 
 
