@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-05 05:50:41 UTC
-**Next update:** ~2026-10-05 05:52:41 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-05 05:52:23 UTC
+**Next update:** ~2026-10-05 05:54:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cymric Cat
-![Cymric Cat](https://upload.wikimedia.org/wikipedia/commons/d/d5/Cymric_Fond_Blanc.jpg)
+### Green ringtail possum
+![Green ringtail possum](https://upload.wikimedia.org/wikipedia/commons/a/a7/Green_ringtail_possum_on_August_2023.jpg)
 <!-- END_ANIMAL -->
 
 
