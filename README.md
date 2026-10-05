@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-05 01:12:21 UTC
-**Next update:** ~2026-10-05 01:14:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-05 01:14:23 UTC
+**Next update:** ~2026-10-05 01:16:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mearns's grasshopper mouse
-![Mearns's grasshopper mouse](https://upload.wikimedia.org/wikipedia/commons/2/2e/Chihuahuan_grasshopper_mouse.jpg)
+### Feathertail glider
+![Feathertail glider](https://upload.wikimedia.org/wikipedia/commons/6/6d/Acrobates_neuneu.jpg)
 <!-- END_ANIMAL -->
 
 
