@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-05 11:52:25 UTC
-**Next update:** ~2026-10-05 11:54:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-05 11:54:24 UTC
+**Next update:** ~2026-10-05 11:56:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common opossum
-![Common opossum](https://upload.wikimedia.org/wikipedia/commons/2/25/Rabipelao2.jpg)
+### Aldabra flying fox
+![Aldabra flying fox](https://upload.wikimedia.org/wikipedia/commons/7/74/Aldabra_flying_fox_318252.jpg)
 <!-- END_ANIMAL -->
 
 
