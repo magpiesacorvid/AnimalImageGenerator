@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-05 14:38:26 UTC
-**Next update:** ~2026-10-05 14:40:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-05 14:40:41 UTC
+**Next update:** ~2026-10-05 14:42:41 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gray-bellied night monkey
-![Gray-bellied night monkey](https://upload.wikimedia.org/wikipedia/commons/5/5d/Grey-bellied_Night_Monkeys_%28Aotus_lemurinus_griseimembra%29.jpg)
+### Mule
+![Mule](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Pack_Mules_Waiting_%2815755930793%29.jpg/1280px-Pack_Mules_Waiting_%2815755930793%29.jpg)
 <!-- END_ANIMAL -->
 
 
