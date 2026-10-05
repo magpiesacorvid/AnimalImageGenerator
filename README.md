@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-05 11:04:25 UTC
-**Next update:** ~2026-10-05 11:06:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-05 11:06:24 UTC
+**Next update:** ~2026-10-05 11:08:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Korrigum
-![Korrigum](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Korrigum_%28Damaliscus_korrigum%29.jpg/1280px-Korrigum_%28Damaliscus_korrigum%29.jpg)
+### Horsfield's treeshrew
+![Horsfield's treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Tupaia_javanica.jpg/960px-Tupaia_javanica.jpg)
 <!-- END_ANIMAL -->
 
 
