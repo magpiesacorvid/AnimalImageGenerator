@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-05 06:34:22 UTC
-**Next update:** ~2026-10-05 06:36:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-05 06:36:22 UTC
+**Next update:** ~2026-10-05 06:38:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mzab gundi
-![Mzab gundi](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Massoutiera_mzabi_206262897.jpg/1280px-Massoutiera_mzabi_206262897.jpg)
+### Impala
+![Impala](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Impala_%28Aepyceros_melampus%29_male_Kruger.jpg/1280px-Impala_%28Aepyceros_melampus%29_male_Kruger.jpg)
 <!-- END_ANIMAL -->
 
 
