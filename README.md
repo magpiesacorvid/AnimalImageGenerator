@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-05 10:28:24 UTC
-**Next update:** ~2026-10-05 10:30:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-05 10:30:54 UTC
+**Next update:** ~2026-10-05 10:32:54 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Grayish mouse opossum
-![Grayish mouse opossum](https://upload.wikimedia.org/wikipedia/commons/4/4a/Tlacuatzin_canescens_canescens_317311.jpg)
+### Giant eland
+![Giant eland](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Giant_eland_%28Taurotragus_derbianus_derbianus%29_male.jpg/1920px-Giant_eland_%28Taurotragus_derbianus_derbianus%29_male.jpg)
 <!-- END_ANIMAL -->
 
 
