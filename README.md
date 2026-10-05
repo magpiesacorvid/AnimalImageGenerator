@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-05 16:22:23 UTC
-**Next update:** ~2026-10-05 16:24:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-05 16:24:22 UTC
+**Next update:** ~2026-10-05 16:26:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern pygmy possum
-![Eastern pygmy possum](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eastern_Pygmy_Possum_Pilliga_Forest_NSW.jpg/1920px-Eastern_Pygmy_Possum_Pilliga_Forest_NSW.jpg)
+### Grey seal
+![Grey seal](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Focas_grises_%28Halichoerus_grypus%29%2C_playa_de_Horsey%2C_Norfolk%2C_Inglaterra%2C_2022-11-20%2C_DD_11.jpg/1920px-Focas_grises_%28Halichoerus_grypus%29%2C_playa_de_Horsey%2C_Norfolk%2C_Inglaterra%2C_2022-11-20%2C_DD_11.jpg)
 <!-- END_ANIMAL -->
 
 
