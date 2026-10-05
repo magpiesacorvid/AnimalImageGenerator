@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-05 16:12:26 UTC
-**Next update:** ~2026-10-05 16:14:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-05 16:14:23 UTC
+**Next update:** ~2026-10-05 16:16:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown deer mouse
-![Brown deer mouse](https://upload.wikimedia.org/wikipedia/commons/d/d8/Peromyscus_megalops.jpg)
+### Large flying fox
+![Large flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wilhelma_Kalong-Flughund_Pteropus_vampyrus_0513.jpg/960px-Wilhelma_Kalong-Flughund_Pteropus_vampyrus_0513.jpg)
 <!-- END_ANIMAL -->
 
 
