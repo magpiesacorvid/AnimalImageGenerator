@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-05 13:28:23 UTC
-**Next update:** ~2026-10-05 13:30:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-05 13:31:01 UTC
+**Next update:** ~2026-10-05 13:33:01 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Monk saki
-![Monk saki](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pithecia_monachus_A.jpg/960px-Pithecia_monachus_A.jpg)
+### Naked Mole Rat
+![Naked Mole Rat](https://upload.wikimedia.org/wikipedia/commons/f/f6/Webs180130-rat.jpg)
 <!-- END_ANIMAL -->
 
 
