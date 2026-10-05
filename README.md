@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-05 08:26:23 UTC
-**Next update:** ~2026-10-05 08:28:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-05 08:28:22 UTC
+**Next update:** ~2026-10-05 08:30:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Long-nosed short-tailed opossum
-![Long-nosed short-tailed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Mododelphis_scalops2.png/250px-Mododelphis_scalops2.png)
+### Crab-Eating Raccoon
+![Crab-Eating Raccoon](https://upload.wikimedia.org/wikipedia/commons/5/56/Mano_pelada_%28Procyon_cancrivorus_nigripes%29.JPG)
 <!-- END_ANIMAL -->
 
 
