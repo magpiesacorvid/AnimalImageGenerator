@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-05 23:20:38 UTC
-**Next update:** ~2026-10-05 23:22:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-05 23:22:23 UTC
+**Next update:** ~2026-10-05 23:24:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Golden-handed tamarin
-![Golden-handed tamarin](https://upload.wikimedia.org/wikipedia/commons/9/91/Saguinus_midas_flk24863753.jpg)
+### Agile wallaby
+![Agile wallaby](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Agile_Wallaby_pair_-_East_Point_Reserve.jpg/1280px-Agile_Wallaby_pair_-_East_Point_Reserve.jpg)
 <!-- END_ANIMAL -->
 
 
