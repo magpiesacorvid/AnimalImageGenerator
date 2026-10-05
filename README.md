@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-05 03:40:38 UTC
-**Next update:** ~2026-10-05 03:42:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-05 03:42:22 UTC
+**Next update:** ~2026-10-05 03:44:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Nepal gray langur
-![Nepal gray langur](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nepal_gray_langur%2C_Bhutan.jpg/960px-Nepal_gray_langur%2C_Bhutan.jpg)
+### Nyala
+![Nyala](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Nyala_%28Tragelaphus_angasii%29_male_Maputo.jpg/1280px-Nyala_%28Tragelaphus_angasii%29_male_Maputo.jpg)
 <!-- END_ANIMAL -->
 
 
