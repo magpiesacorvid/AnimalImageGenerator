@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-05 06:01:07 UTC
-**Next update:** ~2026-10-05 06:03:07 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-05 06:02:24 UTC
+**Next update:** ~2026-10-05 06:04:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Beech marten
-![Beech marten](https://commons.wikimedia.org/wiki/Special:FilePath/Beech_Marten.jpg)
+### Elegant fat-tailed mouse opossum
+![Elegant fat-tailed mouse opossum](https://upload.wikimedia.org/wikipedia/commons/1/16/Llaca.jpg)
 <!-- END_ANIMAL -->
 
 
