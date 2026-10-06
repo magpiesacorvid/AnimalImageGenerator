@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-06 20:44:29 UTC
-**Next update:** ~2026-10-06 20:46:29 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-06 20:46:28 UTC
+**Next update:** ~2026-10-06 20:48:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Giant forest hog
-![Giant forest hog](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hylochoerus_meinertzhageni2.jpg/1920px-Hylochoerus_meinertzhageni2.jpg)
+### Kinkajou
+![Kinkajou](https://upload.wikimedia.org/wikipedia/commons/3/31/Potos_flavus_%288973438737%29.jpg)
 <!-- END_ANIMAL -->
 
 
