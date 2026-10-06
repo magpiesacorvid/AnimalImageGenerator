@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-06 23:31:14 UTC
-**Next update:** ~2026-10-06 23:33:14 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-06 23:32:23 UTC
+**Next update:** ~2026-10-06 23:34:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Camas pocket gopher
-![Camas pocket gopher](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Camas_pocket_gopher_%283%29.JPG/1920px-Camas_pocket_gopher_%283%29.JPG)
+### Black-capped fruit bat
+![Black-capped fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Chironax_melanocephalus.jpg/1920px-Chironax_melanocephalus.jpg)
 <!-- END_ANIMAL -->
 
 
