@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-06 20:02:24 UTC
-**Next update:** ~2026-10-06 20:04:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-06 20:04:24 UTC
+**Next update:** ~2026-10-06 20:06:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Colorpoint Shorthair
-![Colorpoint Shorthair](https://upload.wikimedia.org/wikipedia/commons/1/11/Chocolate_Tortie_Pt_11636-140.jpg)
+### New Zealand sea lion
+![New Zealand sea lion](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Big_male_New_Zealand_Sea_Lion_walking_on_the_beach.jpg/1280px-Big_male_New_Zealand_Sea_Lion_walking_on_the_beach.jpg)
 <!-- END_ANIMAL -->
 
 
