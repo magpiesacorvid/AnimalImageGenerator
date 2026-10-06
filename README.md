@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-06 16:06:26 UTC
-**Next update:** ~2026-10-06 16:08:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-06 16:08:26 UTC
+**Next update:** ~2026-10-06 16:10:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Andean White-eared Opossum
-![Andean White-eared Opossum](https://upload.wikimedia.org/wikipedia/commons/d/d0/Didelphis_pernigra_29825860_1.jpg)
+### Flat Headed Cat
+![Flat Headed Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flat-headed_cat_1_Jim_Sanderson.JPG/1920px-Flat-headed_cat_1_Jim_Sanderson.JPG)
 <!-- END_ANIMAL -->
 
 
