@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-06 01:04:21 UTC
-**Next update:** ~2026-10-06 01:06:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-06 01:06:23 UTC
+**Next update:** ~2026-10-06 01:08:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brazilian Shorthair
-![Brazilian Shorthair](https://upload.wikimedia.org/wikipedia/commons/8/87/Gato_pelo_curto_brasileiro.JPG)
+### Foldex Cat
+![Foldex Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cachorro_de_Gato_FoldEx_%28%22Belisario_del_Laberinto%22%29.JPG/1920px-Cachorro_de_Gato_FoldEx_%28%22Belisario_del_Laberinto%22%29.JPG)
 <!-- END_ANIMAL -->
 
 
