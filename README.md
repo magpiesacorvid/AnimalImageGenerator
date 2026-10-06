@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-06 10:24:23 UTC
-**Next update:** ~2026-10-06 10:26:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-06 10:26:24 UTC
+**Next update:** ~2026-10-06 10:28:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Japanese marten
-![Japanese marten](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Inokashira_Park_Zoo_PC053197.jpg/960px-Inokashira_Park_Zoo_PC053197.jpg)
+### Indian elephant
+![Indian elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/1280px-Elephas_maximus_%28Bandipur%29.jpg)
 <!-- END_ANIMAL -->
 
 
