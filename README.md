@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-06 22:14:24 UTC
-**Next update:** ~2026-10-06 22:16:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-06 22:16:28 UTC
+**Next update:** ~2026-10-06 22:18:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Benin tree hyrax
-![Benin tree hyrax](https://upload.wikimedia.org/wikipedia/commons/2/2c/Dendrohyrax_interfluvialis.jpg)
+### European polecat
+![European polecat](https://upload.wikimedia.org/wikipedia/commons/1/17/Storm_the_polecat.jpg)
 <!-- END_ANIMAL -->
 
 
