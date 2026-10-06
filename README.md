@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-06 14:06:25 UTC
-**Next update:** ~2026-10-06 14:08:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-06 14:08:26 UTC
+**Next update:** ~2026-10-06 14:10:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cape bushbuck
-![Cape bushbuck](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cape_bushbuck_%28Tragelaphus_sylvaticus%29_female.jpg/1920px-Cape_bushbuck_%28Tragelaphus_sylvaticus%29_female.jpg)
+### Numbat
+![Numbat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg/1920px-Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg)
 <!-- END_ANIMAL -->
 
 
