@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-06 08:38:24 UTC
-**Next update:** ~2026-10-06 08:40:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-06 08:40:39 UTC
+**Next update:** ~2026-10-06 08:42:39 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Australian big-eared bat
-![Australian big-eared bat](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lesser_Long-eared_Bat_%28Nyctophilus_geoffroyi%29_%288656888933%29.jpg/1920px-Lesser_Long-eared_Bat_%28Nyctophilus_geoffroyi%29_%288656888933%29.jpg)
+### African bush elephant
+![African bush elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
