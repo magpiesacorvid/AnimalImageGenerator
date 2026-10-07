@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-07 10:01:05 UTC
-**Next update:** ~2026-10-07 10:03:05 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-07 10:02:44 UTC
+**Next update:** ~2026-10-07 10:04:44 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Marsh deer
-![Marsh deer](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cervo_do_pantano.jpg/960px-Cervo_do_pantano.jpg)
+### Mariana fruit bat
+![Mariana fruit bat](https://upload.wikimedia.org/wikipedia/commons/5/58/Mariana_Fruit_Bat.jpg)
 <!-- END_ANIMAL -->
 
 
