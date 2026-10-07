@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-07 05:02:22 UTC
-**Next update:** ~2026-10-07 05:04:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-07 05:04:25 UTC
+**Next update:** ~2026-10-07 05:06:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bush dog
-![Bush dog](https://upload.wikimedia.org/wikipedia/commons/2/29/Speothos_venaticus_Zoo_Praha_2011-5_%28cropped%29.jpg)
+### Guenon
+![Guenon](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/FranceNormandieChamprepusCercopithecusDiana.jpg/1920px-FranceNormandieChamprepusCercopithecusDiana.jpg)
 <!-- END_ANIMAL -->
 
 
