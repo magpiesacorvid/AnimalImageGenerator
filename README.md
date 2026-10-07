@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-07 06:46:26 UTC
-**Next update:** ~2026-10-07 06:48:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-07 06:48:28 UTC
+**Next update:** ~2026-10-07 06:50:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gray whale
-![Gray whale](https://upload.wikimedia.org/wikipedia/commons/c/c6/Eschrichtius_robustus_01-cropped.jpg)
+### Boselaphus
+![Boselaphus](https://upload.wikimedia.org/wikipedia/commons/0/09/Nilgai_at_Ranthambore.jpg)
 <!-- END_ANIMAL -->
 
 
