@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-07 21:14:23 UTC
-**Next update:** ~2026-10-07 21:16:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-07 21:16:25 UTC
+**Next update:** ~2026-10-07 21:18:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### New Guinean quoll
-![New Guinean quoll](https://upload.wikimedia.org/wikipedia/commons/6/62/New_Guinean_quoll.webp)
+### Javan rhinoceros
+![Javan rhinoceros](https://upload.wikimedia.org/wikipedia/commons/c/ce/Rhinoceros_sondaicus_in_London_Zoo.jpg)
 <!-- END_ANIMAL -->
 
 
