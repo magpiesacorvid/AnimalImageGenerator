@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-07 12:20:45 UTC
-**Next update:** ~2026-10-07 12:22:45 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-07 12:22:23 UTC
+**Next update:** ~2026-10-07 12:24:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian hedgehog
-![Indian hedgehog](https://upload.wikimedia.org/wikipedia/commons/e/ea/Paraechinus_micropus.jpg)
+### Javan rhinoceros
+![Javan rhinoceros](https://upload.wikimedia.org/wikipedia/commons/c/ce/Rhinoceros_sondaicus_in_London_Zoo.jpg)
 <!-- END_ANIMAL -->
 
 
