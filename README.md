@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-07 23:26:23 UTC
-**Next update:** ~2026-10-07 23:28:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-07 23:28:24 UTC
+**Next update:** ~2026-10-07 23:30:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black rhinoceros
-![Black rhinoceros](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Black_Rhino_at_Working_with_Wildlife.jpg/1920px-Black_Rhino_at_Working_with_Wildlife.jpg)
+### Heart-nosed bat
+![Heart-nosed bat](https://upload.wikimedia.org/wikipedia/commons/3/31/Cardioderma_cor_in_Samburu.jpg)
 <!-- END_ANIMAL -->
 
 
