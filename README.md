@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-07 01:38:26 UTC
-**Next update:** ~2026-10-07 01:40:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-07 01:40:42 UTC
+**Next update:** ~2026-10-07 01:42:42 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mongoose lemur
-![Mongoose lemur](https://upload.wikimedia.org/wikipedia/commons/4/44/Eulemur-mongoz_59489762.jpg)
+### Giant otter
+![Giant otter](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Giant_otters_%28Pteronura_brasiliensis%29.jpg/1920px-Giant_otters_%28Pteronura_brasiliensis%29.jpg)
 <!-- END_ANIMAL -->
 
 
