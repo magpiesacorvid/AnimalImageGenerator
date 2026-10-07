@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-07 13:50:44 UTC
-**Next update:** ~2026-10-07 13:52:44 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-07 13:52:27 UTC
+**Next update:** ~2026-10-07 13:54:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Emperor tamarin
-![Emperor tamarin](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tamarin_portrait.JPG/1920px-Tamarin_portrait.JPG)
+### Guadalupe fur seal
+![Guadalupe fur seal](https://upload.wikimedia.org/wikipedia/commons/b/ba/Arctocephalus_townsendi.jpg)
 <!-- END_ANIMAL -->
 
 
