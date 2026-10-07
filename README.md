@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-07 16:01:11 UTC
-**Next update:** ~2026-10-07 16:03:11 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-07 16:02:26 UTC
+**Next update:** ~2026-10-07 16:04:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### New Zealand Fur Seal
-![New Zealand Fur Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/New_Zealand_fur_seal_%28Arctocephalus_forsteri%29_male_Kangaroo_Island.jpg/960px-New_Zealand_fur_seal_%28Arctocephalus_forsteri%29_male_Kangaroo_Island.jpg)
+### Commerson's dolphin
+![Commerson's dolphin](https://upload.wikimedia.org/wikipedia/commons/a/a1/Tonina1_%282731842634%29.jpg)
 <!-- END_ANIMAL -->
 
 
