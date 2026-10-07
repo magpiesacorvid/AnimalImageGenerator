@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-07 06:38:22 UTC
-**Next update:** ~2026-10-07 06:40:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-07 06:40:41 UTC
+**Next update:** ~2026-10-07 06:42:41 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain Weasel
-![Mountain Weasel](https://upload.wikimedia.org/wikipedia/commons/0/08/Mountain_Weasel_%28Mustela_altaica%29.jpg)
+### Elephant seal
+![Elephant seal](https://upload.wikimedia.org/wikipedia/commons/d/d8/See_elefanten_edit.jpg)
 <!-- END_ANIMAL -->
 
 
