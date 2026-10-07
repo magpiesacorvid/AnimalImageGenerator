@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-07 03:04:23 UTC
-**Next update:** ~2026-10-07 03:06:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-07 03:06:23 UTC
+**Next update:** ~2026-10-07 03:08:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Northern flying squirrel
-![Northern flying squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Northern_Flying_Squirrel%2C_D%27Alembert%2C_6400_Route_d%27Aiguebelle%2C_Rouyn-Noranda%2C_QC%2C_Canada_imported_from_iNaturalist_photo_41110662.jpg/1280px-Northern_Flying_Squirrel%2C_D%27Alembert%2C_6400_Route_d%27Aiguebelle%2C_Rouyn-Noranda%2C_QC%2C_Canada_imported_from_iNaturalist_photo_41110662.jpg)
+### Neva Masquerade Cat
+![Neva Masquerade Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NevaMasqueradeFiona_%28cropped%29.jpg/1280px-NevaMasqueradeFiona_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
