@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-08 08:22:22 UTC
-**Next update:** ~2026-10-08 08:24:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-08 08:24:28 UTC
+**Next update:** ~2026-10-08 08:26:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Himalayan goral
-![Himalayan goral](https://upload.wikimedia.org/wikipedia/commons/6/62/Himalayan_Brown_Goral_Male_and_Female_pangolakha_Wildlife_Sanctuary_East_Sikkim_India_13.02.2016.jpg)
+### Black duiker
+![Black duiker](https://commons.wikimedia.org/wiki/Special:FilePath/Black_Duiker.jpg)
 <!-- END_ANIMAL -->
 
 
