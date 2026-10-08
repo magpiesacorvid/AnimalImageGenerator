@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-08 14:04:19 UTC
-**Next update:** ~2026-10-08 14:06:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-08 14:06:22 UTC
+**Next update:** ~2026-10-08 14:08:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bay duiker
-![Bay duiker](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cephalophus_dorsalis.JPG/1920px-Cephalophus_dorsalis.JPG)
+### Common minke whale
+![Common minke whale](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/SBNMS_-_Minke_Whale_-_Breach_%2828670557361%29.jpg/1920px-SBNMS_-_Minke_Whale_-_Breach_%2828670557361%29.jpg)
 <!-- END_ANIMAL -->
 
 
