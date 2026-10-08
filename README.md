@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-08 07:20:39 UTC
-**Next update:** ~2026-10-08 07:22:39 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-08 07:22:25 UTC
+**Next update:** ~2026-10-08 07:24:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cuban funnel-eared bat
-![Cuban funnel-eared bat](https://upload.wikimedia.org/wikipedia/commons/d/dc/Chilonatalus_micropus.png)
+### Bushy-tailed woodrat
+![Bushy-tailed woodrat](https://upload.wikimedia.org/wikipedia/commons/7/79/Neotoma_cinerea_%28bushy_tailed_woodrat%29.jpg)
 <!-- END_ANIMAL -->
 
 
