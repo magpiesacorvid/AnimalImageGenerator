@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-08 10:22:21 UTC
-**Next update:** ~2026-10-08 10:24:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-08 10:24:22 UTC
+**Next update:** ~2026-10-08 10:26:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common four-eyed opossum
-![Common four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Common_Four-eyed_Opossum_imported_from_iNaturalist_photo_284956116_on_14_October_2024.jpg/1920px-Common_Four-eyed_Opossum_imported_from_iNaturalist_photo_284956116_on_14_October_2024.jpg)
+### Antarctic minke whale
+![Antarctic minke whale](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Minke_whale_in_ross_sea.jpg/960px-Minke_whale_in_ross_sea.jpg)
 <!-- END_ANIMAL -->
 
 
