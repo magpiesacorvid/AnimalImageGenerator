@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-08 15:20:37 UTC
-**Next update:** ~2026-10-08 15:22:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-08 15:22:26 UTC
+**Next update:** ~2026-10-08 15:24:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common duiker
-![Common duiker](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/C%C3%A9phalophe_de_grimm%2C_crop.jpg/1920px-C%C3%A9phalophe_de_grimm%2C_crop.jpg)
+### Marsh rabbit
+![Marsh rabbit](https://upload.wikimedia.org/wikipedia/commons/6/62/Sylvilagus_palustris_-_Peter_Chen_2.0_-_473222718.jpeg)
 <!-- END_ANIMAL -->
 
 
