@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-08 07:40:39 UTC
-**Next update:** ~2026-10-08 07:42:39 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-08 07:42:23 UTC
+**Next update:** ~2026-10-08 07:44:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Maxwell's duiker
-![Maxwell's duiker](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Maxwell%27s_duiker_%28Philantomba_maxwellii_maxwellii%29_Ankasa.jpg/1280px-Maxwell%27s_duiker_%28Philantomba_maxwellii_maxwellii%29_Ankasa.jpg)
+### Guanaco
+![Guanaco](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Guanaco_%28Lama_guanicoe%29_Leona_Amarga.jpg/1920px-Guanaco_%28Lama_guanicoe%29_Leona_Amarga.jpg)
 <!-- END_ANIMAL -->
 
 
