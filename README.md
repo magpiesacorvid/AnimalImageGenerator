@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-08 04:46:22 UTC
-**Next update:** ~2026-10-08 04:48:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-08 04:48:22 UTC
+**Next update:** ~2026-10-08 04:50:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown mouse lemur
-![Brown mouse lemur](https://upload.wikimedia.org/wikipedia/commons/b/bb/Brown_Mouse_Lemur._Microcebus_Rufus_-_Flickr_-_gailhampshire.jpg)
+### Northern broad-footed mole
+![Northern broad-footed mole](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Scapanus_latimanus2.jpg/1280px-Scapanus_latimanus2.jpg)
 <!-- END_ANIMAL -->
 
 
