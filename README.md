@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-08 00:58:22 UTC
-**Next update:** ~2026-10-08 01:00:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-08 01:01:39 UTC
+**Next update:** ~2026-10-08 01:03:39 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain beaver
-![Mountain beaver](https://upload.wikimedia.org/wikipedia/commons/f/f9/Immature_mountain_beaver.jpg)
+### Dromedary camel
+![Dromedary camel](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Camelus_dromedarius_in_Nuweiba.jpg/1920px-Camelus_dromedarius_in_Nuweiba.jpg)
 <!-- END_ANIMAL -->
 
 
