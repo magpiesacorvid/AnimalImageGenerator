@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-09 13:16:19 UTC
-**Next update:** ~2026-10-09 13:18:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-09 13:18:18 UTC
+**Next update:** ~2026-10-09 13:20:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Collared brown lemur
-![Collared brown lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Eulemur_collaris_001_edit.jpg/1920px-Eulemur_collaris_001_edit.jpg)
+### Bare-bellied hedgehog
+![Bare-bellied hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/The_bare-bellied_hedgehog_%28Paraechinus_nudiventris%29.jpg/1920px-The_bare-bellied_hedgehog_%28Paraechinus_nudiventris%29.jpg)
 <!-- END_ANIMAL -->
 
 
