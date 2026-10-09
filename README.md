@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-09 00:16:18 UTC
-**Next update:** ~2026-10-09 00:18:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-09 00:18:20 UTC
+**Next update:** ~2026-10-09 00:20:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Andean White-eared Opossum
-![Andean White-eared Opossum](https://upload.wikimedia.org/wikipedia/commons/d/d0/Didelphis_pernigra_29825860_1.jpg)
+### Central greater glider
+![Central greater glider](https://upload.wikimedia.org/wikipedia/commons/2/2e/Petauroides_volans4.jpg)
 <!-- END_ANIMAL -->
 
 
