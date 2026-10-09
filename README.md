@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-09 18:08:18 UTC
-**Next update:** ~2026-10-09 18:10:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-09 18:10:31 UTC
+**Next update:** ~2026-10-09 18:12:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### California deermouse
-![California deermouse](https://upload.wikimedia.org/wikipedia/commons/0/0d/California_mouse_5_Peromyscus_californicus.jpg)
+### Large-spotted civet
+![Large-spotted civet](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Large-spotted_Civet_%28Viverra_megaspila%29.jpg/1280px-Large-spotted_Civet_%28Viverra_megaspila%29.jpg)
 <!-- END_ANIMAL -->
 
 
