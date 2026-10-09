@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-09 19:42:20 UTC
-**Next update:** ~2026-10-09 19:44:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-09 19:44:19 UTC
+**Next update:** ~2026-10-09 19:46:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### North American porcupine
-![North American porcupine](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Porcupine-BioDome.jpg/250px-Porcupine-BioDome.jpg)
+### Common tsessebe
+![Common tsessebe](https://upload.wikimedia.org/wikipedia/commons/f/f8/Tsessebe_%28Botswana%29.jpg)
 <!-- END_ANIMAL -->
 
 
