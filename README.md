@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-09 10:40:33 UTC
-**Next update:** ~2026-10-09 10:42:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-09 10:42:19 UTC
+**Next update:** ~2026-10-09 10:44:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Javan Mongoose
-![Javan Mongoose](https://upload.wikimedia.org/wikipedia/commons/a/ad/Herpe_jav_110724-16129_tdp.JPG)
+### Humboldt's hog-nosed skunk
+![Humboldt's hog-nosed skunk](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Zorrillo.jpg/1280px-Zorrillo.jpg)
 <!-- END_ANIMAL -->
 
 
