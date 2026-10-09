@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-09 16:44:21 UTC
-**Next update:** ~2026-10-09 16:46:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-09 16:46:19 UTC
+**Next update:** ~2026-10-09 16:48:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bonobo
-![Bonobo](https://upload.wikimedia.org/wikipedia/commons/e/e2/Apeldoorn_Apenheul_zoo_Bonobo.jpg)
+### Central greater glider
+![Central greater glider](https://upload.wikimedia.org/wikipedia/commons/2/2e/Petauroides_volans4.jpg)
 <!-- END_ANIMAL -->
 
 
