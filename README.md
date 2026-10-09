@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-09 20:38:17 UTC
-**Next update:** ~2026-10-09 20:40:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-09 20:40:31 UTC
+**Next update:** ~2026-10-09 20:42:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bay duiker
-![Bay duiker](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cephalophus_dorsalis.JPG/1920px-Cephalophus_dorsalis.JPG)
+### Northern white-breasted hedgehog
+![Northern white-breasted hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Erinaceus_roumanicus_2020_G2.jpg/1280px-Erinaceus_roumanicus_2020_G2.jpg)
 <!-- END_ANIMAL -->
 
 
