@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-09 20:42:17 UTC
-**Next update:** ~2026-10-09 20:44:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-09 20:44:18 UTC
+**Next update:** ~2026-10-09 20:46:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Masked palm civet
-![Masked palm civet](https://upload.wikimedia.org/wikipedia/commons/2/2a/Palm_civet_on_tree_%28detail%29.jpg)
+### Livingstone's fruit bat
+![Livingstone's fruit bat](https://upload.wikimedia.org/wikipedia/commons/c/ca/Bristol.zoo.livfruitbat.arp.jpg)
 <!-- END_ANIMAL -->
 
 
