@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-10 04:10:30 UTC
-**Next update:** ~2026-10-10 04:12:30 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-10 04:12:17 UTC
+**Next update:** ~2026-10-10 04:14:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### North American beaver
-![North American beaver](https://upload.wikimedia.org/wikipedia/commons/6/6b/American_Beaver.jpg)
+### Javan Mongoose
+![Javan Mongoose](https://upload.wikimedia.org/wikipedia/commons/a/ad/Herpe_jav_110724-16129_tdp.JPG)
 <!-- END_ANIMAL -->
 
 
