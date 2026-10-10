@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-10 13:06:17 UTC
-**Next update:** ~2026-10-10 13:08:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-10 13:08:18 UTC
+**Next update:** ~2026-10-10 13:10:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Khao-Manee Cat
-![Khao-Manee Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Khaomanee_cat.jpg/960px-Khaomanee_cat.jpg)
+### Mountain gazelle
+![Mountain gazelle](https://upload.wikimedia.org/wikipedia/commons/7/79/Gazella_gazella.jpg)
 <!-- END_ANIMAL -->
 
 
