@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-10 15:12:18 UTC
-**Next update:** ~2026-10-10 15:14:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-10 15:14:18 UTC
+**Next update:** ~2026-10-10 15:16:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### East Asian finless porpoise
-![East Asian finless porpoise](https://upload.wikimedia.org/wikipedia/commons/e/e4/Neophocaena_phocaenoides_-Miyajima_Aquarium_-Japan-8a.jpg)
+### Mountain brushtail possum
+![Mountain brushtail possum](https://upload.wikimedia.org/wikipedia/commons/5/54/Trichosurus_cunninghami3.jpg)
 <!-- END_ANIMAL -->
 
 
