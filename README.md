@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-10 08:20:31 UTC
-**Next update:** ~2026-10-10 08:22:31 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-10 08:22:20 UTC
+**Next update:** ~2026-10-10 08:24:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Marsh rabbit
-![Marsh rabbit](https://upload.wikimedia.org/wikipedia/commons/6/62/Sylvilagus_palustris_-_Peter_Chen_2.0_-_473222718.jpeg)
+### Himalayan goral
+![Himalayan goral](https://upload.wikimedia.org/wikipedia/commons/6/62/Himalayan_Brown_Goral_Male_and_Female_pangolakha_Wildlife_Sanctuary_East_Sikkim_India_13.02.2016.jpg)
 <!-- END_ANIMAL -->
 
 
