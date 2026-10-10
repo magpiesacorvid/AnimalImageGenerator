@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-10 21:04:18 UTC
-**Next update:** ~2026-10-10 21:06:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-10 21:06:21 UTC
+**Next update:** ~2026-10-10 21:08:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kenya coast galago
-![Kenya coast galago](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Taita_mountain_dwarf_galago_from_Taita_Hills.jpg/1280px-Taita_mountain_dwarf_galago_from_Taita_Hills.jpg)
+### Mountain hare
+![Mountain hare](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lepus_timidus_-_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%BE%D1%80%D0%B5%D0%B9%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2_-_96446302.jpeg/1280px-Lepus_timidus_-_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%BE%D1%80%D0%B5%D0%B9%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2_-_96446302.jpeg)
 <!-- END_ANIMAL -->
 
 
