@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-10 12:48:17 UTC
-**Next update:** ~2026-10-10 12:50:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-10 12:50:30 UTC
+**Next update:** ~2026-10-10 12:52:30 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Japanese Bobtail
-![Japanese Bobtail](https://upload.wikimedia.org/wikipedia/commons/5/56/JapaneseBobtailBlueEyedMi-ke.JPG)
+### Dama gazelle
+![Dama gazelle](https://upload.wikimedia.org/wikipedia/commons/a/a5/Gazella_dama_ruficollis_3zz.jpg)
 <!-- END_ANIMAL -->
 
 
