@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-10 01:22:18 UTC
-**Next update:** ~2026-10-10 01:24:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-10 01:24:18 UTC
+**Next update:** ~2026-10-10 01:26:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Canadian Lynx
-![Canadian Lynx](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canada_lynx_by_Michael_Zahra_%28cropped%29.jpg/1920px-Canada_lynx_by_Michael_Zahra_%28cropped%29.jpg)
+### Guinea baboon
+![Guinea baboon](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Male_Guinea_Baboon_in_Nuremberg_Zoo.jpg/1920px-Male_Guinea_Baboon_in_Nuremberg_Zoo.jpg)
 <!-- END_ANIMAL -->
 
 
