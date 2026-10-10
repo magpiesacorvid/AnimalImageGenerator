@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-10 00:28:18 UTC
-**Next update:** ~2026-10-10 00:30:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-10 00:30:45 UTC
+**Next update:** ~2026-10-10 00:32:45 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common tsessebe
-![Common tsessebe](https://upload.wikimedia.org/wikipedia/commons/f/f8/Tsessebe_%28Botswana%29.jpg)
+### Bombay Cat
+![Bombay Cat](https://upload.wikimedia.org/wikipedia/commons/a/ac/Bombay_femelle.JPG)
 <!-- END_ANIMAL -->
 
 
