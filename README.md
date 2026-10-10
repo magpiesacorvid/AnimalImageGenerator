@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-10 20:46:17 UTC
-**Next update:** ~2026-10-10 20:48:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-10 20:48:16 UTC
+**Next update:** ~2026-10-10 20:50:16 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black wildebeest
-![Black wildebeest](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Black_Wildebeest_%28Connochaetes_gnou%29_%2831746882054%29.jpg/1920px-Black_Wildebeest_%28Connochaetes_gnou%29_%2831746882054%29.jpg)
+### Eastern pygmy possum
+![Eastern pygmy possum](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eastern_Pygmy_Possum_Pilliga_Forest_NSW.jpg/1920px-Eastern_Pygmy_Possum_Pilliga_Forest_NSW.jpg)
 <!-- END_ANIMAL -->
 
 
