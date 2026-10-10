@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-10 17:48:19 UTC
-**Next update:** ~2026-10-10 17:50:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-10 17:50:31 UTC
+**Next update:** ~2026-10-10 17:52:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kenya coast galago
-![Kenya coast galago](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Taita_mountain_dwarf_galago_from_Taita_Hills.jpg/1280px-Taita_mountain_dwarf_galago_from_Taita_Hills.jpg)
+### Asian mole shrew
+![Asian mole shrew](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Anourosorex_squamips_yamashinai_%28adult%29_PShaner_2011-5-4.png/1920px-Anourosorex_squamips_yamashinai_%28adult%29_PShaner_2011-5-4.png)
 <!-- END_ANIMAL -->
 
 
