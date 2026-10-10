@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-10 05:58:18 UTC
-**Next update:** ~2026-10-10 06:00:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-10 06:00:56 UTC
+**Next update:** ~2026-10-10 06:02:56 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Exotic Shorthair
-![Exotic Shorthair](https://upload.wikimedia.org/wikipedia/commons/2/25/Ginger_Exotic_Shorthair.jpg)
+### Banteng
+![Banteng](https://commons.wikimedia.org/wiki/Special:FilePath/Banteng_Alas_Purwo.jpg)
 <!-- END_ANIMAL -->
 
 
