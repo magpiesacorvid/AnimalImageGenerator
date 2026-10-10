@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-10 06:36:18 UTC
-**Next update:** ~2026-10-10 06:38:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-10 06:38:17 UTC
+**Next update:** ~2026-10-10 06:40:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Central American red brocket
-![Central American red brocket](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Central_American_red_brocket_deer_%28male%29_5.jpg/1920px-Central_American_red_brocket_deer_%28male%29_5.jpg)
+### Fijian monkey-faced bat
+![Fijian monkey-faced bat](https://upload.wikimedia.org/wikipedia/en/a/a9/1977.05.03_Fiji_Monkey_Bat_%2CTaveuni%2C_Fiji_3443_ccccc_crop.jpg)
 <!-- END_ANIMAL -->
 
 
