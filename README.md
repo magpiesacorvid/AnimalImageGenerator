@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-11 06:12:17 UTC
-**Next update:** ~2026-10-11 06:14:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-11 06:14:17 UTC
+**Next update:** ~2026-10-11 06:16:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Long-eared hedgehog
-![Long-eared hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hedgehog_cyprus_hg.jpg/1280px-Hedgehog_cyprus_hg.jpg)
+### Mexican Mouse Opossum
+![Mexican Mouse Opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Marmosa_mexicana_mexicana_14889186.jpg/500px-Marmosa_mexicana_mexicana_14889186.jpg)
 <!-- END_ANIMAL -->
 
 
