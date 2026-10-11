@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-11 22:56:18 UTC
-**Next update:** ~2026-10-11 22:58:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-11 22:58:18 UTC
+**Next update:** ~2026-10-11 23:00:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain goat
-![Mountain goat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mountain_Goat%2C_Enchantments_Basin.jpg/960px-Mountain_Goat%2C_Enchantments_Basin.jpg)
+### Cape hare
+![Cape hare](https://upload.wikimedia.org/wikipedia/commons/2/23/Lepus_capensis_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
