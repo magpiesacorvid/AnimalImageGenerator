@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-11 13:06:17 UTC
-**Next update:** ~2026-10-11 13:08:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-11 13:08:18 UTC
+**Next update:** ~2026-10-11 13:10:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan Slender Mongoose
-![Angolan Slender Mongoose](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Galerella_flavescens.jpg/960px-Galerella_flavescens.jpg)
+### Indian Grey Mongoose
+![Indian Grey Mongoose](https://upload.wikimedia.org/wikipedia/commons/9/96/Herpestes_edwardsii_at_Hyderaba.jpg)
 <!-- END_ANIMAL -->
 
 
