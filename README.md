@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-11 19:04:19 UTC
-**Next update:** ~2026-10-11 19:06:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-11 19:06:18 UTC
+**Next update:** ~2026-10-11 19:08:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### European hedgehog
-![European hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Erinaceus_europaeus_LC0119.jpg/1920px-Erinaceus_europaeus_LC0119.jpg)
+### Asian elephant
+![Asian elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/1280px-Elephas_maximus_%28Bandipur%29.jpg)
 <!-- END_ANIMAL -->
 
 
