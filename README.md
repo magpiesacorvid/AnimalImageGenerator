@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-11 04:56:18 UTC
-**Next update:** ~2026-10-11 04:58:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-11 04:58:17 UTC
+**Next update:** ~2026-10-11 05:00:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Antelope jackrabbit
-![Antelope jackrabbit](https://upload.wikimedia.org/wikipedia/commons/e/ea/Lepus_alleni_83745875_%28cropped%29.jpg)
+### Mountain zebra
+![Mountain zebra](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Equus_zebra_hartmannae_-_Etosha_2015.jpg/1280px-Equus_zebra_hartmannae_-_Etosha_2015.jpg)
 <!-- END_ANIMAL -->
 
 
