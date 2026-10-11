@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-11 21:44:18 UTC
-**Next update:** ~2026-10-11 21:46:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-11 21:46:17 UTC
+**Next update:** ~2026-10-11 21:48:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common Kusimanse
-![Common Kusimanse](https://upload.wikimedia.org/wikipedia/commons/9/98/Crossarchus_obscurus_Plzen_zoo_02.2011.jpg)
+### Common brown lemur
+![Common brown lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Common_brown_lemur_%28Eulemur_fulvus%29_male.jpg/1920px-Common_brown_lemur_%28Eulemur_fulvus%29_male.jpg)
 <!-- END_ANIMAL -->
 
 
