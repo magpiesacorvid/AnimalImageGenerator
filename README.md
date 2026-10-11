@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-11 14:44:19 UTC
-**Next update:** ~2026-10-11 14:46:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-11 14:46:19 UTC
+**Next update:** ~2026-10-11 14:48:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Korrigum
-![Korrigum](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Korrigum_%28Damaliscus_korrigum%29.jpg/1280px-Korrigum_%28Damaliscus_korrigum%29.jpg)
+### Domestic guinea pig
+![Domestic guinea pig](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/George_the_amazing_guinea_pig.jpg/1920px-George_the_amazing_guinea_pig.jpg)
 <!-- END_ANIMAL -->
 
 
