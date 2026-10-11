@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-11 11:28:18 UTC
-**Next update:** ~2026-10-11 11:30:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-11 11:30:45 UTC
+**Next update:** ~2026-10-11 11:32:45 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Domestic Cattle
-![Domestic Cattle](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/1920px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg)
+### Matschie's tree-kangaroo
+![Matschie's tree-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dendrolagus_matschiei_at_the_Bronx_Zoo_007.jpg/960px-Dendrolagus_matschiei_at_the_Bronx_Zoo_007.jpg)
 <!-- END_ANIMAL -->
 
 
