@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-11 01:46:18 UTC
-**Next update:** ~2026-10-11 01:48:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-11 01:48:18 UTC
+**Next update:** ~2026-10-11 01:50:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Humboldt's flying squirrel
-![Humboldt's flying squirrel](https://upload.wikimedia.org/wikipedia/commons/7/7e/Glaucomys_oregonensis2.jpg)
+### Greater naked-tailed armadillo
+![Greater naked-tailed armadillo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ejemplar_de_tatu_de_rabo_molle_%28Cabassous_tatouay%29%2C_Uruguay%2C_2022.jpg/1920px-Ejemplar_de_tatu_de_rabo_molle_%28Cabassous_tatouay%29%2C_Uruguay%2C_2022.jpg)
 <!-- END_ANIMAL -->
 
 
