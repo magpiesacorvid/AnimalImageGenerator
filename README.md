@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-11 01:02:19 UTC
-**Next update:** ~2026-10-11 01:04:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-11 01:04:20 UTC
+**Next update:** ~2026-10-11 01:06:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American ermine
-![American ermine](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ermine-_Bacon_Fiend_%2814083889879%29.jpg/960px-Ermine-_Bacon_Fiend_%2814083889879%29.jpg)
+### Eld's deer
+![Eld's deer](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Panolia_eldii_thamin.jpg/1920px-Panolia_eldii_thamin.jpg)
 <!-- END_ANIMAL -->
 
 
