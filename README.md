@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-11 12:06:19 UTC
-**Next update:** ~2026-10-11 12:08:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-11 12:08:17 UTC
+**Next update:** ~2026-10-11 12:10:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern barred bandicoot
-![Eastern barred bandicoot](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Perameles_gunni.jpg/1920px-Perameles_gunni.jpg)
+### European Shorthair
+![European Shorthair](https://upload.wikimedia.org/wikipedia/commons/2/2c/European_Shorthair_EUR_d_22.jpg)
 <!-- END_ANIMAL -->
 
 
