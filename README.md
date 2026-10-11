@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-11 10:44:19 UTC
-**Next update:** ~2026-10-11 10:46:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-11 10:46:18 UTC
+**Next update:** ~2026-10-11 10:48:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gunnison's prairie dog
-![Gunnison's prairie dog](https://upload.wikimedia.org/wikipedia/commons/7/7b/Gunnison%27s_prairie_dog%2C_sitting_up.jpg)
+### Madagascan fruit bat
+![Madagascan fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Eidolon_dupreanum%2C_Peyrieras.jpg/1280px-Eidolon_dupreanum%2C_Peyrieras.jpg)
 <!-- END_ANIMAL -->
 
 
