@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-12 02:38:19 UTC
-**Next update:** ~2026-10-12 02:40:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-12 02:40:32 UTC
+**Next update:** ~2026-10-12 02:42:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mahogany glider
-![Mahogany glider](https://upload.wikimedia.org/wikipedia/commons/0/01/Mahogany_glider.jpg)
+### Fijian monkey-faced bat
+![Fijian monkey-faced bat](https://upload.wikimedia.org/wikipedia/en/a/a9/1977.05.03_Fiji_Monkey_Bat_%2CTaveuni%2C_Fiji_3443_ccccc_crop.jpg)
 <!-- END_ANIMAL -->
 
 
