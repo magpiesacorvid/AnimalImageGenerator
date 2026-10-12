@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-12 18:12:20 UTC
-**Next update:** ~2026-10-12 18:14:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-12 18:14:19 UTC
+**Next update:** ~2026-10-12 18:16:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asiatic water shrew
-![Asiatic water shrew](https://upload.wikimedia.org/wikipedia/commons/6/62/Kawanezumi.jpg)
+### Mouflon
+![Mouflon](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cyprus_mouflon_%28Ovis_gmelini_ophion%29.jpg/960px-Cyprus_mouflon_%28Ovis_gmelini_ophion%29.jpg)
 <!-- END_ANIMAL -->
 
 
