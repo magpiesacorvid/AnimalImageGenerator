@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-12 15:42:19 UTC
-**Next update:** ~2026-10-12 15:44:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-12 15:44:19 UTC
+**Next update:** ~2026-10-12 15:46:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dall sheep
-![Dall sheep](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dall_Sheep_Ewe_%280968efe1-d032-4834-bada-bb862e09ddfb%29.jpg/1920px-Dall_Sheep_Ewe_%280968efe1-d032-4834-bada-bb862e09ddfb%29.jpg)
+### Dark four-eyed opossum
+![Dark four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/2/2f/Dark_Four-eyed_Opossum_imported_from_iNaturalist_photo_352635072_on_14_October_2024.jpg)
 <!-- END_ANIMAL -->
 
 
