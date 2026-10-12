@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-12 05:50:32 UTC
-**Next update:** ~2026-10-12 05:52:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-12 05:52:17 UTC
+**Next update:** ~2026-10-12 05:54:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian long-eared hedgehog
-![Indian long-eared hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hemiechinus_collaris_-_Indian_long-eared_hedgehog.jpg/1280px-Hemiechinus_collaris_-_Indian_long-eared_hedgehog.jpg)
+### Jameson's red rock hare
+![Jameson's red rock hare](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pronolagus_randensis_Rudloff_%28cropped%29.jpg/1280px-Pronolagus_randensis_Rudloff_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
