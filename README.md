@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-12 17:56:21 UTC
-**Next update:** ~2026-10-12 17:58:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-12 17:58:19 UTC
+**Next update:** ~2026-10-12 18:00:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Formosan rock macaque
-![Formosan rock macaque](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Taiwanese_macaque_%28Macaca_cyclopis%29_female_Yangmingshan_2.jpg/1920px-Taiwanese_macaque_%28Macaca_cyclopis%29_female_Yangmingshan_2.jpg)
+### Humboldt's flying squirrel
+![Humboldt's flying squirrel](https://upload.wikimedia.org/wikipedia/commons/7/7e/Glaucomys_oregonensis2.jpg)
 <!-- END_ANIMAL -->
 
 
