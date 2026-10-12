@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-12 19:44:18 UTC
-**Next update:** ~2026-10-12 19:46:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-12 19:46:20 UTC
+**Next update:** ~2026-10-12 19:48:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common duiker
-![Common duiker](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/C%C3%A9phalophe_de_grimm%2C_crop.jpg/1920px-C%C3%A9phalophe_de_grimm%2C_crop.jpg)
+### Mule
+![Mule](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Pack_Mules_Waiting_%2815755930793%29.jpg/1280px-Pack_Mules_Waiting_%2815755930793%29.jpg)
 <!-- END_ANIMAL -->
 
 
