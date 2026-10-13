@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-13 21:08:18 UTC
-**Next update:** ~2026-10-13 21:10:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-13 21:10:37 UTC
+**Next update:** ~2026-10-13 21:12:37 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian giant squirrel
-![Indian giant squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Indian_giant_squirrel_in_Kuldiha_Wildlife_Sanctuary_March_2025_by_Tisha_Mukherjee_01.jpg/960px-Indian_giant_squirrel_in_Kuldiha_Wildlife_Sanctuary_March_2025_by_Tisha_Mukherjee_01.jpg)
+### Mole-like rice tenrec
+![Mole-like rice tenrec](https://upload.wikimedia.org/wikipedia/commons/c/cb/Mole-like_Rice_Tenrec_%28Oryzoryctes_hova%29_%2844120142915%29_2.jpg)
 <!-- END_ANIMAL -->
 
 
