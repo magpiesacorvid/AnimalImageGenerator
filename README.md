@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-13 06:32:19 UTC
-**Next update:** ~2026-10-13 06:34:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-13 06:34:19 UTC
+**Next update:** ~2026-10-13 06:36:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Matschie's tree-kangaroo
-![Matschie's tree-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dendrolagus_matschiei_at_the_Bronx_Zoo_007.jpg/960px-Dendrolagus_matschiei_at_the_Bronx_Zoo_007.jpg)
+### Big lutrine opossum
+![Big lutrine opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lutreolina_crassicaudata_216572398.jpg/1920px-Lutreolina_crassicaudata_216572398.jpg)
 <!-- END_ANIMAL -->
 
 
