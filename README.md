@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-13 03:48:18 UTC
-**Next update:** ~2026-10-13 03:50:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-13 03:50:32 UTC
+**Next update:** ~2026-10-13 03:52:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hamadryas baboon
-![Hamadryas baboon](https://upload.wikimedia.org/wikipedia/commons/9/9c/Papio_hamadryas_eating_an_apple.JPG)
+### Juliana's golden mole
+![Juliana's golden mole](https://upload.wikimedia.org/wikipedia/commons/4/45/The_Juliana%E2%80%99s_golden_mole_is_one_of_Africa%E2%80%99s_most_threatened_mammals_Jackson.png)
 <!-- END_ANIMAL -->
 
 
