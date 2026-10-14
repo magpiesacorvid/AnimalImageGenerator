@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-14 22:30:46 UTC
-**Next update:** ~2026-10-14 22:32:46 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-14 22:32:20 UTC
+**Next update:** ~2026-10-14 22:34:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Montane guinea pig
-![Montane guinea pig](https://upload.wikimedia.org/wikipedia/commons/d/df/Cavia_tschudii_104314763_%28cropped%29.jpg)
+### African civet
+![African civet](https://upload.wikimedia.org/wikipedia/commons/a/a2/Civettictis_civetta_11.jpg)
 <!-- END_ANIMAL -->
 
 
