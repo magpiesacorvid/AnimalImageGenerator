@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-14 19:06:22 UTC
-**Next update:** ~2026-10-14 19:08:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-14 19:08:21 UTC
+**Next update:** ~2026-10-14 19:10:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common bottlenose dolphin
-![Common bottlenose dolphin](https://upload.wikimedia.org/wikipedia/commons/b/bc/Tursiops_truncatus_01-cropped.jpg)
+### Eastern hoolock gibbon
+![Eastern hoolock gibbon](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Unknown_animal_5_%28Sitesh_Babu%27s_Zoo%29.jpg/1920px-Unknown_animal_5_%28Sitesh_Babu%27s_Zoo%29.jpg)
 <!-- END_ANIMAL -->
 
 
