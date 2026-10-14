@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-14 21:34:19 UTC
-**Next update:** ~2026-10-14 21:36:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-14 21:36:21 UTC
+**Next update:** ~2026-10-14 21:38:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Crab-eating macaque
-![Crab-eating macaque](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ubud_Monkey_Family.jpg/1920px-Ubud_Monkey_Family.jpg)
+### Northern white-cheeked gibbon
+![Northern white-cheeked gibbon](https://upload.wikimedia.org/wikipedia/commons/8/85/Witwanggibbon_M.jpg)
 <!-- END_ANIMAL -->
 
 
