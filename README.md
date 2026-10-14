@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-14 13:42:21 UTC
-**Next update:** ~2026-10-14 13:44:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-14 13:44:21 UTC
+**Next update:** ~2026-10-14 13:46:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Little red flying fox
-![Little red flying fox](https://upload.wikimedia.org/wikipedia/commons/7/74/Little_red_flying_fox_2016.png)
+### North American river otter
+![North American river otter](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Northern_River_Otter_on_Seedskadee_NWR_%2822802102984%29.jpg/1280px-Northern_River_Otter_on_Seedskadee_NWR_%2822802102984%29.jpg)
 <!-- END_ANIMAL -->
 
 
