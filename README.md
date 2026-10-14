@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-14 00:42:20 UTC
-**Next update:** ~2026-10-14 00:44:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-14 00:44:19 UTC
+**Next update:** ~2026-10-14 00:46:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Banded Mongoose
-![Banded Mongoose](https://commons.wikimedia.org/wiki/Special:FilePath/Banded_mongoose_(Mungos_mungo).jpg)
+### Common gundi
+![Common gundi](https://upload.wikimedia.org/wikipedia/commons/3/37/Gundi_Ctenodactylus_gundi_051117_2.jpg)
 <!-- END_ANIMAL -->
 
 
