@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-14 00:22:19 UTC
-**Next update:** ~2026-10-14 00:24:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-14 00:24:19 UTC
+**Next update:** ~2026-10-14 00:26:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Canadian Lynx
-![Canadian Lynx](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canada_lynx_by_Michael_Zahra_%28cropped%29.jpg/1920px-Canada_lynx_by_Michael_Zahra_%28cropped%29.jpg)
+### Northern white-breasted hedgehog
+![Northern white-breasted hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Erinaceus_roumanicus_2020_G2.jpg/1280px-Erinaceus_roumanicus_2020_G2.jpg)
 <!-- END_ANIMAL -->
 
 
