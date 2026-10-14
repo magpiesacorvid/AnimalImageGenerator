@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-14 16:01:02 UTC
-**Next update:** ~2026-10-14 16:03:02 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-14 16:02:22 UTC
+**Next update:** ~2026-10-14 16:04:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American hog-nosed skunk
-![American hog-nosed skunk](https://upload.wikimedia.org/wikipedia/commons/5/5f/Hognosed_skunk.jpg)
+### Caracal
+![Caracal](https://upload.wikimedia.org/wikipedia/commons/7/75/Caracal_on_the_road%2C_early_morning_in_Kgalagadi_%2836173878220%29_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
