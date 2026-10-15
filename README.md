@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-15 23:28:21 UTC
-**Next update:** ~2026-10-15 23:30:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-15 23:30:48 UTC
+**Next update:** ~2026-10-15 23:32:48 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African Wild Dog
-![African Wild Dog](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/African_Wild_Dog_at_Working_with_Wildlife.jpg/1920px-African_Wild_Dog_at_Working_with_Wildlife.jpg)
+### Central African Oyan
+![Central African Oyan](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Poiana_richardsonii_56244763.jpg/1920px-Poiana_richardsonii_56244763.jpg)
 <!-- END_ANIMAL -->
 
 
