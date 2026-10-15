@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-15 22:42:21 UTC
-**Next update:** ~2026-10-15 22:44:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-15 22:44:20 UTC
+**Next update:** ~2026-10-15 22:46:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lion
-![Lion](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/1280px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg)
+### Burmese hare
+![Burmese hare](https://upload.wikimedia.org/wikipedia/commons/8/80/Lepus_peguensis_86903732_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
