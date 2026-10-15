@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-15 11:58:23 UTC
-**Next update:** ~2026-10-15 12:00:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-15 12:01:03 UTC
+**Next update:** ~2026-10-15 12:03:03 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Fossa
-![Fossa](https://upload.wikimedia.org/wikipedia/commons/a/a6/Cryptoprocta_Ferox.JPG)
+### Cape Gray Mongoose
+![Cape Gray Mongoose](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MJK_25239_Galerella_pulverulenta.jpg/1920px-MJK_25239_Galerella_pulverulenta.jpg)
 <!-- END_ANIMAL -->
 
 
