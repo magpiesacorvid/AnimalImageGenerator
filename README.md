@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-15 10:01:00 UTC
-**Next update:** ~2026-10-15 10:03:00 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-15 10:02:21 UTC
+**Next update:** ~2026-10-15 10:04:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lowland yellow-toothed cavy
-![Lowland yellow-toothed cavy](https://upload.wikimedia.org/wikipedia/commons/6/66/Galea_leucoblephara_33484925.jpg)
+### Chinese hamster
+![Chinese hamster](https://upload.wikimedia.org/wikipedia/commons/4/4f/Chinesedsaffa.jpg)
 <!-- END_ANIMAL -->
 
 
