@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-15 15:36:19 UTC
-**Next update:** ~2026-10-15 15:38:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-15 15:38:22 UTC
+**Next update:** ~2026-10-15 15:40:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Goodfellow's tree-kangaroo
-![Goodfellow's tree-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tree_kangaroo2.jpg/1920px-Tree_kangaroo2.jpg)
+### East Asian finless porpoise
+![East Asian finless porpoise](https://upload.wikimedia.org/wikipedia/commons/e/e4/Neophocaena_phocaenoides_-Miyajima_Aquarium_-Japan-8a.jpg)
 <!-- END_ANIMAL -->
 
 
