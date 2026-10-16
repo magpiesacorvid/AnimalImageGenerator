@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-16 02:20:34 UTC
-**Next update:** ~2026-10-16 02:22:34 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-16 02:22:19 UTC
+**Next update:** ~2026-10-16 02:24:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asiatic brush-tailed porcupine
-![Asiatic brush-tailed porcupine](https://upload.wikimedia.org/wikipedia/commons/7/76/Brush-tailed_Porcupine%2C_Atherurus_macrourus_in_Kaeng_Krachan_national_park_%2815925250476%29.jpg)
+### Crowned lemur
+![Crowned lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Crowned_lemur_%28Eulemur_coronatus%29_male.jpg/1920px-Crowned_lemur_%28Eulemur_coronatus%29_male.jpg)
 <!-- END_ANIMAL -->
 
 
