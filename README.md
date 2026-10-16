@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-16 09:58:22 UTC
-**Next update:** ~2026-10-16 10:00:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-16 10:01:00 UTC
+**Next update:** ~2026-10-16 10:03:00 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Baikal seal
-![Baikal seal](https://commons.wikimedia.org/wiki/Special:FilePath/Baikal-seal_4747-pho.jpg)
+### Daurian hedgehog
+![Daurian hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Daurian_Hedgehog_%28Mesechinus_dauuricus%29.tif/lossy-page1-1920px-Daurian_Hedgehog_%28Mesechinus_dauuricus%29.tif.jpg)
 <!-- END_ANIMAL -->
 
 
