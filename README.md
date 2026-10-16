@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-16 17:58:21 UTC
-**Next update:** ~2026-10-16 18:00:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-16 18:01:01 UTC
+**Next update:** ~2026-10-16 18:03:01 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Milne-Edwards's sifaka
-![Milne-Edwards's sifaka](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Milne_Edwards%27s_sifaka_%28Propithecus_edwardsi%29.jpg/960px-Milne_Edwards%27s_sifaka_%28Propithecus_edwardsi%29.jpg)
+### Marsh Mongoose
+![Marsh Mongoose](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Marsh_mongoose_or_water_mongoose%2C_Atilax_paludinosus%2C_at_Rietvlei_Nature_Reserve%2C_Gauteng%2C_South_Africa_%2822548192738%29.jpg/1920px-Marsh_mongoose_or_water_mongoose%2C_Atilax_paludinosus%2C_at_Rietvlei_Nature_Reserve%2C_Gauteng%2C_South_Africa_%2822548192738%29.jpg)
 <!-- END_ANIMAL -->
 
 
