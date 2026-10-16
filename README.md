@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-16 07:12:20 UTC
-**Next update:** ~2026-10-16 07:14:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-16 07:14:20 UTC
+**Next update:** ~2026-10-16 07:16:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern spotted skunk
-![Eastern spotted skunk](https://upload.wikimedia.org/wikipedia/commons/f/f2/Spilogale_putorius_%282%29.jpg)
+### Arfak triok
+![Arfak triok](https://upload.wikimedia.org/wikipedia/commons/9/90/Arfak_Striped_Possum_%28Dactylopsila_kambuayai%29_Female.png)
 <!-- END_ANIMAL -->
 
 
