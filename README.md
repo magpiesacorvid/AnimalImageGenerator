@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-16 00:50:34 UTC
-**Next update:** ~2026-10-16 00:52:34 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-16 00:52:20 UTC
+**Next update:** ~2026-10-16 00:54:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown Hyena
-![Brown Hyena](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Brown_Hyena_%28Hyaena_brunnea%29_leaving_waterhole_..._%2850915531592%29%2C_crop.jpg/1920px-Brown_Hyena_%28Hyaena_brunnea%29_leaving_waterhole_..._%2850915531592%29%2C_crop.jpg)
+### Meadow jumping mouse
+![Meadow jumping mouse](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Zapus_hudsonius.jpg/1920px-Zapus_hudsonius.jpg)
 <!-- END_ANIMAL -->
 
 
