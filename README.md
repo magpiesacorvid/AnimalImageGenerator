@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-16 00:01:04 UTC
-**Next update:** ~2026-10-16 00:03:04 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-16 00:02:21 UTC
+**Next update:** ~2026-10-16 00:04:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Grizzled tree-kangaroo
-![Grizzled tree-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kangguru_pohon.jpg/1920px-Kangguru_pohon.jpg)
+### Central American red brocket
+![Central American red brocket](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Central_American_red_brocket_deer_%28male%29_5.jpg/1920px-Central_American_red_brocket_deer_%28male%29_5.jpg)
 <!-- END_ANIMAL -->
 
 
