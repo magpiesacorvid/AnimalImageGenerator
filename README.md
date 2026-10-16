@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-16 04:40:37 UTC
-**Next update:** ~2026-10-16 04:42:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-16 04:42:21 UTC
+**Next update:** ~2026-10-16 04:44:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cornish Rex
-![Cornish Rex](https://upload.wikimedia.org/wikipedia/commons/5/5c/Rex_staredown.jpg)
+### Amami rabbit
+![Amami rabbit](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pentalagus_furnessi_387708672.jpg/1280px-Pentalagus_furnessi_387708672.jpg)
 <!-- END_ANIMAL -->
 
 
