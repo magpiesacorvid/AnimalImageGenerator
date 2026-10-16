@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-16 04:16:19 UTC
-**Next update:** ~2026-10-16 04:18:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-16 04:18:20 UTC
+**Next update:** ~2026-10-16 04:20:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Corsac fox
-![Corsac fox](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vulpes_corsac.jpg/1920px-Vulpes_corsac.jpg)
+### Lelwel hartebeest
+![Lelwel hartebeest](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Male_Jackson%27s_hartebeest.jpg/960px-Male_Jackson%27s_hartebeest.jpg)
 <!-- END_ANIMAL -->
 
 
