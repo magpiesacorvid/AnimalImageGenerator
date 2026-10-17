@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-17 18:48:18 UTC
-**Next update:** ~2026-10-17 18:50:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-17 18:50:32 UTC
+**Next update:** ~2026-10-17 18:52:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ground pangolin
-![Ground pangolin](https://upload.wikimedia.org/wikipedia/commons/6/6b/Manis_temminckii_%2829645803646%29.jpg)
+### Crab-Eating Raccoon
+![Crab-Eating Raccoon](https://upload.wikimedia.org/wikipedia/commons/5/56/Mano_pelada_%28Procyon_cancrivorus_nigripes%29.JPG)
 <!-- END_ANIMAL -->
 
 
