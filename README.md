@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-17 16:26:18 UTC
-**Next update:** ~2026-10-17 16:28:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-17 16:28:19 UTC
+**Next update:** ~2026-10-17 16:30:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Furry-eared dwarf lemur
-![Furry-eared dwarf lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Crossley%27s_dwarf_lemur_%28Cheirogaleus_crossleyi%29_Ranomafana.jpg/1920px-Crossley%27s_dwarf_lemur_%28Cheirogaleus_crossleyi%29_Ranomafana.jpg)
+### Black-headed night monkey
+![Black-headed night monkey](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Aotus_nigriceps.jpg/1920px-Aotus_nigriceps.jpg)
 <!-- END_ANIMAL -->
 
 
