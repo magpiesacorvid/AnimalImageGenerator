@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-17 05:30:45 UTC
-**Next update:** ~2026-10-17 05:32:45 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-17 05:32:17 UTC
+**Next update:** ~2026-10-17 05:34:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Drill
-![Drill](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Drill_Mandrillus_leucophaeus_Junges_Tierpark_Hellabrunn-7.jpg/1920px-Drill_Mandrillus_leucophaeus_Junges_Tierpark_Hellabrunn-7.jpg)
+### Kitti's hog-nosed bat
+![Kitti's hog-nosed bat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Craseonycteris_thonglongyai_414843825.jpg/960px-Craseonycteris_thonglongyai_414843825.jpg)
 <!-- END_ANIMAL -->
 
 
