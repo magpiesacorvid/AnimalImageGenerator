@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-17 14:58:18 UTC
-**Next update:** ~2026-10-17 15:00:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-17 15:00:59 UTC
+**Next update:** ~2026-10-17 15:02:59 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cyprus cat
-![Cyprus cat](https://upload.wikimedia.org/wikipedia/commons/b/b9/CyprusShorthair.jpg)
+### American Shorthair
+![American Shorthair](https://commons.wikimedia.org/wiki/Special:FilePath/Jewelkatz_Romeo_Of_Stalker-Bars.jpg)
 <!-- END_ANIMAL -->
 
 
