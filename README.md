@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-17 17:46:18 UTC
-**Next update:** ~2026-10-17 17:48:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-17 17:48:19 UTC
+**Next update:** ~2026-10-17 17:50:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Long-tailed pangolin
-![Long-tailed pangolin](https://upload.wikimedia.org/wikipedia/commons/c/c3/Manis_tetradactyla_%2829645778336%29.jpg)
+### Korrigum
+![Korrigum](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Korrigum_%28Damaliscus_korrigum%29.jpg/1280px-Korrigum_%28Damaliscus_korrigum%29.jpg)
 <!-- END_ANIMAL -->
 
 
