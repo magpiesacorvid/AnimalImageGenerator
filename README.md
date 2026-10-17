@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-17 18:10:33 UTC
-**Next update:** ~2026-10-17 18:12:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-17 18:12:19 UTC
+**Next update:** ~2026-10-17 18:14:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kordofan giraffe
-![Kordofan giraffe](https://upload.wikimedia.org/wikipedia/commons/4/47/Giraffa_camelopardalis_antiquorum_%28Vincennes_Zoo%29_2.jpg)
+### Little woolly mouse opossum
+![Little woolly mouse opossum](https://upload.wikimedia.org/wikipedia/commons/0/03/Marmosa_phaea.jpg)
 <!-- END_ANIMAL -->
 
 
