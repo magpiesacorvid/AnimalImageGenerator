@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-17 02:08:19 UTC
-**Next update:** ~2026-10-17 02:10:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-17 02:10:30 UTC
+**Next update:** ~2026-10-17 02:12:30 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Camas pocket gopher
-![Camas pocket gopher](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Camas_pocket_gopher_%283%29.JPG/1920px-Camas_pocket_gopher_%283%29.JPG)
+### Brazilian gracile opossum
+![Brazilian gracile opossum](https://upload.wikimedia.org/wikipedia/commons/c/cf/Catita_%28Gracilinanus_microtarsus%29_-_Leonardo_Mer%C3%A7on.jpg)
 <!-- END_ANIMAL -->
 
 
