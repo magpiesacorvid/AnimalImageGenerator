@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-17 18:38:18 UTC
-**Next update:** ~2026-10-17 18:40:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-17 18:40:32 UTC
+**Next update:** ~2026-10-17 18:42:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Leopard Seal
-![Leopard Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Antarctic_Sound-2016-Brown_Bluff%E2%80%93Leopard_seal_%28Hydrurga_leptonyx%29_04.jpg/1280px-Antarctic_Sound-2016-Brown_Bluff%E2%80%93Leopard_seal_%28Hydrurga_leptonyx%29_04.jpg)
+### California Spangled Cat
+![California Spangled Cat](https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Spangled_Cat.jpg)
 <!-- END_ANIMAL -->
 
 
