@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-17 06:20:30 UTC
-**Next update:** ~2026-10-17 06:22:30 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-17 06:22:18 UTC
+**Next update:** ~2026-10-17 06:24:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mainland serow
-![Mainland serow](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Serow_Capricornis_sumatraensis.JPG/1280px-Serow_Capricornis_sumatraensis.JPG)
+### Mountain gazelle
+![Mountain gazelle](https://upload.wikimedia.org/wikipedia/commons/7/79/Gazella_gazella.jpg)
 <!-- END_ANIMAL -->
 
 
