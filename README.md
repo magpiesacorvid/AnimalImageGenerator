@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-17 15:42:19 UTC
-**Next update:** ~2026-10-17 15:44:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-17 15:44:19 UTC
+**Next update:** ~2026-10-17 15:46:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### East African little collared fruit bat
-![East African little collared fruit bat](https://upload.wikimedia.org/wikipedia/commons/d/d9/Myonycteris_relicta.jpg)
+### Marbled polecat
+![Marbled polecat](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/%286604%29_Marbled_polecat.jpg/960px-%286604%29_Marbled_polecat.jpg)
 <!-- END_ANIMAL -->
 
 
