@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-18 06:30:47 UTC
-**Next update:** ~2026-10-18 06:32:47 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-18 06:32:18 UTC
+**Next update:** ~2026-10-18 06:34:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Northern birch mouse
-![Northern birch mouse](https://upload.wikimedia.org/wikipedia/commons/3/37/Sicista_betulina_03.JPG)
+### Mauritian flying fox
+![Mauritian flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mauritian_flying_fox_%28Pteropus_niger%29_male_in_flight.jpg/1280px-Mauritian_flying_fox_%28Pteropus_niger%29_male_in_flight.jpg)
 <!-- END_ANIMAL -->
 
 
