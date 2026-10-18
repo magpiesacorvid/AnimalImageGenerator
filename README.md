@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-18 16:40:33 UTC
-**Next update:** ~2026-10-18 16:42:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-18 16:42:19 UTC
+**Next update:** ~2026-10-18 16:44:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### European mink
-![European mink](https://upload.wikimedia.org/wikipedia/commons/e/e4/Europ%C3%A4ischer_Nerz.jpg)
+### Bighorn sheep
+![Bighorn sheep](https://commons.wikimedia.org/wiki/Special:FilePath/Big_Horn_Sheep.jpg)
 <!-- END_ANIMAL -->
 
 
