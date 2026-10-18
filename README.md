@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-18 08:42:20 UTC
-**Next update:** ~2026-10-18 08:44:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-18 08:44:19 UTC
+**Next update:** ~2026-10-18 08:46:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asian Cat
-![Asian Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IMGP1134_%2851750850378%29.jpg/1920px-IMGP1134_%2851750850378%29.jpg)
+### Kordofan giraffe
+![Kordofan giraffe](https://upload.wikimedia.org/wikipedia/commons/4/47/Giraffa_camelopardalis_antiquorum_%28Vincennes_Zoo%29_2.jpg)
 <!-- END_ANIMAL -->
 
 
