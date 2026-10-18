@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-18 19:00:56 UTC
-**Next update:** ~2026-10-18 19:02:56 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-18 19:02:19 UTC
+**Next update:** ~2026-10-18 19:04:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asian palm civet
-![Asian palm civet](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg/1280px-Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg)
+### Long-furred woolly mouse opossum
+![Long-furred woolly mouse opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/North-eastern_Woolly_Mouse_Opossum_imported_from_iNaturalist_photo_417123381_on_18_October_2024.jpg/250px-North-eastern_Woolly_Mouse_Opossum_imported_from_iNaturalist_photo_417123381_on_18_October_2024.jpg)
 <!-- END_ANIMAL -->
 
 
