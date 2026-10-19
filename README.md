@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-19 12:58:20 UTC
-**Next update:** ~2026-10-19 13:00:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-19 13:01:00 UTC
+**Next update:** ~2026-10-19 13:03:00 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Desert hare
-![Desert hare](https://upload.wikimedia.org/wikipedia/commons/5/5f/Lepus_tibetanus_418805770_%28cropped%29.jpg)
+### Furry-eared dwarf lemur
+![Furry-eared dwarf lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Crossley%27s_dwarf_lemur_%28Cheirogaleus_crossleyi%29_Ranomafana.jpg/1920px-Crossley%27s_dwarf_lemur_%28Cheirogaleus_crossleyi%29_Ranomafana.jpg)
 <!-- END_ANIMAL -->
 
 
