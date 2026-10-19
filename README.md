@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-19 14:20:34 UTC
-**Next update:** ~2026-10-19 14:22:34 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-19 14:22:21 UTC
+**Next update:** ~2026-10-19 14:24:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Collared pika
-![Collared pika](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ochotona_collaris_426417063.jpg/1920px-Ochotona_collaris_426417063.jpg)
+### Carr's slender opossum
+![Carr's slender opossum](https://upload.wikimedia.org/wikipedia/commons/5/5c/Marmosops_carri_426343845_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
