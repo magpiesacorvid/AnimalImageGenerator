@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-19 10:42:19 UTC
-**Next update:** ~2026-10-19 10:44:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-19 10:44:19 UTC
+**Next update:** ~2026-10-19 10:46:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Aardwolf
-![Aardwolf](https://upload.wikimedia.org/wikipedia/commons/2/2f/Aardwolf%2C_Buffalo_Springs_National_Park%2C_Kenya_1_%28cropped%29.jpg)
+### Eastern hoolock gibbon
+![Eastern hoolock gibbon](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Unknown_animal_5_%28Sitesh_Babu%27s_Zoo%29.jpg/1920px-Unknown_animal_5_%28Sitesh_Babu%27s_Zoo%29.jpg)
 <!-- END_ANIMAL -->
 
 
