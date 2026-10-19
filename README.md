@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-19 12:22:23 UTC
-**Next update:** ~2026-10-19 12:24:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-19 12:24:22 UTC
+**Next update:** ~2026-10-19 12:26:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Nubian ibex
-![Nubian ibex](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/PikiWiki_Israel_38769_Male_Ibex.jpg/1280px-PikiWiki_Israel_38769_Male_Ibex.jpg)
+### Asian elephant
+![Asian elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/1280px-Elephas_maximus_%28Bandipur%29.jpg)
 <!-- END_ANIMAL -->
 
 
