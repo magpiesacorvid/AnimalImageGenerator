@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-19 18:22:21 UTC
-**Next update:** ~2026-10-19 18:24:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-19 18:24:23 UTC
+**Next update:** ~2026-10-19 18:26:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kinda baboon
-![Kinda baboon](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Female_kinda_baboon.jpg/1280px-Female_kinda_baboon.jpg)
+### Marsh rabbit
+![Marsh rabbit](https://upload.wikimedia.org/wikipedia/commons/6/62/Sylvilagus_palustris_-_Peter_Chen_2.0_-_473222718.jpeg)
 <!-- END_ANIMAL -->
 
 
