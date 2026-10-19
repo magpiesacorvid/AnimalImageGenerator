@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-19 02:50:32 UTC
-**Next update:** ~2026-10-19 02:52:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-19 02:52:19 UTC
+**Next update:** ~2026-10-19 02:54:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Camas pocket gopher
-![Camas pocket gopher](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Camas_pocket_gopher_%283%29.JPG/1920px-Camas_pocket_gopher_%283%29.JPG)
+### Indian rhinoceros
+![Indian rhinoceros](https://upload.wikimedia.org/wikipedia/commons/7/77/Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg)
 <!-- END_ANIMAL -->
 
 
