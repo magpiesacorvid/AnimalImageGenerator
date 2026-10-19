@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-19 00:22:19 UTC
-**Next update:** ~2026-10-19 00:24:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-19 00:24:20 UTC
+**Next update:** ~2026-10-19 00:26:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mediterranean water shrew
-![Mediterranean water shrew](https://upload.wikimedia.org/wikipedia/commons/3/3a/Neomys_anomalus.jpg)
+### Korean hare
+![Korean hare](https://upload.wikimedia.org/wikipedia/commons/7/70/Lepus_coreanus.jpg)
 <!-- END_ANIMAL -->
 
 
