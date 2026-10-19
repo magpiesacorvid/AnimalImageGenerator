@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-19 02:22:19 UTC
-**Next update:** ~2026-10-19 02:24:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-19 02:24:21 UTC
+**Next update:** ~2026-10-19 02:26:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Marsh rabbit
-![Marsh rabbit](https://upload.wikimedia.org/wikipedia/commons/6/62/Sylvilagus_palustris_-_Peter_Chen_2.0_-_473222718.jpeg)
+### Lowland anoa
+![Lowland anoa](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Anoa_Bubalus_depressicornis_Surabaya_Zoo.jpg/960px-Anoa_Bubalus_depressicornis_Surabaya_Zoo.jpg)
 <!-- END_ANIMAL -->
 
 
