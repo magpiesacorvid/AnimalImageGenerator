@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-19 22:42:20 UTC
-**Next update:** ~2026-10-19 22:44:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-19 22:44:20 UTC
+**Next update:** ~2026-10-19 22:46:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Balinese cat
-![Balinese cat](https://commons.wikimedia.org/wiki/Special:FilePath/Ghislaine_6028.jpg)
+### Arabian oryx
+![Arabian oryx](https://upload.wikimedia.org/wikipedia/commons/4/43/Arabian_oryx_%28oryx_leucoryx%29.jpg)
 <!-- END_ANIMAL -->
 
 
