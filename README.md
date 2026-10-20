@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-20 13:08:22 UTC
-**Next update:** ~2026-10-20 13:10:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-20 13:10:35 UTC
+**Next update:** ~2026-10-20 13:12:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chausie Cat
-![Chausie Cat](https://upload.wikimedia.org/wikipedia/commons/0/06/ChausieA.jpg)
+### Little woolly mouse opossum
+![Little woolly mouse opossum](https://upload.wikimedia.org/wikipedia/commons/0/03/Marmosa_phaea.jpg)
 <!-- END_ANIMAL -->
 
 
