@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-20 13:01:01 UTC
-**Next update:** ~2026-10-20 13:03:01 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-20 13:02:19 UTC
+**Next update:** ~2026-10-20 13:04:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Little red brocket
-![Little red brocket](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mazama_rufina1.JPG/1280px-Mazama_rufina1.JPG)
+### African Wild Dog
+![African Wild Dog](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/African_Wild_Dog_at_Working_with_Wildlife.jpg/1920px-African_Wild_Dog_at_Working_with_Wildlife.jpg)
 <!-- END_ANIMAL -->
 
 
