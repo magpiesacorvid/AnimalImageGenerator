@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-20 01:20:36 UTC
-**Next update:** ~2026-10-20 01:22:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-20 01:22:20 UTC
+**Next update:** ~2026-10-20 01:24:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brazilian guinea pig
-![Brazilian guinea pig](https://upload.wikimedia.org/wikipedia/commons/c/c6/Wildmeerschweinchen-06.jpg)
+### Giant Panda
+![Giant Panda](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/1920px-Grosser_Panda.JPG)
 <!-- END_ANIMAL -->
 
 
