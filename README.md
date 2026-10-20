@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-20 15:12:20 UTC
-**Next update:** ~2026-10-20 15:14:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-20 15:14:20 UTC
+**Next update:** ~2026-10-20 15:16:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Guianan white-eared opossum
-![Guianan white-eared opossum](https://upload.wikimedia.org/wikipedia/commons/d/d2/Adult-female-of-Didelphis-imperfecta-captured-at-El-Tuparro-NNP.png)
+### American marten
+![American marten](https://upload.wikimedia.org/wikipedia/commons/8/8e/Newfoundland_Pine_Marten.jpg)
 <!-- END_ANIMAL -->
 
 
