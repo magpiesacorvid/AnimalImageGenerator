@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-20 00:18:19 UTC
-**Next update:** ~2026-10-20 00:20:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-20 00:20:36 UTC
+**Next update:** ~2026-10-20 00:22:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chinese goral
-![Chinese goral](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Nemorhaeduscaudatusarnouxianus2.JPG/1920px-Nemorhaeduscaudatusarnouxianus2.JPG)
+### Eastern gorilla
+![Eastern gorilla](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Male_Gorilla_%28181091305%29.jpg/1920px-Male_Gorilla_%28181091305%29.jpg)
 <!-- END_ANIMAL -->
 
 
