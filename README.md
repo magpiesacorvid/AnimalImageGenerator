@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-21 19:22:21 UTC
-**Next update:** ~2026-10-21 19:24:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-21 19:24:19 UTC
+**Next update:** ~2026-10-21 19:26:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Beaked whale
-![Beaked whale](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Beaked_Whale.jpg/1920px-Beaked_Whale.jpg)
+### Crab-Eating Raccoon
+![Crab-Eating Raccoon](https://upload.wikimedia.org/wikipedia/commons/5/56/Mano_pelada_%28Procyon_cancrivorus_nigripes%29.JPG)
 <!-- END_ANIMAL -->
 
 
