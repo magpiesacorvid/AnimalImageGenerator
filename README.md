@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-21 23:38:20 UTC
-**Next update:** ~2026-10-21 23:40:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-21 23:40:34 UTC
+**Next update:** ~2026-10-21 23:42:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Afghan pika
-![Afghan pika](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ochotona_rufescens_213736083.jpg/1280px-Ochotona_rufescens_213736083.jpg)
+### Carpentarian dunnart
+![Carpentarian dunnart](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sminthopsis_Butleri.jpg/1920px-Sminthopsis_Butleri.jpg)
 <!-- END_ANIMAL -->
 
 
