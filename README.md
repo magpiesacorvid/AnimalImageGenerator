@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-21 16:10:36 UTC
-**Next update:** ~2026-10-21 16:12:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-21 16:12:20 UTC
+**Next update:** ~2026-10-21 16:14:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mantled Howler
-![Mantled Howler](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Panamanian_Male_Adult_Howler_Monkey.jpg/1280px-Panamanian_Male_Adult_Howler_Monkey.jpg)
+### Günther's dik-dik
+![Günther's dik-dik](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Guenther%27s_Dik-dik_%28Madoqua_guentheri_smithii%29_%287662529270%29.jpg/1920px-Guenther%27s_Dik-dik_%28Madoqua_guentheri_smithii%29_%287662529270%29.jpg)
 <!-- END_ANIMAL -->
 
 
