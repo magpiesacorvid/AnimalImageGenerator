@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-21 22:01:00 UTC
-**Next update:** ~2026-10-21 22:03:00 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-21 22:02:20 UTC
+**Next update:** ~2026-10-21 22:04:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cuvier's gazelle
-![Cuvier's gazelle](https://upload.wikimedia.org/wikipedia/commons/f/fa/Cuvier%27s_Gazelle.jpg)
+### Central Asian red deer
+![Central Asian red deer](https://upload.wikimedia.org/wikipedia/commons/1/1f/Bukhara_Deer_stag_at_Speyside_Wildlife_Park_-_geograph.org.uk_-_1002574_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
