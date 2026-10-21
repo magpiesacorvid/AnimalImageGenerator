@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-21 15:12:22 UTC
-**Next update:** ~2026-10-21 15:14:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-21 15:14:20 UTC
+**Next update:** ~2026-10-21 15:16:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cape Golden Mole
-![Cape Golden Mole](https://commons.wikimedia.org/wiki/Special:FilePath/Chrysochloris_asiatica_Cape_golden_mole_adult_IMG_7120.jpg)
+### Desert warthog
+![Desert warthog](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Desert_Warthog%2C_Tsavo_National_Park%2C_Kenya_01.jpg/1920px-Desert_Warthog%2C_Tsavo_National_Park%2C_Kenya_01.jpg)
 <!-- END_ANIMAL -->
 
 
