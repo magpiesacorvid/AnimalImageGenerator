@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-21 18:40:35 UTC
-**Next update:** ~2026-10-21 18:42:35 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-21 18:42:21 UTC
+**Next update:** ~2026-10-21 18:44:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain hare
-![Mountain hare](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lepus_timidus_-_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%BE%D1%80%D0%B5%D0%B9%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2_-_96446302.jpeg/1280px-Lepus_timidus_-_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%BE%D1%80%D0%B5%D0%B9%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2_-_96446302.jpeg)
+### Common minke whale
+![Common minke whale](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/SBNMS_-_Minke_Whale_-_Breach_%2828670557361%29.jpg/1920px-SBNMS_-_Minke_Whale_-_Breach_%2828670557361%29.jpg)
 <!-- END_ANIMAL -->
 
 
