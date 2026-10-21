@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-21 20:08:22 UTC
-**Next update:** ~2026-10-21 20:10:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-21 20:10:36 UTC
+**Next update:** ~2026-10-21 20:12:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chartreux Cat
-![Chartreux Cat](https://upload.wikimedia.org/wikipedia/commons/3/3c/IC_Blue_Melody_Flipper_CHA_male_EX1_CACIB.jpg)
+### Cowan's shrew tenrec
+![Cowan's shrew tenrec](https://upload.wikimedia.org/wikipedia/commons/6/61/Microgale_cowani.jpg)
 <!-- END_ANIMAL -->
 
 
