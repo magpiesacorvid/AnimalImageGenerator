@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-21 06:18:21 UTC
-**Next update:** ~2026-10-21 06:20:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-21 06:20:35 UTC
+**Next update:** ~2026-10-21 06:22:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hamadryas baboon
-![Hamadryas baboon](https://upload.wikimedia.org/wikipedia/commons/9/9c/Papio_hamadryas_eating_an_apple.JPG)
+### Molina's hog-nosed skunk
+![Molina's hog-nosed skunk](https://upload.wikimedia.org/wikipedia/commons/5/5b/Chingue_%28Conepatus_chinga%29_Inao_V%C3%A1squez_001.jpg)
 <!-- END_ANIMAL -->
 
 
