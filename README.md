@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-22 03:28:18 UTC
-**Next update:** ~2026-10-22 03:30:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-22 03:30:47 UTC
+**Next update:** ~2026-10-22 03:32:47 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian hedgehog
-![Indian hedgehog](https://upload.wikimedia.org/wikipedia/commons/e/ea/Paraechinus_micropus.jpg)
+### Asian Golden Cat
+![Asian Golden Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Asian_Golden_cat.jpg/960px-Asian_Golden_cat.jpg)
 <!-- END_ANIMAL -->
 
 
