@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-22 04:22:19 UTC
-**Next update:** ~2026-10-22 04:24:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-22 04:24:20 UTC
+**Next update:** ~2026-10-22 04:26:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain reedbuck
-![Mountain reedbuck](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Southern_Mountain_Reedbuck_%28Redunca_fulvorufula%29_%2833043612376%29.jpg/960px-Southern_Mountain_Reedbuck_%28Redunca_fulvorufula%29_%2833043612376%29.jpg)
+### Moustached tamarin
+![Moustached tamarin](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Saguinus_mystax_at_the_Bronx_Zoo_01.jpg/1280px-Saguinus_mystax_at_the_Bronx_Zoo_01.jpg)
 <!-- END_ANIMAL -->
 
 
