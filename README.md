@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-22 05:18:20 UTC
-**Next update:** ~2026-10-22 05:20:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-22 05:20:34 UTC
+**Next update:** ~2026-10-22 05:22:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bornean yellow muntjac
-![Bornean yellow muntjac](https://upload.wikimedia.org/wikipedia/commons/8/87/Bornean_Yellow_Muntjac%2C_Kutai_Timur%2C_ID-KI%2C_ID_imported_from_iNaturalist_photo_351183693_%28cropped%29.jpg)
+### Bear cuscuses
+![Bear cuscuses](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ailurops_ursinus_Naemundung_2_North_Sulawesi.jpg/1920px-Ailurops_ursinus_Naemundung_2_North_Sulawesi.jpg)
 <!-- END_ANIMAL -->
 
 
