@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-22 02:28:19 UTC
-**Next update:** ~2026-10-22 02:30:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-22 02:30:48 UTC
+**Next update:** ~2026-10-22 02:32:48 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Barasingha
-![Barasingha](https://commons.wikimedia.org/wiki/Special:FilePath/The_barasingha.jpg)
+### Brandt's hedgehog
+![Brandt's hedgehog](https://upload.wikimedia.org/wikipedia/commons/7/77/Brandt%27s_Hedgehog.jpg)
 <!-- END_ANIMAL -->
 
 
