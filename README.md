@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-22 16:48:25 UTC
-**Next update:** ~2026-10-22 16:50:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-22 16:50:39 UTC
+**Next update:** ~2026-10-22 16:52:39 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chacoan mara
-![Chacoan mara](https://upload.wikimedia.org/wikipedia/commons/7/79/%D0%A7%D0%B0%D0%BA%D0%BE%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C_%D0%B8%D0%BB%D0%B8_%D1%87%D0%B0%D0%BA%D1%81%D0%BA%D0%B0%D1%8F%2C_%D0%B8%D0%BB%D0%B8_%D0%BC%D0%B0%D0%BB%D0%B0%D1%8F_%D0%BC%D0%B0%D1%80%D0%B0_%28Dolichotis_salinicola%29%2C_Chacoan_mara%2C_Kleiner_Mara%2C_Tierpark_Berlin_Friedrichsfelde%2C_10.2012.jpg)
+### African bush elephant
+![African bush elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
