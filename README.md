@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-22 23:48:20 UTC
-**Next update:** ~2026-10-22 23:50:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-22 23:50:39 UTC
+**Next update:** ~2026-10-22 23:52:39 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common gundi
-![Common gundi](https://upload.wikimedia.org/wikipedia/commons/3/37/Gundi_Ctenodactylus_gundi_051117_2.jpg)
+### Derby's woolly opossum
+![Derby's woolly opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Central_American_woolly_opossum_%28Caluromys_derbianus%29_male.jpg/1920px-Central_American_woolly_opossum_%28Caluromys_derbianus%29_male.jpg)
 <!-- END_ANIMAL -->
 
 
