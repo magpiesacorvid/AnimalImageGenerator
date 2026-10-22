@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-22 07:52:20 UTC
-**Next update:** ~2026-10-22 07:54:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-22 07:54:22 UTC
+**Next update:** ~2026-10-22 07:56:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian flying fox
-![Indian flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/047_Indian_flying_fox_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/960px-047_Indian_flying_fox_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg)
+### Kenya coast galago
+![Kenya coast galago](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Taita_mountain_dwarf_galago_from_Taita_Hills.jpg/1280px-Taita_mountain_dwarf_galago_from_Taita_Hills.jpg)
 <!-- END_ANIMAL -->
 
 
