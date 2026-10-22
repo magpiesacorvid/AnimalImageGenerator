@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-22 04:50:36 UTC
-**Next update:** ~2026-10-22 04:52:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-22 04:52:20 UTC
+**Next update:** ~2026-10-22 04:54:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Banteng
-![Banteng](https://commons.wikimedia.org/wiki/Special:FilePath/Banteng_Alas_Purwo.jpg)
+### Heaviside's dolphin
+![Heaviside's dolphin](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dolphins_at_L%C3%BCderitz%2C_Namibia_%283144863196%29.jpg/1280px-Dolphins_at_L%C3%BCderitz%2C_Namibia_%283144863196%29.jpg)
 <!-- END_ANIMAL -->
 
 
