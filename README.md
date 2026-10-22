@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-22 04:16:19 UTC
-**Next update:** ~2026-10-22 04:18:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-22 04:18:20 UTC
+**Next update:** ~2026-10-22 04:20:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Desert warthog
-![Desert warthog](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Desert_Warthog%2C_Tsavo_National_Park%2C_Kenya_01.jpg/1920px-Desert_Warthog%2C_Tsavo_National_Park%2C_Kenya_01.jpg)
+### Nubra pika
+![Nubra pika](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nubra_Pika_imported_from_iNaturalist_photo_280695445_on_14_February_2024.jpg/250px-Nubra_Pika_imported_from_iNaturalist_photo_280695445_on_14_February_2024.jpg)
 <!-- END_ANIMAL -->
 
 
