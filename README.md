@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-22 01:52:21 UTC
-**Next update:** ~2026-10-22 01:54:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-22 01:54:19 UTC
+**Next update:** ~2026-10-22 01:56:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Northern tamandua
-![Northern tamandua](https://upload.wikimedia.org/wikipedia/commons/8/80/DirkvdM_tamandua.jpg)
+### Ghost-faced bat
+![Ghost-faced bat](https://upload.wikimedia.org/wikipedia/commons/2/21/Mormoops_megalophylla.JPG)
 <!-- END_ANIMAL -->
 
 
