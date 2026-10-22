@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-22 05:30:45 UTC
-**Next update:** ~2026-10-22 05:32:45 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-22 05:32:20 UTC
+**Next update:** ~2026-10-22 05:34:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Caucasian badger
-![Caucasian badger](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Badger_Crete.jpg/1920px-Badger_Crete.jpg)
+### Nebelung Cat
+![Nebelung Cat](https://upload.wikimedia.org/wikipedia/commons/2/29/Aleksandr_van_Song_de_Chine.jpg)
 <!-- END_ANIMAL -->
 
 
