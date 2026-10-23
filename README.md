@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-23 23:00:56 UTC
-**Next update:** ~2026-10-23 23:02:56 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-23 23:02:21 UTC
+**Next update:** ~2026-10-23 23:04:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mediterranean monk seal
-![Mediterranean monk seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Monachus_monachus_DSC_0274.jpg/1280px-Monachus_monachus_DSC_0274.jpg)
+### Amur hedgehog
+![Amur hedgehog](https://upload.wikimedia.org/wikipedia/commons/d/d1/Erinaceus_amurensis.jpg)
 <!-- END_ANIMAL -->
 
 
