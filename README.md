@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-23 21:30:49 UTC
-**Next update:** ~2026-10-23 21:32:49 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-23 21:32:21 UTC
+**Next update:** ~2026-10-23 21:34:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gilbert's potoroo
-![Gilbert's potoroo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GilbertsPotoroo.JPG/250px-GilbertsPotoroo.JPG)
+### Montane Fish-eating Rat
+![Montane Fish-eating Rat](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Neusticomys_monticolus.jpg/960px-Neusticomys_monticolus.jpg)
 <!-- END_ANIMAL -->
 
 
