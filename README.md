@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-23 16:28:20 UTC
-**Next update:** ~2026-10-23 16:30:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-23 16:30:52 UTC
+**Next update:** ~2026-10-23 16:32:52 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Marsh rabbit
-![Marsh rabbit](https://upload.wikimedia.org/wikipedia/commons/6/62/Sylvilagus_palustris_-_Peter_Chen_2.0_-_473222718.jpeg)
+### Kurilian Bobtail
+![Kurilian Bobtail](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/KURILIAN_BOBTAIL_Maschio_Veika_2011_%28cropped%29.JPG/1280px-KURILIAN_BOBTAIL_Maschio_Veika_2011_%28cropped%29.JPG)
 <!-- END_ANIMAL -->
 
 
