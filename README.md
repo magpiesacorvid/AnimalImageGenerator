@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-24 11:48:20 UTC
-**Next update:** ~2026-10-24 11:50:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-24 11:50:36 UTC
+**Next update:** ~2026-10-24 11:52:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Large Indian Civet
-![Large Indian Civet](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Large_Indian_Civet%2C_Viverra_zibetha_in_Kaeng_Krachan_national_park.jpg/1280px-Large_Indian_Civet%2C_Viverra_zibetha_in_Kaeng_Krachan_national_park.jpg)
+### Black-striped wallaby
+![Black-striped wallaby](https://upload.wikimedia.org/wikipedia/commons/5/5f/Dorsalis1.jpg)
 <!-- END_ANIMAL -->
 
 
