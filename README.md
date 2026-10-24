@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-24 08:46:18 UTC
-**Next update:** ~2026-10-24 08:48:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-24 08:48:20 UTC
+**Next update:** ~2026-10-24 08:50:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hairy-fronted muntjac
-![Hairy-fronted muntjac](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2011_Muntjak-4.jpg/1920px-2011_Muntjak-4.jpg)
+### Moustached tamarin
+![Moustached tamarin](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Saguinus_mystax_at_the_Bronx_Zoo_01.jpg/1280px-Saguinus_mystax_at_the_Bronx_Zoo_01.jpg)
 <!-- END_ANIMAL -->
 
 
