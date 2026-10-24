@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-24 06:42:21 UTC
-**Next update:** ~2026-10-24 06:44:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-24 06:44:20 UTC
+**Next update:** ~2026-10-24 06:46:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ghost-faced bat
-![Ghost-faced bat](https://upload.wikimedia.org/wikipedia/commons/2/21/Mormoops_megalophylla.JPG)
+### Guianan white-eared opossum
+![Guianan white-eared opossum](https://upload.wikimedia.org/wikipedia/commons/d/d2/Adult-female-of-Didelphis-imperfecta-captured-at-El-Tuparro-NNP.png)
 <!-- END_ANIMAL -->
 
 
