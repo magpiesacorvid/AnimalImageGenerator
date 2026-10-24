@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-24 08:54:22 UTC
-**Next update:** ~2026-10-24 08:56:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-24 08:56:22 UTC
+**Next update:** ~2026-10-24 08:58:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Javanese Cat
-![Javanese Cat](https://upload.wikimedia.org/wikipedia/commons/b/b4/Ghislaine_6028.jpg)
+### Lioness
+![Lioness](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Okonjima_Lioness.jpg/960px-Okonjima_Lioness.jpg)
 <!-- END_ANIMAL -->
 
 
