@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-24 05:16:20 UTC
-**Next update:** ~2026-10-24 05:18:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-24 05:18:19 UTC
+**Next update:** ~2026-10-24 05:20:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cotton mouse
-![Cotton mouse](https://upload.wikimedia.org/wikipedia/commons/a/af/Peromyscus_gossypinus.jpg)
+### African bush elephant
+![African bush elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
