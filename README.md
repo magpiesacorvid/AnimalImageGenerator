@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-24 13:52:21 UTC
-**Next update:** ~2026-10-24 13:54:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-24 13:54:20 UTC
+**Next update:** ~2026-10-24 13:56:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African Leopard
-![African Leopard](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Leopard_%28Panthera_pardus_pardus%29_Kruger.jpg/1280px-Leopard_%28Panthera_pardus_pardus%29_Kruger.jpg)
+### German Rex Cat
+![German Rex Cat](https://upload.wikimedia.org/wikipedia/commons/c/c7/German_rex_harry_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
