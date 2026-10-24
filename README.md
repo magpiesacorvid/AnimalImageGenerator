@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-24 10:14:22 UTC
-**Next update:** ~2026-10-24 10:16:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-24 10:16:21 UTC
+**Next update:** ~2026-10-24 10:18:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African forest elephant
-![African forest elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Loxodontacyclotis.jpg/1280px-Loxodontacyclotis.jpg)
+### Epauletted fruit bat
+![Epauletted fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Epomophorus_wahlbergi1.jpg/1920px-Epomophorus_wahlbergi1.jpg)
 <!-- END_ANIMAL -->
 
 
