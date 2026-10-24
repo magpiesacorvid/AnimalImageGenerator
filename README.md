@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-24 01:58:21 UTC
-**Next update:** ~2026-10-24 02:00:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-24 02:00:54 UTC
+**Next update:** ~2026-10-24 02:02:54 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chinese pangolin
-![Chinese pangolin](https://upload.wikimedia.org/wikipedia/commons/9/94/Manis_pentadactyla_%2829054818144%29.jpg)
+### Bombay Cat
+![Bombay Cat](https://upload.wikimedia.org/wikipedia/commons/a/ac/Bombay_femelle.JPG)
 <!-- END_ANIMAL -->
 
 
