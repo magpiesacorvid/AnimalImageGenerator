@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-25 16:46:21 UTC
-**Next update:** ~2026-10-25 16:48:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-25 16:48:20 UTC
+**Next update:** ~2026-10-25 16:50:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Okapi
-![Okapi](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg/1280px-Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg)
+### Beaked whale
+![Beaked whale](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Beaked_Whale.jpg/1920px-Beaked_Whale.jpg)
 <!-- END_ANIMAL -->
 
 
