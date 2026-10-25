@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-25 13:40:33 UTC
-**Next update:** ~2026-10-25 13:42:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-25 13:42:18 UTC
+**Next update:** ~2026-10-25 13:44:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Giant golden-crowned flying fox
-![Giant golden-crowned flying fox](https://upload.wikimedia.org/wikipedia/commons/9/97/Acerodon_jubatus_by_Gregg_Yan.jpg)
+### Borneo fruit bat
+![Borneo fruit bat](https://upload.wikimedia.org/wikipedia/commons/4/4d/Aethalops_aequalis.jpg)
 <!-- END_ANIMAL -->
 
 
