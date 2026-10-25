@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-25 16:02:18 UTC
-**Next update:** ~2026-10-25 16:04:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-25 16:04:21 UTC
+**Next update:** ~2026-10-25 16:06:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Atlantic white-sided dolphin
-![Atlantic white-sided dolphin](https://upload.wikimedia.org/wikipedia/commons/9/9a/Atlantic_white-sided_dolphin.jpg)
+### Gray-bellied night monkey
+![Gray-bellied night monkey](https://upload.wikimedia.org/wikipedia/commons/5/5d/Grey-bellied_Night_Monkeys_%28Aotus_lemurinus_griseimembra%29.jpg)
 <!-- END_ANIMAL -->
 
 
