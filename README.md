@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-25 23:02:19 UTC
-**Next update:** ~2026-10-25 23:04:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-25 23:04:22 UTC
+**Next update:** ~2026-10-25 23:06:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Giant otter shrew
-![Giant otter shrew](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Potamogale_velox_340101862.jpg/1920px-Potamogale_velox_340101862.jpg)
+### Arctic fox
+![Arctic fox](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg/960px-Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg)
 <!-- END_ANIMAL -->
 
 
