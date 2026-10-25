@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-25 22:40:33 UTC
-**Next update:** ~2026-10-25 22:42:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-25 22:42:19 UTC
+**Next update:** ~2026-10-25 22:44:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### California Spangled Cat
-![California Spangled Cat](https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Spangled_Cat.jpg)
+### African forest buffalo
+![African forest buffalo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/African_Forest_Buffalo.jpg/960px-African_Forest_Buffalo.jpg)
 <!-- END_ANIMAL -->
 
 
