@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-25 14:44:21 UTC
-**Next update:** ~2026-10-25 14:46:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-25 14:46:19 UTC
+**Next update:** ~2026-10-25 14:48:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Abyssinian cat
-![Abyssinian cat](https://commons.wikimedia.org/wiki/Special:FilePath/Fawn_Abyssinian_cat.jpg)
+### Honey possum
+![Honey possum](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tarsipes_rostratus_325231884.jpg/960px-Tarsipes_rostratus_325231884.jpg)
 <!-- END_ANIMAL -->
 
 
