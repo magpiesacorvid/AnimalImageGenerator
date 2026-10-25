@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-25 18:02:19 UTC
-**Next update:** ~2026-10-25 18:04:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-25 18:04:25 UTC
+**Next update:** ~2026-10-25 18:06:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cotton rats
-![Cotton rats](https://upload.wikimedia.org/wikipedia/commons/e/ee/Sigmodon_hispidus1.jpg)
+### Lykoi Cat
+![Lykoi Cat](https://upload.wikimedia.org/wikipedia/commons/1/1e/8-month-old_male_Lykoi.jpg)
 <!-- END_ANIMAL -->
 
 
