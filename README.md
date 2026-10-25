@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-25 16:54:28 UTC
-**Next update:** ~2026-10-25 16:56:28 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-25 16:56:19 UTC
+**Next update:** ~2026-10-25 16:58:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bactrian camel
-![Bactrian camel](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Camelus_bactrianus_%2855026866188%29.jpg/1920px-Camelus_bactrianus_%2855026866188%29.jpg)
+### Bornean bearded pig
+![Bornean bearded pig](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bearded_Pigs_%28Sus_barbatus%29_female_with_youngs_%288220051061%29.jpg/1920px-Bearded_Pigs_%28Sus_barbatus%29_female_with_youngs_%288220051061%29.jpg)
 <!-- END_ANIMAL -->
 
 
