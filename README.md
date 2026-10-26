@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-26 09:38:21 UTC
-**Next update:** ~2026-10-26 09:40:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-26 09:40:37 UTC
+**Next update:** ~2026-10-26 09:42:37 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Elk
-![Elk](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jasper.Wapiti-Hirsch.P1033401.jpg/1920px-Jasper.Wapiti-Hirsch.P1033401.jpg)
+### Banteng
+![Banteng](https://commons.wikimedia.org/wiki/Special:FilePath/Banteng_Alas_Purwo.jpg)
 <!-- END_ANIMAL -->
 
 
