@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-26 14:01:01 UTC
-**Next update:** ~2026-10-26 14:03:01 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-26 14:02:21 UTC
+**Next update:** ~2026-10-26 14:04:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Northern common cuscus
-![Northern common cuscus](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Phalanger_orientalis_bbksda.webp/960px-Phalanger_orientalis_bbksda.webp.png)
+### Giant Panda
+![Giant Panda](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/1920px-Grosser_Panda.JPG)
 <!-- END_ANIMAL -->
 
 
