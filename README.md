@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-26 21:12:23 UTC
-**Next update:** ~2026-10-26 21:14:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-26 21:14:21 UTC
+**Next update:** ~2026-10-26 21:16:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Busok Cat
-![Busok Cat](https://upload.wikimedia.org/wikipedia/commons/3/3d/Busok_Tonduk.jpg)
+### American badger
+![American badger](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Taxidea_taxus_%28Point_Reyes%2C_2007%29.jpg/1280px-Taxidea_taxus_%28Point_Reyes%2C_2007%29.jpg)
 <!-- END_ANIMAL -->
 
 
