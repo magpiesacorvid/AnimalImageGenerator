@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-26 11:26:19 UTC
-**Next update:** ~2026-10-26 11:28:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-26 11:28:19 UTC
+**Next update:** ~2026-10-26 11:30:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Madras treeshrew
-![Madras treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Madras_treeshrew_%28Anathana_ellioti%29_by_Davidraju_img7.jpg/1920px-The_Madras_treeshrew_%28Anathana_ellioti%29_by_Davidraju_img7.jpg)
+### Common Dwarf Mongoose
+![Common Dwarf Mongoose](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dwarf_Mongoose_%28Helogale_parvula%29_%286002158282%29.jpg/1920px-Dwarf_Mongoose_%28Helogale_parvula%29_%286002158282%29.jpg)
 <!-- END_ANIMAL -->
 
 
