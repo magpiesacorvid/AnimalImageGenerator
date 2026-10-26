@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-26 21:00:58 UTC
-**Next update:** ~2026-10-26 21:02:58 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-26 21:02:22 UTC
+**Next update:** ~2026-10-26 21:04:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Long-eared hedgehog
-![Long-eared hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hedgehog_cyprus_hg.jpg/1280px-Hedgehog_cyprus_hg.jpg)
+### Black-and-white ruffed lemur
+![Black-and-white ruffed lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/1_black_and_white_ruffed_lemur.jpg/1920px-1_black_and_white_ruffed_lemur.jpg)
 <!-- END_ANIMAL -->
 
 
