@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-26 14:50:42 UTC
-**Next update:** ~2026-10-26 14:52:42 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-26 14:52:20 UTC
+**Next update:** ~2026-10-26 14:54:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African civet
-![African civet](https://upload.wikimedia.org/wikipedia/commons/a/a2/Civettictis_civetta_11.jpg)
+### Eurasian beaver
+![Eurasian beaver](https://upload.wikimedia.org/wikipedia/commons/c/cc/Beaver_pho34.jpg)
 <!-- END_ANIMAL -->
 
 
