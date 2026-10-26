@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-26 09:18:22 UTC
-**Next update:** ~2026-10-26 09:20:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-26 09:20:36 UTC
+**Next update:** ~2026-10-26 09:22:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Afghan pika
-![Afghan pika](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ochotona_rufescens_213736083.jpg/1280px-Ochotona_rufescens_213736083.jpg)
+### Asian small-clawed otter
+![Asian small-clawed otter](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Otter_-_melbourne_zoo.jpg/1280px-Otter_-_melbourne_zoo.jpg)
 <!-- END_ANIMAL -->
 
 
