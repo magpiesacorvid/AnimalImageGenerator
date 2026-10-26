@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-26 02:42:18 UTC
-**Next update:** ~2026-10-26 02:44:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-26 02:44:20 UTC
+**Next update:** ~2026-10-26 02:46:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dry Chaco fat-tailed opossum
-![Dry Chaco fat-tailed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Thylamys_pulchellus_140409426.jpg/1920px-Thylamys_pulchellus_140409426.jpg)
+### Bear cuscuses
+![Bear cuscuses](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ailurops_ursinus_Naemundung_2_North_Sulawesi.jpg/1920px-Ailurops_ursinus_Naemundung_2_North_Sulawesi.jpg)
 <!-- END_ANIMAL -->
 
 
