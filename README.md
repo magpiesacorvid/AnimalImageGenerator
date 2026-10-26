@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-26 21:58:22 UTC
-**Next update:** ~2026-10-26 22:00:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-26 22:01:00 UTC
+**Next update:** ~2026-10-26 22:03:00 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Giant anteater
-![Giant anteater](https://upload.wikimedia.org/wikipedia/commons/3/3b/Myresluger2.jpg)
+### Cave Nectar Bat
+![Cave Nectar Bat](https://upload.wikimedia.org/wikipedia/commons/b/b7/Eonycteris_spelea.png)
 <!-- END_ANIMAL -->
 
 
