@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-26 05:04:21 UTC
-**Next update:** ~2026-10-26 05:06:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-26 05:06:18 UTC
+**Next update:** ~2026-10-26 05:08:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Maxwell's duiker
-![Maxwell's duiker](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Maxwell%27s_duiker_%28Philantomba_maxwellii_maxwellii%29_Ankasa.jpg/1280px-Maxwell%27s_duiker_%28Philantomba_maxwellii_maxwellii%29_Ankasa.jpg)
+### Chinese Mountain Cat
+![Chinese Mountain Cat](https://upload.wikimedia.org/wikipedia/commons/4/41/Chinese_Mountain_Cat_%28Felis_Bieti%29_in_XiNing_Wild_Zoo_2.jpg)
 <!-- END_ANIMAL -->
 
 
