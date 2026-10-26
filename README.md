@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-26 23:56:19 UTC
-**Next update:** ~2026-10-26 23:58:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-26 23:58:21 UTC
+**Next update:** ~2026-10-27 00:00:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Asian small-clawed otter
-![Asian small-clawed otter](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Otter_-_melbourne_zoo.jpg/1280px-Otter_-_melbourne_zoo.jpg)
+### Mountain reedbuck
+![Mountain reedbuck](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Southern_Mountain_Reedbuck_%28Redunca_fulvorufula%29_%2833043612376%29.jpg/960px-Southern_Mountain_Reedbuck_%28Redunca_fulvorufula%29_%2833043612376%29.jpg)
 <!-- END_ANIMAL -->
 
 
