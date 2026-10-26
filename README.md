@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-26 02:52:21 UTC
-**Next update:** ~2026-10-26 02:54:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-26 02:54:19 UTC
+**Next update:** ~2026-10-26 02:56:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Crab-eating fox
-![Crab-eating fox](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Crab-eating_Fox_%28cropped%29.JPG/1920px-Crab-eating_Fox_%28cropped%29.JPG)
+### Japanese marten
+![Japanese marten](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Inokashira_Park_Zoo_PC053197.jpg/960px-Inokashira_Park_Zoo_PC053197.jpg)
 <!-- END_ANIMAL -->
 
 
