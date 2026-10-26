@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-26 00:46:20 UTC
-**Next update:** ~2026-10-26 00:48:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-26 00:48:21 UTC
+**Next update:** ~2026-10-26 00:50:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Giant otter shrew
-![Giant otter shrew](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Potamogale_velox_340101862.jpg/1920px-Potamogale_velox_340101862.jpg)
+### Long-nosed bandicoot
+![Long-nosed bandicoot](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Long-nosed_Bandicoot_0059.jpg/1280px-Long-nosed_Bandicoot_0059.jpg)
 <!-- END_ANIMAL -->
 
 
