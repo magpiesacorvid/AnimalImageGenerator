@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-26 17:40:37 UTC
-**Next update:** ~2026-10-26 17:42:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-26 17:42:22 UTC
+**Next update:** ~2026-10-26 17:44:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Leopard Seal
-![Leopard Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Antarctic_Sound-2016-Brown_Bluff%E2%80%93Leopard_seal_%28Hydrurga_leptonyx%29_04.jpg/1280px-Antarctic_Sound-2016-Brown_Bluff%E2%80%93Leopard_seal_%28Hydrurga_leptonyx%29_04.jpg)
+### East African oryx
+![East African oryx](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Common_beisa_oryx_%28Oryx_beisa_beisa%29_female.jpg/1920px-Common_beisa_oryx_%28Oryx_beisa_beisa%29_female.jpg)
 <!-- END_ANIMAL -->
 
 
