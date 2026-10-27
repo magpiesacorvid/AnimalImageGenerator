@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-27 07:44:19 UTC
-**Next update:** ~2026-10-27 07:46:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-27 07:46:19 UTC
+**Next update:** ~2026-10-27 07:48:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American Wirehair
-![American Wirehair](https://commons.wikimedia.org/wiki/Special:FilePath/American_Wirehair.jpg)
+### Dhole
+![Dhole](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dhole_%28Asiatic_wild_dog%29_cropped.jpg/1920px-Dhole_%28Asiatic_wild_dog%29_cropped.jpg)
 <!-- END_ANIMAL -->
 
 
