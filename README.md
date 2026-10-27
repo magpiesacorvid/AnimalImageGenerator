@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-27 18:26:33 UTC
-**Next update:** ~2026-10-27 18:28:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-27 18:28:22 UTC
+**Next update:** ~2026-10-27 18:30:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-tailed jackrabbit
-![Black-tailed jackrabbit](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Black-tailed_Jack_Rabbit_%28Lepus_californicus%29.jpg/1920px-Black-tailed_Jack_Rabbit_%28Lepus_californicus%29.jpg)
+### Galápagos fur seal
+![Galápagos fur seal](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Galapagos_Fur_Seal%2C_Santiago_Island.jpg/1920px-Galapagos_Fur_Seal%2C_Santiago_Island.jpg)
 <!-- END_ANIMAL -->
 
 
