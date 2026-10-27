@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-27 20:04:22 UTC
-**Next update:** ~2026-10-27 20:06:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-27 20:06:21 UTC
+**Next update:** ~2026-10-27 20:08:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Caspian seal
-![Caspian seal](https://upload.wikimedia.org/wikipedia/commons/8/83/Caspian_seal_03.jpg)
+### Beech marten
+![Beech marten](https://commons.wikimedia.org/wiki/Special:FilePath/Beech_Marten.jpg)
 <!-- END_ANIMAL -->
 
 
