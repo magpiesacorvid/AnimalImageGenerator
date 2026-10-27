@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-27 04:02:20 UTC
-**Next update:** ~2026-10-27 04:04:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-27 04:04:19 UTC
+**Next update:** ~2026-10-27 04:06:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Javan warty pig
-![Javan warty pig](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sus_verrucosus_in_PCBA.jpg/960px-Sus_verrucosus_in_PCBA.jpg)
+### Desert pygmy mouse
+![Desert pygmy mouse](https://upload.wikimedia.org/wikipedia/commons/0/0c/Mus_indutus.jpeg)
 <!-- END_ANIMAL -->
 
 
