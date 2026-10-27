@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-27 14:54:21 UTC
-**Next update:** ~2026-10-27 14:56:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-27 14:56:21 UTC
+**Next update:** ~2026-10-27 14:58:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kiang
-![Kiang](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kiang_-_Gunjan_Pandey.jpg/1280px-Kiang_-_Gunjan_Pandey.jpg)
+### Buru babirusa
+![Buru babirusa](https://upload.wikimedia.org/wikipedia/commons/b/b7/%D0%91%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D1%81%D1%81%D0%B0_Babyrousa_babyrussa.jpg)
 <!-- END_ANIMAL -->
 
 
