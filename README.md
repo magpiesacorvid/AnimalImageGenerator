@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-27 12:24:21 UTC
-**Next update:** ~2026-10-27 12:26:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-27 12:26:22 UTC
+**Next update:** ~2026-10-27 12:28:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African manatee
-![African manatee](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg/960px-African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg)
+### Island spotted skunk
+![Island spotted skunk](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Spilogale_gracilis_amphiala.jpg/1280px-Spilogale_gracilis_amphiala.jpg)
 <!-- END_ANIMAL -->
 
 
