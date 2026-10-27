@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-27 10:04:20 UTC
-**Next update:** ~2026-10-27 10:06:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-27 10:06:19 UTC
+**Next update:** ~2026-10-27 10:08:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown Woolly Monkey
-![Brown Woolly Monkey](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lagothrix_lagotricha_%28male%29.jpg/1920px-Lagothrix_lagotricha_%28male%29.jpg)
+### Javan rusa
+![Javan rusa](https://upload.wikimedia.org/wikipedia/commons/0/05/Javan_Deer_couple_-_Baluran_NP_-_East_Java_%2829505339513%29.jpg)
 <!-- END_ANIMAL -->
 
 
