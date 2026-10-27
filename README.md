@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-27 16:50:35 UTC
-**Next update:** ~2026-10-27 16:52:35 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-27 16:52:23 UTC
+**Next update:** ~2026-10-27 16:54:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brazilian gracile opossum
-![Brazilian gracile opossum](https://upload.wikimedia.org/wikipedia/commons/c/cf/Catita_%28Gracilinanus_microtarsus%29_-_Leonardo_Mer%C3%A7on.jpg)
+### East Caucasian tur
+![East Caucasian tur](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Daghestanischer_Tur_Ostkaukasischer_Steinbock_Capra_cylindricornis_Zoo_Augsburg-10_%28cropped%29.jpg/1920px-Daghestanischer_Tur_Ostkaukasischer_Steinbock_Capra_cylindricornis_Zoo_Augsburg-10_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
