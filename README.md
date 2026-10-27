@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-27 15:24:21 UTC
-**Next update:** ~2026-10-27 15:26:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-27 15:26:20 UTC
+**Next update:** ~2026-10-27 15:28:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Donskoy
-![Donskoy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/DSX_World_Premior_RU%2ADon_Xuk%27s_Login_WOW_%2814037189016%29.jpg/1920px-DSX_World_Premior_RU%2ADon_Xuk%27s_Login_WOW_%2814037189016%29.jpg)
+### North American river otter
+![North American river otter](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Northern_River_Otter_on_Seedskadee_NWR_%2822802102984%29.jpg/1280px-Northern_River_Otter_on_Seedskadee_NWR_%2822802102984%29.jpg)
 <!-- END_ANIMAL -->
 
 
