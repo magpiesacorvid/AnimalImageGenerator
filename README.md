@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-27 09:14:22 UTC
-**Next update:** ~2026-10-27 09:16:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-27 09:16:20 UTC
+**Next update:** ~2026-10-27 09:18:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kitti's hog-nosed bat
-![Kitti's hog-nosed bat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Craseonycteris_thonglongyai_414843825.jpg/960px-Craseonycteris_thonglongyai_414843825.jpg)
+### Caucasian Mountain ground squirrel
+![Caucasian Mountain ground squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%D0%A1%D1%83%D1%81%D0%BB%D0%B8%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B5.jpg/1920px-%D0%A1%D1%83%D1%81%D0%BB%D0%B8%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B5.jpg)
 <!-- END_ANIMAL -->
 
 
