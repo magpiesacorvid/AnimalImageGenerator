@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-27 02:18:19 UTC
-**Next update:** ~2026-10-27 02:20:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-27 02:20:35 UTC
+**Next update:** ~2026-10-27 02:22:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Golden-handed tamarin
-![Golden-handed tamarin](https://upload.wikimedia.org/wikipedia/commons/9/91/Saguinus_midas_flk24863753.jpg)
+### Goa
+![Goa](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tibetan_Gazelle%2C_Ladakh_%28167275759%29.jpg/1920px-Tibetan_Gazelle%2C_Ladakh_%28167275759%29.jpg)
 <!-- END_ANIMAL -->
 
 
