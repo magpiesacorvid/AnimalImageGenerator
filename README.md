@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-28 23:22:25 UTC
-**Next update:** ~2026-10-28 23:24:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-28 23:24:22 UTC
+**Next update:** ~2026-10-28 23:26:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Least weasel
-![Least weasel](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mustela_nivalis_-British_Wildlife_Centre-4.jpg/1280px-Mustela_nivalis_-British_Wildlife_Centre-4.jpg)
+### Dall sheep
+![Dall sheep](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dall_Sheep_Ewe_%280968efe1-d032-4834-bada-bb862e09ddfb%29.jpg/1920px-Dall_Sheep_Ewe_%280968efe1-d032-4834-bada-bb862e09ddfb%29.jpg)
 <!-- END_ANIMAL -->
 
 
