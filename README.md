@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-28 12:50:38 UTC
-**Next update:** ~2026-10-28 12:52:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-28 12:52:22 UTC
+**Next update:** ~2026-10-28 12:54:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African wild ass
-![African wild ass](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg/1280px-Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg)
+### Long-tailed weasel
+![Long-tailed weasel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Long-tailed_Weasel%2C_Sonoma_County%2C_US-CA%2C_US_imported_from_iNaturalist_photo_108909271.jpg/960px-Long-tailed_Weasel%2C_Sonoma_County%2C_US-CA%2C_US_imported_from_iNaturalist_photo_108909271.jpg)
 <!-- END_ANIMAL -->
 
 
