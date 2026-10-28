@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-28 21:44:23 UTC
-**Next update:** ~2026-10-28 21:46:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-28 21:46:22 UTC
+**Next update:** ~2026-10-28 21:48:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Abyssinian cat
-![Abyssinian cat](https://commons.wikimedia.org/wiki/Special:FilePath/Fawn_Abyssinian_cat.jpg)
+### Bear cuscuses
+![Bear cuscuses](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ailurops_ursinus_Naemundung_2_North_Sulawesi.jpg/1920px-Ailurops_ursinus_Naemundung_2_North_Sulawesi.jpg)
 <!-- END_ANIMAL -->
 
 
