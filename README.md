@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-28 05:30:48 UTC
-**Next update:** ~2026-10-28 05:32:48 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-28 05:32:20 UTC
+**Next update:** ~2026-10-28 05:34:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Monk saki
-![Monk saki](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pithecia_monachus_A.jpg/960px-Pithecia_monachus_A.jpg)
+### Eastern chipmunk
+![Eastern chipmunk](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Chipmunk_with_stuffed_cheeks_in_Prospect_Park_%2805980%29.jpg/1920px-Chipmunk_with_stuffed_cheeks_in_Prospect_Park_%2805980%29.jpg)
 <!-- END_ANIMAL -->
 
 
