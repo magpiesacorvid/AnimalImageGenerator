@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-28 22:30:55 UTC
-**Next update:** ~2026-10-28 22:32:55 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-28 22:32:24 UTC
+**Next update:** ~2026-10-28 22:34:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Amami rabbit
-![Amami rabbit](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pentalagus_furnessi_387708672.jpg/1280px-Pentalagus_furnessi_387708672.jpg)
+### Greater false vampire bat
+![Greater false vampire bat](https://upload.wikimedia.org/wikipedia/commons/3/3a/Greater_False_Vampire_Bat_%28Megaderma_lyra%29.jpg)
 <!-- END_ANIMAL -->
 
 
