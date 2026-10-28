@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-28 02:16:19 UTC
-**Next update:** ~2026-10-28 02:18:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-28 02:18:20 UTC
+**Next update:** ~2026-10-28 02:20:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-eared flying fox
-![Black-eared flying fox](https://upload.wikimedia.org/wikipedia/commons/e/e9/Pteropus_melanotus_natalis_-_the_Christmas_Island_flying-fox.jpg)
+### Burmese Cat
+![Burmese Cat](https://upload.wikimedia.org/wikipedia/commons/5/5c/British_burmese_-_Andel_Alois_at_Cat_show.JPG)
 <!-- END_ANIMAL -->
 
 
