@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-28 11:14:22 UTC
-**Next update:** ~2026-10-28 11:16:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-28 11:16:23 UTC
+**Next update:** ~2026-10-28 11:18:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American Black Bear
-![American Black Bear](https://upload.wikimedia.org/wikipedia/commons/0/08/01_Schwarzb%C3%A4r.jpg)
+### Galápagos fur seal
+![Galápagos fur seal](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Galapagos_Fur_Seal%2C_Santiago_Island.jpg/1920px-Galapagos_Fur_Seal%2C_Santiago_Island.jpg)
 <!-- END_ANIMAL -->
 
 
