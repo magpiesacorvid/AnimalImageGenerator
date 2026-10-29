@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-29 18:32:22 UTC
-**Next update:** ~2026-10-29 18:34:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-29 18:34:22 UTC
+**Next update:** ~2026-10-29 18:36:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cape scrub hare
-![Cape scrub hare](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Madikwe_Game_Reserve%2C_South_Africa_%2831873568687%29.jpg/1920px-Madikwe_Game_Reserve%2C_South_Africa_%2831873568687%29.jpg)
+### Gray whale
+![Gray whale](https://upload.wikimedia.org/wikipedia/commons/c/c6/Eschrichtius_robustus_01-cropped.jpg)
 <!-- END_ANIMAL -->
 
 
