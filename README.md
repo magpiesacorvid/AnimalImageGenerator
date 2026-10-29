@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-29 00:22:21 UTC
-**Next update:** ~2026-10-29 00:24:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-29 00:24:22 UTC
+**Next update:** ~2026-10-29 00:26:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater naked-tailed armadillo
-![Greater naked-tailed armadillo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ejemplar_de_tatu_de_rabo_molle_%28Cabassous_tatouay%29%2C_Uruguay%2C_2022.jpg/1920px-Ejemplar_de_tatu_de_rabo_molle_%28Cabassous_tatouay%29%2C_Uruguay%2C_2022.jpg)
+### African Wild Dog
+![African Wild Dog](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/African_Wild_Dog_at_Working_with_Wildlife.jpg/1920px-African_Wild_Dog_at_Working_with_Wildlife.jpg)
 <!-- END_ANIMAL -->
 
 
