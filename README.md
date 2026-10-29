@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-29 02:40:38 UTC
-**Next update:** ~2026-10-29 02:42:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-29 02:42:21 UTC
+**Next update:** ~2026-10-29 02:44:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain tapir
-![Mountain tapir](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tapirus_pinchaque_portrait.jpg/1280px-Tapirus_pinchaque_portrait.jpg)
+### Gilbert's dunnart
+![Gilbert's dunnart](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gilberts_Dunnart_%2826482365072%29.jpg/250px-Gilberts_Dunnart_%2826482365072%29.jpg)
 <!-- END_ANIMAL -->
 
 
