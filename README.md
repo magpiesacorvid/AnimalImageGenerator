@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-29 16:18:24 UTC
-**Next update:** ~2026-10-29 16:20:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-29 16:20:39 UTC
+**Next update:** ~2026-10-29 16:22:39 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Numbat
-![Numbat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg/1920px-Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg)
+### Kangaroo rat
+![Kangaroo rat](https://upload.wikimedia.org/wikipedia/commons/5/50/Kangaroo-rat.jpg)
 <!-- END_ANIMAL -->
 
 
