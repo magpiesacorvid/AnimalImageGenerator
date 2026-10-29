@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-29 08:58:25 UTC
-**Next update:** ~2026-10-29 09:00:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-29 09:01:04 UTC
+**Next update:** ~2026-10-29 09:03:04 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Jianzhou cat
-![Jianzhou cat](https://upload.wikimedia.org/wikipedia/commons/0/0c/Jianzhou_cat.jpg)
+### Green ringtail possum
+![Green ringtail possum](https://upload.wikimedia.org/wikipedia/commons/a/a7/Green_ringtail_possum_on_August_2023.jpg)
 <!-- END_ANIMAL -->
 
 
