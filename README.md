@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-29 20:58:23 UTC
-**Next update:** ~2026-10-29 21:00:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-29 21:01:02 UTC
+**Next update:** ~2026-10-29 21:03:02 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Krefft's glider
-![Krefft's glider](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sugar_Glider_JCB.jpg/960px-Sugar_Glider_JCB.jpg)
+### Barbary sheep
+![Barbary sheep](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BarbarySheep4.jpg/1920px-BarbarySheep4.jpg)
 <!-- END_ANIMAL -->
 
 
