@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-29 18:14:22 UTC
-**Next update:** ~2026-10-29 18:16:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-29 18:16:23 UTC
+**Next update:** ~2026-10-29 18:18:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bare-tailed woolly opossum
-![Bare-tailed woolly opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Caluromys_philander_284958705.jpg/1920px-Caluromys_philander_284958705.jpg)
+### Dusky pademelon
+![Dusky pademelon](https://upload.wikimedia.org/wikipedia/commons/4/4d/TamanSafariIndonesia184_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
