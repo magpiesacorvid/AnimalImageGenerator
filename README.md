@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-29 16:02:24 UTC
-**Next update:** ~2026-10-29 16:04:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-29 16:04:23 UTC
+**Next update:** ~2026-10-29 16:06:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common shrew opossums
-![Common shrew opossums](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Caenolestes_sangay._Foto_Jorge_Brito.jpg/1920px-Caenolestes_sangay._Foto_Jorge_Brito.jpg)
+### Lesser short-nosed fruit bat
+![Lesser short-nosed fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Lesser_short-nosed_fruit_bat_%28Cynopterus_brachyotis%29.jpg/1920px-Lesser_short-nosed_fruit_bat_%28Cynopterus_brachyotis%29.jpg)
 <!-- END_ANIMAL -->
 
 
