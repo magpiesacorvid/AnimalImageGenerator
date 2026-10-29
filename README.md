@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-29 05:16:23 UTC
-**Next update:** ~2026-10-29 05:18:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-29 05:18:20 UTC
+**Next update:** ~2026-10-29 05:20:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common ringtail possum
-![Common ringtail possum](https://upload.wikimedia.org/wikipedia/commons/a/a7/Possum_Ring-tailed444.jpg)
+### Mongolian gazelle
+![Mongolian gazelle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Procapra_gutturosa_381343709.jpg/1280px-Procapra_gutturosa_381343709.jpg)
 <!-- END_ANIMAL -->
 
 
