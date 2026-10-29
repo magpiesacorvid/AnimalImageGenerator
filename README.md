@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-29 05:56:22 UTC
-**Next update:** ~2026-10-29 05:58:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-29 05:58:23 UTC
+**Next update:** ~2026-10-29 06:00:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Coke's hartebeest
-![Coke's hartebeest](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hartebeest.jpg/1920px-Hartebeest.jpg)
+### Dry Chaco fat-tailed opossum
+![Dry Chaco fat-tailed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Thylamys_pulchellus_140409426.jpg/1920px-Thylamys_pulchellus_140409426.jpg)
 <!-- END_ANIMAL -->
 
 
