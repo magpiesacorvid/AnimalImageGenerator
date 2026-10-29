@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-29 05:24:22 UTC
-**Next update:** ~2026-10-29 05:26:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-29 05:26:20 UTC
+**Next update:** ~2026-10-29 05:28:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gold-and-white marmoset
-![Gold-and-white marmoset](https://upload.wikimedia.org/wikipedia/commons/0/08/Mico_chrysoleucus_Kenny_Ross_1.jpg)
+### Marsh deer
+![Marsh deer](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cervo_do_pantano.jpg/960px-Cervo_do_pantano.jpg)
 <!-- END_ANIMAL -->
 
 
