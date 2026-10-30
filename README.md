@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-30 16:26:22 UTC
-**Next update:** ~2026-10-30 16:28:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-30 16:28:25 UTC
+**Next update:** ~2026-10-30 16:30:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Crab-Eating Raccoon
-![Crab-Eating Raccoon](https://upload.wikimedia.org/wikipedia/commons/5/56/Mano_pelada_%28Procyon_cancrivorus_nigripes%29.JPG)
+### Hooded skunk
+![Hooded skunk](https://upload.wikimedia.org/wikipedia/commons/3/3d/Hooded_Skunk_side_%28Gelsenkirchen%29.jpg)
 <!-- END_ANIMAL -->
 
 
