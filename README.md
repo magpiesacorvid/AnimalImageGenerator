@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-30 22:01:01 UTC
-**Next update:** ~2026-10-30 22:03:01 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-30 22:02:22 UTC
+**Next update:** ~2026-10-30 22:04:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mountain pygmy possum
-![Mountain pygmy possum](https://upload.wikimedia.org/wikipedia/commons/9/9b/Mountain-pygmy-possum.jpg)
+### Northern common cuscus
+![Northern common cuscus](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Phalanger_orientalis_bbksda.webp/960px-Phalanger_orientalis_bbksda.webp.png)
 <!-- END_ANIMAL -->
 
 
