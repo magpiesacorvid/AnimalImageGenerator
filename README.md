@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-30 00:48:23 UTC
-**Next update:** ~2026-10-30 00:50:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-30 00:50:38 UTC
+**Next update:** ~2026-10-30 00:52:38 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern gorilla
-![Eastern gorilla](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Male_Gorilla_%28181091305%29.jpg/1920px-Male_Gorilla_%28181091305%29.jpg)
+### Harbour porpoise
+![Harbour porpoise](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ecomare_-_bruinvis_Michael_in_2015_%28bruinvis-michael2015-9313-sw%29.jpg/1920px-Ecomare_-_bruinvis_Michael_in_2015_%28bruinvis-michael2015-9313-sw%29.jpg)
 <!-- END_ANIMAL -->
 
 
