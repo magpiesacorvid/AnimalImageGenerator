@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-30 09:22:22 UTC
-**Next update:** ~2026-10-30 09:24:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-30 09:24:22 UTC
+**Next update:** ~2026-10-30 09:26:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Naked Mole Rat
-![Naked Mole Rat](https://upload.wikimedia.org/wikipedia/commons/f/f6/Webs180130-rat.jpg)
+### Carpentarian dunnart
+![Carpentarian dunnart](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sminthopsis_Butleri.jpg/1920px-Sminthopsis_Butleri.jpg)
 <!-- END_ANIMAL -->
 
 
