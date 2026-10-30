@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-30 07:00:59 UTC
-**Next update:** ~2026-10-30 07:02:59 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-30 07:02:23 UTC
+**Next update:** ~2026-10-30 07:04:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ifola
-![Ifola](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ifola_tree-kangaroo.jpg/1280px-Ifola_tree-kangaroo.jpg)
+### Desert warthog
+![Desert warthog](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Desert_Warthog%2C_Tsavo_National_Park%2C_Kenya_01.jpg/1920px-Desert_Warthog%2C_Tsavo_National_Park%2C_Kenya_01.jpg)
 <!-- END_ANIMAL -->
 
 
