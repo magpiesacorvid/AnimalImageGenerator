@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-31 18:56:22 UTC
-**Next update:** ~2026-10-31 18:58:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-31 18:58:34 UTC
+**Next update:** ~2026-10-31 19:00:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### California Spangled Cat
-![California Spangled Cat](https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Spangled_Cat.jpg)
+### Iberian ibex
+![Iberian ibex](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cabra_mont%C3%A9s_2%2C_cropped_and_brightened.jpg/960px-Cabra_mont%C3%A9s_2%2C_cropped_and_brightened.jpg)
 <!-- END_ANIMAL -->
 
 
