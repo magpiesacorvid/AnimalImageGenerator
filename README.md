@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-31 05:00:59 UTC
-**Next update:** ~2026-10-31 05:02:59 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-31 05:02:19 UTC
+**Next update:** ~2026-10-31 05:04:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern spotted skunk
-![Eastern spotted skunk](https://upload.wikimedia.org/wikipedia/commons/f/f2/Spilogale_putorius_%282%29.jpg)
+### Mantled Howler
+![Mantled Howler](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Panamanian_Male_Adult_Howler_Monkey.jpg/1280px-Panamanian_Male_Adult_Howler_Monkey.jpg)
 <!-- END_ANIMAL -->
 
 
