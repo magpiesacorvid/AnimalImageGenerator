@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-31 10:26:21 UTC
-**Next update:** ~2026-10-31 10:28:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-31 10:28:22 UTC
+**Next update:** ~2026-10-31 10:30:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Crowned lemur
-![Crowned lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Crowned_lemur_%28Eulemur_coronatus%29_male.jpg/1920px-Crowned_lemur_%28Eulemur_coronatus%29_male.jpg)
+### Arabian Mau
+![Arabian Mau](https://commons.wikimedia.org/wiki/Special:FilePath/Bex_Arabian_Mau.jpg)
 <!-- END_ANIMAL -->
 
 
