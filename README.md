@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-31 13:48:20 UTC
-**Next update:** ~2026-10-31 13:50:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-31 13:50:37 UTC
+**Next update:** ~2026-10-31 13:52:37 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater false vampire bat
-![Greater false vampire bat](https://upload.wikimedia.org/wikipedia/commons/3/3a/Greater_False_Vampire_Bat_%28Megaderma_lyra%29.jpg)
+### Capuchin monkey
+![Capuchin monkey](https://upload.wikimedia.org/wikipedia/commons/4/40/Capuchin_Costa_Rica.jpg)
 <!-- END_ANIMAL -->
 
 
