@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-31 13:10:36 UTC
-**Next update:** ~2026-10-31 13:12:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-31 13:12:21 UTC
+**Next update:** ~2026-10-31 13:14:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Masked palm civet
-![Masked palm civet](https://upload.wikimedia.org/wikipedia/commons/2/2a/Palm_civet_on_tree_%28detail%29.jpg)
+### Mzab gundi
+![Mzab gundi](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Massoutiera_mzabi_206262897.jpg/1280px-Massoutiera_mzabi_206262897.jpg)
 <!-- END_ANIMAL -->
 
 
