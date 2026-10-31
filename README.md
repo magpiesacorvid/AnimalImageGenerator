@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-31 15:38:19 UTC
-**Next update:** ~2026-10-31 15:40:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-31 15:40:41 UTC
+**Next update:** ~2026-10-31 15:42:41 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Molina's hog-nosed skunk
-![Molina's hog-nosed skunk](https://upload.wikimedia.org/wikipedia/commons/5/5b/Chingue_%28Conepatus_chinga%29_Inao_V%C3%A1squez_001.jpg)
+### Chinese ferret-badger
+![Chinese ferret-badger](https://upload.wikimedia.org/wikipedia/commons/b/b0/Melogale_moschata_%28male%29_Praha_zoo_02.2011_02.jpg)
 <!-- END_ANIMAL -->
 
 
