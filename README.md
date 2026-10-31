@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-31 16:48:24 UTC
-**Next update:** ~2026-10-31 16:50:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-31 16:50:35 UTC
+**Next update:** ~2026-10-31 16:52:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mouflon
-![Mouflon](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cyprus_mouflon_%28Ovis_gmelini_ophion%29.jpg/960px-Cyprus_mouflon_%28Ovis_gmelini_ophion%29.jpg)
+### Northern four-eyed opossum
+![Northern four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Philander_vossi_58242502.jpg/1280px-Philander_vossi_58242502.jpg)
 <!-- END_ANIMAL -->
 
 
