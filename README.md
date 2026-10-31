@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-31 12:16:21 UTC
-**Next update:** ~2026-10-31 12:18:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-31 12:18:20 UTC
+**Next update:** ~2026-10-31 12:20:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common minke whale
-![Common minke whale](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/SBNMS_-_Minke_Whale_-_Breach_%2828670557361%29.jpg/1920px-SBNMS_-_Minke_Whale_-_Breach_%2828670557361%29.jpg)
+### Long-nosed short-tailed opossum
+![Long-nosed short-tailed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Mododelphis_scalops2.png/250px-Mododelphis_scalops2.png)
 <!-- END_ANIMAL -->
 
 
