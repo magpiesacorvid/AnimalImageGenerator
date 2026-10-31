@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-31 02:24:21 UTC
-**Next update:** ~2026-10-31 02:26:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-31 02:26:20 UTC
+**Next update:** ~2026-10-31 02:28:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ethiopian Dwarf Mongoose
-![Ethiopian Dwarf Mongoose](https://upload.wikimedia.org/wikipedia/commons/c/c1/Helogale_hirtula_230649079.jpg)
+### Humboldt's flying squirrel
+![Humboldt's flying squirrel](https://upload.wikimedia.org/wikipedia/commons/7/7e/Glaucomys_oregonensis2.jpg)
 <!-- END_ANIMAL -->
 
 
