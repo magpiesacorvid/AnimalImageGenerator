@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-10-31 09:30:49 UTC
-**Next update:** ~2026-10-31 09:32:49 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-10-31 09:32:20 UTC
+**Next update:** ~2026-10-31 09:34:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Japanese serow
-![Japanese serow](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nihonkamoshika-akita.JPG/1280px-Nihonkamoshika-akita.JPG)
+### American Black Bear
+![American Black Bear](https://upload.wikimedia.org/wikipedia/commons/0/08/01_Schwarzb%C3%A4r.jpg)
 <!-- END_ANIMAL -->
 
 
