@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-01 04:12:22 UTC
-**Next update:** ~2026-11-01 04:14:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-01 04:14:22 UTC
+**Next update:** ~2026-11-01 04:16:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mouflon
-![Mouflon](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cyprus_mouflon_%28Ovis_gmelini_ophion%29.jpg/960px-Cyprus_mouflon_%28Ovis_gmelini_ophion%29.jpg)
+### Gaur
+![Gaur](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Indian_Gaur_from_anaimalai_hills_JEG5290.jpg/1920px-Indian_Gaur_from_anaimalai_hills_JEG5290.jpg)
 <!-- END_ANIMAL -->
 
 
