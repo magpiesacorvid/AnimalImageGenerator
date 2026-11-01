@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-01 07:08:20 UTC
-**Next update:** ~2026-11-01 07:10:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-01 07:10:36 UTC
+**Next update:** ~2026-11-01 07:12:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Moonrat
-![Moonrat](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Echinosorex_gymnurus_431075148.jpg/1280px-Echinosorex_gymnurus_431075148.jpg)
+### Asian Black Bear
+![Asian Black Bear](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/960px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG)
 <!-- END_ANIMAL -->
 
 
