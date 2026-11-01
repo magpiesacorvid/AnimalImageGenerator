@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-01 04:34:21 UTC
-**Next update:** ~2026-11-01 04:36:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-01 04:36:25 UTC
+**Next update:** ~2026-11-01 04:38:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bushy-Tailed Mongoose
-![Bushy-Tailed Mongoose](https://upload.wikimedia.org/wikipedia/commons/6/62/Bushy-tailed_mongoose_-_Snapshot_Safari_Ruaha1.jpg)
+### Northern smooth-tailed treeshrew
+![Northern smooth-tailed treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_northern_smooth-tailed_treeshrew_2.jpg/1920px-The_northern_smooth-tailed_treeshrew_2.jpg)
 <!-- END_ANIMAL -->
 
 
