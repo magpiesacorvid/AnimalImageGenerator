@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-01 20:00:57 UTC
-**Next update:** ~2026-11-01 20:02:57 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-01 20:02:21 UTC
+**Next update:** ~2026-11-01 20:04:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan giraffe
-![Angolan giraffe](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg/1280px-106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg)
+### European badger
+![European badger](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/European_badger_%28Meles_meles_taxus%29_Drenthe.jpg/1920px-European_badger_%28Meles_meles_taxus%29_Drenthe.jpg)
 <!-- END_ANIMAL -->
 
 
