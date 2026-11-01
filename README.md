@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-01 19:58:20 UTC
-**Next update:** ~2026-11-01 20:00:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-01 20:00:57 UTC
+**Next update:** ~2026-11-01 20:02:57 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Daurian hedgehog
-![Daurian hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Daurian_Hedgehog_%28Mesechinus_dauuricus%29.tif/lossy-page1-1920px-Daurian_Hedgehog_%28Mesechinus_dauuricus%29.tif.jpg)
+### Angolan giraffe
+![Angolan giraffe](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg/1280px-106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
