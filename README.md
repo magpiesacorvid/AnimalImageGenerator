@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-01 20:30:49 UTC
-**Next update:** ~2026-11-01 20:32:49 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-01 20:32:21 UTC
+**Next update:** ~2026-11-01 20:34:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Fat-tailed dunnart
-![Fat-tailed dunnart](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fat-tailed_Dunnart_imported_from_iNaturalist_photo_108307960_on_20_October_2024.jpg/1920px-Fat-tailed_Dunnart_imported_from_iNaturalist_photo_108307960_on_20_October_2024.jpg)
+### Green ringtail possum
+![Green ringtail possum](https://upload.wikimedia.org/wikipedia/commons/a/a7/Green_ringtail_possum_on_August_2023.jpg)
 <!-- END_ANIMAL -->
 
 
