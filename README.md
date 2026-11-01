@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-01 16:02:20 UTC
-**Next update:** ~2026-11-01 16:04:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-01 16:04:20 UTC
+**Next update:** ~2026-11-01 16:06:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bontebok
-![Bontebok](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bontebok_%28Damaliscus_pygargus_pygargus%29_%2830573334994%29.jpg/1920px-Bontebok_%28Damaliscus_pygargus_pygargus%29_%2830573334994%29.jpg)
+### Asian Cat
+![Asian Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IMGP1134_%2851750850378%29.jpg/1920px-IMGP1134_%2851750850378%29.jpg)
 <!-- END_ANIMAL -->
 
 
