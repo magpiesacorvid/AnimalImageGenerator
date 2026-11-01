@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-01 23:38:20 UTC
-**Next update:** ~2026-11-01 23:40:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-01 23:40:37 UTC
+**Next update:** ~2026-11-01 23:42:37 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dwarf sperm whale
-![Dwarf sperm whale](https://upload.wikimedia.org/wikipedia/commons/5/58/Dwarf_sperm_whale_%28NOAA_Pitman%29.jpg)
+### Foldex Cat
+![Foldex Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cachorro_de_Gato_FoldEx_%28%22Belisario_del_Laberinto%22%29.JPG/1920px-Cachorro_de_Gato_FoldEx_%28%22Belisario_del_Laberinto%22%29.JPG)
 <!-- END_ANIMAL -->
 
 
