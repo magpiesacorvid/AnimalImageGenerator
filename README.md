@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-01 22:54:22 UTC
-**Next update:** ~2026-11-01 22:56:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-01 22:56:21 UTC
+**Next update:** ~2026-11-01 22:58:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gray brocket
-![Gray brocket](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Grey_brocket_%28Mazama_gouazoubira%29_young_female.JPG/1920px-Grey_brocket_%28Mazama_gouazoubira%29_young_female.JPG)
+### Heart-nosed bat
+![Heart-nosed bat](https://upload.wikimedia.org/wikipedia/commons/3/31/Cardioderma_cor_in_Samburu.jpg)
 <!-- END_ANIMAL -->
 
 
