@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-02 15:40:45 UTC
-**Next update:** ~2026-11-02 15:42:45 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-02 15:42:23 UTC
+**Next update:** ~2026-11-02 15:44:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Buffy-headed marmoset
-![Buffy-headed marmoset](https://upload.wikimedia.org/wikipedia/commons/8/8c/Callithrix_flaviceps_2.jpg)
+### Common vole
+![Common vole](https://upload.wikimedia.org/wikipedia/commons/1/10/Feldmaus_Microtus_arvalis.jpg)
 <!-- END_ANIMAL -->
 
 
