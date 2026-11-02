@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-02 02:58:23 UTC
-**Next update:** ~2026-11-02 03:00:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-02 03:01:01 UTC
+**Next update:** ~2026-11-02 03:03:01 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Nubian wild ass
-![Nubian wild ass](https://upload.wikimedia.org/wikipedia/commons/7/7c/Bonaire%27s_Critically-Endangered_Nubian_Wild_Ass.jpg)
+### Baird's tapir
+![Baird's tapir](https://commons.wikimedia.org/wiki/Special:FilePath/Baird's_tapir_mother_with_baby_(92151).jpg)
 <!-- END_ANIMAL -->
 
 
