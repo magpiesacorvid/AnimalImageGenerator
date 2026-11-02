@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-02 12:26:30 UTC
-**Next update:** ~2026-11-02 12:28:30 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-02 12:28:22 UTC
+**Next update:** ~2026-11-02 12:30:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Goeldi's marmoset
-![Goeldi's marmoset](https://upload.wikimedia.org/wikipedia/commons/5/5b/Springtamarin_%28Callimico_goeldii%29.jpg)
+### Numbat
+![Numbat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg/1920px-Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg)
 <!-- END_ANIMAL -->
 
 
