@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-02 09:52:33 UTC
-**Next update:** ~2026-11-02 09:54:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-02 09:54:31 UTC
+**Next update:** ~2026-11-02 09:56:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ocicat
-![Ocicat](https://upload.wikimedia.org/wikipedia/commons/1/14/Topspot_La_Colombina_%28Liina%29_OCI_c_24_female_kitten_EX1.JPG)
+### Capybara
+![Capybara](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Capybaracropped.jpg/1920px-Capybaracropped.jpg)
 <!-- END_ANIMAL -->
 
 
