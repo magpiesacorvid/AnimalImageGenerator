@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-02 18:50:49 UTC
-**Next update:** ~2026-11-02 18:52:49 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-02 18:52:22 UTC
+**Next update:** ~2026-11-02 18:54:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-mantled tamarin
-![Black-mantled tamarin](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Black-mantled_tamarin_%28Saguinus_nigricollis_graellsi%29_Sumaco.jpg/1920px-Black-mantled_tamarin_%28Saguinus_nigricollis_graellsi%29_Sumaco.jpg)
+### Jungle Cat
+![Jungle Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/FelisChausMunsiari1.jpg/1280px-FelisChausMunsiari1.jpg)
 <!-- END_ANIMAL -->
 
 
