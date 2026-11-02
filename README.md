@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-02 01:20:37 UTC
-**Next update:** ~2026-11-02 01:22:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-02 01:22:21 UTC
+**Next update:** ~2026-11-02 01:24:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Buru babirusa
-![Buru babirusa](https://upload.wikimedia.org/wikipedia/commons/b/b7/%D0%91%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D1%81%D1%81%D0%B0_Babyrousa_babyrussa.jpg)
+### European Rabbit
+![European Rabbit](https://upload.wikimedia.org/wikipedia/commons/5/5f/Oryctolagus_cuniculus_-_euqirneto_-_419737670_%28cropped%29.jpeg)
 <!-- END_ANIMAL -->
 
 
