@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-02 11:56:21 UTC
-**Next update:** ~2026-11-02 11:58:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-02 11:58:24 UTC
+**Next update:** ~2026-11-02 12:00:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Highlander Cat
-![Highlander Cat](https://upload.wikimedia.org/wikipedia/commons/1/15/Highlander-7.jpg)
+### Javan Mongoose
+![Javan Mongoose](https://upload.wikimedia.org/wikipedia/commons/a/ad/Herpe_jav_110724-16129_tdp.JPG)
 <!-- END_ANIMAL -->
 
 
