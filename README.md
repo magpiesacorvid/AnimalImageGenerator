@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-02 17:10:37 UTC
-**Next update:** ~2026-11-02 17:12:37 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-02 17:12:24 UTC
+**Next update:** ~2026-11-02 17:14:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bontebok
-![Bontebok](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bontebok_%28Damaliscus_pygargus_pygargus%29_%2830573334994%29.jpg/1920px-Bontebok_%28Damaliscus_pygargus_pygargus%29_%2830573334994%29.jpg)
+### Japanese weasel
+![Japanese weasel](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mustela_itatsi_on_tree.JPG/1280px-Mustela_itatsi_on_tree.JPG)
 <!-- END_ANIMAL -->
 
 
