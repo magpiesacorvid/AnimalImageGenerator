@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-02 23:44:20 UTC
-**Next update:** ~2026-11-02 23:46:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-02 23:46:21 UTC
+**Next update:** ~2026-11-02 23:48:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Borneo elephant
-![Borneo elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%D0%A1%D0%BB%D0%BE%D0%BD-%D0%BC%D0%B0%D1%8F%D0%BA.jpg/1920px-%D0%A1%D0%BB%D0%BE%D0%BD-%D0%BC%D0%B0%D1%8F%D0%BA.jpg)
+### Central Asian red deer
+![Central Asian red deer](https://upload.wikimedia.org/wikipedia/commons/1/1f/Bukhara_Deer_stag_at_Speyside_Wildlife_Park_-_geograph.org.uk_-_1002574_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
