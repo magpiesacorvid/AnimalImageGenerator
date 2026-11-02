@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-02 12:54:24 UTC
-**Next update:** ~2026-11-02 12:56:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-02 12:56:32 UTC
+**Next update:** ~2026-11-02 12:58:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cuvier's gazelle
-![Cuvier's gazelle](https://upload.wikimedia.org/wikipedia/commons/f/fa/Cuvier%27s_Gazelle.jpg)
+### Mexican Mouse Opossum
+![Mexican Mouse Opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Marmosa_mexicana_mexicana_14889186.jpg/500px-Marmosa_mexicana_mexicana_14889186.jpg)
 <!-- END_ANIMAL -->
 
 
