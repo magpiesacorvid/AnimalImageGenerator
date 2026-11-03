@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-03 13:46:24 UTC
-**Next update:** ~2026-11-03 13:48:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-03 13:48:23 UTC
+**Next update:** ~2026-11-03 13:50:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Northern four-eyed opossum
-![Northern four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Philander_vossi_58242502.jpg/1280px-Philander_vossi_58242502.jpg)
+### Horsfield's treeshrew
+![Horsfield's treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Tupaia_javanica.jpg/960px-Tupaia_javanica.jpg)
 <!-- END_ANIMAL -->
 
 
