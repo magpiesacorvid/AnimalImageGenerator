@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-03 03:20:38 UTC
-**Next update:** ~2026-11-03 03:22:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-03 03:22:23 UTC
+**Next update:** ~2026-11-03 03:24:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kodkod
-![Kodkod](https://upload.wikimedia.org/wikipedia/commons/d/d0/Leopardus_guigna.jpeg)
+### Eastern pygmy possum
+![Eastern pygmy possum](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eastern_Pygmy_Possum_Pilliga_Forest_NSW.jpg/1920px-Eastern_Pygmy_Possum_Pilliga_Forest_NSW.jpg)
 <!-- END_ANIMAL -->
 
 
