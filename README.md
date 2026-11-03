@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-03 19:48:44 UTC
-**Next update:** ~2026-11-03 19:50:44 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-03 19:50:58 UTC
+**Next update:** ~2026-11-03 19:52:58 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lechwe
-![Lechwe](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Red_lechwe_%28Kobus_leche_leche%29_male.jpg/1280px-Red_lechwe_%28Kobus_leche_leche%29_male.jpg)
+### Indian long-eared hedgehog
+![Indian long-eared hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hemiechinus_collaris_-_Indian_long-eared_hedgehog.jpg/1280px-Hemiechinus_collaris_-_Indian_long-eared_hedgehog.jpg)
 <!-- END_ANIMAL -->
 
 
