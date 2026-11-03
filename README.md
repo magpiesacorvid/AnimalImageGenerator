@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-03 23:01:09 UTC
-**Next update:** ~2026-11-03 23:03:09 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-03 23:02:23 UTC
+**Next update:** ~2026-11-03 23:04:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Nine-banded armadillo
-![Nine-banded armadillo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dasypus_novemcinctus_en_Zool%C3%B3gico_de_Paraguan%C3%A1.jpg/960px-Dasypus_novemcinctus_en_Zool%C3%B3gico_de_Paraguan%C3%A1.jpg)
+### Elegant fat-tailed mouse opossum
+![Elegant fat-tailed mouse opossum](https://upload.wikimedia.org/wikipedia/commons/1/16/Llaca.jpg)
 <!-- END_ANIMAL -->
 
 
