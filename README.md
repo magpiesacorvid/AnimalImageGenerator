@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-03 04:32:21 UTC
-**Next update:** ~2026-11-03 04:34:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-03 04:34:20 UTC
+**Next update:** ~2026-11-03 04:36:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### European fallow deer
-![European fallow deer](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fallow_deer_in_field.jpg/1920px-Fallow_deer_in_field.jpg)
+### European bison
+![European bison](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/European_bison_%28Bison_bonasus%29_male_Bia%C5%82owieza.jpg/1920px-European_bison_%28Bison_bonasus%29_male_Bia%C5%82owieza.jpg)
 <!-- END_ANIMAL -->
 
 
