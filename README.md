@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-03 09:01:01 UTC
-**Next update:** ~2026-11-03 09:03:01 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-03 09:02:21 UTC
+**Next update:** ~2026-11-03 09:04:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cactus mouse
-![Cactus mouse](https://upload.wikimedia.org/wikipedia/commons/5/5b/Peromyscus_eremicus.jpg)
+### Musky rat-kangaroo
+![Musky rat-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Musky_rat-kangaroo_%28Hypsiprymnodon_moschatus%29_Atherton.jpg/1280px-Musky_rat-kangaroo_%28Hypsiprymnodon_moschatus%29_Atherton.jpg)
 <!-- END_ANIMAL -->
 
 
