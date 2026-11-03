@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-03 23:32:23 UTC
-**Next update:** ~2026-11-03 23:34:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-03 23:34:22 UTC
+**Next update:** ~2026-11-03 23:36:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Beluga Whale
-![Beluga Whale](https://commons.wikimedia.org/wiki/Special:FilePath/Beluga_Whales._Canaries_of_the_sea._(6796964732).jpg)
+### Angolan giraffe
+![Angolan giraffe](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg/1280px-106_Angolan_giraffe_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
