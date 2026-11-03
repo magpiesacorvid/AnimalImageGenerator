@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-03 04:44:19 UTC
-**Next update:** ~2026-11-03 04:46:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-03 04:46:21 UTC
+**Next update:** ~2026-11-03 04:48:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Maned wolf
-![Maned wolf](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/San_Diego_Zoo_%288678865731%29.jpg/960px-San_Diego_Zoo_%288678865731%29.jpg)
+### Burmese Cat
+![Burmese Cat](https://upload.wikimedia.org/wikipedia/commons/5/5c/British_burmese_-_Andel_Alois_at_Cat_show.JPG)
 <!-- END_ANIMAL -->
 
 
