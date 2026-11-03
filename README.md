@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-03 19:42:47 UTC
-**Next update:** ~2026-11-03 19:44:47 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-03 19:44:42 UTC
+**Next update:** ~2026-11-03 19:46:42 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Japanese weasel
-![Japanese weasel](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mustela_itatsi_on_tree.JPG/1280px-Mustela_itatsi_on_tree.JPG)
+### Cape Gray Mongoose
+![Cape Gray Mongoose](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MJK_25239_Galerella_pulverulenta.jpg/1920px-MJK_25239_Galerella_pulverulenta.jpg)
 <!-- END_ANIMAL -->
 
 
