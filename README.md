@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-03 05:32:25 UTC
-**Next update:** ~2026-11-03 05:34:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-03 05:34:27 UTC
+**Next update:** ~2026-11-03 05:36:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown-Eared Woolly Opossum
-![Brown-Eared Woolly Opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Caluramys_lanatus.jpg/1920px-Caluramys_lanatus.jpg)
+### Burmilla Cat
+![Burmilla Cat](https://upload.wikimedia.org/wikipedia/commons/e/e9/Male_Burmilla_cat.jpeg)
 <!-- END_ANIMAL -->
 
 
