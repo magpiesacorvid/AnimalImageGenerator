@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-04 21:08:19 UTC
-**Next update:** ~2026-11-04 21:10:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-04 21:10:43 UTC
+**Next update:** ~2026-11-04 21:12:43 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Himalayan tahr
-![Himalayan tahr](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Himalayan_Tahr_at_Sagarmatha_National_Park%2C_Nepal_01.jpg/1280px-Himalayan_Tahr_at_Sagarmatha_National_Park%2C_Nepal_01.jpg)
+### Central Asian red deer
+![Central Asian red deer](https://upload.wikimedia.org/wikipedia/commons/1/1f/Bukhara_Deer_stag_at_Speyside_Wildlife_Park_-_geograph.org.uk_-_1002574_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
