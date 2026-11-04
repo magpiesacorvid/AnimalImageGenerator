@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-04 18:32:20 UTC
-**Next update:** ~2026-11-04 18:34:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-04 18:34:20 UTC
+**Next update:** ~2026-11-04 18:36:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Caracal
-![Caracal](https://upload.wikimedia.org/wikipedia/commons/7/75/Caracal_on_the_road%2C_early_morning_in_Kgalagadi_%2836173878220%29_%28cropped%29.jpg)
+### Mole-like rice tenrec
+![Mole-like rice tenrec](https://upload.wikimedia.org/wikipedia/commons/c/cb/Mole-like_Rice_Tenrec_%28Oryzoryctes_hova%29_%2844120142915%29_2.jpg)
 <!-- END_ANIMAL -->
 
 
