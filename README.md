@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-04 18:01:45 UTC
-**Next update:** ~2026-11-04 18:03:45 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-04 18:03:40 UTC
+**Next update:** ~2026-11-04 18:05:40 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lowland streaked tenrec
-![Lowland streaked tenrec](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lowland_Streaked_Tenrec%2C_Mantadia%2C_Madagascar.jpg/1280px-Lowland_Streaked_Tenrec%2C_Mantadia%2C_Madagascar.jpg)
+### Commerson's leaf-nosed bat
+![Commerson's leaf-nosed bat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Commerson%27s_leaf-nosed_bat_%28Hipposideros_commersoni%29.jpg/1920px-Commerson%27s_leaf-nosed_bat_%28Hipposideros_commersoni%29.jpg)
 <!-- END_ANIMAL -->
 
 
