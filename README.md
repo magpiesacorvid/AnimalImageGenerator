@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-04 23:04:19 UTC
-**Next update:** ~2026-11-04 23:06:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-04 23:06:20 UTC
+**Next update:** ~2026-11-04 23:08:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Banteng
-![Banteng](https://commons.wikimedia.org/wiki/Special:FilePath/Banteng_Alas_Purwo.jpg)
+### Ethiopian Dwarf Mongoose
+![Ethiopian Dwarf Mongoose](https://upload.wikimedia.org/wikipedia/commons/c/c1/Helogale_hirtula_230649079.jpg)
 <!-- END_ANIMAL -->
 
 
