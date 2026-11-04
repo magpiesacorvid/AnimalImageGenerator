@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-04 11:38:21 UTC
-**Next update:** ~2026-11-04 11:40:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-04 11:40:44 UTC
+**Next update:** ~2026-11-04 11:42:44 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Caucasian Mountain ground squirrel
-![Caucasian Mountain ground squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%D0%A1%D1%83%D1%81%D0%BB%D0%B8%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B5.jpg/1920px-%D0%A1%D1%83%D1%81%D0%BB%D0%B8%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B5.jpg)
+### Marsh Mongoose
+![Marsh Mongoose](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Marsh_mongoose_or_water_mongoose%2C_Atilax_paludinosus%2C_at_Rietvlei_Nature_Reserve%2C_Gauteng%2C_South_Africa_%2822548192738%29.jpg/1920px-Marsh_mongoose_or_water_mongoose%2C_Atilax_paludinosus%2C_at_Rietvlei_Nature_Reserve%2C_Gauteng%2C_South_Africa_%2822548192738%29.jpg)
 <!-- END_ANIMAL -->
 
 
