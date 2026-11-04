@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-04 01:24:22 UTC
-**Next update:** ~2026-11-04 01:26:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-04 01:26:21 UTC
+**Next update:** ~2026-11-04 01:28:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Agile gibbon
-![Agile gibbon](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Agilegibbon.jpg/1280px-Agilegibbon.jpg)
+### Little woolly mouse opossum
+![Little woolly mouse opossum](https://upload.wikimedia.org/wikipedia/commons/0/03/Marmosa_phaea.jpg)
 <!-- END_ANIMAL -->
 
 
