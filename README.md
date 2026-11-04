@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-04 01:01:05 UTC
-**Next update:** ~2026-11-04 01:03:05 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-04 01:02:22 UTC
+**Next update:** ~2026-11-04 01:04:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mongolian gazelle
-![Mongolian gazelle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Procapra_gutturosa_381343709.jpg/1280px-Procapra_gutturosa_381343709.jpg)
+### East Caucasian tur
+![East Caucasian tur](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Daghestanischer_Tur_Ostkaukasischer_Steinbock_Capra_cylindricornis_Zoo_Augsburg-10_%28cropped%29.jpg/1920px-Daghestanischer_Tur_Ostkaukasischer_Steinbock_Capra_cylindricornis_Zoo_Augsburg-10_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
