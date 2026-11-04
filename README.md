@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-04 11:54:23 UTC
-**Next update:** ~2026-11-04 11:56:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-04 11:56:23 UTC
+**Next update:** ~2026-11-04 11:58:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arabian Mau
-![Arabian Mau](https://commons.wikimedia.org/wiki/Special:FilePath/Bex_Arabian_Mau.jpg)
+### Burmese Cat
+![Burmese Cat](https://upload.wikimedia.org/wikipedia/commons/5/5c/British_burmese_-_Andel_Alois_at_Cat_show.JPG)
 <!-- END_ANIMAL -->
 
 
