@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-04 12:08:23 UTC
-**Next update:** ~2026-11-04 12:10:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-04 12:10:36 UTC
+**Next update:** ~2026-11-04 12:12:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Monito del monte
-![Monito del monte](https://upload.wikimedia.org/wikipedia/commons/5/51/Monito_del_Monte_ps6.jpg)
+### Long-nosed bandicoot
+![Long-nosed bandicoot](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Long-nosed_Bandicoot_0059.jpg/1280px-Long-nosed_Bandicoot_0059.jpg)
 <!-- END_ANIMAL -->
 
 
