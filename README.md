@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-04 21:50:41 UTC
-**Next update:** ~2026-11-04 21:52:41 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-04 21:52:21 UTC
+**Next update:** ~2026-11-04 21:54:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cape Gray Mongoose
-![Cape Gray Mongoose](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MJK_25239_Galerella_pulverulenta.jpg/1920px-MJK_25239_Galerella_pulverulenta.jpg)
+### Big-eared woodrat
+![Big-eared woodrat](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Neotoma_macrotis.jpg/1920px-Neotoma_macrotis.jpg)
 <!-- END_ANIMAL -->
 
 
