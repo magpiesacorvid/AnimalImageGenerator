@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-04 21:40:32 UTC
-**Next update:** ~2026-11-04 21:42:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-04 21:42:25 UTC
+**Next update:** ~2026-11-04 21:44:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater guinea pig
-![Greater guinea pig](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Cavia_magna_%28Wroclaw_zoo%29.JPG/1920px-Cavia_magna_%28Wroclaw_zoo%29.JPG)
+### Beluga Whale
+![Beluga Whale](https://commons.wikimedia.org/wiki/Special:FilePath/Beluga_Whales._Canaries_of_the_sea._(6796964732).jpg)
 <!-- END_ANIMAL -->
 
 
