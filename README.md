@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-04 15:42:22 UTC
-**Next update:** ~2026-11-04 15:44:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-04 15:44:20 UTC
+**Next update:** ~2026-11-04 15:46:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown dorcopsis
-![Brown dorcopsis](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dorcopsis_muelleri_K%C3%B6ln.jpg/1920px-Dorcopsis_muelleri_K%C3%B6ln.jpg)
+### Indian flying fox
+![Indian flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/047_Indian_flying_fox_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/960px-047_Indian_flying_fox_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
