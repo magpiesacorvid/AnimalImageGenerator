@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-05 12:28:21 UTC
-**Next update:** ~2026-11-05 12:30:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-05 12:30:46 UTC
+**Next update:** ~2026-11-05 12:32:46 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Baker's small-toothed harvest mouse
-![Baker's small-toothed harvest mouse](https://upload.wikimedia.org/wikipedia/commons/8/8e/Reithrodontomys_bakeri.jpeg)
+### Japanese marten
+![Japanese marten](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Inokashira_Park_Zoo_PC053197.jpg/960px-Inokashira_Park_Zoo_PC053197.jpg)
 <!-- END_ANIMAL -->
 
 
