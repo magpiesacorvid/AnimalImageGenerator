@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-05 12:08:22 UTC
-**Next update:** ~2026-11-05 12:10:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-05 12:10:41 UTC
+**Next update:** ~2026-11-05 12:12:41 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Big hairy armadillo
-![Big hairy armadillo](https://commons.wikimedia.org/wiki/Special:FilePath/Chaetophractus_villosus_(Wroclaw_zoo).JPG)
+### Eastern gorilla
+![Eastern gorilla](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Male_Gorilla_%28181091305%29.jpg/1920px-Male_Gorilla_%28181091305%29.jpg)
 <!-- END_ANIMAL -->
 
 
