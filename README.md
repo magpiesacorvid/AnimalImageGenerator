@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-05 12:56:22 UTC
-**Next update:** ~2026-11-05 12:58:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-05 12:58:22 UTC
+**Next update:** ~2026-11-05 13:00:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lowland anoa
-![Lowland anoa](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Anoa_Bubalus_depressicornis_Surabaya_Zoo.jpg/960px-Anoa_Bubalus_depressicornis_Surabaya_Zoo.jpg)
+### Hatt's vesper rat
+![Hatt's vesper rat](https://upload.wikimedia.org/wikipedia/commons/8/8f/Otonyctomys_hatti_2.jpg)
 <!-- END_ANIMAL -->
 
 
