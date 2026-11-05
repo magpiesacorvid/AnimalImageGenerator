@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-05 14:14:21 UTC
-**Next update:** ~2026-11-05 14:16:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-05 14:16:22 UTC
+**Next update:** ~2026-11-05 14:18:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Jungle Cat
-![Jungle Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/FelisChausMunsiari1.jpg/1280px-FelisChausMunsiari1.jpg)
+### Malagasy civet
+![Malagasy civet](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Spotted_fanaloka_%28Fossa_fossana%29.jpg/1280px-Spotted_fanaloka_%28Fossa_fossana%29.jpg)
 <!-- END_ANIMAL -->
 
 
