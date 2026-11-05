@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-05 12:32:19 UTC
-**Next update:** ~2026-11-05 12:34:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-05 12:34:19 UTC
+**Next update:** ~2026-11-05 12:36:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arfak triok
-![Arfak triok](https://upload.wikimedia.org/wikipedia/commons/9/90/Arfak_Striped_Possum_%28Dactylopsila_kambuayai%29_Female.png)
+### California deermouse
+![California deermouse](https://upload.wikimedia.org/wikipedia/commons/0/0d/California_mouse_5_Peromyscus_californicus.jpg)
 <!-- END_ANIMAL -->
 
 
