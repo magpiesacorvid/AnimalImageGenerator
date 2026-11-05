@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-05 10:46:22 UTC
-**Next update:** ~2026-11-05 10:48:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-05 10:48:18 UTC
+**Next update:** ~2026-11-05 10:50:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Humboldt's flying squirrel
-![Humboldt's flying squirrel](https://upload.wikimedia.org/wikipedia/commons/7/7e/Glaucomys_oregonensis2.jpg)
+### Golden-mantled ground squirrel
+![Golden-mantled ground squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Goldmantelziesel.jpg/1920px-Goldmantelziesel.jpg)
 <!-- END_ANIMAL -->
 
 
