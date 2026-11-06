@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-06 08:22:20 UTC
-**Next update:** ~2026-11-06 08:24:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-06 08:24:21 UTC
+**Next update:** ~2026-11-06 08:26:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Agile gracile opossum
-![Agile gracile opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Gracilinanus_agilis_04.jpg/960px-Gracilinanus_agilis_04.jpg)
+### Darwin's fox
+![Darwin's fox](https://upload.wikimedia.org/wikipedia/commons/8/87/Pseudalopex_fulvipes.jpg)
 <!-- END_ANIMAL -->
 
 
