@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-06 22:52:22 UTC
-**Next update:** ~2026-11-06 22:54:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-06 22:54:20 UTC
+**Next update:** ~2026-11-06 22:56:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Goitered gazelle
-![Goitered gazelle](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Female_goitered_gazelle%2C_Shirvan_National_Park%2C_Azerbaijan.jpg/1920px-Female_goitered_gazelle%2C_Shirvan_National_Park%2C_Azerbaijan.jpg)
+### Greater naked-tailed armadillo
+![Greater naked-tailed armadillo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ejemplar_de_tatu_de_rabo_molle_%28Cabassous_tatouay%29%2C_Uruguay%2C_2022.jpg/1920px-Ejemplar_de_tatu_de_rabo_molle_%28Cabassous_tatouay%29%2C_Uruguay%2C_2022.jpg)
 <!-- END_ANIMAL -->
 
 
