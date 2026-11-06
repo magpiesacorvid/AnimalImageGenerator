@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-06 11:22:19 UTC
-**Next update:** ~2026-11-06 11:24:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-06 11:24:24 UTC
+**Next update:** ~2026-11-06 11:26:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Andean Mountain Cat
-![Andean Mountain Cat](https://upload.wikimedia.org/wikipedia/commons/e/e0/Andean_cat_1_Jim_Sanderson.jpg)
+### Cactus mouse
+![Cactus mouse](https://upload.wikimedia.org/wikipedia/commons/5/5b/Peromyscus_eremicus.jpg)
 <!-- END_ANIMAL -->
 
 
