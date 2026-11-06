@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-06 12:02:18 UTC
-**Next update:** ~2026-11-06 12:04:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-06 12:04:20 UTC
+**Next update:** ~2026-11-06 12:06:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Golden palm civet
-![Golden palm civet](https://upload.wikimedia.org/wikipedia/commons/7/77/Paradoxurus_zeylonensis.jpg)
+### Indian hedgehog
+![Indian hedgehog](https://upload.wikimedia.org/wikipedia/commons/e/ea/Paraechinus_micropus.jpg)
 <!-- END_ANIMAL -->
 
 
