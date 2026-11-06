@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-06 19:46:20 UTC
-**Next update:** ~2026-11-06 19:48:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-06 19:48:19 UTC
+**Next update:** ~2026-11-06 19:50:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bishop's slender opossum
-![Bishop's slender opossum](https://upload.wikimedia.org/wikipedia/commons/7/76/Marmosops_bishopi.jpg)
+### Golden-mantled ground squirrel
+![Golden-mantled ground squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Goldmantelziesel.jpg/1920px-Goldmantelziesel.jpg)
 <!-- END_ANIMAL -->
 
 
