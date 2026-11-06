@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-06 18:24:19 UTC
-**Next update:** ~2026-11-06 18:26:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-06 18:26:21 UTC
+**Next update:** ~2026-11-06 18:28:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Broad-striped Malagasy mongoose
-![Broad-striped Malagasy mongoose](https://upload.wikimedia.org/wikipedia/commons/1/1a/Galidictis_fasciata_Striped_Vontsira%2C_Atsimo-Andrefana%2C_MG-TL%2C_MG_iNaturalist.jpg)
+### Central African Oyan
+![Central African Oyan](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Poiana_richardsonii_56244763.jpg/1920px-Poiana_richardsonii_56244763.jpg)
 <!-- END_ANIMAL -->
 
 
