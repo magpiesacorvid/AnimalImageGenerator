@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-06 23:10:34 UTC
-**Next update:** ~2026-11-06 23:12:34 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-06 23:12:22 UTC
+**Next update:** ~2026-11-06 23:14:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Japanese badger
-![Japanese badger](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Meles_meles_anakuma_at_Inokashira_Park_Zoo.jpg/1280px-Meles_meles_anakuma_at_Inokashira_Park_Zoo.jpg)
+### Epauletted fruit bat
+![Epauletted fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Epomophorus_wahlbergi1.jpg/1920px-Epomophorus_wahlbergi1.jpg)
 <!-- END_ANIMAL -->
 
 
