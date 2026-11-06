@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-06 16:48:23 UTC
-**Next update:** ~2026-11-06 16:50:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-06 16:50:32 UTC
+**Next update:** ~2026-11-06 16:52:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common genet
-![Common genet](https://upload.wikimedia.org/wikipedia/commons/2/23/A_female_common_genet_in_the_dining_room%2C_Satao_Camp%2C_Tsavo_East.jpg)
+### Central American red brocket
+![Central American red brocket](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Central_American_red_brocket_deer_%28male%29_5.jpg/1920px-Central_American_red_brocket_deer_%28male%29_5.jpg)
 <!-- END_ANIMAL -->
 
 
