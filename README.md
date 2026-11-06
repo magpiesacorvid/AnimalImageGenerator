@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-06 10:20:32 UTC
-**Next update:** ~2026-11-06 10:22:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-06 10:22:20 UTC
+**Next update:** ~2026-11-06 10:24:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Green ringtail possum
-![Green ringtail possum](https://upload.wikimedia.org/wikipedia/commons/a/a7/Green_ringtail_possum_on_August_2023.jpg)
+### Hispid hare
+![Hispid hare](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Caprolagus_hispidus_Chitwan_Rediscovery_2017.jpg/1280px-Caprolagus_hispidus_Chitwan_Rediscovery_2017.jpg)
 <!-- END_ANIMAL -->
 
 
