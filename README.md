@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-06 01:20:32 UTC
-**Next update:** ~2026-11-06 01:22:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-06 01:22:19 UTC
+**Next update:** ~2026-11-06 01:24:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Markhor
-![Markhor](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg/960px-Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg)
+### Borneo fruit bat
+![Borneo fruit bat](https://upload.wikimedia.org/wikipedia/commons/4/4d/Aethalops_aequalis.jpg)
 <!-- END_ANIMAL -->
 
 
