@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-07 03:10:31 UTC
-**Next update:** ~2026-11-07 03:12:31 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-07 03:12:20 UTC
+**Next update:** ~2026-11-07 03:14:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### California sea lion
-![California sea lion](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/California_Sea_Lion%2C_Monterey%2C_California%2C_United_States_imported_from_iNaturalist_photo_203598492.jpg/1920px-California_Sea_Lion%2C_Monterey%2C_California%2C_United_States_imported_from_iNaturalist_photo_203598492.jpg)
+### Gold-and-white marmoset
+![Gold-and-white marmoset](https://upload.wikimedia.org/wikipedia/commons/0/08/Mico_chrysoleucus_Kenny_Ross_1.jpg)
 <!-- END_ANIMAL -->
 
 
