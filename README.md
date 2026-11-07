@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-07 08:50:31 UTC
-**Next update:** ~2026-11-07 08:52:31 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-07 08:52:18 UTC
+**Next update:** ~2026-11-07 08:54:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cape bushbuck
-![Cape bushbuck](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cape_bushbuck_%28Tragelaphus_sylvaticus%29_female.jpg/1920px-Cape_bushbuck_%28Tragelaphus_sylvaticus%29_female.jpg)
+### Domestic guinea pig
+![Domestic guinea pig](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/George_the_amazing_guinea_pig.jpg/1920px-George_the_amazing_guinea_pig.jpg)
 <!-- END_ANIMAL -->
 
 
