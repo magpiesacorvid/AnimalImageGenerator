@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-07 09:18:18 UTC
-**Next update:** ~2026-11-07 09:20:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-07 09:20:34 UTC
+**Next update:** ~2026-11-07 09:22:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Naked-tailed armadillo
-![Naked-tailed armadillo](https://upload.wikimedia.org/wikipedia/commons/c/c2/Cabassous-centralis-2.png)
+### Japanese weasel
+![Japanese weasel](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mustela_itatsi_on_tree.JPG/1280px-Mustela_itatsi_on_tree.JPG)
 <!-- END_ANIMAL -->
 
 
