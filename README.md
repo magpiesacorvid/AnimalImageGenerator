@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-07 06:48:20 UTC
-**Next update:** ~2026-11-07 06:50:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-07 06:50:31 UTC
+**Next update:** ~2026-11-07 06:52:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Blue duiker
-![Blue duiker](https://upload.wikimedia.org/wikipedia/commons/f/f2/Philantomba_monticola_1.jpg)
+### Bettongs
+![Bettongs](https://commons.wikimedia.org/wiki/Special:FilePath/Burrowing_bettong.jpg)
 <!-- END_ANIMAL -->
 
 
