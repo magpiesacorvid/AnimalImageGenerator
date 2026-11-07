@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-07 13:00:54 UTC
-**Next update:** ~2026-11-07 13:02:54 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-07 13:02:18 UTC
+**Next update:** ~2026-11-07 13:04:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern lesser bamboo lemur
-![Eastern lesser bamboo lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eastern_lesser_bamboo_lemur.jpg/1920px-Eastern_lesser_bamboo_lemur.jpg)
+### Annamite striped rabbit
+![Annamite striped rabbit](https://upload.wikimedia.org/wikipedia/commons/9/98/Annamite_striped_rabbit_%28Nesolagus_timminsi%29.jpg)
 <!-- END_ANIMAL -->
 
 
