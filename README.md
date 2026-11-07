@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-07 21:42:19 UTC
-**Next update:** ~2026-11-07 21:44:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-07 21:44:18 UTC
+**Next update:** ~2026-11-07 21:46:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern wolf
-![Eastern wolf](https://upload.wikimedia.org/wikipedia/commons/3/3b/Eastern_wolf_in_Algonquin_Provincial_Park_01.jpg)
+### Capybara
+![Capybara](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Capybaracropped.jpg/1920px-Capybaracropped.jpg)
 <!-- END_ANIMAL -->
 
 
