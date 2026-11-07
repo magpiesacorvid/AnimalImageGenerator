@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-07 05:24:18 UTC
-**Next update:** ~2026-11-07 05:26:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-07 05:26:17 UTC
+**Next update:** ~2026-11-07 05:28:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Korean hare
-![Korean hare](https://upload.wikimedia.org/wikipedia/commons/7/70/Lepus_coreanus.jpg)
+### Indian elephant
+![Indian elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/1280px-Elephas_maximus_%28Bandipur%29.jpg)
 <!-- END_ANIMAL -->
 
 
