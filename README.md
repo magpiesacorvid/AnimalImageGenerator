@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-07 16:04:18 UTC
-**Next update:** ~2026-11-07 16:06:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-07 16:06:18 UTC
+**Next update:** ~2026-11-07 16:08:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kangaroo rat
-![Kangaroo rat](https://upload.wikimedia.org/wikipedia/commons/5/50/Kangaroo-rat.jpg)
+### Guenon
+![Guenon](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/FranceNormandieChamprepusCercopithecusDiana.jpg/1920px-FranceNormandieChamprepusCercopithecusDiana.jpg)
 <!-- END_ANIMAL -->
 
 
