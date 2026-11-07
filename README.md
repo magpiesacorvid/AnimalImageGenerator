@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-07 17:32:19 UTC
-**Next update:** ~2026-11-07 17:34:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-07 17:34:18 UTC
+**Next update:** ~2026-11-07 17:36:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lykoi Cat
-![Lykoi Cat](https://upload.wikimedia.org/wikipedia/commons/1/1e/8-month-old_male_Lykoi.jpg)
+### Four-toed hedgehog
+![Four-toed hedgehog](https://upload.wikimedia.org/wikipedia/commons/d/d0/Atelerix_albiventris.jpg)
 <!-- END_ANIMAL -->
 
 
