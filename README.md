@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-07 05:28:18 UTC
-**Next update:** ~2026-11-07 05:30:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-07 05:30:42 UTC
+**Next update:** ~2026-11-07 05:32:42 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Central American red brocket
-![Central American red brocket](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Central_American_red_brocket_deer_%28male%29_5.jpg/1920px-Central_American_red_brocket_deer_%28male%29_5.jpg)
+### Montane Fish-eating Rat
+![Montane Fish-eating Rat](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Neusticomys_monticolus.jpg/960px-Neusticomys_monticolus.jpg)
 <!-- END_ANIMAL -->
 
 
