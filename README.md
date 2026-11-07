@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-07 03:44:18 UTC
-**Next update:** ~2026-11-07 03:46:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-07 03:46:20 UTC
+**Next update:** ~2026-11-07 03:48:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common genet
-![Common genet](https://upload.wikimedia.org/wikipedia/commons/2/23/A_female_common_genet_in_the_dining_room%2C_Satao_Camp%2C_Tsavo_East.jpg)
+### Nubian wild ass
+![Nubian wild ass](https://upload.wikimedia.org/wikipedia/commons/7/7c/Bonaire%27s_Critically-Endangered_Nubian_Wild_Ass.jpg)
 <!-- END_ANIMAL -->
 
 
