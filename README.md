@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-07 05:56:20 UTC
-**Next update:** ~2026-11-07 05:58:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-07 05:58:17 UTC
+**Next update:** ~2026-11-07 06:00:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern quoll
-![Eastern quoll](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg/1920px-Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg)
+### Bornean bearded pig
+![Bornean bearded pig](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bearded_Pigs_%28Sus_barbatus%29_female_with_youngs_%288220051061%29.jpg/1920px-Bearded_Pigs_%28Sus_barbatus%29_female_with_youngs_%288220051061%29.jpg)
 <!-- END_ANIMAL -->
 
 
