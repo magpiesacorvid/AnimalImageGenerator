@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-07 08:54:18 UTC
-**Next update:** ~2026-11-07 08:56:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-07 08:56:19 UTC
+**Next update:** ~2026-11-07 08:58:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Muskox
-![Muskox](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Muskox_%28Ovibos_moschatus%29_male_Dovrefjell_4.jpg/1280px-Muskox_%28Ovibos_moschatus%29_male_Dovrefjell_4.jpg)
+### Malayan civet
+![Malayan civet](https://upload.wikimedia.org/wikipedia/commons/5/56/Malay_civet.jpg)
 <!-- END_ANIMAL -->
 
 
