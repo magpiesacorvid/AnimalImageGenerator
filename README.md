@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-08 15:16:18 UTC
-**Next update:** ~2026-11-08 15:18:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-08 15:18:17 UTC
+**Next update:** ~2026-11-08 15:20:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater false vampire bat
-![Greater false vampire bat](https://upload.wikimedia.org/wikipedia/commons/3/3a/Greater_False_Vampire_Bat_%28Megaderma_lyra%29.jpg)
+### Asiatic brush-tailed porcupine
+![Asiatic brush-tailed porcupine](https://upload.wikimedia.org/wikipedia/commons/7/76/Brush-tailed_Porcupine%2C_Atherurus_macrourus_in_Kaeng_Krachan_national_park_%2815925250476%29.jpg)
 <!-- END_ANIMAL -->
 
 
