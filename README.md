@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-08 00:16:18 UTC
-**Next update:** ~2026-11-08 00:18:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-08 00:18:18 UTC
+**Next update:** ~2026-11-08 00:20:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cuban solenodon
-![Cuban solenodon](https://upload.wikimedia.org/wikipedia/commons/7/7e/Solenodon_cubanus.jpg)
+### Goodfellow's tree-kangaroo
+![Goodfellow's tree-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tree_kangaroo2.jpg/1920px-Tree_kangaroo2.jpg)
 <!-- END_ANIMAL -->
 
 
