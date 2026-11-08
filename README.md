@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-08 02:30:45 UTC
-**Next update:** ~2026-11-08 02:32:45 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-08 02:32:19 UTC
+**Next update:** ~2026-11-08 02:34:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cape Golden Mole
-![Cape Golden Mole](https://commons.wikimedia.org/wiki/Special:FilePath/Chrysochloris_asiatica_Cape_golden_mole_adult_IMG_7120.jpg)
+### Horsfield's treeshrew
+![Horsfield's treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Tupaia_javanica.jpg/960px-Tupaia_javanica.jpg)
 <!-- END_ANIMAL -->
 
 
