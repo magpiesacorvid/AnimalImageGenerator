@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-08 11:18:17 UTC
-**Next update:** ~2026-11-08 11:20:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-08 11:20:30 UTC
+**Next update:** ~2026-11-08 11:22:30 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Chinese ferret-badger
-![Chinese ferret-badger](https://upload.wikimedia.org/wikipedia/commons/b/b0/Melogale_moschata_%28male%29_Praha_zoo_02.2011_02.jpg)
+### Fossa
+![Fossa](https://upload.wikimedia.org/wikipedia/commons/a/a6/Cryptoprocta_Ferox.JPG)
 <!-- END_ANIMAL -->
 
 
