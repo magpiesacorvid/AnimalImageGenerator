@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-08 18:32:20 UTC
-**Next update:** ~2026-11-08 18:34:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-08 18:34:18 UTC
+**Next update:** ~2026-11-08 18:36:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black wallaroo
-![Black wallaroo](https://upload.wikimedia.org/wikipedia/commons/c/c6/Black_Wallaroo_Nourlangie_Rock_in_Kakadu_NP.jpg)
+### Lac Alaotra bamboo lemur
+![Lac Alaotra bamboo lemur](https://upload.wikimedia.org/wikipedia/commons/e/e3/Hapalemur_alaotrensis_JJLM.JPG)
 <!-- END_ANIMAL -->
 
 
