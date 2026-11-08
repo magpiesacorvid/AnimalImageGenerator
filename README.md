@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-08 12:06:18 UTC
-**Next update:** ~2026-11-08 12:08:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-08 12:08:20 UTC
+**Next update:** ~2026-11-08 12:10:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Highland Pony
-![Highland Pony](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Gracie-rhs2005.jpg/1280px-Gracie-rhs2005.jpg)
+### Monk saki
+![Monk saki](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pithecia_monachus_A.jpg/960px-Pithecia_monachus_A.jpg)
 <!-- END_ANIMAL -->
 
 
