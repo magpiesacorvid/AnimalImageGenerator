@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-08 12:28:20 UTC
-**Next update:** ~2026-11-08 12:30:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-08 12:30:43 UTC
+**Next update:** ~2026-11-08 12:32:43 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dugong
-![Dugong](https://upload.wikimedia.org/wikipedia/commons/f/f3/Dugong.jpg)
+### Fisher
+![Fisher](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Fishers_%2814584727897%29.jpg/1920px-Fishers_%2814584727897%29.jpg)
 <!-- END_ANIMAL -->
 
 
