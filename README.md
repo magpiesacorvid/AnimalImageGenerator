@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-08 14:48:21 UTC
-**Next update:** ~2026-11-08 14:50:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-08 14:50:32 UTC
+**Next update:** ~2026-11-08 14:52:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Günther's dik-dik
-![Günther's dik-dik](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Guenther%27s_Dik-dik_%28Madoqua_guentheri_smithii%29_%287662529270%29.jpg/1920px-Guenther%27s_Dik-dik_%28Madoqua_guentheri_smithii%29_%287662529270%29.jpg)
+### Maine Coon Cat
+![Maine Coon Cat](https://upload.wikimedia.org/wikipedia/commons/8/87/M%C3%A2le_Black_Silver_Blotched_Tabby.jpeg)
 <!-- END_ANIMAL -->
 
 
