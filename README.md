@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-08 07:56:17 UTC
-**Next update:** ~2026-11-08 07:58:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-08 07:58:18 UTC
+**Next update:** ~2026-11-08 08:00:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Andean hairy armadillo
-![Andean hairy armadillo](https://upload.wikimedia.org/wikipedia/commons/8/80/Chaetophractus_nationi%2C_Oruro%2C_Bolivia_-_20090824.jpg)
+### Maine Coon Cat
+![Maine Coon Cat](https://upload.wikimedia.org/wikipedia/commons/8/87/M%C3%A2le_Black_Silver_Blotched_Tabby.jpeg)
 <!-- END_ANIMAL -->
 
 
