@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-09 21:50:35 UTC
-**Next update:** ~2026-11-09 21:52:35 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-09 21:52:21 UTC
+**Next update:** ~2026-11-09 21:54:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Isthmian mouse opossum
-![Isthmian mouse opossum](https://upload.wikimedia.org/wikipedia/commons/8/88/Marmosa_isthmica.jpg)
+### Banded palm civet
+![Banded palm civet](https://commons.wikimedia.org/wiki/Special:FilePath/Banded_Palm_Civet-2.jpg)
 <!-- END_ANIMAL -->
 
 
