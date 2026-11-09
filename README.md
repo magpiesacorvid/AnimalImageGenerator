@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-09 01:48:23 UTC
-**Next update:** ~2026-11-09 01:50:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-09 01:50:34 UTC
+**Next update:** ~2026-11-09 01:52:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Big hairy armadillo
-![Big hairy armadillo](https://commons.wikimedia.org/wiki/Special:FilePath/Chaetophractus_villosus_(Wroclaw_zoo).JPG)
+### European fallow deer
+![European fallow deer](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fallow_deer_in_field.jpg/1920px-Fallow_deer_in_field.jpg)
 <!-- END_ANIMAL -->
 
 
