@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-09 19:36:20 UTC
-**Next update:** ~2026-11-09 19:38:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-09 19:38:22 UTC
+**Next update:** ~2026-11-09 19:40:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater grison
-![Greater grison](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Greater_grison.jpg/1920px-Greater_grison.jpg)
+### Baird's tapir
+![Baird's tapir](https://commons.wikimedia.org/wiki/Special:FilePath/Baird's_tapir_mother_with_baby_(92151).jpg)
 <!-- END_ANIMAL -->
 
 
