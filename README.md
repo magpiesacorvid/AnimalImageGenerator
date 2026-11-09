@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-09 00:14:19 UTC
-**Next update:** ~2026-11-09 00:16:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-09 00:16:18 UTC
+**Next update:** ~2026-11-09 00:18:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Golden-crowned sifaka
-![Golden-crowned sifaka](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Propithecus_tattersalli_001.jpg/1920px-Propithecus_tattersalli_001.jpg)
+### Guianan white-eared opossum
+![Guianan white-eared opossum](https://upload.wikimedia.org/wikipedia/commons/d/d2/Adult-female-of-Didelphis-imperfecta-captured-at-El-Tuparro-NNP.png)
 <!-- END_ANIMAL -->
 
 
