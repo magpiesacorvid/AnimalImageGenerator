@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-09 04:24:20 UTC
-**Next update:** ~2026-11-09 04:26:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-09 04:26:18 UTC
+**Next update:** ~2026-11-09 04:28:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Grey-headed flying fox
-![Grey-headed flying fox](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Grey_headed_flying_fox_-_Mating_behaviour_-_AndrewMercer_-_DSC11277_-_crop.jpg/1920px-Grey_headed_flying_fox_-_Mating_behaviour_-_AndrewMercer_-_DSC11277_-_crop.jpg)
+### Guinea baboon
+![Guinea baboon](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Male_Guinea_Baboon_in_Nuremberg_Zoo.jpg/1920px-Male_Guinea_Baboon_in_Nuremberg_Zoo.jpg)
 <!-- END_ANIMAL -->
 
 
