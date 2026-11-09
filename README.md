@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-09 20:52:22 UTC
-**Next update:** ~2026-11-09 20:54:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-09 20:54:21 UTC
+**Next update:** ~2026-11-09 20:56:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hairy-tailed mole
-![Hairy-tailed mole](https://upload.wikimedia.org/wikipedia/commons/3/3f/Hairy-tailed_Mole_iNaturalist.jpg)
+### Bonnet Macaque
+![Bonnet Macaque](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rhesus_Macaque_in_Andhra_Pradesh%2C_India.jpeg/1920px-Rhesus_Macaque_in_Andhra_Pradesh%2C_India.jpeg)
 <!-- END_ANIMAL -->
 
 
