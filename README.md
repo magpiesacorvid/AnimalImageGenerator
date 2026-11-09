@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-09 18:48:22 UTC
-**Next update:** ~2026-11-09 18:50:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-09 18:50:34 UTC
+**Next update:** ~2026-11-09 18:52:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lesser false vampire bat
-![Lesser false vampire bat](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Megaderma_spasma.jpg/960px-Megaderma_spasma.jpg)
+### Guianan white-eared opossum
+![Guianan white-eared opossum](https://upload.wikimedia.org/wikipedia/commons/d/d2/Adult-female-of-Didelphis-imperfecta-captured-at-El-Tuparro-NNP.png)
 <!-- END_ANIMAL -->
 
 
