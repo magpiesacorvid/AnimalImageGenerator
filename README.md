@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-09 02:00:53 UTC
-**Next update:** ~2026-11-09 02:02:53 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-09 02:02:19 UTC
+**Next update:** ~2026-11-09 02:04:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Grey seal
-![Grey seal](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Focas_grises_%28Halichoerus_grypus%29%2C_playa_de_Horsey%2C_Norfolk%2C_Inglaterra%2C_2022-11-20%2C_DD_11.jpg/1920px-Focas_grises_%28Halichoerus_grypus%29%2C_playa_de_Horsey%2C_Norfolk%2C_Inglaterra%2C_2022-11-20%2C_DD_11.jpg)
+### Bornean bearded pig
+![Bornean bearded pig](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bearded_Pigs_%28Sus_barbatus%29_female_with_youngs_%288220051061%29.jpg/1920px-Bearded_Pigs_%28Sus_barbatus%29_female_with_youngs_%288220051061%29.jpg)
 <!-- END_ANIMAL -->
 
 
