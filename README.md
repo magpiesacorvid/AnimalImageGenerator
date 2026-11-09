@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-09 00:50:33 UTC
-**Next update:** ~2026-11-09 00:52:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-09 00:52:19 UTC
+**Next update:** ~2026-11-09 00:54:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Agile wallaby
-![Agile wallaby](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Agile_Wallaby_pair_-_East_Point_Reserve.jpg/1280px-Agile_Wallaby_pair_-_East_Point_Reserve.jpg)
+### Grey seal
+![Grey seal](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Focas_grises_%28Halichoerus_grypus%29%2C_playa_de_Horsey%2C_Norfolk%2C_Inglaterra%2C_2022-11-20%2C_DD_11.jpg/1920px-Focas_grises_%28Halichoerus_grypus%29%2C_playa_de_Horsey%2C_Norfolk%2C_Inglaterra%2C_2022-11-20%2C_DD_11.jpg)
 <!-- END_ANIMAL -->
 
 
