@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-10 10:28:20 UTC
-**Next update:** ~2026-11-10 10:30:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-10 10:30:48 UTC
+**Next update:** ~2026-11-10 10:32:48 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Goodfellow's tree-kangaroo
-![Goodfellow's tree-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tree_kangaroo2.jpg/1920px-Tree_kangaroo2.jpg)
+### Dall sheep
+![Dall sheep](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dall_Sheep_Ewe_%280968efe1-d032-4834-bada-bb862e09ddfb%29.jpg/1920px-Dall_Sheep_Ewe_%280968efe1-d032-4834-bada-bb862e09ddfb%29.jpg)
 <!-- END_ANIMAL -->
 
 
