@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-10 20:12:22 UTC
-**Next update:** ~2026-11-10 20:14:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-10 20:14:23 UTC
+**Next update:** ~2026-11-10 20:16:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater hedgehog tenrec
-![Greater hedgehog tenrec](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Greater_Hedgehog_Tenrec_%28Setifer_setosus%29_%289614561811%29.jpg/1920px-Greater_Hedgehog_Tenrec_%28Setifer_setosus%29_%289614561811%29.jpg)
+### Lesser kudu
+![Lesser kudu](https://upload.wikimedia.org/wikipedia/commons/b/b8/Lesser_Kudu_Male_%28Tragelaphus_imberbis%29.jpg)
 <!-- END_ANIMAL -->
 
 
