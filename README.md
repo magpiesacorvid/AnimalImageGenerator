@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-11 04:50:32 UTC
-**Next update:** ~2026-11-11 04:52:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-11 04:52:20 UTC
+**Next update:** ~2026-11-11 04:54:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Egyptian fruit bat
-![Egyptian fruit bat](https://upload.wikimedia.org/wikipedia/commons/4/4c/Skraidantis_egipto_%C5%A1uo_%28cropped%29.jpg)
+### Eastern lesser bamboo lemur
+![Eastern lesser bamboo lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eastern_lesser_bamboo_lemur.jpg/1920px-Eastern_lesser_bamboo_lemur.jpg)
 <!-- END_ANIMAL -->
 
 
