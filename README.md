@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-11 02:44:18 UTC
-**Next update:** ~2026-11-11 02:46:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-11 02:46:18 UTC
+**Next update:** ~2026-11-11 02:48:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gray brocket
-![Gray brocket](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Grey_brocket_%28Mazama_gouazoubira%29_young_female.JPG/1920px-Grey_brocket_%28Mazama_gouazoubira%29_young_female.JPG)
+### Northern broad-footed mole
+![Northern broad-footed mole](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Scapanus_latimanus2.jpg/1280px-Scapanus_latimanus2.jpg)
 <!-- END_ANIMAL -->
 
 
