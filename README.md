@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-11 05:12:21 UTC
-**Next update:** ~2026-11-11 05:14:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-11 05:14:18 UTC
+**Next update:** ~2026-11-11 05:16:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern Mindanao gymnure
-![Eastern Mindanao gymnure](https://upload.wikimedia.org/wikipedia/commons/b/b4/Podogymnura_intermedia.jpg)
+### Broad-striped Malagasy mongoose
+![Broad-striped Malagasy mongoose](https://upload.wikimedia.org/wikipedia/commons/1/1a/Galidictis_fasciata_Striped_Vontsira%2C_Atsimo-Andrefana%2C_MG-TL%2C_MG_iNaturalist.jpg)
 <!-- END_ANIMAL -->
 
 
