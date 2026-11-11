@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-11 03:26:18 UTC
-**Next update:** ~2026-11-11 03:28:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-11 03:28:19 UTC
+**Next update:** ~2026-11-11 03:30:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Northern treeshrew
-![Northern treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Tupaia_belangeri_99597342.jpg/1280px-Tupaia_belangeri_99597342.jpg)
+### Common treeshrew
+![Common treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Common_treeshrew_in_Latpanchar_January_2024_by_Tisha_Mukherjee_01.jpg/1920px-Common_treeshrew_in_Latpanchar_January_2024_by_Tisha_Mukherjee_01.jpg)
 <!-- END_ANIMAL -->
 
 
