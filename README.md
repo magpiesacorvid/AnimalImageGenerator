@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-11 06:08:23 UTC
-**Next update:** ~2026-11-11 06:10:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-11 06:10:35 UTC
+**Next update:** ~2026-11-11 06:12:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ocelot
-![Ocelot](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/1280px-016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg)
+### Grey rhebok
+![Grey rhebok](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Grey_Rhebok_%28Pelea_capreolus%29_male_at_Karoo_NP%2C_Western_Cape%2C_South_Africa.jpg/1920px-Grey_Rhebok_%28Pelea_capreolus%29_male_at_Karoo_NP%2C_Western_Cape%2C_South_Africa.jpg)
 <!-- END_ANIMAL -->
 
 
