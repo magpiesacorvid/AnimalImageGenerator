@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-12 06:46:19 UTC
-**Next update:** ~2026-11-12 06:48:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-12 06:48:18 UTC
+**Next update:** ~2026-11-12 06:50:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black Backed Jackal
-![Black Backed Jackal](https://commons.wikimedia.org/wiki/Special:FilePath/Black-backed_jackal_(Canis_mesomelas_mesomelas).jpg)
+### Andean Mountain Cat
+![Andean Mountain Cat](https://upload.wikimedia.org/wikipedia/commons/e/e0/Andean_cat_1_Jim_Sanderson.jpg)
 <!-- END_ANIMAL -->
 
 
