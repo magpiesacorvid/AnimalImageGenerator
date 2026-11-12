@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-12 22:10:35 UTC
-**Next update:** ~2026-11-12 22:12:35 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-12 22:12:23 UTC
+**Next update:** ~2026-11-12 22:14:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Central greater glider
-![Central greater glider](https://upload.wikimedia.org/wikipedia/commons/2/2e/Petauroides_volans4.jpg)
+### Northern treeshrew
+![Northern treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Tupaia_belangeri_99597342.jpg/1280px-Tupaia_belangeri_99597342.jpg)
 <!-- END_ANIMAL -->
 
 
