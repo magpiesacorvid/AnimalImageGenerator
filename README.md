@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-12 17:24:20 UTC
-**Next update:** ~2026-11-12 17:26:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-12 17:26:21 UTC
+**Next update:** ~2026-11-12 17:28:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Horseshoe bat
-![Horseshoe bat](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bat%2820070605%29.jpg/960px-Bat%2820070605%29.jpg)
+### Masked palm civet
+![Masked palm civet](https://upload.wikimedia.org/wikipedia/commons/2/2a/Palm_civet_on_tree_%28detail%29.jpg)
 <!-- END_ANIMAL -->
 
 
