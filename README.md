@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-12 07:48:19 UTC
-**Next update:** ~2026-11-12 07:50:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-12 07:50:32 UTC
+**Next update:** ~2026-11-12 07:52:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gray-bellied night monkey
-![Gray-bellied night monkey](https://upload.wikimedia.org/wikipedia/commons/5/5d/Grey-bellied_Night_Monkeys_%28Aotus_lemurinus_griseimembra%29.jpg)
+### Long-tailed weasel
+![Long-tailed weasel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Long-tailed_Weasel%2C_Sonoma_County%2C_US-CA%2C_US_imported_from_iNaturalist_photo_108909271.jpg/960px-Long-tailed_Weasel%2C_Sonoma_County%2C_US-CA%2C_US_imported_from_iNaturalist_photo_108909271.jpg)
 <!-- END_ANIMAL -->
 
 
