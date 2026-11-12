@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-12 12:10:33 UTC
-**Next update:** ~2026-11-12 12:12:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-12 12:12:22 UTC
+**Next update:** ~2026-11-12 12:14:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown four-eyed opossum
-![Brown four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vieraugen-Opossum_%28Metachirus_nudicaudatus%29.jpg/1920px-Vieraugen-Opossum_%28Metachirus_nudicaudatus%29.jpg)
+### Greater kudu
+![Greater kudu](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Male_greater_kudu.jpg/1920px-Male_greater_kudu.jpg)
 <!-- END_ANIMAL -->
 
 
