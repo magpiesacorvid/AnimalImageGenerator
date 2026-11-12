@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-12 04:12:20 UTC
-**Next update:** ~2026-11-12 04:14:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-12 04:14:19 UTC
+**Next update:** ~2026-11-12 04:16:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bulldog Bat
-![Bulldog Bat](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Captive_Noctilio_leporinus.jpg/1920px-Captive_Noctilio_leporinus.jpg)
+### Chital
+![Chital](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/066_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg/1920px-066_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
