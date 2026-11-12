@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-12 22:24:19 UTC
-**Next update:** ~2026-11-12 22:26:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-12 22:26:22 UTC
+**Next update:** ~2026-11-12 22:28:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cornish Rex
-![Cornish Rex](https://upload.wikimedia.org/wikipedia/commons/5/5c/Rex_staredown.jpg)
+### Big hairy armadillo
+![Big hairy armadillo](https://commons.wikimedia.org/wiki/Special:FilePath/Chaetophractus_villosus_(Wroclaw_zoo).JPG)
 <!-- END_ANIMAL -->
 
 
