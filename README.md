@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-12 05:30:44 UTC
-**Next update:** ~2026-11-12 05:32:44 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-12 05:32:19 UTC
+**Next update:** ~2026-11-12 05:34:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian Grey Mongoose
-![Indian Grey Mongoose](https://upload.wikimedia.org/wikipedia/commons/9/96/Herpestes_edwardsii_at_Hyderaba.jpg)
+### Humpback whale
+![Humpback whale](https://upload.wikimedia.org/wikipedia/commons/6/61/Humpback_Whale_underwater_shot.jpg)
 <!-- END_ANIMAL -->
 
 
