@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-13 06:58:21 UTC
-**Next update:** ~2026-11-13 07:00:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-13 07:00:57 UTC
+**Next update:** ~2026-11-13 07:02:57 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Geoffroy's cat
-![Geoffroy's cat](https://upload.wikimedia.org/wikipedia/commons/d/d9/Salzkatze.jpg)
+### Indian rhinoceros
+![Indian rhinoceros](https://upload.wikimedia.org/wikipedia/commons/7/77/Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg)
 <!-- END_ANIMAL -->
 
 
