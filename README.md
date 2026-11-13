@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-13 18:32:21 UTC
-**Next update:** ~2026-11-13 18:34:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-13 18:34:21 UTC
+**Next update:** ~2026-11-13 18:36:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hairy-nosed otter
-![Hairy-nosed otter](https://upload.wikimedia.org/wikipedia/commons/2/2d/Otter_from_Cambodia.jpg)
+### Humboldt's flying squirrel
+![Humboldt's flying squirrel](https://upload.wikimedia.org/wikipedia/commons/7/7e/Glaucomys_oregonensis2.jpg)
 <!-- END_ANIMAL -->
 
 
