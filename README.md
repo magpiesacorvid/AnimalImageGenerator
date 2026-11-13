@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-13 07:00:57 UTC
-**Next update:** ~2026-11-13 07:02:57 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-13 07:02:19 UTC
+**Next update:** ~2026-11-13 07:04:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian rhinoceros
-![Indian rhinoceros](https://upload.wikimedia.org/wikipedia/commons/7/77/Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg)
+### Asian small-clawed otter
+![Asian small-clawed otter](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Otter_-_melbourne_zoo.jpg/1280px-Otter_-_melbourne_zoo.jpg)
 <!-- END_ANIMAL -->
 
 
