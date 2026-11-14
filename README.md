@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-14 09:20:35 UTC
-**Next update:** ~2026-11-14 09:22:35 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-14 09:22:18 UTC
+**Next update:** ~2026-11-14 09:24:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Four-toed hedgehog
-![Four-toed hedgehog](https://upload.wikimedia.org/wikipedia/commons/d/d0/Atelerix_albiventris.jpg)
+### Andean hairy armadillo
+![Andean hairy armadillo](https://upload.wikimedia.org/wikipedia/commons/8/80/Chaetophractus_nationi%2C_Oruro%2C_Bolivia_-_20090824.jpg)
 <!-- END_ANIMAL -->
 
 
