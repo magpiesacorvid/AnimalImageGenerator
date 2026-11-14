@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-14 10:40:32 UTC
-**Next update:** ~2026-11-14 10:42:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-14 10:42:21 UTC
+**Next update:** ~2026-11-14 10:44:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Fishing Cat
-![Fishing Cat](https://upload.wikimedia.org/wikipedia/commons/f/f7/Prionailurus_viverrinus_01.jpg)
+### Neotropical otter
+![Neotropical otter](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lontra_longicaudis_4.jpeg/1280px-Lontra_longicaudis_4.jpeg)
 <!-- END_ANIMAL -->
 
 
