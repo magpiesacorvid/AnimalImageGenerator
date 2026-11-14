@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-14 23:40:33 UTC
-**Next update:** ~2026-11-14 23:42:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-14 23:42:18 UTC
+**Next update:** ~2026-11-14 23:44:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cave Nectar Bat
-![Cave Nectar Bat](https://upload.wikimedia.org/wikipedia/commons/b/b7/Eonycteris_spelea.png)
+### Cape Gray Mongoose
+![Cape Gray Mongoose](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MJK_25239_Galerella_pulverulenta.jpg/1920px-MJK_25239_Galerella_pulverulenta.jpg)
 <!-- END_ANIMAL -->
 
 
