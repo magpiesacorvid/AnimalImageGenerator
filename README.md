@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-14 13:42:19 UTC
-**Next update:** ~2026-11-14 13:44:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-14 13:44:19 UTC
+**Next update:** ~2026-11-14 13:46:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bighorn sheep
-![Bighorn sheep](https://commons.wikimedia.org/wiki/Special:FilePath/Big_Horn_Sheep.jpg)
+### Grey-cheeked mangabey
+![Grey-cheeked mangabey](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Grey-cheeked_Mangabey.JPG/1920px-Grey-cheeked_Mangabey.JPG)
 <!-- END_ANIMAL -->
 
 
