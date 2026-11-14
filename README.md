@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-14 12:56:18 UTC
-**Next update:** ~2026-11-14 12:58:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-14 12:58:19 UTC
+**Next update:** ~2026-11-14 13:00:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mule deer
-![Mule deer](N01https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mule_buck_elk_creek_m_myatt_%285489214303%29.jpg/1280px-Mule_buck_elk_creek_m_myatt_%285489214303%29.jpgMAGE)
+### Hottentot Golden Mole
+![Hottentot Golden Mole](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Amblysomus_hottentotus_%28Palmiet_Nature_Reserve%2C_South_Africa_East_Coast%29_2.jpg/1280px-Amblysomus_hottentotus_%28Palmiet_Nature_Reserve%2C_South_Africa_East_Coast%29_2.jpg)
 <!-- END_ANIMAL -->
 
 
