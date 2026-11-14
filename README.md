@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-14 10:52:24 UTC
-**Next update:** ~2026-11-14 10:54:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-14 10:54:17 UTC
+**Next update:** ~2026-11-14 10:56:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-capped fruit bat
-![Black-capped fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Chironax_melanocephalus.jpg/1920px-Chironax_melanocephalus.jpg)
+### Nilgiri marten
+![Nilgiri marten](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nilgiri_marten_by_N_A_Nazeer.jpg/960px-Nilgiri_marten_by_N_A_Nazeer.jpg)
 <!-- END_ANIMAL -->
 
 
