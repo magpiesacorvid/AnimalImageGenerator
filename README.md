@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-14 12:28:18 UTC
-**Next update:** ~2026-11-14 12:30:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-14 12:30:44 UTC
+**Next update:** ~2026-11-14 12:32:44 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ocelot
-![Ocelot](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/1280px-016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg)
+### Caucasian Mountain ground squirrel
+![Caucasian Mountain ground squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%D0%A1%D1%83%D1%81%D0%BB%D0%B8%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B5.jpg/1920px-%D0%A1%D1%83%D1%81%D0%BB%D0%B8%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B5.jpg)
 <!-- END_ANIMAL -->
 
 
