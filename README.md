@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-14 20:50:31 UTC
-**Next update:** ~2026-11-14 20:52:31 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-14 20:52:17 UTC
+**Next update:** ~2026-11-14 20:54:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Fin whale
-![Fin whale](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Finhval_%281%29.jpg/1920px-Finhval_%281%29.jpg)
+### Fat-tailed dunnart
+![Fat-tailed dunnart](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fat-tailed_Dunnart_imported_from_iNaturalist_photo_108307960_on_20_October_2024.jpg/1920px-Fat-tailed_Dunnart_imported_from_iNaturalist_photo_108307960_on_20_October_2024.jpg)
 <!-- END_ANIMAL -->
 
 
