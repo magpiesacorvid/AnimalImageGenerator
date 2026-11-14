@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-14 21:04:18 UTC
-**Next update:** ~2026-11-14 21:06:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-14 21:06:18 UTC
+**Next update:** ~2026-11-14 21:08:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### New Zealand Fur Seal
-![New Zealand Fur Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/New_Zealand_fur_seal_%28Arctocephalus_forsteri%29_male_Kangaroo_Island.jpg/960px-New_Zealand_fur_seal_%28Arctocephalus_forsteri%29_male_Kangaroo_Island.jpg)
+### Grey rhebok
+![Grey rhebok](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Grey_Rhebok_%28Pelea_capreolus%29_male_at_Karoo_NP%2C_Western_Cape%2C_South_Africa.jpg/1920px-Grey_Rhebok_%28Pelea_capreolus%29_male_at_Karoo_NP%2C_Western_Cape%2C_South_Africa.jpg)
 <!-- END_ANIMAL -->
 
 
