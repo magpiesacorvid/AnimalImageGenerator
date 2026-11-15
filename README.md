@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-15 18:50:31 UTC
-**Next update:** ~2026-11-15 18:52:31 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-15 18:52:19 UTC
+**Next update:** ~2026-11-15 18:54:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common genet
-![Common genet](https://upload.wikimedia.org/wikipedia/commons/2/23/A_female_common_genet_in_the_dining_room%2C_Satao_Camp%2C_Tsavo_East.jpg)
+### Hairy-tailed mole
+![Hairy-tailed mole](https://upload.wikimedia.org/wikipedia/commons/3/3f/Hairy-tailed_Mole_iNaturalist.jpg)
 <!-- END_ANIMAL -->
 
 
