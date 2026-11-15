@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-15 07:46:23 UTC
-**Next update:** ~2026-11-15 07:48:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-15 07:48:17 UTC
+**Next update:** ~2026-11-15 07:50:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gray-bellied night monkey
-![Gray-bellied night monkey](https://upload.wikimedia.org/wikipedia/commons/5/5d/Grey-bellied_Night_Monkeys_%28Aotus_lemurinus_griseimembra%29.jpg)
+### Black-shouldered opossum
+![Black-shouldered opossum](https://upload.wikimedia.org/wikipedia/commons/2/20/Photographs-of-a-specimen-of-Caluromysiops-irrupta-taken-at-Parque-Estadual-Guajara1.png)
 <!-- END_ANIMAL -->
 
 
