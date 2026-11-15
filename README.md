@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-15 15:30:45 UTC
-**Next update:** ~2026-11-15 15:32:45 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-15 15:32:18 UTC
+**Next update:** ~2026-11-15 15:34:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown deer mouse
-![Brown deer mouse](https://upload.wikimedia.org/wikipedia/commons/d/d8/Peromyscus_megalops.jpg)
+### Caucasian Mountain ground squirrel
+![Caucasian Mountain ground squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%D0%A1%D1%83%D1%81%D0%BB%D0%B8%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B5.jpg/1920px-%D0%A1%D1%83%D1%81%D0%BB%D0%B8%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B5.jpg)
 <!-- END_ANIMAL -->
 
 
