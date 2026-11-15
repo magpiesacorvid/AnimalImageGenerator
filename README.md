@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-15 15:50:33 UTC
-**Next update:** ~2026-11-15 15:52:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-15 15:52:18 UTC
+**Next update:** ~2026-11-15 15:54:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black wildebeest
-![Black wildebeest](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Black_Wildebeest_%28Connochaetes_gnou%29_%2831746882054%29.jpg/1920px-Black_Wildebeest_%28Connochaetes_gnou%29_%2831746882054%29.jpg)
+### Madagascan rousette
+![Madagascan rousette](https://upload.wikimedia.org/wikipedia/commons/1/15/Rousettus_madagascariensis_2.png)
 <!-- END_ANIMAL -->
 
 
