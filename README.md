@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-15 02:52:17 UTC
-**Next update:** ~2026-11-15 02:54:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-15 02:54:19 UTC
+**Next update:** ~2026-11-15 02:56:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian elephant
-![Indian elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/1280px-Elephas_maximus_%28Bandipur%29.jpg)
+### Collared brown lemur
+![Collared brown lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Eulemur_collaris_001_edit.jpg/1920px-Eulemur_collaris_001_edit.jpg)
 <!-- END_ANIMAL -->
 
 
