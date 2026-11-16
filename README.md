@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-16 01:40:36 UTC
-**Next update:** ~2026-11-16 01:42:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-16 01:42:20 UTC
+**Next update:** ~2026-11-16 01:44:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Green ringtail possum
-![Green ringtail possum](https://upload.wikimedia.org/wikipedia/commons/a/a7/Green_ringtail_possum_on_August_2023.jpg)
+### Long-furred woolly mouse opossum
+![Long-furred woolly mouse opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/North-eastern_Woolly_Mouse_Opossum_imported_from_iNaturalist_photo_417123381_on_18_October_2024.jpg/250px-North-eastern_Woolly_Mouse_Opossum_imported_from_iNaturalist_photo_417123381_on_18_October_2024.jpg)
 <!-- END_ANIMAL -->
 
 
