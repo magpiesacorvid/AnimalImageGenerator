@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-16 01:16:20 UTC
-**Next update:** ~2026-11-16 01:18:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-16 01:18:19 UTC
+**Next update:** ~2026-11-16 01:20:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Balinese cat
-![Balinese cat](https://commons.wikimedia.org/wiki/Special:FilePath/Ghislaine_6028.jpg)
+### Common brushtail possum
+![Common brushtail possum](https://upload.wikimedia.org/wikipedia/commons/2/22/Trichosurus_vulpecula_1.jpg)
 <!-- END_ANIMAL -->
 
 
