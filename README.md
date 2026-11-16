@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-16 14:28:23 UTC
-**Next update:** ~2026-11-16 14:30:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-16 14:30:47 UTC
+**Next update:** ~2026-11-16 14:32:47 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Burmilla Cat
-![Burmilla Cat](https://upload.wikimedia.org/wikipedia/commons/e/e9/Male_Burmilla_cat.jpeg)
+### Mountain brushtail possum
+![Mountain brushtail possum](https://upload.wikimedia.org/wikipedia/commons/5/54/Trichosurus_cunninghami3.jpg)
 <!-- END_ANIMAL -->
 
 
