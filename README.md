@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-16 06:10:32 UTC
-**Next update:** ~2026-11-16 06:12:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-16 06:12:19 UTC
+**Next update:** ~2026-11-16 06:14:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bali cattle
-![Bali cattle](https://commons.wikimedia.org/wiki/Special:FilePath/Bali_Cattle.jpg)
+### Giant otter shrew
+![Giant otter shrew](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Potamogale_velox_340101862.jpg/1920px-Potamogale_velox_340101862.jpg)
 <!-- END_ANIMAL -->
 
 
