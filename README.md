@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-16 04:34:19 UTC
-**Next update:** ~2026-11-16 04:36:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-16 04:36:18 UTC
+**Next update:** ~2026-11-16 04:38:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lioness
-![Lioness](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Okonjima_Lioness.jpg/960px-Okonjima_Lioness.jpg)
+### Black-mantled tamarin
+![Black-mantled tamarin](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Black-mantled_tamarin_%28Saguinus_nigricollis_graellsi%29_Sumaco.jpg/1920px-Black-mantled_tamarin_%28Saguinus_nigricollis_graellsi%29_Sumaco.jpg)
 <!-- END_ANIMAL -->
 
 
