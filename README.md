@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-16 04:24:17 UTC
-**Next update:** ~2026-11-16 04:26:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-16 04:26:22 UTC
+**Next update:** ~2026-11-16 04:28:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Mainland serow
-![Mainland serow](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Serow_Capricornis_sumatraensis.JPG/1280px-Serow_Capricornis_sumatraensis.JPG)
+### Numbat
+![Numbat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg/1920px-Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg)
 <!-- END_ANIMAL -->
 
 
