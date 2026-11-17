@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-17 11:20:42 UTC
-**Next update:** ~2026-11-17 11:22:42 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-17 11:22:30 UTC
+**Next update:** ~2026-11-17 11:24:30 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gerenuk
-![Gerenuk](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/San_diego_zoo_group_3_DSC_0908_%2835305473932%29.jpg/1920px-San_diego_zoo_group_3_DSC_0908_%2835305473932%29.jpg)
+### Blesbok
+![Blesbok](https://commons.wikimedia.org/wiki/Special:FilePath/Blesbok,_Damaliscus_pygargus_phillipsi,_at_Krugersdorp_Game_Reserve,_Gauteng,_South_Africa_(26872993194).jpg)
 <!-- END_ANIMAL -->
 
 
