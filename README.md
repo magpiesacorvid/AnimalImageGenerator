@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-17 15:34:20 UTC
-**Next update:** ~2026-11-17 15:36:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-17 15:36:23 UTC
+**Next update:** ~2026-11-17 15:38:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Long-finned pilot whale
-![Long-finned pilot whale](https://upload.wikimedia.org/wikipedia/commons/8/85/Pilot_Whale_-_Flickr_-_gailhampshire.jpg)
+### Mantled Howler
+![Mantled Howler](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Panamanian_Male_Adult_Howler_Monkey.jpg/1280px-Panamanian_Male_Adult_Howler_Monkey.jpg)
 <!-- END_ANIMAL -->
 
 
