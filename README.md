@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-17 07:10:31 UTC
-**Next update:** ~2026-11-17 07:12:31 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-17 07:12:19 UTC
+**Next update:** ~2026-11-17 07:14:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cape grysbok
-![Cape grysbok](https://upload.wikimedia.org/wikipedia/commons/6/6f/Southafrica-capegrysbok.jpg)
+### Indian hedgehog
+![Indian hedgehog](https://upload.wikimedia.org/wikipedia/commons/e/ea/Paraechinus_micropus.jpg)
 <!-- END_ANIMAL -->
 
 
