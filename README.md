@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-17 21:30:46 UTC
-**Next update:** ~2026-11-17 21:32:46 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-17 21:32:20 UTC
+**Next update:** ~2026-11-17 21:34:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American Black Bear
-![American Black Bear](https://upload.wikimedia.org/wikipedia/commons/0/08/01_Schwarzb%C3%A4r.jpg)
+### Northern white-breasted hedgehog
+![Northern white-breasted hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Erinaceus_roumanicus_2020_G2.jpg/1280px-Erinaceus_roumanicus_2020_G2.jpg)
 <!-- END_ANIMAL -->
 
 
