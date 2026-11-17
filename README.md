@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-17 02:30:47 UTC
-**Next update:** ~2026-11-17 02:32:47 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-17 02:32:28 UTC
+**Next update:** ~2026-11-17 02:34:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Donskoy
-![Donskoy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/DSX_World_Premior_RU%2ADon_Xuk%27s_Login_WOW_%2814037189016%29.jpg/1920px-DSX_World_Premior_RU%2ADon_Xuk%27s_Login_WOW_%2814037189016%29.jpg)
+### Fat-tailed dunnart
+![Fat-tailed dunnart](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fat-tailed_Dunnart_imported_from_iNaturalist_photo_108307960_on_20_October_2024.jpg/1920px-Fat-tailed_Dunnart_imported_from_iNaturalist_photo_108307960_on_20_October_2024.jpg)
 <!-- END_ANIMAL -->
 
 
