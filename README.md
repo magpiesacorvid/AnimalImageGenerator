@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-17 18:42:21 UTC
-**Next update:** ~2026-11-17 18:44:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-17 18:44:30 UTC
+**Next update:** ~2026-11-17 18:46:30 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan talapoin
-![Angolan talapoin](https://upload.wikimedia.org/wikipedia/commons/7/78/Talapoin_II_-_Bioparc_Valencia_%282787418966%29.jpg)
+### Mediterranean monk seal
+![Mediterranean monk seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Monachus_monachus_DSC_0274.jpg/1280px-Monachus_monachus_DSC_0274.jpg)
 <!-- END_ANIMAL -->
 
 
