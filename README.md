@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-17 02:54:19 UTC
-**Next update:** ~2026-11-17 02:56:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-17 02:56:21 UTC
+**Next update:** ~2026-11-17 02:58:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Celebes crested macaque
-![Celebes crested macaque](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kuifmakaak_%288721744168%29.jpg/1920px-Kuifmakaak_%288721744168%29.jpg)
+### Black rat
+![Black rat](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/House_Rat_David_Raju.jpg/1920px-House_Rat_David_Raju.jpg)
 <!-- END_ANIMAL -->
 
 
