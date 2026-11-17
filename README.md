@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-17 03:24:21 UTC
-**Next update:** ~2026-11-17 03:26:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-17 03:26:17 UTC
+**Next update:** ~2026-11-17 03:28:17 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Green ringtail possum
-![Green ringtail possum](https://upload.wikimedia.org/wikipedia/commons/a/a7/Green_ringtail_possum_on_August_2023.jpg)
+### Asian mole shrew
+![Asian mole shrew](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Anourosorex_squamips_yamashinai_%28adult%29_PShaner_2011-5-4.png/1920px-Anourosorex_squamips_yamashinai_%28adult%29_PShaner_2011-5-4.png)
 <!-- END_ANIMAL -->
 
 
