@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-17 02:40:42 UTC
-**Next update:** ~2026-11-17 02:42:42 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-17 02:42:20 UTC
+**Next update:** ~2026-11-17 02:44:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Devon Rex Cat
-![Devon Rex Cat](https://upload.wikimedia.org/wikipedia/commons/a/ad/Devon_Rex_Cassini.jpeg)
+### Grévy's zebra
+![Grévy's zebra](https://upload.wikimedia.org/wikipedia/commons/7/74/Grevy%27s_Zebra_Stallion.jpg)
 <!-- END_ANIMAL -->
 
 
