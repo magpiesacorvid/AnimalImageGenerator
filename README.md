@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-17 07:24:19 UTC
-**Next update:** ~2026-11-17 07:26:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-17 07:26:21 UTC
+**Next update:** ~2026-11-17 07:28:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Daurian hedgehog
-![Daurian hedgehog](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Daurian_Hedgehog_%28Mesechinus_dauuricus%29.tif/lossy-page1-1920px-Daurian_Hedgehog_%28Mesechinus_dauuricus%29.tif.jpg)
+### Mekong Bobtail
+![Mekong Bobtail](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mekong_bobtail_%28Thai_bobtail%29._Tabby-point..jpg/1280px-Mekong_bobtail_%28Thai_bobtail%29._Tabby-point..jpg)
 <!-- END_ANIMAL -->
 
 
