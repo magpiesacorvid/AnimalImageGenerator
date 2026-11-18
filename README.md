@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-18 00:52:20 UTC
-**Next update:** ~2026-11-18 00:54:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-18 00:54:19 UTC
+**Next update:** ~2026-11-18 00:56:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common Slender Mongoose
-![Common Slender Mongoose](https://upload.wikimedia.org/wikipedia/commons/a/a1/2009-slender-mongoose.jpg)
+### Common shrew opossums
+![Common shrew opossums](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Caenolestes_sangay._Foto_Jorge_Brito.jpg/1920px-Caenolestes_sangay._Foto_Jorge_Brito.jpg)
 <!-- END_ANIMAL -->
 
 
