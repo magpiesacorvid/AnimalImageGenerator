@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-18 07:28:20 UTC
-**Next update:** ~2026-11-18 07:30:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-18 07:30:44 UTC
+**Next update:** ~2026-11-18 07:32:44 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Acrobatic cavy
-![Acrobatic cavy](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kerodon-acrobata-asportella.JPG/1280px-Kerodon-acrobata-asportella.JPG)
+### Bush dog
+![Bush dog](https://upload.wikimedia.org/wikipedia/commons/2/29/Speothos_venaticus_Zoo_Praha_2011-5_%28cropped%29.jpg)
 <!-- END_ANIMAL -->
 
 
