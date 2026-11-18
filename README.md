@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-18 21:08:18 UTC
-**Next update:** ~2026-11-18 21:10:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-18 21:10:36 UTC
+**Next update:** ~2026-11-18 21:12:36 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Big-eared opossum
-![Big-eared opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Didelphis_aurita_photo-Christian_Roger_Dockhorn.JPG/1920px-Didelphis_aurita_photo-Christian_Roger_Dockhorn.JPG)
+### North American beaver
+![North American beaver](https://upload.wikimedia.org/wikipedia/commons/6/6b/American_Beaver.jpg)
 <!-- END_ANIMAL -->
 
 
