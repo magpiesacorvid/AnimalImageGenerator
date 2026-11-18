@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-18 14:46:22 UTC
-**Next update:** ~2026-11-18 14:48:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-18 14:48:22 UTC
+**Next update:** ~2026-11-18 14:50:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Masai giraffe
-![Masai giraffe](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/GiraffaCamelopardalisTippelskirchi-Masaai-Mara.JPG/500px-GiraffaCamelopardalisTippelskirchi-Masaai-Mara.JPG)
+### Domestic Cattle
+![Domestic Cattle](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/1920px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg)
 <!-- END_ANIMAL -->
 
 
