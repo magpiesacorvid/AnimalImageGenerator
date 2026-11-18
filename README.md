@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-18 10:56:21 UTC
-**Next update:** ~2026-11-18 10:58:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-18 10:58:28 UTC
+**Next update:** ~2026-11-18 11:00:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Black-tailed hairy dwarf porcupine
-![Black-tailed hairy dwarf porcupine](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Black-tailed_hairy_dwarf_porcupine.jpg/1920px-Black-tailed_hairy_dwarf_porcupine.jpg)
+### Hoary fox
+![Hoary fox](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lycalopex_vetulus_in_Bacury_Lodge%2C_Anhembi_5.jpg/1280px-Lycalopex_vetulus_in_Bacury_Lodge%2C_Anhembi_5.jpg)
 <!-- END_ANIMAL -->
 
 
