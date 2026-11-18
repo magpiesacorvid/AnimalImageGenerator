@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-18 02:38:25 UTC
-**Next update:** ~2026-11-18 02:40:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-18 02:40:32 UTC
+**Next update:** ~2026-11-18 02:42:32 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Guanaco
-![Guanaco](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Guanaco_%28Lama_guanicoe%29_Leona_Amarga.jpg/1920px-Guanaco_%28Lama_guanicoe%29_Leona_Amarga.jpg)
+### Madras treeshrew
+![Madras treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Madras_treeshrew_%28Anathana_ellioti%29_by_Davidraju_img7.jpg/1920px-The_Madras_treeshrew_%28Anathana_ellioti%29_by_Davidraju_img7.jpg)
 <!-- END_ANIMAL -->
 
 
