@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-18 12:04:21 UTC
-**Next update:** ~2026-11-18 12:06:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-18 12:06:21 UTC
+**Next update:** ~2026-11-18 12:08:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common brown lemur
-![Common brown lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Common_brown_lemur_%28Eulemur_fulvus%29_male.jpg/1920px-Common_brown_lemur_%28Eulemur_fulvus%29_male.jpg)
+### De Winton's golden mole
+![De Winton's golden mole](https://upload.wikimedia.org/wikipedia/commons/6/6a/De_Winton%27s_golden_mole_%28Cryptochloris_wintoni%29.jpg)
 <!-- END_ANIMAL -->
 
 
