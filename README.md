@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-19 15:16:20 UTC
-**Next update:** ~2026-11-19 15:18:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-19 15:18:22 UTC
+**Next update:** ~2026-11-19 15:20:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Devon Rex Cat
-![Devon Rex Cat](https://upload.wikimedia.org/wikipedia/commons/a/ad/Devon_Rex_Cassini.jpeg)
+### Burmilla Cat
+![Burmilla Cat](https://upload.wikimedia.org/wikipedia/commons/e/e9/Male_Burmilla_cat.jpeg)
 <!-- END_ANIMAL -->
 
 
