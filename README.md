@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-19 19:44:22 UTC
-**Next update:** ~2026-11-19 19:46:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-19 19:46:31 UTC
+**Next update:** ~2026-11-19 19:48:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Marbled polecat
-![Marbled polecat](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/%286604%29_Marbled_polecat.jpg/960px-%286604%29_Marbled_polecat.jpg)
+### North Sulawesi babirusa
+![North Sulawesi babirusa](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hirscheber1a.jpg/1280px-Hirscheber1a.jpg)
 <!-- END_ANIMAL -->
 
 
