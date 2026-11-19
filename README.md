@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-19 18:44:24 UTC
-**Next update:** ~2026-11-19 18:46:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-19 18:46:20 UTC
+**Next update:** ~2026-11-19 18:48:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### European Wild Cat
-![European Wild Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Felis_silvestris_silvestris_Luc_Viatour.jpg/1920px-Felis_silvestris_silvestris_Luc_Viatour.jpg)
+### Madagascan rousette
+![Madagascan rousette](https://upload.wikimedia.org/wikipedia/commons/1/15/Rousettus_madagascariensis_2.png)
 <!-- END_ANIMAL -->
 
 
