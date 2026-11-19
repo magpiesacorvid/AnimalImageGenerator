@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-19 04:42:26 UTC
-**Next update:** ~2026-11-19 04:44:26 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-19 04:44:19 UTC
+**Next update:** ~2026-11-19 04:46:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### European pine marten
-![European pine marten](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pine_Marten_%2848173751702%29.jpg/1920px-Pine_Marten_%2848173751702%29.jpg)
+### Black rhinoceros
+![Black rhinoceros](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Black_Rhino_at_Working_with_Wildlife.jpg/1920px-Black_Rhino_at_Working_with_Wildlife.jpg)
 <!-- END_ANIMAL -->
 
 
