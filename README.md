@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-19 01:30:43 UTC
-**Next update:** ~2026-11-19 01:32:43 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-19 01:32:20 UTC
+**Next update:** ~2026-11-19 01:34:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Nilgiri langur
-![Nilgiri langur](https://upload.wikimedia.org/wikipedia/commons/6/66/Nilgiri_langur_%281%29_by_N._A._Naseer.jpg)
+### Gold-and-white marmoset
+![Gold-and-white marmoset](https://upload.wikimedia.org/wikipedia/commons/0/08/Mico_chrysoleucus_Kenny_Ross_1.jpg)
 <!-- END_ANIMAL -->
 
 
