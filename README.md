@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-20 19:48:20 UTC
-**Next update:** ~2026-11-20 19:50:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-20 19:50:33 UTC
+**Next update:** ~2026-11-20 19:52:33 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Fossa
-![Fossa](https://upload.wikimedia.org/wikipedia/commons/a/a6/Cryptoprocta_Ferox.JPG)
+### Groves' dwarf lemur
+![Groves' dwarf lemur](https://upload.wikimedia.org/wikipedia/commons/0/0b/Groves%27_dwarf_lemur_%28Cheirogaleus_grovesi%29.jpg)
 <!-- END_ANIMAL -->
 
 
