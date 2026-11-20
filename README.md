@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-20 12:04:22 UTC
-**Next update:** ~2026-11-20 12:06:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-20 12:06:24 UTC
+**Next update:** ~2026-11-20 12:08:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater bilby
-![Greater bilby](https://upload.wikimedia.org/wikipedia/commons/e/ed/Bilby_at_Sydney_Wildlife_World.jpg)
+### Highlander Cat
+![Highlander Cat](https://upload.wikimedia.org/wikipedia/commons/1/15/Highlander-7.jpg)
 <!-- END_ANIMAL -->
 
 
