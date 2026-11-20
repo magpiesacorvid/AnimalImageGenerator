@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-20 04:58:19 UTC
-**Next update:** ~2026-11-20 05:00:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-20 05:00:49 UTC
+**Next update:** ~2026-11-20 05:02:49 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kanaani
-![Kanaani](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kanaani_cat_Haifa_full_body_profile_Brooklyn_2025_%28cropped%29.jpg/1280px-Kanaani_cat_Haifa_full_body_profile_Brooklyn_2025_%28cropped%29.jpg)
+### Eastern quoll
+![Eastern quoll](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg/1920px-Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg)
 <!-- END_ANIMAL -->
 
 
