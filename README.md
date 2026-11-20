@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-20 05:08:28 UTC
-**Next update:** ~2026-11-20 05:10:28 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-20 05:10:35 UTC
+**Next update:** ~2026-11-20 05:12:35 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Borneo fruit bat
-![Borneo fruit bat](https://upload.wikimedia.org/wikipedia/commons/4/4d/Aethalops_aequalis.jpg)
+### Bengal Cat
+![Bengal Cat](https://upload.wikimedia.org/wikipedia/commons/b/ba/Paintedcats_Red_Star_standing.jpg)
 <!-- END_ANIMAL -->
 
 
