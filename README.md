@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-20 09:46:20 UTC
-**Next update:** ~2026-11-20 09:48:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-20 09:48:28 UTC
+**Next update:** ~2026-11-20 09:50:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cozumel raccoon
-![Cozumel raccoon](https://upload.wikimedia.org/wikipedia/commons/6/64/Cozumel_Raccoon2.jpg)
+### Hawaiian monk seal
+![Hawaiian monk seal](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Monachus_schauinslandi.jpg/1280px-Monachus_schauinslandi.jpg)
 <!-- END_ANIMAL -->
 
 
