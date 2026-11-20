@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-20 07:08:21 UTC
-**Next update:** ~2026-11-20 07:10:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-20 07:10:31 UTC
+**Next update:** ~2026-11-20 07:12:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Colorpoint Shorthair
-![Colorpoint Shorthair](https://upload.wikimedia.org/wikipedia/commons/1/11/Chocolate_Tortie_Pt_11636-140.jpg)
+### Musky rat-kangaroo
+![Musky rat-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Musky_rat-kangaroo_%28Hypsiprymnodon_moschatus%29_Atherton.jpg/1280px-Musky_rat-kangaroo_%28Hypsiprymnodon_moschatus%29_Atherton.jpg)
 <!-- END_ANIMAL -->
 
 
