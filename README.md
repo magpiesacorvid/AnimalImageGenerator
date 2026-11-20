@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-20 15:40:39 UTC
-**Next update:** ~2026-11-20 15:42:39 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-20 15:42:22 UTC
+**Next update:** ~2026-11-20 15:44:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Amazon weasel
-![Amazon weasel](https://upload.wikimedia.org/wikipedia/commons/0/07/Neogale_africana.jpg)
+### California deermouse
+![California deermouse](https://upload.wikimedia.org/wikipedia/commons/0/0d/California_mouse_5_Peromyscus_californicus.jpg)
 <!-- END_ANIMAL -->
 
 
