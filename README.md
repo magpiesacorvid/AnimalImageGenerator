@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-20 21:32:22 UTC
-**Next update:** ~2026-11-20 21:34:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-20 21:34:21 UTC
+**Next update:** ~2026-11-20 21:36:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown dorcopsis
-![Brown dorcopsis](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dorcopsis_muelleri_K%C3%B6ln.jpg/1920px-Dorcopsis_muelleri_K%C3%B6ln.jpg)
+### Bonnet Macaque
+![Bonnet Macaque](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rhesus_Macaque_in_Andhra_Pradesh%2C_India.jpeg/1920px-Rhesus_Macaque_in_Andhra_Pradesh%2C_India.jpeg)
 <!-- END_ANIMAL -->
 
 
