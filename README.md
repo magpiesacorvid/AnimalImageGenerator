@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-20 06:10:35 UTC
-**Next update:** ~2026-11-20 06:12:35 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-20 06:12:19 UTC
+**Next update:** ~2026-11-20 06:14:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Darwin's fox
-![Darwin's fox](https://upload.wikimedia.org/wikipedia/commons/8/87/Pseudalopex_fulvipes.jpg)
+### Chausie Cat
+![Chausie Cat](https://upload.wikimedia.org/wikipedia/commons/0/06/ChausieA.jpg)
 <!-- END_ANIMAL -->
 
 
