@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-20 14:40:36 UTC
-**Next update:** ~2026-11-20 14:42:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-20 14:42:23 UTC
+**Next update:** ~2026-11-20 14:44:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common Slender Mongoose
-![Common Slender Mongoose](https://upload.wikimedia.org/wikipedia/commons/a/a1/2009-slender-mongoose.jpg)
+### Indo-Pacific humpback dolphin
+![Indo-Pacific humpback dolphin](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pink_Dolphin.JPG/1280px-Pink_Dolphin.JPG)
 <!-- END_ANIMAL -->
 
 
