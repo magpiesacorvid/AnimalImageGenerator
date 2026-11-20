@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-20 21:00:55 UTC
-**Next update:** ~2026-11-20 21:02:55 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-20 21:02:19 UTC
+**Next update:** ~2026-11-20 21:04:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bat-eared fox
-![Bat-eared fox](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Otocyon_megalotis_-_Etosha_2014.jpg/1920px-Otocyon_megalotis_-_Etosha_2014.jpg)
+### Musky rat-kangaroo
+![Musky rat-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Musky_rat-kangaroo_%28Hypsiprymnodon_moschatus%29_Atherton.jpg/1280px-Musky_rat-kangaroo_%28Hypsiprymnodon_moschatus%29_Atherton.jpg)
 <!-- END_ANIMAL -->
 
 
