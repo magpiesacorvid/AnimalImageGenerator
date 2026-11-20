@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-20 18:30:57 UTC
-**Next update:** ~2026-11-20 18:32:57 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-20 18:32:24 UTC
+**Next update:** ~2026-11-20 18:34:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lumholtz's tree-kangaroo
-![Lumholtz's tree-kangaroo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lumholtz%27s_tree_kangaroo-03.JPG/500px-Lumholtz%27s_tree_kangaroo-03.JPG)
+### Black-eared flying fox
+![Black-eared flying fox](https://upload.wikimedia.org/wikipedia/commons/e/e9/Pteropus_melanotus_natalis_-_the_Christmas_Island_flying-fox.jpg)
 <!-- END_ANIMAL -->
 
 
