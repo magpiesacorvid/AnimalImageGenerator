@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-21 20:06:18 UTC
-**Next update:** ~2026-11-21 20:08:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-21 20:08:23 UTC
+**Next update:** ~2026-11-21 20:10:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Dorcas gazelle
-![Dorcas gazelle](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Dorcasgazellemarwell.jpg/1920px-Dorcasgazellemarwell.jpg)
+### Isthmian mouse opossum
+![Isthmian mouse opossum](https://upload.wikimedia.org/wikipedia/commons/8/88/Marmosa_isthmica.jpg)
 <!-- END_ANIMAL -->
 
 
