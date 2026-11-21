@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-21 23:28:16 UTC
-**Next update:** ~2026-11-21 23:30:16 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-21 23:30:50 UTC
+**Next update:** ~2026-11-21 23:32:50 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Javanese Cat
-![Javanese Cat](https://upload.wikimedia.org/wikipedia/commons/b/b4/Ghislaine_6028.jpg)
+### Northern broad-footed mole
+![Northern broad-footed mole](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Scapanus_latimanus2.jpg/1280px-Scapanus_latimanus2.jpg)
 <!-- END_ANIMAL -->
 
 
