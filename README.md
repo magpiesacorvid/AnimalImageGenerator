@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-21 15:24:19 UTC
-**Next update:** ~2026-11-21 15:26:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-21 15:26:18 UTC
+**Next update:** ~2026-11-21 15:28:18 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Campbell's dwarf hamster
-![Campbell's dwarf hamster](https://upload.wikimedia.org/wikipedia/commons/e/ec/Campbell_hamster_agouti.jpg)
+### Kinkajou
+![Kinkajou](https://upload.wikimedia.org/wikipedia/commons/3/31/Potos_flavus_%288973438737%29.jpg)
 <!-- END_ANIMAL -->
 
 
