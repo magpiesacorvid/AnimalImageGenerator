@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-21 02:30:45 UTC
-**Next update:** ~2026-11-21 02:32:45 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-21 02:32:25 UTC
+**Next update:** ~2026-11-21 02:34:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Culpeo
-![Culpeo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Culpeo_%28Lycalopex_culpaeus_culpaeus%29_Lo_Barnechea_2.jpg/1920px-Culpeo_%28Lycalopex_culpaeus_culpaeus%29_Lo_Barnechea_2.jpg)
+### Dark four-eyed opossum
+![Dark four-eyed opossum](https://upload.wikimedia.org/wikipedia/commons/2/2f/Dark_Four-eyed_Opossum_imported_from_iNaturalist_photo_352635072_on_14_October_2024.jpg)
 <!-- END_ANIMAL -->
 
 
