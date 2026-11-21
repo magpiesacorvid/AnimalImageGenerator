@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-21 15:54:21 UTC
-**Next update:** ~2026-11-21 15:56:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-21 15:56:20 UTC
+**Next update:** ~2026-11-21 15:58:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### False killer whale
-![False killer whale](https://upload.wikimedia.org/wikipedia/commons/9/99/Pseudoorca_Crassidens_-_False_Killer_Whale.jpg)
+### Heart-nosed bat
+![Heart-nosed bat](https://upload.wikimedia.org/wikipedia/commons/3/31/Cardioderma_cor_in_Samburu.jpg)
 <!-- END_ANIMAL -->
 
 
