@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-21 01:46:20 UTC
-**Next update:** ~2026-11-21 01:48:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-21 01:48:21 UTC
+**Next update:** ~2026-11-21 01:50:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Greater bamboo lemur
-![Greater bamboo lemur](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Greater_bamboo_lemur_%28Prolemur_simus%29_male.jpg/1920px-Greater_bamboo_lemur_%28Prolemur_simus%29_male.jpg)
+### Dorcas gazelle
+![Dorcas gazelle](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Dorcasgazellemarwell.jpg/1920px-Dorcasgazellemarwell.jpg)
 <!-- END_ANIMAL -->
 
 
