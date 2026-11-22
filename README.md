@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-22 04:10:33 UTC
-**Next update:** ~2026-11-22 04:12:33 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-22 04:12:19 UTC
+**Next update:** ~2026-11-22 04:14:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Little long-tailed dunnart
-![Little long-tailed dunnart](https://upload.wikimedia.org/wikipedia/commons/5/55/Little_long-tailed_dunnart_2022_AMNP.jpg)
+### Black-footed ferret
+![Black-footed ferret](https://upload.wikimedia.org/wikipedia/commons/c/cf/Mustela_nigripes_2.jpg)
 <!-- END_ANIMAL -->
 
 
