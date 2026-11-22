@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-22 21:02:21 UTC
-**Next update:** ~2026-11-22 21:04:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-22 21:04:21 UTC
+**Next update:** ~2026-11-22 21:06:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Humboldt's flying squirrel
-![Humboldt's flying squirrel](https://upload.wikimedia.org/wikipedia/commons/7/7e/Glaucomys_oregonensis2.jpg)
+### Linnaeus's two-toed sloth
+![Linnaeus's two-toed sloth](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cholepus_didactylus_-_Flickr_-_Dick_Culbert.jpg/960px-Cholepus_didactylus_-_Flickr_-_Dick_Culbert.jpg)
 <!-- END_ANIMAL -->
 
 
