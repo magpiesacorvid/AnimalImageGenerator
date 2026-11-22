@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-22 06:36:18 UTC
-**Next update:** ~2026-11-22 06:38:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-22 06:38:16 UTC
+**Next update:** ~2026-11-22 06:40:16 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Gaur
-![Gaur](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Indian_Gaur_from_anaimalai_hills_JEG5290.jpg/1920px-Indian_Gaur_from_anaimalai_hills_JEG5290.jpg)
+### North American river otter
+![North American river otter](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Northern_River_Otter_on_Seedskadee_NWR_%2822802102984%29.jpg/1280px-Northern_River_Otter_on_Seedskadee_NWR_%2822802102984%29.jpg)
 <!-- END_ANIMAL -->
 
 
