@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-22 14:08:23 UTC
-**Next update:** ~2026-11-22 14:10:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-22 14:10:39 UTC
+**Next update:** ~2026-11-22 14:12:39 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ladak pika
-![Ladak pika](https://upload.wikimedia.org/wikipedia/commons/4/4d/Ladakh_Pika_2007.jpg)
+### Mule
+![Mule](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Pack_Mules_Waiting_%2815755930793%29.jpg/1280px-Pack_Mules_Waiting_%2815755930793%29.jpg)
 <!-- END_ANIMAL -->
 
 
