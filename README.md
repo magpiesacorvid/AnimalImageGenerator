@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-22 22:04:24 UTC
-**Next update:** ~2026-11-22 22:06:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-22 22:06:21 UTC
+**Next update:** ~2026-11-22 22:08:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common Kusimanse
-![Common Kusimanse](https://upload.wikimedia.org/wikipedia/commons/9/98/Crossarchus_obscurus_Plzen_zoo_02.2011.jpg)
+### Masai giraffe
+![Masai giraffe](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/GiraffaCamelopardalisTippelskirchi-Masaai-Mara.JPG/500px-GiraffaCamelopardalisTippelskirchi-Masaai-Mara.JPG)
 <!-- END_ANIMAL -->
 
 
