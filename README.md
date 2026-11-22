@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-22 22:58:27 UTC
-**Next update:** ~2026-11-22 23:00:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-22 23:00:59 UTC
+**Next update:** ~2026-11-22 23:02:59 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Arfak triok
-![Arfak triok](https://upload.wikimedia.org/wikipedia/commons/9/90/Arfak_Striped_Possum_%28Dactylopsila_kambuayai%29_Female.png)
+### Crab-Eating Raccoon
+![Crab-Eating Raccoon](https://upload.wikimedia.org/wikipedia/commons/5/56/Mano_pelada_%28Procyon_cancrivorus_nigripes%29.JPG)
 <!-- END_ANIMAL -->
 
 
