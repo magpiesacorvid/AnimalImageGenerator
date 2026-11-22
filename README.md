@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-22 18:16:18 UTC
-**Next update:** ~2026-11-22 18:18:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-22 18:18:22 UTC
+**Next update:** ~2026-11-22 18:20:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### European hamster
-![European hamster](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/European_hamster_%28Cricetus_cricetus%29_Meidling_2.jpg/1920px-European_hamster_%28Cricetus_cricetus%29_Meidling_2.jpg)
+### Kob
+![Kob](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Male_Ugandan_kob_-_Queen_Elizabeth_National_Park%2C_Uganda_%284%29.jpg/1280px-Male_Ugandan_kob_-_Queen_Elizabeth_National_Park%2C_Uganda_%284%29.jpg)
 <!-- END_ANIMAL -->
 
 
