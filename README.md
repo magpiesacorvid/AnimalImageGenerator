@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-22 01:52:18 UTC
-**Next update:** ~2026-11-22 01:54:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-22 01:54:21 UTC
+**Next update:** ~2026-11-22 01:56:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Long-furred woolly mouse opossum
-![Long-furred woolly mouse opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/North-eastern_Woolly_Mouse_Opossum_imported_from_iNaturalist_photo_417123381_on_18_October_2024.jpg/250px-North-eastern_Woolly_Mouse_Opossum_imported_from_iNaturalist_photo_417123381_on_18_October_2024.jpg)
+### Harnessed bushbuck
+![Harnessed bushbuck](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tragelaphus_scriptus_scriptus_345230787.jpg/1920px-Tragelaphus_scriptus_scriptus_345230787.jpg)
 <!-- END_ANIMAL -->
 
 
