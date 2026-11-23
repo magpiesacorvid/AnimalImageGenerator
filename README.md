@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-23 03:00:58 UTC
-**Next update:** ~2026-11-23 03:02:58 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-23 03:02:27 UTC
+**Next update:** ~2026-11-23 03:04:27 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Kodkod
-![Kodkod](https://upload.wikimedia.org/wikipedia/commons/d/d0/Leopardus_guigna.jpeg)
+### Indian Grey Mongoose
+![Indian Grey Mongoose](https://upload.wikimedia.org/wikipedia/commons/9/96/Herpestes_edwardsii_at_Hyderaba.jpg)
 <!-- END_ANIMAL -->
 
 
