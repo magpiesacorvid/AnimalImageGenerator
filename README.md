@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-23 21:36:29 UTC
-**Next update:** ~2026-11-23 21:38:29 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-23 21:38:21 UTC
+**Next update:** ~2026-11-23 21:40:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Cheetah
-![Cheetah](https://commons.wikimedia.org/wiki/Special:FilePath/Cheetah_(Acinonyx_jubatus)_female_2.jpg)
+### Black Panther-Leopard
+![Black Panther-Leopard](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Black_Panther_-_India.jpg/1920px-Black_Panther_-_India.jpg)
 <!-- END_ANIMAL -->
 
 
