@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-23 14:02:23 UTC
-**Next update:** ~2026-11-23 14:04:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-23 14:04:22 UTC
+**Next update:** ~2026-11-23 14:06:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Ghost-faced bat
-![Ghost-faced bat](https://upload.wikimedia.org/wikipedia/commons/2/21/Mormoops_megalophylla.JPG)
+### Coati
+![Coati](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/WNCoati_Alajuela_CR.png/1920px-WNCoati_Alajuela_CR.png)
 <!-- END_ANIMAL -->
 
 
