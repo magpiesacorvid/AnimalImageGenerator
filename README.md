@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-23 08:20:34 UTC
-**Next update:** ~2026-11-23 08:22:34 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-23 08:22:31 UTC
+**Next update:** ~2026-11-23 08:24:31 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Indian giant squirrel
-![Indian giant squirrel](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Indian_giant_squirrel_in_Kuldiha_Wildlife_Sanctuary_March_2025_by_Tisha_Mukherjee_01.jpg/960px-Indian_giant_squirrel_in_Kuldiha_Wildlife_Sanctuary_March_2025_by_Tisha_Mukherjee_01.jpg)
+### North African hedgehog
+![North African hedgehog](https://upload.wikimedia.org/wikipedia/commons/8/8a/Atelerix_algirus.jpg)
 <!-- END_ANIMAL -->
 
 
