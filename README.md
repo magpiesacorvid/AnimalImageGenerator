@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-23 02:14:20 UTC
-**Next update:** ~2026-11-23 02:16:20 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-23 02:16:20 UTC
+**Next update:** ~2026-11-23 02:18:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Hamadryas baboon
-![Hamadryas baboon](https://upload.wikimedia.org/wikipedia/commons/9/9c/Papio_hamadryas_eating_an_apple.JPG)
+### Ifola
+![Ifola](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ifola_tree-kangaroo.jpg/1280px-Ifola_tree-kangaroo.jpg)
 <!-- END_ANIMAL -->
 
 
