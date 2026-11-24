@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-24 01:16:23 UTC
-**Next update:** ~2026-11-24 01:18:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-24 01:18:21 UTC
+**Next update:** ~2026-11-24 01:20:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Big-eared woodrat
-![Big-eared woodrat](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Neotoma_macrotis.jpg/1920px-Neotoma_macrotis.jpg)
+### Donkey
+![Donkey](https://upload.wikimedia.org/wikipedia/commons/1/1a/Donkey_in_Clovelly%2C_North_Devon%2C_England.jpg)
 <!-- END_ANIMAL -->
 
 
