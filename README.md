@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-24 05:50:36 UTC
-**Next update:** ~2026-11-24 05:52:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-24 05:52:19 UTC
+**Next update:** ~2026-11-24 05:54:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### European polecat
-![European polecat](https://upload.wikimedia.org/wikipedia/commons/1/17/Storm_the_polecat.jpg)
+### Gerenuk
+![Gerenuk](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/San_diego_zoo_group_3_DSC_0908_%2835305473932%29.jpg/1920px-San_diego_zoo_group_3_DSC_0908_%2835305473932%29.jpg)
 <!-- END_ANIMAL -->
 
 
