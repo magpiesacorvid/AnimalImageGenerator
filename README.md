@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-24 04:22:17 UTC
-**Next update:** ~2026-11-24 04:24:17 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-24 04:24:28 UTC
+**Next update:** ~2026-11-24 04:26:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bengal Tiger
-![Bengal Tiger](https://commons.wikimedia.org/wiki/Special:FilePath/Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg)
+### Golden palm civet
+![Golden palm civet](https://upload.wikimedia.org/wikipedia/commons/7/77/Paradoxurus_zeylonensis.jpg)
 <!-- END_ANIMAL -->
 
 
