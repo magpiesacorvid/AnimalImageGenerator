@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-24 02:26:22 UTC
-**Next update:** ~2026-11-24 02:28:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-24 02:28:23 UTC
+**Next update:** ~2026-11-24 02:30:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Exotic Shorthair
-![Exotic Shorthair](https://upload.wikimedia.org/wikipedia/commons/2/25/Ginger_Exotic_Shorthair.jpg)
+### Asiatic water shrew
+![Asiatic water shrew](https://upload.wikimedia.org/wikipedia/commons/6/62/Kawanezumi.jpg)
 <!-- END_ANIMAL -->
 
 
