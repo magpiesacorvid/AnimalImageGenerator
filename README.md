@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-24 04:36:18 UTC
-**Next update:** ~2026-11-24 04:38:18 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-24 04:38:22 UTC
+**Next update:** ~2026-11-24 04:40:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brush rabbit
-![Brush rabbit](https://upload.wikimedia.org/wikipedia/commons/5/50/Sylvilagus_bachmani_01035t.JPG)
+### American pika
+![American pika](https://upload.wikimedia.org/wikipedia/commons/8/8f/American_pika_Banff_National_Park.jpg)
 <!-- END_ANIMAL -->
 
 
