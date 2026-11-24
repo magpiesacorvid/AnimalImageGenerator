@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-24 17:06:22 UTC
-**Next update:** ~2026-11-24 17:08:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-24 17:08:25 UTC
+**Next update:** ~2026-11-24 17:10:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Galápagos oryzomys
-![Galápagos oryzomys](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Galapagos_Rice_Rat.jpg/1920px-Galapagos_Rice_Rat.jpg)
+### Arabian tahr
+![Arabian tahr](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg/1280px-Animals_at_Al_Ain_Zoo_Abu_Dhabi%2C_U.A.E.jpg)
 <!-- END_ANIMAL -->
 
 
