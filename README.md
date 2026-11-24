@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-24 06:28:19 UTC
-**Next update:** ~2026-11-24 06:30:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-24 06:30:46 UTC
+**Next update:** ~2026-11-24 06:32:46 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Fin whale
-![Fin whale](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Finhval_%281%29.jpg/1920px-Finhval_%281%29.jpg)
+### Lion
+![Lion](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/1280px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg)
 <!-- END_ANIMAL -->
 
 
