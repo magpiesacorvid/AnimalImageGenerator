@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-24 10:18:22 UTC
-**Next update:** ~2026-11-24 10:20:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-24 10:20:37 UTC
+**Next update:** ~2026-11-24 10:22:37 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### African wild ass
-![African wild ass](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg/1280px-Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg)
+### Bengal slow loris
+![Bengal slow loris](https://upload.wikimedia.org/wikipedia/commons/3/3d/Captive_N._bengalensis_from_Laos_with_6-week_baby.JPG)
 <!-- END_ANIMAL -->
 
 
