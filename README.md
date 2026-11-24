@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-24 02:44:19 UTC
-**Next update:** ~2026-11-24 02:46:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-24 02:46:21 UTC
+**Next update:** ~2026-11-24 02:48:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Marsh rabbit
-![Marsh rabbit](https://upload.wikimedia.org/wikipedia/commons/6/62/Sylvilagus_palustris_-_Peter_Chen_2.0_-_473222718.jpeg)
+### Dusky-footed woodrat
+![Dusky-footed woodrat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Riparian_woodrat_neotoma_fuscipes_riparia_endangered_mammal_species.jpg/1920px-Riparian_woodrat_neotoma_fuscipes_riparia_endangered_mammal_species.jpg)
 <!-- END_ANIMAL -->
 
 
