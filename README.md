@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-24 16:00:59 UTC
-**Next update:** ~2026-11-24 16:02:59 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-24 16:02:22 UTC
+**Next update:** ~2026-11-24 16:04:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Günther's dik-dik
-![Günther's dik-dik](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Guenther%27s_Dik-dik_%28Madoqua_guentheri_smithii%29_%287662529270%29.jpg/1920px-Guenther%27s_Dik-dik_%28Madoqua_guentheri_smithii%29_%287662529270%29.jpg)
+### Black rat
+![Black rat](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/House_Rat_David_Raju.jpg/1920px-House_Rat_David_Raju.jpg)
 <!-- END_ANIMAL -->
 
 
