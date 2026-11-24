@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-24 21:24:22 UTC
-**Next update:** ~2026-11-24 21:26:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-24 21:26:23 UTC
+**Next update:** ~2026-11-24 21:28:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### North American river otter
-![North American river otter](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Northern_River_Otter_on_Seedskadee_NWR_%2822802102984%29.jpg/1280px-Northern_River_Otter_on_Seedskadee_NWR_%2822802102984%29.jpg)
+### Lowland streaked tenrec
+![Lowland streaked tenrec](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lowland_Streaked_Tenrec%2C_Mantadia%2C_Madagascar.jpg/1280px-Lowland_Streaked_Tenrec%2C_Mantadia%2C_Madagascar.jpg)
 <!-- END_ANIMAL -->
 
 
