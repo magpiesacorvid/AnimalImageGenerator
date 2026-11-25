@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-25 15:42:23 UTC
-**Next update:** ~2026-11-25 15:44:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-25 15:44:20 UTC
+**Next update:** ~2026-11-25 15:46:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Commerson's leaf-nosed bat
-![Commerson's leaf-nosed bat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Commerson%27s_leaf-nosed_bat_%28Hipposideros_commersoni%29.jpg/1920px-Commerson%27s_leaf-nosed_bat_%28Hipposideros_commersoni%29.jpg)
+### Black-fronted duiker
+![Black-fronted duiker](https://upload.wikimedia.org/wikipedia/commons/c/cf/Cephalophe_a_front_noir.jpg)
 <!-- END_ANIMAL -->
 
 
