@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-25 01:58:25 UTC
-**Next update:** ~2026-11-25 02:00:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-25 02:00:59 UTC
+**Next update:** ~2026-11-25 02:02:59 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Eastern mole
-![Eastern mole](https://upload.wikimedia.org/wikipedia/commons/3/3e/ScalopusAquaticus.jpg)
+### Common Tailless tenrec
+![Common Tailless tenrec](https://upload.wikimedia.org/wikipedia/commons/b/bc/Tanrek.jpg)
 <!-- END_ANIMAL -->
 
 
