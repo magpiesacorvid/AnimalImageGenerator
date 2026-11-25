@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-25 16:04:21 UTC
-**Next update:** ~2026-11-25 16:06:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-25 16:06:21 UTC
+**Next update:** ~2026-11-25 16:08:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Long-tailed weasel
-![Long-tailed weasel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Long-tailed_Weasel%2C_Sonoma_County%2C_US-CA%2C_US_imported_from_iNaturalist_photo_108909271.jpg/960px-Long-tailed_Weasel%2C_Sonoma_County%2C_US-CA%2C_US_imported_from_iNaturalist_photo_108909271.jpg)
+### Nine-banded armadillo
+![Nine-banded armadillo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dasypus_novemcinctus_en_Zool%C3%B3gico_de_Paraguan%C3%A1.jpg/960px-Dasypus_novemcinctus_en_Zool%C3%B3gico_de_Paraguan%C3%A1.jpg)
 <!-- END_ANIMAL -->
 
 
