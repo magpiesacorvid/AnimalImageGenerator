@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-25 22:10:38 UTC
-**Next update:** ~2026-11-25 22:12:38 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-25 22:12:23 UTC
+**Next update:** ~2026-11-25 22:14:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Afghan pika
-![Afghan pika](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ochotona_rufescens_213736083.jpg/1280px-Ochotona_rufescens_213736083.jpg)
+### Four-horned antelope
+![Four-horned antelope](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tetracerus_quadricornis_I.jpg/1920px-Tetracerus_quadricornis_I.jpg)
 <!-- END_ANIMAL -->
 
 
