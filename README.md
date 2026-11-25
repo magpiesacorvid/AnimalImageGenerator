@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-25 04:50:32 UTC
-**Next update:** ~2026-11-25 04:52:32 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-25 04:52:22 UTC
+**Next update:** ~2026-11-25 04:54:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Island fox
-![Island fox](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Urocyon_littoralis_%28Island_fox%29_FWS_001.jpg/1280px-Urocyon_littoralis_%28Island_fox%29_FWS_001.jpg)
+### African brush-tailed porcupine
+![African brush-tailed porcupine](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Atherurus_africanus_Zoo_Berlin_01.jpg/1920px-Atherurus_africanus_Zoo_Berlin_01.jpg)
 <!-- END_ANIMAL -->
 
 
