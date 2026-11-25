@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-25 04:46:19 UTC
-**Next update:** ~2026-11-25 04:48:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-25 04:48:23 UTC
+**Next update:** ~2026-11-25 04:50:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Andean White-eared Opossum
-![Andean White-eared Opossum](https://upload.wikimedia.org/wikipedia/commons/d/d0/Didelphis_pernigra_29825860_1.jpg)
+### Hawaiian monk seal
+![Hawaiian monk seal](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Monachus_schauinslandi.jpg/1280px-Monachus_schauinslandi.jpg)
 <!-- END_ANIMAL -->
 
 
