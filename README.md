@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-25 06:08:19 UTC
-**Next update:** ~2026-11-25 06:10:19 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-25 06:10:34 UTC
+**Next update:** ~2026-11-25 06:12:34 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Central African Oyan
-![Central African Oyan](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Poiana_richardsonii_56244763.jpg/1920px-Poiana_richardsonii_56244763.jpg)
+### Geoffroy's cat
+![Geoffroy's cat](https://upload.wikimedia.org/wikipedia/commons/d/d9/Salzkatze.jpg)
 <!-- END_ANIMAL -->
 
 
