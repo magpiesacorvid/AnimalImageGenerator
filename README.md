@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-25 15:56:23 UTC
-**Next update:** ~2026-11-25 15:58:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-25 15:58:20 UTC
+**Next update:** ~2026-11-25 16:00:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### American ermine
-![American ermine](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ermine-_Bacon_Fiend_%2814083889879%29.jpg/960px-Ermine-_Bacon_Fiend_%2814083889879%29.jpg)
+### Brown Woolly Monkey
+![Brown Woolly Monkey](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lagothrix_lagotricha_%28male%29.jpg/1920px-Lagothrix_lagotricha_%28male%29.jpg)
 <!-- END_ANIMAL -->
 
 
