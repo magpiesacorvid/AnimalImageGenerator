@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-25 10:42:24 UTC
-**Next update:** ~2026-11-25 10:44:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-25 10:44:20 UTC
+**Next update:** ~2026-11-25 10:46:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Grant's gazelle
-![Grant's gazelle](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ngorongoro_Grant-Gazelle.jpg/1920px-Ngorongoro_Grant-Gazelle.jpg)
+### Artibeus
+![Artibeus](https://upload.wikimedia.org/wikipedia/commons/1/12/Artibeus_sp._Tortuguero_National_Park_crop.jpg)
 <!-- END_ANIMAL -->
 
 
