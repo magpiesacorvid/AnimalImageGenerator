@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-26 16:14:24 UTC
-**Next update:** ~2026-11-26 16:16:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-26 16:16:24 UTC
+**Next update:** ~2026-11-26 16:18:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown deer mouse
-![Brown deer mouse](https://upload.wikimedia.org/wikipedia/commons/d/d8/Peromyscus_megalops.jpg)
+### Havana Brown Cat
+![Havana Brown Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Havana_kittens.jpg/960px-Havana_kittens.jpg)
 <!-- END_ANIMAL -->
 
 
