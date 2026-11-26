@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-26 20:56:23 UTC
-**Next update:** ~2026-11-26 20:58:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-26 20:58:22 UTC
+**Next update:** ~2026-11-26 21:00:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lechwe
-![Lechwe](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Red_lechwe_%28Kobus_leche_leche%29_male.jpg/1280px-Red_lechwe_%28Kobus_leche_leche%29_male.jpg)
+### Chacoan mara
+![Chacoan mara](https://upload.wikimedia.org/wikipedia/commons/7/79/%D0%A7%D0%B0%D0%BA%D0%BE%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C_%D0%B8%D0%BB%D0%B8_%D1%87%D0%B0%D0%BA%D1%81%D0%BA%D0%B0%D1%8F%2C_%D0%B8%D0%BB%D0%B8_%D0%BC%D0%B0%D0%BB%D0%B0%D1%8F_%D0%BC%D0%B0%D1%80%D0%B0_%28Dolichotis_salinicola%29%2C_Chacoan_mara%2C_Kleiner_Mara%2C_Tierpark_Berlin_Friedrichsfelde%2C_10.2012.jpg)
 <!-- END_ANIMAL -->
 
 
