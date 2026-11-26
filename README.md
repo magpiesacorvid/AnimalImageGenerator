@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-26 19:12:23 UTC
-**Next update:** ~2026-11-26 19:14:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-26 19:14:21 UTC
+**Next update:** ~2026-11-26 19:16:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### East African oryx
-![East African oryx](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Common_beisa_oryx_%28Oryx_beisa_beisa%29_female.jpg/1920px-Common_beisa_oryx_%28Oryx_beisa_beisa%29_female.jpg)
+### Masked palm civet
+![Masked palm civet](https://upload.wikimedia.org/wikipedia/commons/2/2a/Palm_civet_on_tree_%28detail%29.jpg)
 <!-- END_ANIMAL -->
 
 
