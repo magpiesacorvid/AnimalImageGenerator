@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-26 07:06:24 UTC
-**Next update:** ~2026-11-26 07:08:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-26 07:08:21 UTC
+**Next update:** ~2026-11-26 07:10:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Birman Cat
-![Birman Cat](https://commons.wikimedia.org/wiki/Special:FilePath/Minerva-25.jpg)
+### Gayal
+![Gayal](https://upload.wikimedia.org/wikipedia/commons/6/69/Gayals_at_Gazipur_Safari_Park.jpg)
 <!-- END_ANIMAL -->
 
 
