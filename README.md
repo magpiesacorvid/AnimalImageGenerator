@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-27 17:10:42 UTC
-**Next update:** ~2026-11-27 17:12:42 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-27 17:12:21 UTC
+**Next update:** ~2026-11-27 17:14:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Angolan Slender Mongoose
-![Angolan Slender Mongoose](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Galerella_flavescens.jpg/960px-Galerella_flavescens.jpg)
+### Bearded seal
+![Bearded seal](https://upload.wikimedia.org/wikipedia/commons/7/78/Bearded_Seal.jpg)
 <!-- END_ANIMAL -->
 
 
