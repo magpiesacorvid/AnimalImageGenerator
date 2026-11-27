@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-27 08:16:21 UTC
-**Next update:** ~2026-11-27 08:18:21 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-27 08:18:21 UTC
+**Next update:** ~2026-11-27 08:20:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Linnaeus's two-toed sloth
-![Linnaeus's two-toed sloth](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cholepus_didactylus_-_Flickr_-_Dick_Culbert.jpg/960px-Cholepus_didactylus_-_Flickr_-_Dick_Culbert.jpg)
+### Little red brocket
+![Little red brocket](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mazama_rufina1.JPG/1280px-Mazama_rufina1.JPG)
 <!-- END_ANIMAL -->
 
 
