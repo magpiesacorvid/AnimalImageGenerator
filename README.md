@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-27 15:20:46 UTC
-**Next update:** ~2026-11-27 15:22:46 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-27 15:22:24 UTC
+**Next update:** ~2026-11-27 15:24:24 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Marine otter
-![Marine otter](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Marine_otter_%28Lontra_felina%29_Chiloe.jpg/1280px-Marine_otter_%28Lontra_felina%29_Chiloe.jpg)
+### Kirk's dik-dik
+![Kirk's dik-dik](Kirk's dik-dik)
 <!-- END_ANIMAL -->
 
 
