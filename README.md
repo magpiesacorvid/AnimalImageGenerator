@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-27 16:32:22 UTC
-**Next update:** ~2026-11-27 16:34:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-27 16:34:20 UTC
+**Next update:** ~2026-11-27 16:36:20 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Brown Palm Civet
-![Brown Palm Civet](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Brownpalm_civet.jpg/1920px-Brownpalm_civet.jpg)
+### Black jackrabbit
+![Black jackrabbit](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lepus_insularis_iNaturalist.jpg)
 <!-- END_ANIMAL -->
 
 
