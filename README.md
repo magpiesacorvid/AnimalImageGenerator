@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-27 19:42:23 UTC
-**Next update:** ~2026-11-27 19:44:23 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-27 19:44:19 UTC
+**Next update:** ~2026-11-27 19:46:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bushpig
-![Bushpig](https://upload.wikimedia.org/wikipedia/commons/4/40/Southern_Bush_Pig.jpg)
+### Dwarf epauletted fruit bat
+![Dwarf epauletted fruit bat](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Peters%27s_dwarf_epauletted_fruit_bat_%28Micropteropus_pusillus%29.jpg/1920px-Peters%27s_dwarf_epauletted_fruit_bat_%28Micropteropus_pusillus%29.jpg)
 <!-- END_ANIMAL -->
 
 
