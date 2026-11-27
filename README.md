@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-27 01:46:29 UTC
-**Next update:** ~2026-11-27 01:48:29 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-27 01:48:22 UTC
+**Next update:** ~2026-11-27 01:50:22 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bontebok
-![Bontebok](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bontebok_%28Damaliscus_pygargus_pygargus%29_%2830573334994%29.jpg/1920px-Bontebok_%28Damaliscus_pygargus_pygargus%29_%2830573334994%29.jpg)
+### Big hairy armadillo
+![Big hairy armadillo](https://commons.wikimedia.org/wiki/Special:FilePath/Chaetophractus_villosus_(Wroclaw_zoo).JPG)
 <!-- END_ANIMAL -->
 
 
