@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-27 23:16:25 UTC
-**Next update:** ~2026-11-27 23:18:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-27 23:18:28 UTC
+**Next update:** ~2026-11-27 23:20:28 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Lowland anoa
-![Lowland anoa](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Anoa_Bubalus_depressicornis_Surabaya_Zoo.jpg/960px-Anoa_Bubalus_depressicornis_Surabaya_Zoo.jpg)
+### Greater kudu
+![Greater kudu](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Male_greater_kudu.jpg/1920px-Male_greater_kudu.jpg)
 <!-- END_ANIMAL -->
 
 
