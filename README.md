@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-27 00:34:22 UTC
-**Next update:** ~2026-11-27 00:36:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-27 00:36:25 UTC
+**Next update:** ~2026-11-27 00:38:25 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Common wombat
-![Common wombat](https://commons.wikimedia.org/wiki/Special:FilePath/Common_wombat_4.jpg)
+### Brown dorcopsis
+![Brown dorcopsis](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dorcopsis_muelleri_K%C3%B6ln.jpg/1920px-Dorcopsis_muelleri_K%C3%B6ln.jpg)
 <!-- END_ANIMAL -->
 
 
