@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-27 23:58:27 UTC
-**Next update:** ~2026-11-28 00:00:27 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-28 00:01:00 UTC
+**Next update:** ~2026-11-28 00:03:00 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Blue wildebeest
-![Blue wildebeest](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Blue_Wildebeest%2C_Ngorongoro.jpg/1920px-Blue_Wildebeest%2C_Ngorongoro.jpg)
+### Humpback whale
+![Humpback whale](https://upload.wikimedia.org/wikipedia/commons/6/61/Humpback_Whale_underwater_shot.jpg)
 <!-- END_ANIMAL -->
 
 
