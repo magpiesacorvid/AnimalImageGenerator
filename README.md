@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-28 01:36:25 UTC
-**Next update:** ~2026-11-28 01:38:25 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-28 01:38:26 UTC
+**Next update:** ~2026-11-28 01:40:26 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Egyptian fruit bat
-![Egyptian fruit bat](https://upload.wikimedia.org/wikipedia/commons/4/4c/Skraidantis_egipto_%C5%A1uo_%28cropped%29.jpg)
+### Common treeshrew
+![Common treeshrew](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Common_treeshrew_in_Latpanchar_January_2024_by_Tisha_Mukherjee_01.jpg/1920px-Common_treeshrew_in_Latpanchar_January_2024_by_Tisha_Mukherjee_01.jpg)
 <!-- END_ANIMAL -->
 
 
