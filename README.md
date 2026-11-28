@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-28 03:36:24 UTC
-**Next update:** ~2026-11-28 03:38:24 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-28 03:38:23 UTC
+**Next update:** ~2026-11-28 03:40:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Galápagos fur seal
-![Galápagos fur seal](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Galapagos_Fur_Seal%2C_Santiago_Island.jpg/1920px-Galapagos_Fur_Seal%2C_Santiago_Island.jpg)
+### Bare-tailed woolly opossum
+![Bare-tailed woolly opossum](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Caluromys_philander_284958705.jpg/1920px-Caluromys_philander_284958705.jpg)
 <!-- END_ANIMAL -->
 
 
