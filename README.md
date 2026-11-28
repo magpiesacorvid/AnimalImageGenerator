@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-28 04:56:22 UTC
-**Next update:** ~2026-11-28 04:58:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-28 04:58:23 UTC
+**Next update:** ~2026-11-28 05:00:23 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### New Zealand Fur Seal
-![New Zealand Fur Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/New_Zealand_fur_seal_%28Arctocephalus_forsteri%29_male_Kangaroo_Island.jpg/960px-New_Zealand_fur_seal_%28Arctocephalus_forsteri%29_male_Kangaroo_Island.jpg)
+### Honey badger
+![Honey badger](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Honey_Badger.jpg/1920px-Honey_Badger.jpg)
 <!-- END_ANIMAL -->
 
 
