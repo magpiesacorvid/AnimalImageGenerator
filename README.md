@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-28 06:14:22 UTC
-**Next update:** ~2026-11-28 06:16:22 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-28 06:16:21 UTC
+**Next update:** ~2026-11-28 06:18:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Aye-aye
-![Aye-aye](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_aye_aye.jpg/1280px-Wild_aye_aye.jpg)
+### Human
+![Human](https://upload.wikimedia.org/wikipedia/commons/6/68/Akha_cropped_hires.JPG)
 <!-- END_ANIMAL -->
 
 
