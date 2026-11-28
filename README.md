@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-28 10:20:44 UTC
-**Next update:** ~2026-11-28 10:22:44 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-28 10:22:21 UTC
+**Next update:** ~2026-11-28 10:24:21 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Bush dog
-![Bush dog](https://upload.wikimedia.org/wikipedia/commons/2/29/Speothos_venaticus_Zoo_Praha_2011-5_%28cropped%29.jpg)
+### Cymric Cat
+![Cymric Cat](https://upload.wikimedia.org/wikipedia/commons/d/d5/Cymric_Fond_Blanc.jpg)
 <!-- END_ANIMAL -->
 
 
