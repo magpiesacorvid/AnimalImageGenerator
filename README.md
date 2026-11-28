@@ -6,16 +6,16 @@ This generates an animal every like... TWO MINUTES!?!?!?!? I can't wait that lon
 ---
 
 <!-- START_TIMER -->
-**Last updated:** 2026-11-28 09:50:36 UTC
-**Next update:** ~2026-11-28 09:52:36 UTC (every 2 min, I HOPE)
+**Last updated:** 2026-11-28 09:52:19 UTC
+**Next update:** ~2026-11-28 09:54:19 UTC (every 2 min, I HOPE)
 <!-- END_TIMER -->
 
 
 <!-- START_ANIMAL -->
 
 ## here is your random animal, please be kind to them..! im sure they're lovely!!
-### Boselaphus
-![Boselaphus](https://upload.wikimedia.org/wikipedia/commons/0/09/Nilgai_at_Ranthambore.jpg)
+### Drill
+![Drill](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Drill_Mandrillus_leucophaeus_Junges_Tierpark_Hellabrunn-7.jpg/1920px-Drill_Mandrillus_leucophaeus_Junges_Tierpark_Hellabrunn-7.jpg)
 <!-- END_ANIMAL -->
 
 
